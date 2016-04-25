@@ -452,27 +452,27 @@ public class SpaceGen {
 			for (Stratum s : new ArrayList<Stratum>(p.strata)) {
 				int sAge = year - s.time() + 1;
 				if (s instanceof Fossil) {
-					if (sAge <= -800){
+					if (sAge < 0){
 					p.strata.remove(s);	
 					}
-					else if (p(12000 / (sAge + 800))) {
+					else if (p(12000 / sAge + 800)) {
 						p.strata.remove(s);
 					}
 				}
 				if (s instanceof LostArtefact) {
 					if (((LostArtefact) s).artefact.type == ArtefactType.Device.STASIS_CAPSULE) { continue; }
-					if (sAge <= -500){
+					if (sAge < 0){
 					p.strata.remove(s);	
 					}
-					else if (p(10000 / (sAge + 500))) {
+					else if (p(10000 / sAge + 500)) {
 						p.strata.remove(s);
 					}
 				}
 				if (s instanceof Remnant) {
-					if (sAge <= -400){
+					if (sAge < 0){
 					p.strata.remove(s);	
 					}
-					if (p(4000 / (sAge + 400))) {
+					if (p(4000 / sAge + 400)) {
 						p.strata.remove(s);
 					}
 				}
@@ -482,17 +482,17 @@ public class SpaceGen {
 						ruin.structure.type == StructureType.Standard.MINING_BASE ||
 						ruin.structure.type == StructureType.Standard.SCIENCE_LAB)
 					{
-						if (sAge <= -150){
+						if (sAge < 0){
 							p.strata.remove(s);	
 						}
-						else if (p(1000 / (sAge + 150))) {
+						else if (p(1000 / sAge + 150)) {
 							p.strata.remove(s);
 						}
 					} else {
-						if (sAge <= -300){
+						if (sAge <0){
 							p.strata.remove(s);	
 						}
-						else if (p(3000 / (sAge + 300))) {
+						else if (p(3000 / sAge + 300)) {
 							p.strata.remove(s);
 						}
 					}
