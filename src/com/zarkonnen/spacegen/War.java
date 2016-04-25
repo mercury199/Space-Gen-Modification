@@ -129,8 +129,14 @@ public class War {
 					sg.l("The $cname attack $pname, a colony of the " + enemy.name + ", and subject it to orbital bombardment, killing " + deaths + " billion.", actor, target);
 				}
 			} else {
+				if (enemy.getColonies().size()>0){
 				actor.setResources(actor.getResources() + enemy.getResources() / enemy.getColonies().size() / 2 + 1);
 				enemy.setResources(enemy.getResources() - enemy.getResources() / enemy.getColonies().size() + 1);
+				}
+				else{
+				actor.setResources(actor.getResources());
+				enemy.setResources(enemy.getResources());
+				}
 				if (actor.has(ArtefactType.Device.MIND_CONTROL_DEVICE)) {
 					sg.l("The $cname conquer $pname, a colony of the " + enemy.name + ", using their mind control device to gain control of the planet from orbit.", actor, target);
 				} else {
