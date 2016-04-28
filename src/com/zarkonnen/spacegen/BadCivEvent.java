@@ -51,13 +51,15 @@ public enum BadCivEvent {
 						rep.append("A slave revolt on ").append(col.name).append(" falters from fear of torture pits of the ").append(actor.name).append(".");
 						return;
 					}
+					int resTaken = 0;
+					int milTaken = 0;
 					if (actor.getColonies().size()>0){
-					int resTaken = actor.getResources() / actor.getColonies().size();
-					int milTaken = actor.getMilitary() / actor.getColonies().size();
+						resTaken = actor.getResources() / actor.getColonies().size();
+						milTaken = actor.getMilitary() / actor.getColonies().size();
 					}
 					else if (actor.getColonies().size()<=0){
-						int resTaken = 0;
-						int milTaken = 0;
+						resTaken = 0;
+						milTaken = 0;
 					}
 					Civ newCiv = new Civ(sg.year, rebels.get(0).type, col, Government.REPUBLIC, resTaken, sg);
 					actor.setResources(actor.getResources() - resTaken);
