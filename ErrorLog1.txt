@@ -1,0 +1,37 @@
+1)java.lang.NullPointerException
+	at com.zarkonnen.spacegen.MediaProvider.tint(MediaProvider.java:331)
+	at com.zarkonnen.spacegen.Imager.get(Imager.java:341)
+	at com.zarkonnen.spacegen.Planet.addPlague(Planet.java:64)
+	at com.zarkonnen.spacegen.SpaceGen.tick(SpaceGen.java:245)
+	at com.zarkonnen.spacegen.GameWorld.tick(GameWorld.java:39)
+	at com.zarkonnen.spacegen.GameThread.run(GameThread.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+	
+2)java.lang.NullPointerException
+	at com.zarkonnen.spacegen.AgentType$7.behave(AgentType.java:802)
+	at com.zarkonnen.spacegen.SpaceGen.tick(SpaceGen.java:365)
+	at com.zarkonnen.spacegen.GameWorld.tick(GameWorld.java:39)
+	at com.zarkonnen.spacegen.GameThread.run(GameThread.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+1)java.lang.NullPointerException
+	at com.zarkonnen.spacegen.MediaProvider.tint(MediaProvider.java:331)
+	at com.zarkonnen.spacegen.Imager.get(Imager.java:341)
+	at com.zarkonnen.spacegen.Planet.addPlague(Planet.java:64)
+	at com.zarkonnen.spacegen.SpaceGen.tick(SpaceGen.java:245)
+	at com.zarkonnen.spacegen.GameWorld.tick(GameWorld.java:39)
+	at com.zarkonnen.spacegen.GameThread.run(GameThread.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+	
+1)java.lang.NullPointerException
+	at com.zarkonnen.spacegen.MediaProvider.tint(MediaProvider.java:331)
+	at com.zarkonnen.spacegen.Imager.get(Imager.java:341)
+	at com.zarkonnen.spacegen.Planet.addPlague(Planet.java:64)
+	at com.zarkonnen.spacegen.SpaceGen.tick(SpaceGen.java:245)
+	at com.zarkonnen.spacegen.GameWorld.tick(GameWorld.java:39)
+	at com.zarkonnen.spacegen.GameThread.run(GameThread.java:42)
+	at java.lang.Thread.run(Unknown Source)
+
+	
