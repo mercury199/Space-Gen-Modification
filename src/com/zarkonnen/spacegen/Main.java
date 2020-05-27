@@ -17,46 +17,44 @@ Copyright 2012 David Stark
 package com.zarkonnen.spacegen;
 
 import java.awt.Canvas;
-import java.awt.Cursor;
-import java.awt.Point;
-import java.awt.Toolkit;
 import java.awt.image.BufferedImage;
 import java.util.Collection;
+
 import javax.swing.JFrame;
 
 public class Main {
 	public static GameThread gt;
 	public static GameWorld w;
 	public static JFrame frame;
-	
+
 	public static void confirm() {
 		w.confirmNeeded = true;
 		w.confirm = false;
 		w.stage.doTrack = !w.autorun;
 		gt.subRun();
 	}
-	
+
 	public static void animate(Stage.Animation... as) {
 		w.stage.animate(as);
 		gt.subRun();
 	}
-	
+
 	public static void add(Stage.Animation a) {
 		w.stage.animate(a);
 	}
-	
+
 	public static void animate() {
 		gt.subRun();
 	}
-	
+
 	public static void animate(Collection<Stage.Animation> as) {
 		w.stage.animate(as);
 		gt.subRun();
 	}
-	
-    public static void main(String[] args) {
-		int width = 800;
-		int height = 600;
+
+	public static void main(String[] args) {
+		int width = 900; // 800
+		int height = 700; // 600
 		frame = new JFrame("SpaceGen");
 		frame.setIgnoreRepaint(true);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -65,11 +63,13 @@ public class Main {
 		BufferedImage cursorImg = new BufferedImage(16, 16, BufferedImage.TYPE_INT_ARGB);
 
 		// Create a new blank cursor.
-		/*Cursor blankCursor = Toolkit.getDefaultToolkit().createCustomCursor(
-				cursorImg, new Point(0, 0), "blank cursor");
-
-		// Set the blank cursor to the JFrame.
-		jf.getContentPane().setCursor(blankCursor);*/
+		/*
+		 * Cursor blankCursor = Toolkit.getDefaultToolkit().createCustomCursor(
+		 * cursorImg, new Point(0, 0), "blank cursor");
+		 * 
+		 * // Set the blank cursor to the JFrame.
+		 * jf.getContentPane().setCursor(blankCursor);
+		 */
 
 		Canvas c = new Canvas();
 		c.setCursor(null);
@@ -89,5 +89,5 @@ public class Main {
 		c.requestFocus();
 		gt = new GameThread(w, input, d, new GameControls(d, w, input), c.getBufferStrategy());
 		new Thread(gt, "Game Thread").start();
-    }
+	}
 }

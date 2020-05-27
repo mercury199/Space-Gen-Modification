@@ -16,9 +16,18 @@ Copyright 2012 David Stark
 
 package com.zarkonnen.spacegen;
 
+import static com.zarkonnen.spacegen.Main.add;
+import static com.zarkonnen.spacegen.Main.animate;
+import static com.zarkonnen.spacegen.Stage.add;
+import static com.zarkonnen.spacegen.Stage.change;
+import static com.zarkonnen.spacegen.Stage.delay;
+import static com.zarkonnen.spacegen.Stage.emancipate;
+import static com.zarkonnen.spacegen.Stage.move;
+import static com.zarkonnen.spacegen.Stage.remove;
+import static com.zarkonnen.spacegen.Stage.subordinate;
+import static com.zarkonnen.spacegen.Stage.tracking;
+
 import java.util.ArrayList;
-import static com.zarkonnen.spacegen.Stage.*;
-import static com.zarkonnen.spacegen.Main.*;
 
 public class Population {
 	SentientType type;
@@ -31,20 +40,22 @@ public class Population {
 		this.p = p;
 		create();
 	}
-	
+
 	@Override
 	public String toString() {
-		return getSize() + " billion " + (p.getOwner() != null && !p.getOwner().fullMembers.contains(type) ? "enslaved " : "") + type.getName();
+		return getSize() + " billion "
+				+ (p.getOwner() != null && !p.getOwner().fullMembers.contains(type) ? "enslaved " : "")
+				+ type.getName();
 	}
-	
+
 	public String toUnenslavedString() {
 		return getSize() + " billion " + type.getName();
 	}
-	
+
 	public ArrayList<Sprite> sprites = new ArrayList<Sprite>();
-	
+
 	public void increase(int amt) {
-		//animate(tracking(p.sprite, delay()));
+		// animate(tracking(p.sprite, delay()));
 		size += amt;
 		p.sprite.rearrangePopulation();
 		for (int i = 0; i < amt; i++) {
@@ -56,11 +67,11 @@ public class Population {
 			add(add(s, p.sprite));
 		}
 		animate();
-		//animate(delay());
+		// animate(delay());
 	}
-	
+
 	public void decrease(int amt) {
-		//animate(tracking(p.sprite, delay()));
+		// animate(tracking(p.sprite, delay()));
 		for (int i = 0; i < amt; i++) {
 			Sprite s = sprites.get(sprites.size() - 1);
 			sprites.remove(sprites.size() - 1);
@@ -69,9 +80,9 @@ public class Population {
 		animate();
 		size -= amt;
 		p.sprite.rearrangePopulation();
-		//animate(delay());
+		// animate(delay());
 	}
-	
+
 	public void eliminate() {
 		animate(tracking(p.sprite, delay()));
 		for (Sprite s : sprites) {
@@ -84,11 +95,11 @@ public class Population {
 		p.sprite.rearrangePopulation();
 		animate(delay());
 	}
-	
+
 	public void send(Planet target) {
 		animate(tracking(p.sprite, delay()));
 		Sprite mover = sprites.get(sprites.size() - 1);
-		sprites.remove(mover);		
+		sprites.remove(mover);
 		Population targetPop = null;
 		for (Population pop : target.inhabitants) {
 			if (pop.type == type) {
@@ -98,28 +109,29 @@ public class Population {
 				break;
 			}
 		}
-		
+
 		if (targetPop == null) {
 			targetPop = new Population(type, 0, target);
 			targetPop.size = 1;
 			target.sprite.rearrangePopulation();
 		}
 		animate(emancipate(mover));
-		animate(tracking(mover, move(mover, target.sprite.x + target.sprite.popX(targetPop, targetPop.size - 1), target.sprite.y)));
+		animate(tracking(mover,
+				move(mover, target.sprite.x + target.sprite.popX(targetPop, targetPop.size - 1), target.sprite.y)));
 		animate(subordinate(mover, target.sprite));
 		target.sprite.popSprites.get(targetPop).add(mover);
-		
+
 		if (size == 1) {
 			p.inhabitants.remove(this);
 			p.sprite.popSprites.remove(this);
 		} else {
 			size--;
 		}
-		
+
 		p.sprite.rearrangePopulation();
 		addUpdateImgs();
 	}
-	
+
 	public final void create() {
 		if (size > 0) {
 			animate(tracking(p.sprite, delay()));
@@ -138,15 +150,19 @@ public class Population {
 		animate();
 		animate(delay());
 	}
-	
+
 	public void update() {
 		animate(tracking(p.sprite, delay()));
-		for (Sprite s : sprites) { add(change(s, Imager.get(this))); }
+		for (Sprite s : sprites) {
+			add(change(s, Imager.get(this)));
+		}
 		animate();
 	}
-	
+
 	public void addUpdateImgs() {
-		for (Sprite s : sprites) { add(change(s, Imager.get(this))); }
+		for (Sprite s : sprites) {
+			add(change(s, Imager.get(this)));
+		}
 	}
 
 	public int getSize() {

@@ -16,24 +16,35 @@ Copyright 2012 David Stark
 
 package com.zarkonnen.spacegen;
 
-import com.zarkonnen.spacegen.ArtefactType.Device;
-import com.zarkonnen.spacegen.SentientType.Base;
+import static com.zarkonnen.spacegen.Main.add;
+import static com.zarkonnen.spacegen.Main.animate;
+import static com.zarkonnen.spacegen.Stage.change;
+import static com.zarkonnen.spacegen.Stage.delay;
+import static com.zarkonnen.spacegen.Stage.tracking;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
-import static com.zarkonnen.spacegen.Stage.*;
-import static com.zarkonnen.spacegen.Main.*;
+import com.zarkonnen.spacegen.ArtefactType.Device;
+import com.zarkonnen.spacegen.SentientType.Base;
 
-public class Civ {	
+public class Civ {
 	ArrayList<SentientType> fullMembers = new ArrayList<SentientType>();
 	private Government govt;
 	HashMap<Civ, Diplomacy.Outcome> relations = new HashMap<Civ, Diplomacy.Outcome>();
 	int number = 0;
-	
+
 	ArrayList<CivSprite> sprites = new ArrayList<CivSprite>();
-	
+
+	// these stats should just be modifiers
+	int Strength = 0;
+	int Dexterity = 0;
+	int Constitution = 0;
+	int Intelligence = 0;
+	int Charisma = 0;
+
 	private int resources = 0;
 	private int science = 0;
 	private int military = 0;
@@ -44,15 +55,17 @@ public class Civ {
 	int nextBreakthrough = 6;
 	int decrepitude = 0;
 	private final SpaceGen sg;
-	
+
 	public ArrayList<Planet> getColonies() {
 		ArrayList<Planet> cols = new ArrayList<Planet>();
 		for (Planet p : sg.planets) {
-			if (p.getOwner() == this) { cols.add(p); }
+			if (p.getOwner() == this) {
+				cols.add(p);
+			}
 		}
 		return cols;
 	}
-	
+
 	public int getResources() {
 		return resources;
 	}
@@ -66,7 +79,7 @@ public class Civ {
 		}
 		animate();
 	}
-	
+
 	public int getScience() {
 		return science;
 	}
@@ -107,7 +120,7 @@ public class Civ {
 		}
 		animate();
 	}
-	
+
 	public int getWeapLevel() {
 		return weapLevel;
 	}
@@ -120,7 +133,7 @@ public class Civ {
 		}
 		animate();
 	}
-	
+
 	Planet leastPopulousFullColony() {
 		Planet c = null;
 		int pop = 0;
@@ -132,7 +145,7 @@ public class Civ {
 		}
 		return c;
 	}
-	
+
 	public Planet closestColony(Planet p) {
 		Planet c = null;
 		int closestDist = 0;
@@ -149,10 +162,12 @@ public class Civ {
 			return c;
 		}
 	}
-	
+
 	public ArrayList<Planet> reachables(SpaceGen sg) {
 		int range = 3 + getTechLevel() * getTechLevel();
-		if (has(ArtefactType.Device.TELEPORT_GATE)) { range = 10000; }
+		if (has(ArtefactType.Device.TELEPORT_GATE)) {
+			range = 10000;
+		}
 		ArrayList<Planet> ir = new ArrayList<Planet>();
 		for (Planet p : sg.planets) {
 			int closestR = 100000;
@@ -166,16 +181,18 @@ public class Civ {
 		}
 		return ir;
 	}
-	
+
 	public boolean has(ArtefactType at) {
 		for (Planet c : getColonies()) {
 			for (Artefact a : c.artefacts) {
-				if (a.type == at) { return true; }
+				if (a.type == at) {
+					return true;
+				}
 			}
 		}
 		return false;
 	}
-	
+
 	Artefact use(ArtefactType at) {
 		for (Planet c : getColonies()) {
 			for (Artefact a : c.artefacts) {
@@ -187,9 +204,11 @@ public class Civ {
 		}
 		return new Artefact(13, this, at, "mysterious " + at.getName() + "");
 	}
-	
+
 	public Diplomacy.Outcome relation(Civ c) {
-		if (!relations.containsKey(c)) { relations.put(c, Diplomacy.Outcome.PEACE); }
+		if (!relations.containsKey(c)) {
+			relations.put(c, Diplomacy.Outcome.PEACE);
+		}
 		return relations.get(c);
 	}
 
@@ -204,40 +223,96 @@ public class Civ {
 		updateName(sg.historicalCivNames);
 		home.setOwner(this);
 		setTechLevel(1);
+		Strength = returnMod(SpaceGen.d(2, 10));
+		Dexterity = returnMod(SpaceGen.d(2, 10));
+		Constitution = returnMod(SpaceGen.d(2, 10));
+		Intelligence = returnMod(SpaceGen.d(2, 10));
+		Charisma = returnMod(SpaceGen.d(2, 10));
+
 	}
-	
+
+	public int getCharisma() {
+		return Charisma;
+	}
+
+	public int getIntelligence() {
+		return Intelligence;
+	}
+
+	public int getConstitution() {
+		return Constitution;
+	}
+
+	public int getDexterity() {
+		return Dexterity;
+	}
+
+	public int getStrength() {
+		return Strength;
+	}
+
+	private int returnMod(int x) {
+		int mod = 0;
+		if (x < 4)
+			mod = -3;
+		else if (x < 6)
+			mod = -2;
+		else if (x < 10)
+			mod = -1;
+		else if (x < 12)
+			mod = 0;
+		else if (x < 16)
+			mod = 1;
+		else if (x < 20)
+			mod = 2;
+		else
+			mod = 3;
+		return mod;
+	}
+
 	public int population() {
 		int sum = 0;
-		for (Planet col : getColonies()) { sum += col.population(); }
+		for (Planet col : getColonies()) {
+			sum += col.population();
+		}
 		return sum;
 	}
-	
+
 	public ArrayList<Planet> fullColonies() {
 		ArrayList<Planet> fcs = new ArrayList<Planet>();
 		for (Planet col : getColonies()) {
-			if (col.population() > 0) { fcs.add(col); }
+			if (col.population() > 0) {
+				fcs.add(col);
+			}
 		}
 		return fcs;
 	}
-	
+
 	public Planet largestColony() {
 		int sz = -1;
 		Planet largest = null;
 		for (Planet col : getColonies()) {
-			if (col.population() > sz) { largest = col; sz = col.population(); }
+			if (col.population() > sz) {
+				largest = col;
+				sz = col.population();
+			}
 		}
 		return largest;
 	}
-		
+
 	final String genName(int nth) {
 		String n = "";
-		if (nth > 1) { n = Names.nth(nth) + " "; }
+		if (nth > 1) {
+			n = Names.nth(nth) + " ";
+		}
 		n += getGovt().title + " of ";
 		if (fullMembers.size() == 1) {
 			n += fullMembers.get(0).getName();
 		} else {
 			HashSet<SentientType.Base> bases = new HashSet<SentientType.Base>();
-			for (SentientType st : fullMembers) { bases.add(st.base); }
+			for (SentientType st : fullMembers) {
+				bases.add(st.base);
+			}
 			ArrayList<SentientType.Base> bs = new ArrayList<SentientType.Base>(bases);
 			for (int i = 0; i < bs.size(); i++) {
 				if (i > 0) {
@@ -258,13 +333,15 @@ public class Civ {
 		while (true) {
 			number++;
 			String n = genName(number);
-			if (historicals.contains(n)) { continue; }
+			if (historicals.contains(n)) {
+				continue;
+			}
 			name = n;
 			break;
 		}
 		historicals.add(name);
 	}
-	
+
 	public String fullDesc(SpaceGen sg) {
 		StringBuilder sb = new StringBuilder();
 		sb.append("THE ").append(name.toUpperCase()).append(":\n");
@@ -278,35 +355,35 @@ public class Civ {
 		} else {
 			sb.append("An ancient");
 		}
-		
+
 		if (decrepitude >= 20) {
 			sb.append(", corrupt");
 		} else if (decrepitude >= 40) {
 			sb.append(", crumbling");
 		}
-		
+
 		if (getResources() < 2) {
 			sb.append(", dirt poor");
 		} else if (getResources() < 4) {
 			sb.append(", impoverished");
 		} else if (getResources() < 16) {
-			
+
 		} else if (getResources() < 25) {
 			sb.append(", wealthy");
 		} else {
 			sb.append(", fantastically wealthy");
 		}
-		
+
 		if (getTechLevel() < 2) {
 			sb.append(", primitive");
 		} else if (getTechLevel() < 4) {
-			
+
 		} else if (getTechLevel() < 7) {
 			sb.append(", advanced");
 		} else {
 			sb.append(", highly advanced");
 		}
-		
+
 		sb.append(" ").append(getGovt().title).append(" of ");
 		if (getColonies().size() == 1) {
 			sb.append("a single planet, ").append(getColonies().get(0).name);
@@ -316,44 +393,58 @@ public class Civ {
 		sb.append(", with ").append(population()).append(" billion inhabitants.\n");
 		sb.append("Major populations:\n");
 		HashMap<SentientType, Integer> pops = new HashMap<SentientType, Integer>();
-		for (Planet c : getColonies()) { for (Population pop : c.inhabitants) {
-			if (!pops.containsKey(pop.type)) {
-				pops.put(pop.type, pop.getSize());
-			} else {
-				pops.put(pop.type, pops.get(pop.type) + pop.getSize());
+		for (Planet c : getColonies()) {
+			for (Population pop : c.inhabitants) {
+				if (!pops.containsKey(pop.type)) {
+					pops.put(pop.type, pop.getSize());
+				} else {
+					pops.put(pop.type, pops.get(pop.type) + pop.getSize());
+				}
 			}
-		}}
+		}
 		for (Map.Entry<SentientType, Integer> e : pops.entrySet()) {
-			if (!fullMembers.contains(e.getKey())) { continue; }
+			if (!fullMembers.contains(e.getKey())) {
+				continue;
+			}
 			sb.append(e.getValue()).append(" billion ").append(e.getKey().getName()).append(".\n");
 		}
 		for (Map.Entry<SentientType, Integer> e : pops.entrySet()) {
-			if (fullMembers.contains(e.getKey())) { continue; }
+			if (fullMembers.contains(e.getKey())) {
+				continue;
+			}
 			sb.append(e.getValue()).append(" billion enslaved ").append(e.getKey().getName()).append(".\n");
 		}
 		HashSet<Device> devices = new HashSet<Device>();
-		for (Planet c : getColonies()) { for (Artefact a : c.artefacts) {
-			if (a.type instanceof Device) {
-				devices.add((Device) a.type);
+		for (Planet c : getColonies()) {
+			for (Artefact a : c.artefacts) {
+				if (a.type instanceof Device) {
+					devices.add((Device) a.type);
+				}
 			}
-		}}
+		}
 		for (Device d : devices) {
 			sb.append("It controls a ").append(d.getName()).append(".\n");
 		}
 		for (Civ other : sg.civs) {
-			if (other == this) { continue; }
+			if (other == this) {
+				continue;
+			}
 			if (relation(other) == Diplomacy.Outcome.WAR) {
 				sb.append("It is at war with the ").append(other.name).append(".\n");
 			} else {
 				sb.append("It is at peace with the ").append(other.name).append(".\n");
 			}
 		}
-		
+
 		return sb.toString();
 	}
 
 	boolean has(Base base) {
-		for (SentientType st : fullMembers) { if (st.base == base) { return true; } }
+		for (SentientType st : fullMembers) {
+			if (st.base == base) {
+				return true;
+			}
+		}
 		return false;
 	}
 
@@ -365,7 +456,9 @@ public class Civ {
 		this.govt = govt;
 		updateName(historicalNames);
 		animate(tracking(largestColony().sprite, delay()));
-		for (CivSprite s : sprites) { add(change(s, Imager.get(this))); }
+		for (CivSprite s : sprites) {
+			add(change(s, Imager.get(this)));
+		}
 		animate();
 	}
 }

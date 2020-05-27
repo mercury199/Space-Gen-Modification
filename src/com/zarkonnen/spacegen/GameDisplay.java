@@ -29,7 +29,7 @@ public class GameDisplay {
 	final int width;
 	final int height;
 	ArrayList<Star> stars = new ArrayList<Star>();
-	
+
 	static final BufferedImage[] STAR_IMGS = new BufferedImage[4];
 	static {
 		BufferedImage img = MediaProvider.it.getImage("misc/star");
@@ -38,7 +38,7 @@ public class GameDisplay {
 		STAR_IMGS[2] = img;
 		STAR_IMGS[3] = Imager.scale(img, 3);
 	}
-	
+
 	class Star {
 		int x;
 		int y;
@@ -59,7 +59,8 @@ public class GameDisplay {
 		this.height = height;
 		Random r = new Random();
 		for (int i = 0; i < 1200; i++) {
-			stars.add(new Star(r.nextInt(2300) - 300, r.nextInt(2300) - 300, r.nextInt(10) + 1, r.nextInt(2) + r.nextInt(2) + 1));
+			stars.add(new Star(r.nextInt(2300) - 300, r.nextInt(2300) - 300, r.nextInt(10) + 1,
+					r.nextInt(2) + r.nextInt(2) + 1));
 		}
 	}
 
@@ -67,11 +68,12 @@ public class GameDisplay {
 		g.setColor(Color.BLACK);
 		g.fillRect(0, 0, width, height);
 		for (Star p : stars) {
-			g.drawImage(STAR_IMGS[p.size], p.x + (-w.stage.camX + width / 2) / p.scale, p.y + (-w.stage.camY + height / 2) / p.scale, null);
+			g.drawImage(STAR_IMGS[p.size], p.x + (-w.stage.camX + width / 2) / p.scale,
+					p.y + (-w.stage.camY + height / 2) / p.scale, null);
 		}
 		g.translate(-w.stage.camX + width / 2, -w.stage.camY + height / 2);
 		w.stage.draw(g);
-		
+
 		if (ptr != null) {
 			int viewPX = (w.stage.camX + ptr.x - width / 2);
 			int viewPY = (w.stage.camY + ptr.y - height / 2);
@@ -79,7 +81,8 @@ public class GameDisplay {
 			int dist = 0;
 
 			for (Planet p : w.sg.planets) {
-				int pDist = (p.sprite.x + 120 - viewPX) * (p.sprite.x + 120 - viewPX) + (p.sprite.y + 120 - viewPY) * (p.sprite.y + 120 - viewPY);
+				int pDist = (p.sprite.x + 120 - viewPX) * (p.sprite.x + 120 - viewPX)
+						+ (p.sprite.y + 120 - viewPY) * (p.sprite.y + 120 - viewPY);
 				if (closestP == null || pDist < dist) {
 					closestP = p;
 					dist = pDist;
@@ -87,20 +90,24 @@ public class GameDisplay {
 			}
 
 			if (closestP != null && dist < 240 * 240) {
-				Draw.text(g, "[bg=333333cc]" + closestP.fullDesc(w.sg), closestP.sprite.x + 170, closestP.sprite.y, 320, 1000);
+				Draw.text(g, "[bg=333333cc]" + closestP.fullDesc(w.sg), closestP.sprite.x + 170, closestP.sprite.y, 320,
+						1000);
 			}
 		}
-		
+
 		g.translate(w.stage.camX - width / 2, w.stage.camY - height / 2);
 		StringBuilder info = new StringBuilder();
-		/*for (int i = w.sg.turnLog.size() - 1; i >= 0; i--) {
-			info.append(w.sg.turnLog.get(i)).append("\n");
-		}*/
+		/*
+		 * for (int i = w.sg.turnLog.size() - 1; i >= 0; i--) {
+		 * info.append(w.sg.turnLog.get(i)).append("\n"); }
+		 */
 		for (String s : w.sg.turnLog) {
 			info.append(s).append("\n");
 		}
-		Draw.text(g, "[bg=333333cc]" + info.toString() + "", 10, height - 100, width - 20, 100);
-		Draw.text(g, "[bg=333333cc]" + w.sg.year + "\nPress space to advance by one event.\nPress R to toggle auto-advance.\nUse arrow keys to move view.\nPoint at things for info.\nPress S to save galaxy details to text file.", 10, 10);
+		Draw.text(g, "[bg=433333c4]" + info.toString() + "", 10, height - 140, width - 20, 100);
+		Draw.text(g, "[bg=333333cc]" + w.sg.year
+				+ "\nPress space to advance by one event.\nPress R to toggle auto-advance.\nUse arrow keys to move view.\nPoint at things for info.\nPress S to save galaxy details to text file.",
+				10, 10);
 
 	}
 }

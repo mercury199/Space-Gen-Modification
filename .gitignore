@@ -6,3 +6,4 @@ nbproject
 release
 test
 lib/*
+/bin/
