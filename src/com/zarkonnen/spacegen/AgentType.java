@@ -741,11 +741,11 @@ public enum AgentType {
 			}
 			if (sg.p(50)) {
 				sg.l("The rogue AI " + a.name + " vanishes without a trace.");
-				a.timer = 40 + sg.d(500);
+				a.timer = 40 + sg.d(500); // originally 500
 				a.setLocation(null);
 				return;
 			}
-			if (sg.p(80)) {
+			if (sg.p(80 +( a.Intelligence * 10))) {
 				sg.l("The rogue AI " + a.name + " vanishes without a trace.");
 				sg.agents.remove(a);
 				a.setLocation(null);
@@ -797,7 +797,8 @@ public enum AgentType {
 					}
 				}
 			}
-			
+		if(a != null){
+		if(a.getLocation() != null)	{
 			// Random mischief!
 			if (a.getLocation().getOwner() != null) {
 				if (sg.p(60)) {
@@ -845,6 +846,10 @@ public enum AgentType {
 					return;
 				}
 			}
+
+
+
+
 			if (!a.getLocation().inhabitants.isEmpty()) {
 				if (sg.p(40)) {
 					Plague pl = new Plague(sg);
@@ -918,6 +923,7 @@ public enum AgentType {
 				confirm();
 			}
 		}
+	}}
 	}/*,
 	ADVENTURER,
 	MIMIC,

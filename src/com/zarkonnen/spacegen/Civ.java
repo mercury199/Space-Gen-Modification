@@ -29,6 +29,7 @@ import java.util.Map;
 
 import com.zarkonnen.spacegen.ArtefactType.Device;
 import com.zarkonnen.spacegen.SentientType.Base;
+import java.lang.reflect.Array;
 
 public class Civ {
 	ArrayList<SentientType> fullMembers = new ArrayList<SentientType>();
@@ -44,6 +45,19 @@ public class Civ {
 	int Constitution = 0;
 	int Intelligence = 0;
 	int Charisma = 0;
+
+	int civStrength = 0;
+	int civDexterity = 0;
+	int civConstitution = 0;
+	int civIntelligence = 0;
+	int civCharisma = 0;
+
+	int racesStrength = -3;
+	int racesDexterity = -3;
+	int racesConstitution = -3;
+	int racesIntelligence = -3;
+	int racesCharisma = -3;
+
 
 	private int resources = 0;
 	private int science = 0;
@@ -212,43 +226,71 @@ public class Civ {
 		return relations.get(c);
 	}
 
+
+	public void calculate_race_stats(){
+		for( int x = 0; x < fullMembers.size(); x++ ){
+			if(fullMembers.get(x).Strength>racesStrength) {
+				racesStrength = fullMembers.get(x).Strength;
+			}
+			if(fullMembers.get(x).Dexterity>racesDexterity) {
+				racesDexterity = fullMembers.get(x).Dexterity;
+			}
+			if(fullMembers.get(x).Charisma>racesCharisma) {
+				racesCharisma = fullMembers.get(x).Charisma;
+			}
+			if(fullMembers.get(x).Intelligence>racesIntelligence) {
+				racesIntelligence = fullMembers.get(x).Intelligence;
+			}
+			if(fullMembers.get(x).Constitution>racesConstitution) {
+				racesConstitution = fullMembers.get(x).Constitution;
+			}
+		}
+		//System.out.println("Race stats calculated \nSTR,Dex,Cha,Int,Con " + "\n	" + racesStrength+ " " +racesDexterity + " " + racesCharisma+ " " + racesIntelligence + " "+ racesConstitution);
+	}
+
 	public Civ(int year, SentientType st, Planet home, Government govt, int resources, SpaceGen sg) {
 		this.govt = govt;
 		this.sg = sg;
 		if (st != null) {
 			this.fullMembers.add(st);
 		}
+		calculate_race_stats();
 		setResources(resources);
 		this.birthYear = year;
 		updateName(sg.historicalCivNames);
 		home.setOwner(this);
 		setTechLevel(1);
-		Strength = returnMod(SpaceGen.d(2, 10));
-		Dexterity = returnMod(SpaceGen.d(2, 10));
-		Constitution = returnMod(SpaceGen.d(2, 10));
-		Intelligence = returnMod(SpaceGen.d(2, 10));
-		Charisma = returnMod(SpaceGen.d(2, 10));
-
+		civStrength = returnMod(SpaceGen.d(2, 10)+racesStrength+2);
+		civDexterity = returnMod(SpaceGen.d(2, 10)+racesDexterity+2);
+		civConstitution = returnMod(SpaceGen.d(2, 10)+racesConstitution+2);
+		civIntelligence = returnMod(SpaceGen.d(4, 5)+racesIntelligence+4);
+		civCharisma = returnMod(SpaceGen.d(2, 10)+racesCharisma+2);
+		Strength = civStrength;
+		Dexterity = civDexterity;
+		Constitution = civConstitution;
+		Intelligence = civIntelligence;
+		Charisma = civCharisma;
+		//calculate_race_stats();
 	}
 
 	public int getCharisma() {
-		return Charisma;
+		return Charisma + racesCharisma;
 	}
 
 	public int getIntelligence() {
-		return Intelligence;
+		return Intelligence + racesIntelligence;
 	}
 
 	public int getConstitution() {
-		return Constitution;
+		return Constitution + racesConstitution;
 	}
 
 	public int getDexterity() {
-		return Dexterity;
+		return Dexterity + racesDexterity;
 	}
 
 	public int getStrength() {
-		return Strength;
+		return Strength + racesStrength;
 	}
 
 	private int returnMod(int x) {
@@ -435,7 +477,7 @@ public class Civ {
 				sb.append("It is at peace with the ").append(other.name).append(".\n");
 			}
 		}
-
+		sb.append("\n	Their Stats are: STR: ").append(Strength).append(" DEX: " ).append(Dexterity).append(" CON: " ).append(Constitution).append(" INT: " ).append(Intelligence).append(" CHA: " ).append(Charisma);
 		return sb.toString();
 	}
 

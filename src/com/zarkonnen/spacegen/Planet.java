@@ -60,6 +60,9 @@ public class Planet {
 	}
 	
 	public void addPlague(Plague p) {
+		if(p.color == null){
+			p.color = "Red";
+		}
 		plagues.add(p);
 		Sprite ps = new Sprite(Imager.get(p), (plagues.size() - 1) * 36, 36 * 4);
 		sprite.plagueSprites.put(p, ps);

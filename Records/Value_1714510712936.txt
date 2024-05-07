@@ -1,0 +1,598 @@
+SENTIENT SPECIES:
+Scaly Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry. They are fond of practical jokes and strive to uphold their ideals of personal honour. They were created by the Church of Flying Deep Dwellers on Krantor VI as servants in 231.
+	Their Stats are: STR: 2 DEX: -1 CON: -1 INT: -2 CHA: -1
+Flying Orange Robots: Purely mechanical lifeforms, artificially created. They have orange skin. They have bilateral symmetry. They can fly. They are hyperactive and have a complex system of social rules. They were created by the Church of Flying Deep Dwellers on Eykop I as servants in 212.
+	Their Stats are: STR: -2 DEX: 1 CON: -1 INT: 0 CHA: -1
+Two-Headed Red Trolloids with Long Tails: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have red skin. They have two heads that tend to constantly bicker with one another. They have bilateral symmetry. They use their long tails for balance. They are violent and believe that each individual must serve the community. They developed from Red Trolloids with Long Tails in 156.
+	Their Stats are: STR: 1 DEX: -1 CON: 1 INT: -3 CHA: 1
+Slim Koboldoids: Eat pretty much anything, including one another. Disturbingly fond of skulls. They have bilateral symmetry and a slim shape. They are violent and have a complex system of social castes. They first evolved on Krantor VI in 175.
+	Their Stats are: STR: -2 DEX: 1 CON: -2 INT: 1 CHA: -2
+
+CIVILISATIONS:
+THE CHURCH OF FLYING DEEP DWELLERS:
+An ancient, corrupt, fantastically wealthy Church of 11 planets, with 11 billion inhabitants.
+Major populations:
+6 billion enslaved Scaly Robots.
+2 billion enslaved Two-Headed Red Trolloids with Long Tails.
+3 billion enslaved Slim Koboldoids.
+
+PLANETS:
+FOMEV II
+A barren planet of the Republic of .
+A military base, built by the Church of Flying Deep Dwellers in 231
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Strata:
+The ruins of a mining base, built by the Church of Flying Deep Dwellers in 209, destroyed in 230 due to orbital bombardment by the pirate Bluebeard.
+
+BAL II
+A barren planet of the Republic of .
+A science lab, built by the Church of Flying Deep Dwellers in 211
+Periodical Darkness: Every thirteen years, the orbit of this planet synchronizes with that of a planet closer to its stars, causing a night that lasts for weeks.
+Strata:
+The Tomb of Captain Ulnit, buried in 207.
+
+EYKOP I
+A life-bearing planet of the Republic of .
+It is a little polluted.
+It is populated by:
+6 billion Two-Headed Red Trolloids with Long Tails
+6 billion Flying Orange Robots
+A vast museum, built by the Church of Flying Deep Dwellers in 215
+A orbital elevator, built by the Church of Flying Deep Dwellers in 220
+A grand roost, built by the Church of Flying Deep Dwellers in 250
+Strata:
+Remnants of a culture of Flying Deep Dwellers that collapsed from the effects of pollution in 215.
+
+SATIVEX I
+A barren planet of the Church of Flying Deep Dwellers.
+A mining base, built by the Church of Flying Deep Dwellers in 215
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+
+KRANTOR VI
+A life-bearing planet of the Church of Flying Deep Dwellers.
+It is populated by:
+2 billion enslaved Two-Headed Red Trolloids with Long Tails
+3 billion enslaved Slim Koboldoids
+6 billion enslaved Scaly Robots
+A city of spires, built by the Church of Flying Deep Dwellers in 222
+A deep dome, built by the Church of Flying Deep Dwellers in 225
+A grand roost, built by the Church of Flying Deep Dwellers in 236
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+Strata:
+Remnants of a culture of Flying White Catoids with Threefold Symmetry that collapsed a campaign of extermination by Empire of Flying Deep Dwellers in 201.
+
+FOMEP II
+A barren planet of the Church of Flying Deep Dwellers.
+A military base, built by the Church of Flying Deep Dwellers in 204
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+Strata:
+The Tomb of Captain Ulnpram, buried in 203.
+
+URBON III
+A barren planet of the Church of Flying Deep Dwellers.
+A mining base, built by the Church of Flying Deep Dwellers in 250
+Periodical Darkness: Every thirteen years, the orbit of this planet synchronizes with that of a planet closer to its stars, causing a night that lasts for weeks.
+Strata:
+Fossils of shape-shifters that went extinct in 248 due to a nova.
+Fossils of living islands that went extinct in 248 due to a nova.
+The ruins of a vast museum, built by the Church of Flying Deep Dwellers in 246, destroyed in 248 by a nova.
+The ruins of a grand roost, built by the Church of Flying Deep Dwellers in 227, destroyed in 248 by a nova.
+The ruins of a vast underground vault, built by the Church of Flying Deep Dwellers in 225, destroyed in 248 by a nova.
+Remnants of a culture of Two-Headed Red Trolloids with Long Tails that collapsed due to a nova in 248.
+Remnants of a culture of Six-Legged Humanoids with Giant Eyes that collapsed due to a nova in 248.
+Remnants of a culture of Flying Deep Dwellers that collapsed due to orbital bombardment by the pirate Purplecrest in 210.
+
+PASTINAKOS I
+A barren planet of the Republic of .
+A mining base, built by the Church of Flying Deep Dwellers in 230
+Strata:
+The ruins of a mining base, built by the Church of Flying Deep Dwellers in 206, destroyed in 228 due to orbital bombardment by the pirate Bluebeard.
+
+EEKUP I
+A barren planet of the Church of Flying Deep Dwellers.
+A mining base, built by the Church of Flying Deep Dwellers in 213
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+
+AONEX III
+A barren planet of the Church of Flying Deep Dwellers.
+A military base, built by the Church of Flying Deep Dwellers in 213
+
+GUMIP II
+A barren planet of the Republic of .
+A military base, built by the Church of Flying Deep Dwellers in 221
+Strata:
+A film about Flying Deep Dwellers created by the Church of Flying Deep Dwellers in 204, hidden in 247.
+The ruins of a mining base, built by the Church of Flying Deep Dwellers in 210, destroyed in 218 due to orbital bombardment by the pirate Purplecrest.
+
+CYKOP IV
+A barren planet of the Republic of .
+A military base, built by the Church of Flying Deep Dwellers in 207
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+
+EONEQ III
+A barren planet of the Church of Flying Deep Dwellers.
+A military base, built by the Church of Flying Deep Dwellers in 230
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Strata:
+The ruins of a military base, built by the Church of Flying Deep Dwellers in 199, destroyed in 229 due to orbital bombardment by the pirate Bluebeard.
+The Tomb of the Pirate Purplecrest, buried in 219.
+
+CHROMA I
+A barren planet of the Church of Flying Deep Dwellers.
+A mining base, built by the Church of Flying Deep Dwellers in 209
+Strata:
+The Tomb of the Pirate Bluebeard, buried in 233.
+
+GOLEX V
+A barren planet of the Church of Flying Deep Dwellers.
+A science lab, built by the Church of Flying Deep Dwellers in 219
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+Strata:
+A Master Computer created by the Church of Flying Deep Dwellers in 206, buried in 215.
+The ruins of a science lab, built by the Church of Flying Deep Dwellers in 202, destroyed in 215 due to orbital bombardment by the pirate Purplecrest.
+
+ORGUS IV
+A barren planet of the Church of Flying Deep Dwellers.
+A military base, built by the Church of Flying Deep Dwellers in 210
+
+AENUU VI
+A barren planet of the Church of Flying Deep Dwellers.
+A mining base, built by the Church of Flying Deep Dwellers in 214
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Fomev II, Bal II, Eykop I, Sativex I, Krantor VI, Fomep II, Urbon III, Pastinakos I, Eekup I, Aonex III, Gumip II, Cykop IV, Eoneq III, Chroma I, Golex V, Orgus IV, Aenuu VI
+5:
+Vast canyons are carved on Golex V.
+7:
+Vast canyons are carved on Cykop IV.
+16:
+A giant spaceborne black worm appears from the depths of space and menaces the skies of Urbon III.
+22:
+Vast empty plains form on Sativex I.
+24:
+Life arises on Krantor VI
+31:
+Due to an accident of orbital mechanics, every 13 years, Bal II is plunged into total darkness.
+38:
+The giant spaceborne black worm leaves the orbit of Urbon III and heads back into deep space.
+52:
+Living islands evolve on Krantor VI.
+73:
+Due to an accident of orbital mechanics, every 13 years, Urbon III is plunged into total darkness.
+Life arises on Urbon III
+86:
+Pharmaceuticals evolve on Krantor VI.
+94:
+Living islands evolve on Urbon III.
+95:
+Titanic mountains form on Aenuu VI.
+108:
+Fomep II becomes tidally locked to its star.
+Shape-shifters evolve on Urbon III.
+124:
+Beautiful flying creatures evolve on Krantor VI.
+131:
+The wind plays across rock formations on Eoneq III, producing an eerie music.
+132:
+Vast empty plains form on Eekup I.
+133:
+Sentient Red Trolloids with Long Tails arise on Krantor VI.
+Sentient Tiny Humanoids with Giant Eyes arise on Urbon III.
+142:
+The wind plays across rock formations on Fomev II, producing an eerie music.
+152:
+Sentient Flying Deep Dwellers arise on Urbon III.
+154:
+Sentient Flying White Catoids with Threefold Symmetry arise on Krantor VI.
+156:
+The Red Trolloids with Long Tails on Krantor VI mutate into Two-Headed Red Trolloids with Long Tails.
+171:
+The Tiny Humanoids with Giant Eyes on Urbon III mutate into Six-Legged Humanoids with Giant Eyes.
+175:
+Sentient Slim Koboldoids arise on Krantor VI.
+189:
+The Flying Deep Dwellers on Urbon III achieve spaceflight and organise as a Military Dictatorship, the Empire of Flying Deep Dwellers.
+
+Civ Name: Empire of Flying Deep Dwellers 
+Civ Birth Year: 189 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 0 | 0 | 0 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+190:
+WE ENTER THE FIRST AGE OF CIVILISATION
+The population of Flying Deep Dwellers on Urbon III has grown by a billion.
+The Empire of Flying Deep Dwellers explore Urbon III. 
+191:
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+192:
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Overcrowding on Urbon III leads to increased pollution.
+193:
+Pollution kills a billion Six-Legged Humanoids with Giant Eyes on Urbon III.
+Captain Ulnpram, space adventurer, blasts off from Urbon III.
+An expedition led by Captain Ulnpram explores Fomev II. 
+An expedition led by Captain Ulnpram explores Orgus IV. 
+194:
+An expedition led by Captain Ulnpram explores Orgus IV. 
+An expedition led by Captain Ulnpram explores Eekup I. 
+195:
+Overcrowding on Urbon III leads to increased pollution.
+The Empire of Flying Deep Dwellers explore Golex V. 
+An expedition led by Captain Ulnpram explores Pastinakos I. 
+An expedition led by Captain Ulnpram explores Eekup I. 
+196:
+An expedition led by Captain Ulnpram explores Chroma I. 
+An expedition led by Captain Ulnpram explores Bal II. 
+197:
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Overcrowding on Urbon III leads to increased pollution.
+An expedition led by Captain Ulnpram explores Orgus IV. 
+An expedition led by Captain Ulnpram explores Bal II. 
+198:
+The population of Flying Deep Dwellers on Urbon III has grown by a billion.
+Overcrowding on Urbon III leads to increased pollution.
+Captain Ulnit, space adventurer, blasts off from Urbon III.
+An expedition led by Captain Ulnpram explores Orgus IV. 
+An expedition led by Captain Ulnit explores Fomep II. 
+An expedition led by Captain Ulnpram explores Eoneq III. 
+An expedition led by Captain Ulnit explores Aenuu VI. 
+199:
+Overcrowding on Urbon III leads to increased pollution.
+The Empire of Flying Deep Dwellers build a military base on Eoneq III.
+An expedition led by Captain Ulnpram explores Eekup I. 
+An expedition led by Captain Ulnit explores Bal II. 
+An expedition led by Captain Ulnpram explores Eykop I. 
+An expedition led by Captain Ulnit explores Sativex I. 
+200:
+Pollution kills a billion Six-Legged Humanoids with Giant Eyes on Urbon III.
+Pollution kills a billion Flying Deep Dwellers on Urbon III.
+The Empire of Flying Deep Dwellers explore Urbon III. 
+An expedition led by Captain Ulnpram explores Aonex III. 
+An expedition led by Captain Ulnit explores Eekup I. 
+An expedition led by Captain Ulnpram explores Eykop I. 
+An expedition led by Captain Ulnit explores Bal II. 
+201:
+The Empire of Flying Deep Dwellers explore Krantor VI. The expedition encounters plants with useful pharmaceutical properties. They subjugate the local Two-Headed Red Trolloids with Long Tails. They mount a campaign of extermination against the local Flying White Catoids with Threefold Symmetry and wipe them out.  They subjugate the local Slim Koboldoids. 
+The Empire of Flying Deep Dwellers terraform and colonise Eykop I.
+An expedition led by Captain Ulnpram explores Cykop IV. 
+An expedition led by Captain Ulnit explores Aenuu VI. 
+An expedition led by Captain Ulnpram explores Sativex I. 
+An expedition led by Captain Ulnit explores Aonex III. 
+202:
+The population of Slim Koboldoids on Krantor VI has grown by a billion.
+Overcrowding on Urbon III leads to increased pollution.
+The Empire of Flying Deep Dwellers build a science lab on Golex V.
+A market crash impoverishes the Empire of Flying Deep Dwellers.
+An expedition led by Captain Ulnpram explores Sativex I. 
+An expedition led by Captain Ulnit explores Eekup I. 
+An expedition led by Captain Ulnpram explores Sativex I. 
+An expedition led by Captain Ulnit explores Sativex I. 
+203:
+The population of Slim Koboldoids on Krantor VI has grown by a billion.
+Overcrowding on Krantor VI leads to increased pollution.
+The space adventurer Captain Ulnpram dies and is buried on Fomep II.
+An expedition led by Captain Ulnit explores Sativex I. 
+An expedition led by Captain Ulnit explores Aenuu VI. 
+204:
+The population of Flying Deep Dwellers on Eykop I has grown by a billion.
+Pollution kills a billion Six-Legged Humanoids with Giant Eyes on Urbon III.
+The Empire of Flying Deep Dwellers build a military base on Fomep II.
+
+ Art Golden Age Revival!Empire of Flying Deep Dwellers previous decrepitude: 15 revival amount: 3
+
+Civ Name: Empire of Flying Deep Dwellers 
+Civ Birth Year: 189 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 0 | 0 | 0 | 
+Resources 1 Science 8 Military 6 WeapLevel 0 TechLevel 1 Decrepitude 15
+Artists on Krantor VI create a film about Flying Deep Dwellers. 
+An expedition led by Captain Ulnit explores Chroma I. 
+205:
+The population of Two-Headed Red Trolloids with Long Tails on Krantor VI has grown by a billion.
+Pollution kills a billion Six-Legged Humanoids with Giant Eyes on Urbon III.
+An expedition led by Captain Ulnit explores Aonex III. 
+An expedition led by Captain Ulnit explores Sativex I. 
+206:
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Pollution kills a billion Flying Deep Dwellers on Urbon III.
+The Empire of Flying Deep Dwellers build a mining base on Pastinakos I.
+The Empire of Flying Deep Dwellers develop a Master Computer.
+
+ Decomocratization Revival!Empire of Flying Deep Dwellers previous decrepitude: 16 revival amount: 10
+
+Civ Name: Empire of Flying Deep Dwellers 
+Civ Birth Year: 189 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 0 | 0 | 0 | 
+Resources 2 Science 1 Military 6 WeapLevel 0 TechLevel 1 Decrepitude 16
+A popular movement overthrows the old guard of the Empire of Flying Deep Dwellers and declares the Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids.
+An expedition led by Captain Ulnit explores Eekup I. 
+207:
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a military base on Cykop IV.
+The space adventurer Captain Ulnit dies and is buried on Bal II.
+208:
+The population of Flying Deep Dwellers on Urbon III has grown by a billion.
+Overcrowding on Krantor VI leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids explore Eoneq III. 
+209:
+The population of Slim Koboldoids on Krantor VI has grown by a billion.
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Overcrowding on Urbon III leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a mining base on Chroma I.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a mining base on Fomev II.
+210:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+The population of Two-Headed Red Trolloids with Long Tails on Krantor VI has grown by a billion.
+Pollution kills a billion Slim Koboldoids on Krantor VI.
+The population of Flying Deep Dwellers on Urbon III has grown by a billion.
+Overcrowding on Krantor VI leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a military base on Orgus IV.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a mining base on Gumip II.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids launch a space probe called Mar'er to explore the galaxy.
+The pirate Purplecrest establishes herself on Chroma I.
+The pirate Purplecrest subjects Urbon III to orbital bombardment, killing 6 billion.
+211:
+
+ Science Golden Age Revival!Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids previous decrepitude: 26 revival amount: 33
+
+Civ Name: Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids 
+Civ Birth Year: 189 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 0 | 0 | 0 | 
+Resources 12 Science 22 Military 6 WeapLevel 0 TechLevel 1 Decrepitude 26
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids enters a golden age of science! The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a science lab on Bal II.
+The pirate Purplecrest receives tribute from Fomep II of the Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids.
+212:
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids explore Orgus IV. 
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids create Flying Orange Robots as servants on Eykop I.
+The pirate Purplecrest receives tribute from Bal II of the Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids.
+213:
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a military base on Aonex III.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a mining base on Eekup I.
+The pirate Purplecrest receives tribute from Aonex III of the Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids.
+214:
+Pollution kills a billion Flying Deep Dwellers on Eykop I.
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+The population of Flying Orange Robots on Eykop I has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a mining base on Aenuu VI.
+The pirate Purplecrest receives tribute from Aonex III of the Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids.
+215:
+Pollution kills a billion Flying Deep Dwellers on Eykop I.
+Flying Deep Dwellers have died out on Eykop I!
+The population of Two-Headed Red Trolloids with Long Tails on Krantor VI has grown by a billion.
+Pollution kills a billion Slim Koboldoids on Krantor VI.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a mining base on Sativex I.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a vast museum on Eykop I.
+The pirate Purplecrest subjects Golex V to orbital bombardment.
+216:
+Pollution kills a billion Two-Headed Red Trolloids with Long Tails on Krantor VI.
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+The pirate Purplecrest receives tribute from Aonex III of the Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids.
+217:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids explore Eoneq III. 
+A famine breaks out on Eykop I, killing 2 billion.
+The pirate Purplecrest receives tribute from Urbon III of the Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids.
+218:
+Overcrowding on Krantor VI leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids explore Gumip II. 
+The pirate Purplecrest subjects Gumip II to orbital bombardment.
+219:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a science lab on Golex V.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids launch a space probe called P'neer to explore the galaxy.
+The pirate Purplecrest dies and is buried on Eoneq III.
+220:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+The population of Two-Headed Red Trolloids with Long Tails on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a orbital elevator on Eykop I.
+221:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+The population of Flying Orange Robots on Eykop I has grown by a billion.
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a military base on Gumip II.
+222:
+Overcrowding on Eykop I leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a city of spires on Krantor VI.
+223:
+The population of Slim Koboldoids on Krantor VI has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a grand palace on Urbon III.
+The pirate Bluebeard establishes himself on Fomev II.
+The pirate Bluebeard subjects Urbon III to orbital bombardment, killing 3 billion.
+224:
+The population of Flying Orange Robots on Eykop I has grown by a billion.
+The population of Two-Headed Red Trolloids with Long Tails on Krantor VI has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The pirate Bluebeard receives tribute from Pastinakos I of the Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids.
+225:
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a vast underground vault on Urbon III.
+The Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids build a deep dome on Krantor VI.
+A military putsch turns the Republic of Koboldoids, Trolloids, Deep Dwellers and Humanoids into the Second Empire of Flying Deep Dwellers.
+The pirate Bluebeard receives tribute from Cykop IV of the Second Empire of Flying Deep Dwellers.
+226:
+The population of Two-Headed Red Trolloids with Long Tails on Krantor VI has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+The Second Empire of Flying Deep Dwellers explore Chroma I. 
+The pirate Bluebeard receives tribute from Eoneq III of the Second Empire of Flying Deep Dwellers.
+227:
+The population of Two-Headed Red Trolloids with Long Tails on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The Second Empire of Flying Deep Dwellers build a grand roost on Urbon III.
+The pirate Bluebeard receives tribute from Krantor VI of the Second Empire of Flying Deep Dwellers.
+228:
+The population of Slim Koboldoids on Krantor VI has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The pirate Bluebeard subjects Pastinakos I to orbital bombardment.
+229:
+The population of Flying Orange Robots on Eykop I has grown by a billion.
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The pirate Bluebeard subjects Eoneq III to orbital bombardment.
+230:
+Pollution kills a billion Flying Orange Robots on Eykop I.
+Pollution kills a billion Slim Koboldoids on Krantor VI.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The Second Empire of Flying Deep Dwellers build a mining base on Pastinakos I.
+The Second Empire of Flying Deep Dwellers build a military base on Eoneq III.
+The pirate Bluebeard subjects Fomev II to orbital bombardment.
+231:
+Pollution kills a billion Two-Headed Red Trolloids with Long Tails on Eykop I.
+The population of Two-Headed Red Trolloids with Long Tails on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The Second Empire of Flying Deep Dwellers build a military base on Fomev II.
+The Second Empire of Flying Deep Dwellers create Scaly Robots as servants on Krantor VI.
+The pirate Bluebeard receives tribute from Orgus IV of the Second Empire of Flying Deep Dwellers.
+232:
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The pirate Bluebeard receives tribute from Eoneq III of the Second Empire of Flying Deep Dwellers.
+233:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The pirate Bluebeard dies and is buried on Chroma I.
+234:
+Pollution kills a billion Two-Headed Red Trolloids with Long Tails on Krantor VI.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+235:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+Pollution kills a billion Flying Orange Robots on Eykop I.
+The population of Scaly Robots on Krantor VI has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+236:
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The Second Empire of Flying Deep Dwellers build a grand roost on Krantor VI.
+237:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+Pollution kills a billion Slim Koboldoids on Krantor VI.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The Second Empire of Flying Deep Dwellers explore Aonex III. 
+A famine breaks out on Urbon III, killing 5 billion.
+238:
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Religious fanatics sieze power in the Second Empire of Flying Deep Dwellers and declare the Church of Flying Deep Dwellers.
+The space probe Mar'er returns to Krantor VI.
+The Church of Flying Deep Dwellers gains a wealth of new knowledge as a result.
+239:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+240:
+The population of Two-Headed Red Trolloids with Long Tails on Krantor VI has grown by a billion.
+The population of Scaly Robots on Krantor VI has grown by a billion.
+The population of Two-Headed Red Trolloids with Long Tails on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+241:
+The population of Two-Headed Red Trolloids with Long Tails on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+242:
+The population of Slim Koboldoids on Krantor VI has grown by a billion.
+The population of Scaly Robots on Krantor VI has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+243:
+The population of Slim Koboldoids on Krantor VI has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+244:
+Pollution kills a billion Two-Headed Red Trolloids with Long Tails on Krantor VI.
+Pollution kills a billion Slim Koboldoids on Krantor VI.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+245:
+The population of Two-Headed Red Trolloids with Long Tails on Krantor VI has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The Church of Flying Deep Dwellers enters a dark age. Decrepitude set to 0,  was 130
+246:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+The population of Flying Orange Robots on Eykop I has grown by a billion.
+Pollution kills a billion Slim Koboldoids on Krantor VI.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The Church of Flying Deep Dwellers build a vast museum on Urbon III.
+247:
+Pollution kills a billion Scaly Robots on Krantor VI.
+The population of Six-Legged Humanoids with Giant Eyes on Urbon III has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The film about Flying Deep Dwellers created by the Church of Flying Deep Dwellers in 204 on Krantor VI has been stolen and hidden on Gumip II.
+248:
+Pollution kills a billion Two-Headed Red Trolloids with Long Tails on Eykop I.
+Pollution kills a billion Flying Orange Robots on Eykop I.
+Pollution kills a billion Six-Legged Humanoids with Giant Eyes on Urbon III.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The Church of Flying Deep Dwellers explore Cykop IV. 
+The star of Urbon III goes nova, scraping the planet clean of all life!
+249:
+The population of Two-Headed Red Trolloids with Long Tails on Eykop I has grown by a billion.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+250:
+Pollution kills a billion Two-Headed Red Trolloids with Long Tails on Eykop I.
+Overcrowding on Eykop I leads to increased pollution.
+Overcrowding on Krantor VI leads to increased pollution.
+The Church of Flying Deep Dwellers build a mining base on Urbon III.
+The Church of Flying Deep Dwellers build a grand roost on Eykop I.
+The Church of Flying Deep Dwellers develop powerful new weapons.
+
+Civ Name: Church of Flying Deep Dwellers 
+Civ Birth Year: 189 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 0 | 0 | 0 | 
+Resources 128 Science 5 Military 20 WeapLevel 1 TechLevel 3 Decrepitude 147

@@ -20,6 +20,20 @@ import java.util.ArrayList;
 import static com.zarkonnen.spacegen.CivAction.*;
 
 public class SentientType {
+	int baseStrength = SpaceGen.d(2, 10)+2;
+	int baseDexterity = SpaceGen.d(2, 10)+2;
+	int baseConstitution = SpaceGen.d(2, 10)+2;
+	int baseIntelligence = SpaceGen.d(5, 4) +5;
+	int baseCharisma = SpaceGen.d(2, 10)+2;
+
+	int Strength = returnMod2(baseStrength);
+	int Dexterity = returnMod2(baseDexterity);
+	int Constitution = returnMod2(baseConstitution);
+	int Intelligence = returnMod2(baseIntelligence);
+	int Charisma = returnMod2(baseCharisma);
+
+
+
 	static final SentientType PARASITES;
 	
 	static {
@@ -202,7 +216,7 @@ public class SentientType {
 		}
 		return sb.toString();
 	}
-	
+	//can add in extra stuff here for stat calculation
 	public static String[] PERSONALITY = {
 		"cautious",
 		"violent",
@@ -234,6 +248,7 @@ public class SentientType {
 	};
 	
 	String getDesc() {
+
 		StringBuilder sb = new StringBuilder(base.desc);
 		// Skin
 		if (color != null) {
@@ -248,9 +263,11 @@ public class SentientType {
 		// LIMBS!
 		if (prefixes.contains(Prefix.SIX_LEGGED)) {
 			sb.append(" They have six legs.");
+		//	baseDexterity++;
 		}
 		if (prefixes.contains(Prefix.FOUR_ARMED)) {
 			sb.append(" They have four arms.");
+			//baseStrength++;
 		}
 		if (prefixes.contains(Prefix.TWO_HEADED)) {
 			sb.append(" They have two heads that tend to constantly bicker with one another.");
@@ -265,25 +282,33 @@ public class SentientType {
 		}
 		if (prefixes.contains(Prefix.SLIM)) {
 			sb.append(" and a slim shape.");
+			//baseConstitution--;
 		} else if (prefixes.contains(Prefix.AMORPHOUS)) {
 			sb.append(" and are able to greatly alter their shape.");
+			//baseConstitution++;
 		} else {
 			sb.append(".");
 		}
 		if (postfix == Postfix.EYES) {
 			sb.append(" Their giant eyes take up most of their head.");
+			
 		}	
 		if (postfix == Postfix.TAILS) {
 			sb.append(" They use their long tails for balance.");
+			//baseDexterity++;
 		}	
 		if (prefixes.contains(Prefix.FLYING)) {
 			sb.append(" They can fly.");
 		}
 		if (prefixes.contains(Prefix.TELEPATHIC)) {
 			sb.append(" They can read each others' minds.");
+		//	baseCharisma++;
+			//baseIntelligence++;
 		}
 		if (prefixes.contains(Prefix.IMMORTAL)) {
 			sb.append(" They have no fixed lifespan and only die of disease or accidents.");
+		//	baseConstitution++;
+		//	baseIntelligence++;
 		}
 		
 		sb.append(" They are ").append(personality).append(" and ").append(goal).append(".");
@@ -303,7 +328,7 @@ public class SentientType {
 				}
 			}
 		}
-		
+		sb.append("\n	Their Stats are: STR: ").append(Strength).append(" DEX: " ).append(Dexterity).append(" CON: " ).append(Constitution).append(" INT: " ).append(Intelligence).append(" CHA: " ).append(Charisma);
 		return sb.toString();
 	}
 	
@@ -437,6 +462,38 @@ public class SentientType {
 		final boolean evolvable;
 		final SpecialStructureType specialStructure;
 
+
+		int baseStrength = SpaceGen.d(2, 10);
+		int baseDexterity = SpaceGen.d(2, 10);
+		int baseConstitution = SpaceGen.d(2, 10);
+		int baseIntelligence = SpaceGen.d(2, 10);
+		int baseCharisma = SpaceGen.d(2, 10);
+	
+		int Strength = returnMod(baseStrength);
+		int Dexterity = returnMod(baseDexterity);
+		int Constitution = returnMod(baseConstitution);
+		int Intelligence = returnMod(baseIntelligence);
+		int Charisma = returnMod(baseCharisma);
+	
+		private int returnMod(int x) {
+			int mod = 0;
+			if (x < 4)
+				mod = -3;
+			else if (x < 6)
+				mod = -2;
+			else if (x < 10)
+				mod = -1;
+			else if (x < 12)
+				mod = 0;
+			else if (x < 16)
+				mod = 1;
+			else if (x < 20)
+				mod = 2;
+			else
+				mod = 3;
+			return mod;
+		}
+
 		private Base(String name, boolean evolvable, String desc, String specialStructName, String pSuffix, String[] nameStarts, String[] nameEnds, CivAction... behaviour) {
 			this.name = name;
 			this.desc = desc;
@@ -448,9 +505,29 @@ public class SentientType {
 			this.evolvable = evolvable;
 		}
 
-		
+
 	}
 	
+	private int returnMod2(int x) {
+		int mod = 0;
+		if (x < 4)
+			mod = -3;
+		else if (x < 6)
+			mod = -2;
+		else if (x < 10)
+			mod = -1;
+		else if (x < 12)
+			mod = 0;
+		else if (x < 16)
+			mod = 1;
+		else if (x < 20)
+			mod = 2;
+		else
+			mod = 3;
+		return mod;
+	}
+	
+
 	static class SpecialStructureType implements StructureType {
 		final String name;
 

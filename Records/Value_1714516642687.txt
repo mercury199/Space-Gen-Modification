@@ -1,0 +1,307 @@
+SENTIENT SPECIES:
+Slim Robots with Giant Eyes: Purely mechanical lifeforms, artificially created. They have bilateral symmetry and a slim shape. Their giant eyes take up most of their head. They are modest and always willing to listen. They were created by the Second Church of Scaly Red Deep Dwellers on Cynow VI as servants in 74.
+	Their Stats are: STR: -3 DEX: -1 CON: -3 INT: 0 CHA: 0
+Scaly Red Deep Dwellers: They live in the deep oceans or in deep caves, hiding. Their presence can go unnoticed for a long time. They have red scales. They have bilateral symmetry. They are cowardly and have a deep need to conform. They first evolved on Cynow VI in 30.
+	Their Stats are: STR: -1 DEX: -1 CON: -1 INT: 0 CHA: 0
+
+CIVILISATIONS:
+THE SECOND CHURCH OF SCALY RED DEEP DWELLERS:
+An ancient, corrupt, fantastically wealthy Church of 16 planets, with 3 billion inhabitants.
+Major populations:
+1 billion Scaly Red Deep Dwellers.
+2 billion enslaved Slim Robots with Giant Eyes.
+
+	Their Stats are: STR: -1 DEX: 1 CON: 0 INT: 1 CHA: 1
+PLANETS:
+REGOR V
+A life-bearing planet of the Second Church of Scaly Red Deep Dwellers.
+It is populated by:
+1 billion enslaved Slim Robots with Giant Eyes
+A military base, built by the Second Church of Scaly Red Deep Dwellers in 78
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+Strata:
+Remnants of a culture of Scaly Red Deep Dwellers that collapsed from the effects of pollution in 76.
+Remnants of a culture of Black Dwarfoids that collapsed due to orbital bombardment by the Second Church of Scaly Red Deep Dwellers in 73.
+
+KALAMIS I
+A life-bearing planet of the Second Church of Scaly Red Deep Dwellers.
+A military base, built by the Second Church of Scaly Red Deep Dwellers in 68
+Strata:
+Remnants of a culture of Slim Robots with Giant Eyes that collapsed from the effects of pollution in 82.
+
+FOKEP I
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+A military base, built by the Second Church of Scaly Red Deep Dwellers in 58
+
+REGOR IV
+A life-bearing planet.
+In orbit: The pirate Greycrest, a Scaly Red Deep Dwellers, commanding a fleet of 6 ships.
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Strata:
+The ruins of a mining base, built by the Second Church of Scaly Red Deep Dwellers in 76, destroyed in 89 due to orbital bombardment by the pirate Greycrest.
+
+ATRIA III
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+A mining base, built by the Second Church of Scaly Red Deep Dwellers in 72
+
+ZIGGURAT II
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+In orbit: The rogue AI System 269.
+A mining base, built by the Second Church of Scaly Red Deep Dwellers in 74
+
+PASTINAKOS V
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+A military base, built by the Second Church of Scaly Red Deep Dwellers in 77
+
+EUNIX VI
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+A military base, built by the Second Church of Scaly Red Deep Dwellers in 52
+
+SATIVEX V
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+A military base, built by the Second Church of Scaly Red Deep Dwellers in 75
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+
+CYNOW VI
+A life-bearing planet of the Second Church of Scaly Red Deep Dwellers.
+It is populated by:
+1 billion enslaved Slim Robots with Giant Eyes
+A deep dome, built by the Second Church of Scaly Red Deep Dwellers in 80
+A hymn about Scaly Red Deep Dwellers created by the Second Church of Scaly Red Deep Dwellers in 72
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+
+HELMETTEPOL II
+A life-bearing planet of the Second Church of Scaly Red Deep Dwellers.
+A mining base, built by the Second Church of Scaly Red Deep Dwellers in 69
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Strata:
+Remnants of a culture of Slim Robots with Giant Eyes that collapsed from the effects of pollution in 86.
+
+URBON V
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+A mining base, built by the Second Church of Scaly Red Deep Dwellers in 87
+Strata:
+The ruins of a mining base, built by the Second Church of Scaly Red Deep Dwellers in 73, destroyed in 86 due to orbital bombardment by the pirate Greycrest.
+
+FUNIX III
+A life-bearing planet of the Second Church of Scaly Red Deep Dwellers.
+It is populated by:
+1 billion Scaly Red Deep Dwellers
+A deep dome, built by the Second Church of Scaly Red Deep Dwellers in 74
+A vast underground vault, built by the Second Church of Scaly Red Deep Dwellers in 84
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+
+CUKIS IV
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+A science lab, built by the Second Church of Scaly Red Deep Dwellers in 58
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+Strata:
+A painting of Scaly Red Deep Dwellers created by the Second Church of Scaly Red Deep Dwellers in 61, hidden in 81.
+
+VIM V
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+A mining base, built by the Second Church of Scaly Red Deep Dwellers in 89
+Strata:
+The ruins of a mining base, built by the Second Church of Scaly Red Deep Dwellers in 67, destroyed in 88 due to orbital bombardment by the pirate Greycrest.
+
+URBON IV
+A barren planet of the Second Church of Scaly Red Deep Dwellers.
+A mining base, built by the Second Church of Scaly Red Deep Dwellers in 62
+
+HELMETTEPOL IV
+A life-bearing planet of the Second Church of Scaly Red Deep Dwellers.
+A science lab, built by the Second Church of Scaly Red Deep Dwellers in 70
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+Lifeforms of note:
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Regor V, Kalamis I, Fokep I, Regor IV, Atria III, Ziggurat II, Pastinakos V, Eunix VI, Sativex V, Cynow VI, Helmettepol II, Urbon V, Funix III, Cukis IV, Vim V, Urbon IV, Helmettepol IV
+3:
+Life arises on Cynow VI
+10:
+Life arises on Funix III
+15:
+Beautiful aurorae play across the skies of Helmettepol IV.
+24:
+Life arises on Regor IV
+26:
+Life arises on Helmettepol II
+27:
+Sentient Black Dwarfoids arise on Funix III.
+28:
+Regor V becomes tidally locked to its star.
+Life arises on Helmettepol IV
+30:
+Sentient Scaly Red Deep Dwellers arise on Cynow VI.
+35:
+Shape-shifters evolve on Regor IV.
+44:
+The Scaly Red Deep Dwellers on Cynow VI achieve spaceflight and organise as a Theocracy, the Church of Scaly Red Deep Dwellers.
+
+Civ Name: Church of Scaly Red Deep Dwellers 
+Civ Birth Year: 44 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 0 | -1 | 1 | 1 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+45:
+WE ENTER THE FIRST AGE OF CIVILISATION
+46:
+Pharmaceuticals evolve on Helmettepol IV.
+49:
+Life arises on Regor V
+51:
+The Church of Scaly Red Deep Dwellers develop powerful new weapons.
+52:
+The Church of Scaly Red Deep Dwellers build a military base on Eunix VI.
+The Church of Scaly Red Deep Dwellers explore Regor V. 
+54:
+Deep impenetrable seas form on Cynow VI.
+57:
+Titanic mountains form on Cukis IV.
+58:
+The Church of Scaly Red Deep Dwellers build a military base on Fokep I.
+
+ Science Golden Age Revival!Church of Scaly Red Deep Dwellers previous decrepitude: 9 revival amount: 46
+
+Civ Name: Church of Scaly Red Deep Dwellers 
+Civ Birth Year: 44 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 0 | -1 | 1 | 1 | 
+Resources 1 Science 18 Military 3 WeapLevel 1 TechLevel 1 Decrepitude 9
+The Church of Scaly Red Deep Dwellers enters a golden age of science! The Church of Scaly Red Deep Dwellers build a science lab on Cukis IV.
+Vast grazing herds evolve on Funix III.
+60:
+Vast grazing herds evolve on Helmettepol IV.
+61:
+Pollution kills a billion Scaly Red Deep Dwellers on Cynow VI.
+
+ Art Golden Age Revival!Church of Scaly Red Deep Dwellers previous decrepitude: 14 revival amount: 4
+
+Civ Name: Church of Scaly Red Deep Dwellers 
+Civ Birth Year: 44 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 0 | -1 | 1 | 1 | 
+Resources 4 Science 5 Military 3 WeapLevel 1 TechLevel 2 Decrepitude 14
+Artists on Cynow VI create a painting of Scaly Red Deep Dwellers. 
+62:
+The Church of Scaly Red Deep Dwellers build a mining base on Urbon IV.
+Life arises on Kalamis I
+Living islands evolve on Helmettepol II.
+63:
+Religious fanatics sieze power in the Church of Scaly Red Deep Dwellers and declare the Second Church of Scaly Red Deep Dwellers.
+65:
+The Second Church of Scaly Red Deep Dwellers colonise Funix III. Of the natives of that planet, the 2 billion Black Dwarfoids are enslaved. 
+66:
+The Second Church of Scaly Red Deep Dwellers develop powerful new weapons.
+67:
+The Second Church of Scaly Red Deep Dwellers build a mining base on Vim V.
+68:
+Pollution kills a billion Black Dwarfoids on Funix III.
+The Second Church of Scaly Red Deep Dwellers build a military base on Kalamis I.
+69:
+The Second Church of Scaly Red Deep Dwellers build a mining base on Helmettepol II.
+70:
+The Second Church of Scaly Red Deep Dwellers build a science lab on Helmettepol IV.
+71:
+The Second Church of Scaly Red Deep Dwellers colonise Regor V. 
+
+Civ Name: Republic of Black Dwarfoids 
+Civ Birth Year: 71 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | -5 | 0 | 0 | -6 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Regor V revolt, killing their oppressors and declaring the Free Republic of Black Dwarfoids.
+The Second Church of Scaly Red Deep Dwellers conquer Regor V, a colony of the Republic of Black Dwarfoids.
+72:
+The Second Church of Scaly Red Deep Dwellers build a mining base on Atria III.
+
+ Art Golden Age Revival!Second Church of Scaly Red Deep Dwellers previous decrepitude: 35 revival amount: 3
+
+Civ Name: Second Church of Scaly Red Deep Dwellers 
+Civ Birth Year: 44 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 0 | -1 | 1 | 1 | 
+Resources 4 Science 23 Military 6 WeapLevel 2 TechLevel 2 Decrepitude 35
+Artists on Cynow VI create a hymn about Scaly Red Deep Dwellers. 
+The Republic of Black Dwarfoids collapses.
+Ocean giants evolve on Regor IV.
+73:
+The Second Church of Scaly Red Deep Dwellers build a mining base on Urbon V.
+The Second Church of Scaly Red Deep Dwellers explore Pastinakos V. 
+
+Civ Name: Second Republic of Black Dwarfoids 
+Civ Birth Year: 73 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | -2 | -1 | -1 | -6 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Regor V revolt, killing their oppressors and declaring the Free Second Republic of Black Dwarfoids.
+The Second Church of Scaly Red Deep Dwellers attack and raze Regor V, a colony of the Second Republic of Black Dwarfoids.
+74:
+The Second Church of Scaly Red Deep Dwellers build a mining base on Ziggurat II.
+The Second Church of Scaly Red Deep Dwellers build a deep dome on Funix III.
+The Second Church of Scaly Red Deep Dwellers create Slim Robots with Giant Eyes as servants on Cynow VI.
+The Second Republic of Black Dwarfoids collapses.
+75:
+The Second Church of Scaly Red Deep Dwellers build a military base on Sativex V.
+The Second Church of Scaly Red Deep Dwellers colonise Regor V. 
+76:
+Pollution kills a billion Scaly Red Deep Dwellers on Regor V.
+Scaly Red Deep Dwellers have died out on Regor V!
+The Second Church of Scaly Red Deep Dwellers build a mining base on Regor IV.
+77:
+The Second Church of Scaly Red Deep Dwellers build a military base on Pastinakos V.
+The Second Church of Scaly Red Deep Dwellers colonise Helmettepol II. 
+Captain Zursuix, space adventurer, blasts off from Fokep I.
+78:
+The Second Church of Scaly Red Deep Dwellers build a military base on Regor V.
+The Second Church of Scaly Red Deep Dwellers colonise Kalamis I. 
+79:
+The Second Church of Scaly Red Deep Dwellers colonise Regor V. 
+80:
+The Second Church of Scaly Red Deep Dwellers build a deep dome on Cynow VI.
+81:
+The painting of Scaly Red Deep Dwellers created by the Second Church of Scaly Red Deep Dwellers in 61 on Cynow VI has been stolen and hidden on Cukis IV.
+82:
+Pollution kills a billion Slim Robots with Giant Eyes on Kalamis I.
+Slim Robots with Giant Eyes have died out on Kalamis I!
+84:
+The Second Church of Scaly Red Deep Dwellers build a vast underground vault on Funix III.
+85:
+The pirate Greycrest establishes himself on Ziggurat II.
+The pirate Greycrest receives tribute from Helmettepol IV of the Second Church of Scaly Red Deep Dwellers.
+Captain Zursuix is sent on a mission to defeat the pirate Greycrest by the government of Atria III.
+Captain Zursuix fails to find any trace of the pirate Greycrest.
+Titanic mountains form on Sativex V.
+Shape-shifters evolve on Helmettepol IV.
+86:
+Pollution kills a billion Slim Robots with Giant Eyes on Helmettepol II.
+Slim Robots with Giant Eyes have died out on Helmettepol II!
+The Second Church of Scaly Red Deep Dwellers accidentally create the rogue AI System 269 on Urbon IV.
+Captain Zursuix is sent on a mission to defeat the pirate Greycrest by the government of Pastinakos V.
+Captain Zursuix tracks down the pirate Greycrest in orbit around Helmettepol IV.
+Captain Zursuix is defeated by the pirate Greycrest and flees back to Helmettepol IV.
+The pirate Greycrest subjects Urbon V to orbital bombardment.
+Captain Zursuix is sent on a mission to defeat the pirate Greycrest by the government of Kalamis I.
+Captain Zursuix tracks down the pirate Greycrest in orbit around Urbon V.
+Captain Zursuix is defeated utterly by the pirate.
+87:
+The Second Church of Scaly Red Deep Dwellers build a mining base on Urbon V.
+The pirate Greycrest receives tribute from Pastinakos V of the Second Church of Scaly Red Deep Dwellers.
+88:
+The pirate Greycrest subjects Vim V to orbital bombardment.
+Pharmaceuticals evolve on Helmettepol II.
+89:
+The Second Church of Scaly Red Deep Dwellers build a mining base on Vim V.
+The pirate Greycrest subjects Regor IV to orbital bombardment.

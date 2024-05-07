@@ -149,6 +149,7 @@ public enum BadCivEvent {
 			String oldName = actor.name;
 			actor.fullMembers.clear();
 			actor.fullMembers.add(rulers);
+			actor.calculate_race_stats();
 			actor.setGovt(Government.DICTATORSHIP, sg.historicalCivNames);
 			for (Planet p : actor.getColonies()) {
 				for (Population pop : p.inhabitants) {
@@ -255,6 +256,11 @@ public enum BadCivEvent {
 				newCiv.setMilitary(actor.getMilitary() / 2);
 				newCiv.setTechLevel(actor.getTechLevel());
 				newCiv.setWeapLevel(actor.getWeapLevel());
+				newCiv.Strength=actor.Strength;
+				newCiv.Intelligence=actor.Intelligence;
+				newCiv.Charisma=actor.Charisma;
+				newCiv.Dexterity=actor.Dexterity;
+				newCiv.Constitution=actor.Constitution;
 				actor.setMilitary(actor.getMilitary() - newCiv.getMilitary());
 				actor.setResources(actor.getResources() - newCiv.getResources());
 				for (int i = 1; i < bigPlanets.size() / 2; i++) {
@@ -262,12 +268,14 @@ public enum BadCivEvent {
 					for (Population pop : bigPlanets.get(i).inhabitants) {
 						if (!newCiv.fullMembers.contains(pop.type)) {
 							newCiv.fullMembers.add(pop.type);
+							newCiv.calculate_race_stats();
 						}
 					}
 				}
 				for (Population pop : bigPlanets.get(0).inhabitants) {
 					if (!newCiv.fullMembers.contains(pop.type)) {
 						newCiv.fullMembers.add(pop.type);
+						newCiv.calculate_race_stats();
 					}
 				}
 				for (Planet c : new ArrayList<Planet>(actor.getColonies())) {

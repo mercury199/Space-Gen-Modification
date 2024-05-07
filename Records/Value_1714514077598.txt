@@ -1,0 +1,1104 @@
+SENTIENT SPECIES:
+Tiny Grey Robots with Giant Eyes: Purely mechanical lifeforms, artificially created. They have grey skin. They have bilateral symmetry. Their giant eyes take up most of their head. They are gregarious and strive to uphold their ideals of personal honour. They were created by the Republic of Two-Headed Humanoids with Threefold Symmetry on Taranis V as servants in 143.
+	Their Stats are: STR: 1 DEX: 1 CON: 0 INT: 2 CHA: 1
+Scaly Green Deep Dwellers: They live in the deep oceans or in deep caves, hiding. Their presence can go unnoticed for a long time. They have green scales. They have bilateral symmetry. They are hyperactive and have a complex system of social castes. They first evolved on Hylus I in 137.
+	Their Stats are: STR: 1 DEX: 1 CON: 1 INT: 1 CHA: -1
+Amorphous Yellow Robots: Purely mechanical lifeforms, artificially created. They have yellow skin. They have bilateral symmetry and are able to greatly alter their shape. They are violent and value personal integrity above all else. They were created by the Church of Deep Dwellers, Trolloids and Catoids on Bulir II as servants in 112.
+	Their Stats are: STR: 1 DEX: 0 CON: -1 INT: 1 CHA: 2
+Two-Headed Humanoids with Threefold Symmetry: Pretty adventurous but otherwise fairly average. They have two heads that tend to constantly bicker with one another. They have trilateral symmetry. They are violent and value personal integrity above all else. They were uplifted by the Church of Deep Dwellers, Trolloids and Catoids on Gelur II in 128.
+	Their Stats are: STR: -1 DEX: -1 CON: -1 INT: 2 CHA: -1
+Blue Deep Dwellers: They live in the deep oceans or in deep caves, hiding. Their presence can go unnoticed for a long time. They have blue skin. They have bilateral symmetry. They are meditative and unwilling to compromise. They first evolved on Bulir II in 52.
+	Their Stats are: STR: -2 DEX: 2 CON: 2 INT: -2 CHA: -1
+Tiny Catoids: Always curious and often cruel. They have bilateral symmetry. They are modest and have a complex system of social castes. They first evolved on Bulir II in 82.
+	Their Stats are: STR: -1 DEX: 1 CON: -1 INT: 0 CHA: -2
+Telepathic Trolloids: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have bilateral symmetry. They can read each others' minds. They are peaceful and have a complex system of social castes. They developed from Two-Headed Trolloids in 101.
+	Their Stats are: STR: -1 DEX: -2 CON: 0 INT: 2 CHA: 2
+Six-Legged Robots with Five-fold Symmetry: Purely mechanical lifeforms, artificially created. They have six legs. They have five-fold symmetry. They are reclusive and believe that each individual must serve the community. They were created by the Republic of Humanoids and Robots on Bomev V as servants in 102.
+	Their Stats are: STR: -2 DEX: -1 CON: 1 INT: 0 CHA: 2
+
+CIVILISATIONS:
+THE CHURCH OF DEEP DWELLERS, TROLLOIDS AND CATOIDS:
+An ancient, corrupt, fantastically wealthy, advanced Church of 14 planets, with 86 billion inhabitants.
+Major populations:
+15 billion Blue Deep Dwellers.
+29 billion Tiny Catoids.
+25 billion Telepathic Trolloids.
+9 billion enslaved Scaly Green Deep Dwellers.
+5 billion enslaved Amorphous Yellow Robots.
+3 billion enslaved Two-Headed Humanoids with Threefold Symmetry.
+It controls a Killer Meme.
+It is at peace with the Republic of Humanoids and Robots.
+It is at war with the Republic of Two-Headed Humanoids with Threefold Symmetry.
+
+	Their Stats are: STR: -3 DEX: 1 CON: -1 INT: 1 CHA: 0
+THE REPUBLIC OF HUMANOIDS AND ROBOTS:
+An ancient, corrupt, impoverished Republic of 3 planets, with 1 billion inhabitants.
+Major populations:
+1 billion Six-Legged Robots with Five-fold Symmetry.
+It is at peace with the Church of Deep Dwellers, Trolloids and Catoids.
+It is at peace with the Republic of Two-Headed Humanoids with Threefold Symmetry.
+
+	Their Stats are: STR: -1 DEX: 0 CON: -3 INT: -1 CHA: -3
+THE REPUBLIC OF TWO-HEADED HUMANOIDS WITH THREEFOLD SYMMETRY:
+A well-established Republic of 2 planets, with 5 billion inhabitants.
+Major populations:
+4 billion enslaved Tiny Grey Robots with Giant Eyes.
+1 billion enslaved Tiny Catoids.
+It is at war with the Church of Deep Dwellers, Trolloids and Catoids.
+It is at peace with the Republic of Humanoids and Robots.
+
+	Their Stats are: STR: 1 DEX: 1 CON: -1 INT: 0 CHA: -1
+PLANETS:
+DUMIV V
+A life-bearing planet of the Republic of Humanoids and Robots.
+A science lab, built by the Republic of Humanoids and Robots in 147
+Strata:
+A Youth Serum created by the Church of Deep Dwellers, Trolloids and Catoids in 123, buried in 147.
+The ruins of a complex of arcologies, built by the Republic of Humanoids and Robots in 141, destroyed in 147 .
+Remnants of a culture of Tiny Catoids that collapsed from the effects of pollution in 147.
+Remnants of a culture of Telepathic Trolloids that collapsed from the effects of pollution in 145.
+Remnants of a culture of Blue Deep Dwellers that collapsed from the effects of pollution in 136.
+The ruins of a science lab, built by the Church of Deep Dwellers, Trolloids and Catoids in 121, destroyed in 132 during the invasion of the Republic of Humanoids and Robots.
+Remnants of a culture of White Koboldoids that collapsed from the effects of pollution in 103.
+
+EUKIV I
+A life-bearing planet of the Church of Deep Dwellers, Trolloids and Catoids.
+It is a little polluted.
+It is populated by:
+3 billion Telepathic Trolloids
+7 billion Tiny Catoids
+1 billion enslaved Scaly Green Deep Dwellers
+A vast underground vault, built by the Church of Deep Dwellers, Trolloids and Catoids in 140
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+
+FOKEP I
+A barren planet of the Church of Deep Dwellers, Trolloids and Catoids.
+A science lab, built by the Church of Deep Dwellers, Trolloids and Catoids in 120
+Strata:
+The ruins of a military base, built by the Republic of Deep Dwellers and Koboldoids in 98, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+
+COLEQ I
+A barren planet of the Church of Deep Dwellers, Trolloids and Catoids.
+A military base, built by the Church of Deep Dwellers, Trolloids and Catoids in 123
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+
+GIKAV I
+A life-bearing planet of the Church of Deep Dwellers, Trolloids and Catoids.
+It is a little polluted.
+It is populated by:
+3 billion Tiny Catoids
+5 billion Blue Deep Dwellers
+2 billion Telepathic Trolloids
+A military base, built by the Church of Deep Dwellers, Trolloids and Catoids in 124
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+Strata:
+The ruins of a military base, built by the Republic of Deep Dwellers and Koboldoids in 90, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+Fossils of radiovores that went extinct in 68 due to a nova.
+
+REGOR IV
+A barren planet of the Republic of Two-Headed Humanoids with Threefold Symmetry.
+A mining base, built by the Church of Deep Dwellers, Trolloids and Catoids in 135
+Strata:
+The ruins of a mining base, built by the Republic of Deep Dwellers and Koboldoids in 100, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+
+GELUR II
+A life-bearing planet of the Church of Deep Dwellers, Trolloids and Catoids.
+It is populated by:
+3 billion enslaved Two-Headed Humanoids with Threefold Symmetry
+5 billion Telepathic Trolloids
+2 billion enslaved Scaly Green Deep Dwellers
+A grand palace, built by the Church of Deep Dwellers, Trolloids and Catoids in 144
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+Strata:
+Remnants of a culture of Tiny Catoids that collapsed during a slave revolt in 137.
+Remnants of a culture of Blue Deep Dwellers that collapsed during a slave revolt in 137.
+A Virtual Reality Matrix created by the Republic of Deep Dwellers and Koboldoids in 94, buried in 115.
+The ruins of a skull pit, built by the Republic of Deep Dwellers and Koboldoids in 112, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+The ruins of a complex of arcologies, built by the Republic of Deep Dwellers and Koboldoids in 105, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+The ruins of a grand palace, built by the Republic of Deep Dwellers and Koboldoids in 101, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+Remnants of a culture of White Koboldoids that collapsed from the Orange Wasting in 115. The Orange Wasting, which affects White Koboldoids, slumbers in their corpses.
+Remnants of a culture of Amorphous Grey Deep Dwellers that collapsed from the effects of pollution in 88.
+
+HYLUS I
+A life-bearing planet of the Church of Deep Dwellers, Trolloids and Catoids.
+In orbit: The pirate Purplebeard, a Slim Humanoids, commanding a fleet of 2 ships.
+It is a little polluted.
+It is populated by:
+6 billion enslaved Scaly Green Deep Dwellers
+3 billion Tiny Catoids
+4 billion Blue Deep Dwellers
+A science lab, built by the Church of Deep Dwellers, Trolloids and Catoids in 125
+Lifeforms of note:
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+The ruins of a military base, built by the Republic of Deep Dwellers and Koboldoids in 97, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+
+BULIR II
+A life-bearing planet of the Church of Deep Dwellers, Trolloids and Catoids.
+It is somewhat polluted.
+It is populated by:
+6 billion Blue Deep Dwellers
+6 billion Tiny Catoids
+5 billion enslaved Amorphous Yellow Robots
+A city of spires, built by the Church of Deep Dwellers, Trolloids and Catoids in 108
+A torture chamber, built by the Church of Deep Dwellers, Trolloids and Catoids in 136
+A hymn about giant spaceborne blue crystal created by the Republic of Deep Dwellers and Koboldoids in 90
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+
+ZIGGURAT VI
+A barren planet of the Church of Deep Dwellers, Trolloids and Catoids.
+A mining base, built by the Church of Deep Dwellers, Trolloids and Catoids in 136
+Strata:
+The ruins of a science lab, built by the Republic of Humanoids and Robots in 125, destroyed in 133 due to orbital bombardment by the Church of Deep Dwellers, Trolloids and Catoids.
+
+KRANTOR I
+A barren planet of the Church of Deep Dwellers, Trolloids and Catoids.
+In orbit: The rogue AI Experiment 304.
+A mining base, built by the Republic of Deep Dwellers and Koboldoids in 89
+A Killer Meme created by the rogue AI Experiment 304 in 145
+
+TARANIS V
+A life-bearing planet of the Republic of Two-Headed Humanoids with Threefold Symmetry.
+It is populated by:
+1 billion enslaved Tiny Catoids
+4 billion enslaved Tiny Grey Robots with Giant Eyes
+A vast museum, built by the Republic of Two-Headed Humanoids with Threefold Symmetry in 142
+Lifeforms of note:
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Strata:
+The ruins of a military base, built by the Republic of Deep Dwellers and Koboldoids in 86, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+
+GIKAV I
+A life-bearing planet of the Church of Deep Dwellers, Trolloids and Catoids.
+It is slightly polluted.
+It is populated by:
+5 billion Tiny Catoids
+10 billion Telepathic Trolloids
+A deep dome, built by the Church of Deep Dwellers, Trolloids and Catoids in 148
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Strata:
+The ruins of a mining base, built by the Republic of Deep Dwellers and Koboldoids in 98, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+Remnants of a culture of White Koboldoids that collapsed from the effects of pollution in 106.
+Remnants of a culture of Amorphous Deep Dwellers that collapsed from the effects of pollution in 97.
+
+AUTOROG III
+A barren planet of the Church of Deep Dwellers, Trolloids and Catoids.
+A military base, built by the Church of Deep Dwellers, Trolloids and Catoids in 126
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+Strata:
+The ruins of a mining base, built by the Republic of Deep Dwellers and Koboldoids in 95, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+
+METATRON V
+A barren planet.
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+Strata:
+The ruins of a science lab, built by the Church of Deep Dwellers, Trolloids and Catoids in 137, destroyed in 147 due to orbital bombardment by the Republic of Two-Headed Humanoids with Threefold Symmetry.
+The Tomb of Captain Wipram, buried in 118.
+The ruins of a mining base, built by the Republic of Deep Dwellers and Koboldoids in 103, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+
+REGOR III
+A life-bearing planet of the Church of Deep Dwellers, Trolloids and Catoids.
+It is populated by:
+5 billion Telepathic Trolloids
+5 billion Tiny Catoids
+A science lab, built by the Church of Deep Dwellers, Trolloids and Catoids in 127
+Lifeforms of note:
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Strata:
+The ruins of a mining base, built by the Republic of Deep Dwellers and Koboldoids in 98, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+The Tomb of Captain Ulnpram, buried in 111.
+Remnants of a culture of Giant Ursoids that collapsed from the effects of pollution in 92.
+
+AYLOW I
+A barren planet of the Church of Deep Dwellers, Trolloids and Catoids.
+A military base, built by the Church of Deep Dwellers, Trolloids and Catoids in 139
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+Strata:
+The ruins of a military base, built by the Church of Deep Dwellers, Trolloids and Catoids in 132, destroyed in 138 due to orbital bombardment by the Republic of Humanoids and Robots.
+The ruins of a mining base, built by the Republic of Deep Dwellers and Koboldoids in 89, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+
+URBON VI
+A barren planet of the Church of Deep Dwellers, Trolloids and Catoids.
+A military base, built by the Church of Deep Dwellers, Trolloids and Catoids in 130
+Strata:
+The ruins of a mining base, built by the Republic of Deep Dwellers and Koboldoids in 93, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+
+BAL V
+A life-bearing planet of the Republic of Humanoids and Robots.
+A science lab, built by the Republic of Humanoids and Robots in 139
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+Lifeforms of note:
+Ultravores: The ultimate apex predator, the Ultravore is capable of stalking and killing even the most intelligent and well-armed prey.
+Strata:
+The ruins of a repair bay, built by the Republic of Humanoids and Robots in 135, destroyed in 139 due to orbital bombardment by the Church of Deep Dwellers, Trolloids and Catoids.
+Remnants of a culture of Tiny Catoids that collapsed due to orbital bombardment by the Church of Deep Dwellers, Trolloids and Catoids in 139.
+A Teleport Gate created by the Republic of Deep Dwellers and Koboldoids in 114, buried in 115.
+The ruins of a science lab, built by the Republic of Deep Dwellers and Koboldoids in 93, destroyed in 115 during the collapse of the Republic of Deep Dwellers and Koboldoids.
+
+BOMEV V
+A life-bearing planet of the Republic of Humanoids and Robots.
+It is populated by:
+1 billion Six-Legged Robots with Five-fold Symmetry
+A vast museum, built by the Republic of Humanoids and Robots in 106
+A complex of arcologies, built by the Republic of Humanoids and Robots in 107
+A painting of Mar'er created by the Republic of Humanoids and Robots in 121
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Strata:
+Remnants of a culture of Slim Humanoids that collapsed due to orbital bombardment by the Church of Deep Dwellers, Trolloids and Catoids in 134.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Dumiv V, Eukiv I, Fokep I, Coleq I, Gikav I, Regor IV, Gelur II, Hylus I, Bulir II, Ziggurat VI, Krantor I, Taranis V, Gikav I, Autorog III, Metatron V, Regor III, Aylow I, Urbon VI, Bal V, Bomev V
+2:
+Vast canyons are carved on Metatron V.
+5:
+Life arises on Bulir II
+19:
+Life arises on Gelur II
+30:
+Radiovores evolve on Bulir II.
+33:
+Life arises on Hylus I
+Life arises on Bomev V
+34:
+Deep impenetrable seas form on Autorog III.
+38:
+Living islands evolve on Gelur II.
+Life arises on Regor III
+40:
+Life arises on Eukiv I
+Life arises on Gikav I
+42:
+Life arises on Gikav I
+43:
+Gas bags evolve on Bulir II.
+47:
+All life on Eukiv I is killed off by a massive asteroid impact!
+49:
+Radiovores evolve on Bomev V.
+52:
+Sentient Blue Deep Dwellers arise on Bulir II.
+54:
+A psionic shockwave of unknown origin passes through Regor III, instantly stopping all life!
+58:
+Life arises on Eukiv I
+59:
+Shape-shifters evolve on Gikav I.
+Life arises on Bal V
+60:
+Radiovores evolve on Gikav I.
+Ocean giants evolve on Hylus I.
+65:
+Life arises on Regor III
+68:
+The star of Gikav I goes nova, scraping the planet clean of all life!
+Sentient Immortal Grey Deep Dwellers arise on Gelur II.
+Sentient Giant Ursoids arise on Regor III.
+Sentient Slim Humanoids arise on Bomev V.
+77:
+The Immortal Grey Deep Dwellers on Gelur II mutate into Amorphous Grey Deep Dwellers.
+Life arises on Taranis V
+78:
+Radiovores evolve on Eukiv I.
+82:
+Sentient Tiny Catoids arise on Bulir II.
+83:
+The Amorphous Grey Deep Dwellers on Gelur II achieve spaceflight and organise as a Theocracy, the Church of Amorphous Grey Deep Dwellers.
+
+Civ Name: Church of Amorphous Grey Deep Dwellers 
+Civ Birth Year: 83 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | -1 | -3 | -3 | -1 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+84:
+WE ENTER THE FIRST AGE OF CIVILISATION
+Pollution kills a billion Amorphous Grey Deep Dwellers on Gelur II.
+85:
+The Church of Amorphous Grey Deep Dwellers explore Regor III. They subjugate the local Giant Ursoids. 
+Radiovores evolve on Gikav I.
+86:
+Pollution kills a billion Amorphous Grey Deep Dwellers on Gelur II.
+Pollution kills a billion Giant Ursoids on Regor III.
+The Church of Amorphous Grey Deep Dwellers build a military base on Taranis V.
+88:
+Pollution kills a billion Amorphous Grey Deep Dwellers on Gelur II.
+Amorphous Grey Deep Dwellers have died out on Gelur II!
+Ocean giants evolve on Taranis V.
+89:
+
+ Industrial Golden Age Revival!Church of Amorphous Grey Deep Dwellers previous decrepitude: 1 revival amount: 1
+
+Civ Name: Church of Amorphous Grey Deep Dwellers 
+Civ Birth Year: 83 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | -1 | -3 | -3 | -1 | 
+Resources 4 Science 6 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 1
+The Church of Amorphous Grey Deep Dwellers enters a golden age of industry! The Church of Amorphous Grey Deep Dwellers build a mining base on Aylow I. The Church of Amorphous Grey Deep Dwellers build a mining base on Krantor I.
+Sentient Two-Headed Trolloids arise on Eukiv I.
+90:
+A giant spaceborne blue crystal appears from the depths of space and menaces the skies of Regor IV.
+The Church of Amorphous Grey Deep Dwellers build a military base on Gikav I.
+The Church of Amorphous Grey Deep Dwellers uplift the local White Koboldoids on Gelur II and incorporate the planet into their civilisation.
+
+ Art Golden Age Revival!Church of Amorphous Grey Deep Dwellers previous decrepitude: 2 revival amount: 2
+
+Civ Name: Church of Amorphous Grey Deep Dwellers 
+Civ Birth Year: 83 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | -1 | -3 | -3 | -1 | 
+Resources 2 Science 1 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 2
+Artists on Gelur II create a hymn about giant spaceborne blue crystal. 
+The giant spaceborne blue crystal leaves the orbit of Regor IV and heads back into deep space.
+A gigantic network of caves forms on Aylow I.
+91:
+The Church of Amorphous Grey Deep Dwellers build a science lab on Ziggurat VI.
+Vast grazing herds evolve on Hylus I.
+92:
+Pollution kills a billion Giant Ursoids on Regor III.
+Giant Ursoids have died out on Regor III!
+Sentient Amorphous Deep Dwellers arise on Gelur II.
+93:
+The Church of Amorphous Grey Deep Dwellers build a mining base on Urbon VI.
+
+ Science Golden Age Revival!Church of Amorphous Grey Deep Dwellers previous decrepitude: 5 revival amount: 0
+
+Civ Name: Church of Amorphous Grey Deep Dwellers 
+Civ Birth Year: 83 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | -1 | -3 | -3 | -1 | 
+Resources 2 Science 18 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 5
+The Church of Amorphous Grey Deep Dwellers enters a golden age of science! The Church of Amorphous Grey Deep Dwellers build a science lab on Bal V.
+94:
+The Church of Amorphous Grey Deep Dwellers build a science lab on Coleq I.
+The Church of Amorphous Grey Deep Dwellers develop a Virtual Reality Matrix.
+95:
+Overcrowding on Gelur II leads to increased pollution.
+The Church of Amorphous Grey Deep Dwellers build a mining base on Autorog III.
+The Church of Amorphous Grey Deep Dwellers terraform and colonise Dumiv V.
+The Blue Deep Dwellers on Bulir II achieve spaceflight and organise as a Military Dictatorship, the Empire of Blue Deep Dwellers.
+
+Civ Name: Empire of Blue Deep Dwellers 
+Civ Birth Year: 95 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | 3 | 1 | -1 | -1 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Slim Humanoids on Bomev V achieve spaceflight and organise as a Military Dictatorship, the Empire of Slim Humanoids.
+
+Civ Name: Empire of Slim Humanoids 
+Civ Birth Year: 95 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 1 | -2 | -2 | -2 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+96:
+The population of Tiny Catoids on Bulir II has grown by a billion.
+The Church of Amorphous Grey Deep Dwellers colonise Gikav I. 
+Life arises on Gikav I
+97:
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Pollution kills a billion Amorphous Deep Dwellers on Gikav I.
+Amorphous Deep Dwellers have died out on Gikav I!
+The Church of Amorphous Grey Deep Dwellers build a military base on Hylus I.
+Overcrowding on Bulir II leads to increased pollution.
+The Empire of Slim Humanoids send a delegation to Bal V. They declare war on the Church of Amorphous Grey Deep Dwellers! 
+Deep impenetrable seas form on Bal V.
+98:
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Pollution kills a billion Slim Humanoids on Bomev V.
+The Church of Amorphous Grey Deep Dwellers build a military base on Fokep I.
+
+ Industrial Golden Age Revival!Church of Amorphous Grey Deep Dwellers previous decrepitude: 10 revival amount: 1
+
+Civ Name: Church of Amorphous Grey Deep Dwellers 
+Civ Birth Year: 83 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | -1 | -3 | -3 | -1 | 
+Resources 2 Science 10 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 10
+The Church of Amorphous Grey Deep Dwellers enters a golden age of industry! The Church of Amorphous Grey Deep Dwellers build a mining base on Gikav I. The Church of Amorphous Grey Deep Dwellers build a mining base on Regor III.
+Overcrowding on Bulir II leads to increased pollution.
+The Empire of Slim Humanoids send a delegation to Bal V. They sign a peace accord with the Church of Amorphous Grey Deep Dwellers, ending their war. 
+99:
+Pollution kills a billion Tiny Catoids on Bulir II.
+The Church of Amorphous Grey Deep Dwellers colonise Gikav I. 
+Overcrowding on Bulir II leads to increased pollution.
+100:
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The Church of Amorphous Grey Deep Dwellers build a mining base on Regor IV.
+The Church of Amorphous Grey Deep Dwellers colonise Gikav I. 
+Overcrowding on Bulir II leads to increased pollution.
+
+ Industrial Golden Age Revival!Empire of Slim Humanoids previous decrepitude: 0 revival amount: 0
+
+Civ Name: Empire of Slim Humanoids 
+Civ Birth Year: 95 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 1 | -2 | -2 | -2 | 
+Resources 11 Science 5 Military 5 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Empire of Slim Humanoids enters a golden age of industry!  
+Ocean giants evolve on Regor III.
+101:
+The Two-Headed Trolloids on Eukiv I mutate into Telepathic Trolloids.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+The Church of Amorphous Grey Deep Dwellers build a grand palace on Gelur II.
+Captain Ulnpram, space adventurer, blasts off from Regor III.
+Overcrowding on Bulir II leads to increased pollution.
+An expedition led by Captain Ulnpram explores Eukiv I. They trade with the local Telepathic Trolloids. 
+Ocean giants evolve on Gikav I.
+102:
+Pollution kills a billion Amorphous Deep Dwellers on Gikav I.
+Amorphous Deep Dwellers have died out on Gikav I!
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+Pollution kills a billion Tiny Catoids on Bulir II.
+
+ Decomocratization Revival!Church of Amorphous Grey Deep Dwellers previous decrepitude: 21 revival amount: 0
+
+Civ Name: Church of Amorphous Grey Deep Dwellers 
+Civ Birth Year: 83 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | -1 | -3 | -3 | -1 | 
+Resources 9 Science 10 Military 6 WeapLevel 0 TechLevel 1 Decrepitude 21
+A popular movement overthrows the old guard of the Church of Amorphous Grey Deep Dwellers and declares the Republic of Deep Dwellers and Koboldoids.
+Overcrowding on Bulir II leads to increased pollution.
+The Empire of Blue Deep Dwellers launch a space probe called Mar'er to explore the galaxy.
+The Empire of Slim Humanoids explore Bomev V. 
+The Empire of Slim Humanoids create Six-Legged Robots with Five-fold Symmetry as servants on Bomev V.
+103:
+Pollution kills a billion White Koboldoids on Dumiv V.
+White Koboldoids have died out on Dumiv V!
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+The Republic of Deep Dwellers and Koboldoids build a mining base on Metatron V.
+The Republic of Deep Dwellers and Koboldoids build a mining base on Dumiv V.
+Overcrowding on Bulir II leads to increased pollution.
+Beautiful flying creatures evolve on Eukiv I.
+104:
+Pollution kills a billion Tiny Catoids on Bulir II.
+105:
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The Republic of Deep Dwellers and Koboldoids build a complex of arcologies on Gelur II.
+Overcrowding on Bulir II leads to increased pollution.
+
+ Science Golden Age Revival!Empire of Blue Deep Dwellers previous decrepitude: 5 revival amount: 13
+
+Civ Name: Empire of Blue Deep Dwellers 
+Civ Birth Year: 95 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | 3 | 1 | -1 | -1 | 
+Resources 13 Science 14 Military 2 WeapLevel 0 TechLevel 1 Decrepitude 5
+The Empire of Blue Deep Dwellers enters a golden age of science! 
+
+ Decomocratization Revival!Empire of Slim Humanoids previous decrepitude: 5 revival amount: 2
+
+Civ Name: Empire of Slim Humanoids 
+Civ Birth Year: 95 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 1 | -2 | -2 | -2 | 
+Resources 16 Science 4 Military 5 WeapLevel 0 TechLevel 1 Decrepitude 3
+A popular movement overthrows the old guard of the Empire of Slim Humanoids and declares the Republic of Humanoids and Robots.
+106:
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Pollution kills a billion White Koboldoids on Gikav I.
+White Koboldoids have died out on Gikav I!
+Pollution kills a billion Six-Legged Robots with Five-fold Symmetry on Bomev V.
+
+ Science Golden Age Revival!Republic of Deep Dwellers and Koboldoids previous decrepitude: 26 revival amount: 52
+
+Civ Name: Republic of Deep Dwellers and Koboldoids 
+Civ Birth Year: 83 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | -1 | -2 | -1 | -1 | 
+Resources 33 Science 52 Military 6 WeapLevel 0 TechLevel 1 Decrepitude 26
+The Republic of Deep Dwellers and Koboldoids enters a golden age of science! 
+Overcrowding on Bulir II leads to increased pollution.
+The Empire of Blue Deep Dwellers develop powerful new weapons.
+Overcrowding on Bomev V leads to increased pollution.
+The Republic of Humanoids and Robots build a vast museum on Bomev V.
+Coleq I becomes tidally locked to its star.
+Beautiful flying creatures evolve on Gelur II.
+107:
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Humanoids and Robots build a complex of arcologies on Bomev V.
+An expedition led by Captain Ulnpram explores Bomev V. They trade with the local Slim Humanoids. 
+Pharmaceuticals evolve on Eukiv I.
+108:
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+Pollution kills a billion Tiny Catoids on Bulir II.
+Overcrowding on Bulir II leads to increased pollution.
+The Empire of Blue Deep Dwellers build a city of spires on Bulir II.
+Captain Wipram, space adventurer, blasts off from Bulir II.
+An expedition led by Captain Wipram explores Gikav I. They encounter the local shape-shifters. In a desperate attempt to stop them, Captain Wipram has half of the exploration fleet blasted to bits.
+An expedition led by Captain Wipram explores Krantor I. 
+109:
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Humanoids and Robots experiences a population boom! 
+An expedition led by Captain Wipram explores Taranis V. 
+An expedition led by Captain Wipram explores Coleq I. 
+Shape-shifters evolve on Hylus I.
+110:
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+Pollution kills a billion Tiny Catoids on Bulir II.
+The Republic of Deep Dwellers and Koboldoids explore Gikav I. 
+Overcrowding on Bulir II leads to increased pollution.
+
+ Decomocratization Revival!Empire of Blue Deep Dwellers previous decrepitude: 8 revival amount: 4
+
+Civ Name: Empire of Blue Deep Dwellers 
+Civ Birth Year: 95 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | 3 | 1 | -1 | -1 | 
+Resources 0 Science 10 Military 12 WeapLevel 1 TechLevel 1 Decrepitude 4
+A popular movement overthrows the old guard of the Empire of Blue Deep Dwellers and declares the Republic of Deep Dwellers and Catoids.
+Overcrowding on Bomev V leads to increased pollution.
+An expedition led by Captain Ulnpram explores Eukiv I. They trade with the local Telepathic Trolloids. 
+An expedition led by Captain Wipram explores Ziggurat VI. 
+An expedition led by Captain Wipram explores Hylus I. 
+111:
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+The Republic of Deep Dwellers and Koboldoids explore Gikav I. 
+The deadly Orange Wasting, which affects White Koboldoids, arises on Gelur II.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Bomev V leads to increased pollution.
+The space adventurer Captain Ulnpram dies and is buried on Regor III.
+An expedition led by Captain Wipram explores Bal V. 
+112:
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+Pollution kills a billion Slim Humanoids on Bomev V.
+The Republic of Deep Dwellers and Koboldoids build a skull pit on Gelur II.
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Deep Dwellers and Catoids create Amorphous Yellow Robots as servants on Bulir II.
+The Republic of Deep Dwellers and Catoids experiences a population boom! 
+Overcrowding on Bomev V leads to increased pollution.
+An expedition led by Captain Wipram explores Bal V. 
+An expedition led by Captain Wipram explores Eukiv I. They trade with the local Telepathic Trolloids. 
+113:
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+Pollution kills a billion Slim Humanoids on Bomev V.
+
+ Industrial Golden Age Revival!Republic of Deep Dwellers and Koboldoids previous decrepitude: 47 revival amount: 70
+
+Civ Name: Republic of Deep Dwellers and Koboldoids 
+Civ Birth Year: 83 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | -1 | -2 | -1 | -1 | 
+Resources 101 Science 63 Military 6 WeapLevel 0 TechLevel 2 Decrepitude 47
+The Republic of Deep Dwellers and Koboldoids enters a golden age of industry!  
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Deep Dwellers and Catoids send a delegation to Dumiv V. They declare war on the Republic of Deep Dwellers and Koboldoids! 
+The Republic of Deep Dwellers and Catoids conquer Krantor I, a colony of the Republic of Deep Dwellers and Koboldoids.
+The Republic of Deep Dwellers and Catoids send Captain Wipram on a mission to steal the hymn on Gelur II.
+Captain Wipram successfully acquires the hymn and delivers it to Bulir II.
+Captain Wipram intercepts a convoy near Gikav I, a planet of the enemy Republic of Deep Dwellers and Koboldoids.
+114:
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+Pollution kills a billion Tiny Catoids on Bulir II.
+Pollution kills a billion Six-Legged Robots with Five-fold Symmetry on Bomev V.
+The Republic of Deep Dwellers and Koboldoids develop a Teleport Gate.
+The Republic of Deep Dwellers and Catoids repel the Republic of Deep Dwellers and Koboldoids at Bulir II.
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Deep Dwellers and Catoids colonise Eukiv I. Of the natives of that planet, the 2 billion Telepathic Trolloids are given full membership in the Republic of Deep Dwellers and Catoids.  They now call themselves the Republic of Deep Dwellers, Trolloids and Catoids.
+The Republic of Deep Dwellers, Trolloids and Catoids attack and raze Ziggurat VI, a colony of the Republic of Deep Dwellers and Koboldoids.
+The Republic of Humanoids and Robots explore Bomev V. 
+The Republic of Humanoids and Robots experiences a population boom! 
+The Republic of Deep Dwellers, Trolloids and Catoids send Captain Wipram on a mission to steal the Virtual Reality Matrix on Gelur II.
+The attempt to steal the Virtual Reality Matrix fails, and Captain Wipram swiftly retreats to Bulir II to avoid capture.
+115:
+The population of Tiny Catoids on Eukiv I has grown by a billion.
+The White Koboldoids on Gelur II have been wiped out by the Orange Wasting!
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Pollution kills a billion Amorphous Yellow Robots on Bulir II.
+The Republic of Deep Dwellers and Koboldoids collapses.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Bomev V leads to increased pollution.
+An expedition led by Captain Wipram explores Aylow I. 
+An expedition led by Captain Wipram explores Gikav I. 
+116:
+The population of Tiny Catoids on Eukiv I has grown by a billion.
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+Pollution kills a billion Tiny Catoids on Bulir II.
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Deep Dwellers, Trolloids and Catoids colonise Gikav I. 
+Overcrowding on Bomev V leads to increased pollution.
+The Republic of Humanoids and Robots explore Hylus I. 
+An expedition led by Captain Wipram explores Regor IV. 
+An expedition led by Captain Wipram explores Taranis V. 
+117:
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+Pollution kills a billion Tiny Catoids on Bulir II.
+Pollution kills a billion Amorphous Yellow Robots on Bulir II.
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Deep Dwellers, Trolloids and Catoids explore Dumiv V. They discover: Remnants of a culture of White Koboldoids that collapsed from the effects of pollution in 103. 
+Overcrowding on Bomev V leads to increased pollution.
+An expedition led by Captain Wipram explores Autorog III. 
+An expedition led by Captain Wipram explores Regor IV. 
+118:
+The population of Telepathic Trolloids on Eukiv I has grown by a billion.
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+The population of Amorphous Yellow Robots on Bulir II has grown by a billion.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+Pollution kills a billion Six-Legged Robots with Five-fold Symmetry on Bomev V.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Deep Dwellers, Trolloids and Catoids colonise Taranis V. 
+Overcrowding on Bomev V leads to increased pollution.
+The space adventurer Captain Wipram dies and is buried on Metatron V.
+119:
+The population of Tiny Catoids on Bulir II has grown by a billion.
+The population of Tiny Catoids on Taranis V has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Bomev V leads to increased pollution.
+120:
+The population of Telepathic Trolloids on Eukiv I has grown by a billion.
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Pollution kills a billion Amorphous Yellow Robots on Bulir II.
+The population of Tiny Catoids on Taranis V has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Deep Dwellers, Trolloids and Catoids build a science lab on Fokep I.
+Overcrowding on Bomev V leads to increased pollution.
+121:
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Pollution kills a billion Six-Legged Robots with Five-fold Symmetry on Bomev V.
+Overcrowding on Bulir II leads to increased pollution.
+The Republic of Deep Dwellers, Trolloids and Catoids build a science lab on Dumiv V.
+Religious fanatics sieze power in the Republic of Deep Dwellers, Trolloids and Catoids and declare the Church of Deep Dwellers, Trolloids and Catoids.
+Overcrowding on Bomev V leads to increased pollution.
+The Republic of Humanoids and Robots explore Hylus I. 
+
+ Art Golden Age Revival!Republic of Humanoids and Robots previous decrepitude: 25 revival amount: 0
+
+Civ Name: Republic of Humanoids and Robots 
+Civ Birth Year: 95 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 1 | -2 | -1 | -1 | 
+Resources 1 Science 9 Military 9 WeapLevel 0 TechLevel 2 Decrepitude 25
+Artists on Bomev V create a painting of Mar'er. 
+122:
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+Pollution kills a billion Tiny Catoids on Bulir II.
+Pollution kills a billion Slim Humanoids on Bomev V.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids explore Taranis V. 
+The Republic of Humanoids and Robots enters a dark age. Decrepitude set to 0,  was 28
+123:
+The population of Tiny Catoids on Eukiv I has grown by a billion.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+Pollution kills a billion Slim Humanoids on Bomev V.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a military base on Coleq I.
+The Church of Deep Dwellers, Trolloids and Catoids develop a Youth Serum.
+The Republic of Humanoids and Robots explore Ziggurat VI. 
+The space probe Mar'er returns to Bulir II.
+The Church of Deep Dwellers, Trolloids and Catoids gains a wealth of new knowledge as a result.
+124:
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Pollution kills a billion Amorphous Yellow Robots on Bulir II.
+Pollution kills a billion Slim Humanoids on Bomev V.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids explore Coleq I. 
+The Church of Deep Dwellers, Trolloids and Catoids build a military base on Gikav I.
+125:
+The population of Telepathic Trolloids on Eukiv I has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a science lab on Hylus I.
+
+ Science Golden Age Revival!Republic of Humanoids and Robots previous decrepitude: 37 revival amount: 19
+
+Civ Name: Republic of Humanoids and Robots 
+Civ Birth Year: 95 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 1 | -2 | -1 | -1 | 
+Resources 1 Science 23 Military 13 WeapLevel 0 TechLevel 1 Decrepitude 37
+The Republic of Humanoids and Robots enters a golden age of science! The Republic of Humanoids and Robots build a science lab on Ziggurat VI.
+126:
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Amorphous Yellow Robots on Bulir II has grown by a billion.
+The population of Tiny Catoids on Taranis V has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Taranis V leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a military base on Autorog III.
+The Church of Deep Dwellers, Trolloids and Catoids colonise Dumiv V. 
+The Republic of Humanoids and Robots develop powerful new weapons.
+Ultravores evolve on Bal V.
+127:
+The population of Tiny Catoids on Dumiv V has grown by a billion.
+The population of Telepathic Trolloids on Eukiv I has grown by a billion.
+The population of Tiny Catoids on Eukiv I has grown by a billion.
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+The population of Amorphous Yellow Robots on Bulir II has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a science lab on Regor III.
+128:
+The population of Tiny Catoids on Eukiv I has grown by a billion.
+Pollution kills a billion Tiny Catoids on Bulir II.
+Pollution kills a billion Amorphous Yellow Robots on Bulir II.
+The population of Tiny Catoids on Taranis V has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Taranis V leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a mining base on Regor IV.
+The Church of Deep Dwellers, Trolloids and Catoids uplift the local Two-Headed Humanoids with Threefold Symmetry on Gelur II and incorporate the planet into their civilisation.
+Overcrowding on Bomev V leads to increased pollution.
+Pharmaceuticals evolve on Regor III.
+129:
+The population of Blue Deep Dwellers on Dumiv V has grown by a billion.
+The population of Tiny Catoids on Taranis V has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Taranis V leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids colonise Bal V. 
+130:
+The population of Tiny Catoids on Dumiv V has grown by a billion.
+The population of Telepathic Trolloids on Dumiv V has grown by a billion.
+Overcrowding on Dumiv V leads to increased pollution.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a military base on Urbon VI.
+The Church of Deep Dwellers, Trolloids and Catoids colonise Gikav I. 
+Overcrowding on Bomev V leads to increased pollution.
+Beautiful aurorae play across the skies of Gikav I.
+131:
+The population of Tiny Catoids on Dumiv V has grown by a billion.
+The population of Tiny Catoids on Eukiv I has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+Overcrowding on Dumiv V leads to increased pollution.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Taranis V leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids colonise Regor III. 
+Overcrowding on Bomev V leads to increased pollution.
+The Republic of Humanoids and Robots send a delegation to Gikav I. They declare war on the Church of Deep Dwellers, Trolloids and Catoids! 
+The Republic of Humanoids and Robots conquer Regor IV, a colony of the Church of Deep Dwellers, Trolloids and Catoids.
+132:
+The population of Blue Deep Dwellers on Dumiv V has grown by a billion.
+The population of Telepathic Trolloids on Eukiv I has grown by a billion.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+Overcrowding on Dumiv V leads to increased pollution.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a military base on Aylow I.
+The Church of Deep Dwellers, Trolloids and Catoids attack and raze Regor IV, a colony of the Republic of Humanoids and Robots.
+The Republic of Humanoids and Robots conquer Dumiv V, a colony of the Church of Deep Dwellers, Trolloids and Catoids, killing 3 billion in the process.
+The Republic of Humanoids and Robots gain control of the Youth Serum on Dumiv V.
+133:
+Pollution kills a billion Blue Deep Dwellers on Dumiv V.
+The population of Telepathic Trolloids on Eukiv I has grown by a billion.
+The population of Blue Deep Dwellers on Gikav I has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+The population of Amorphous Yellow Robots on Bulir II has grown by a billion.
+The population of Telepathic Trolloids on Regor III has grown by a billion.
+The population of Tiny Catoids on Bal V has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids attack and raze Ziggurat VI, a colony of the Republic of Humanoids and Robots.
+The Republic of Humanoids and Robots conquer Bal V, a colony of the Church of Deep Dwellers, Trolloids and Catoids, killing 1 billion in the process.
+134:
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Blue Deep Dwellers on Gikav I has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Pollution kills a billion Amorphous Yellow Robots on Bulir II.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Taranis V leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids explore Krantor I. 
+The Church of Deep Dwellers, Trolloids and Catoids explore Ziggurat VI. 
+The Church of Deep Dwellers, Trolloids and Catoids attack Bomev V, a colony of the Republic of Humanoids and Robots, and subject it to orbital bombardment, killing 5 billion.
+The Republic of Humanoids and Robots send a delegation to Krantor I. They sign a peace accord with the Church of Deep Dwellers, Trolloids and Catoids, ending their war. 
+135:
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Blue Deep Dwellers on Gikav I has grown by a billion.
+The population of Tiny Catoids on Taranis V has grown by a billion.
+The population of Telepathic Trolloids on Regor III has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Taranis V leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a mining base on Regor IV.
+An industrial accident on Gikav I causes deadly levels of pollution.
+The Republic of Humanoids and Robots build a repair bay on Bal V.
+136:
+Pollution kills a billion Blue Deep Dwellers on Dumiv V.
+Blue Deep Dwellers have died out on Dumiv V!
+The population of Telepathic Trolloids on Eukiv I has grown by a billion.
+Pollution kills a billion Tiny Catoids on Gikav I.
+Pollution kills a billion Tiny Catoids on Bulir II.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+The population of Tiny Catoids on Regor III has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Taranis V leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a mining base on Ziggurat VI.
+The Church of Deep Dwellers, Trolloids and Catoids build a torture chamber on Bulir II.
+137:
+Pollution kills a billion Telepathic Trolloids on Eukiv I.
+Pollution kills a billion Tiny Catoids on Eukiv I.
+Pollution kills a billion Tiny Catoids on Gikav I.
+The population of Blue Deep Dwellers on Gikav I has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+The population of Two-Headed Humanoids with Threefold Symmetry on Gelur II has grown by a billion.
+The population of Amorphous Yellow Robots on Bulir II has grown by a billion.
+Pollution kills a billion Tiny Catoids on Bal V.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Taranis V leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a science lab on Metatron V.
+
+Civ Name: Republic of Two-Headed Humanoids with Threefold Symmetry 
+Civ Birth Year: 137 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | -2 | 2 | -2 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Gelur II revolt, killing their oppressors and declaring the Free Republic of Two-Headed Humanoids with Threefold Symmetry.
+The Church of Deep Dwellers, Trolloids and Catoids attack Gelur II, a colony of the Republic of Two-Headed Humanoids with Threefold Symmetry, and subject it to orbital bombardment, killing 1 billion.
+Sentient Scaly Green Deep Dwellers arise on Hylus I.
+138:
+Pollution kills a billion Telepathic Trolloids on Eukiv I.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Telepathic Trolloids on Regor III has grown by a billion.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids explore Fokep I. 
+The Church of Deep Dwellers, Trolloids and Catoids attack Gelur II, a colony of the Republic of Two-Headed Humanoids with Threefold Symmetry, and subject it to orbital bombardment, killing 1 billion.
+The Republic of Humanoids and Robots send a delegation to Eukiv I. They declare war on the Church of Deep Dwellers, Trolloids and Catoids! 
+The Republic of Humanoids and Robots attack and raze Aylow I, a colony of the Church of Deep Dwellers, Trolloids and Catoids.
+The Church of Deep Dwellers, Trolloids and Catoids repel the Republic of Two-Headed Humanoids with Threefold Symmetry at Gikav I.
+139:
+The population of Blue Deep Dwellers on Gikav I has grown by a billion.
+Pollution kills a billion Telepathic Trolloids on Gikav I.
+The population of Scaly Green Deep Dwellers on Hylus I has grown by a billion.
+The population of Tiny Catoids on Hylus I has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Hylus I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Taranis V leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a military base on Aylow I.
+The Church of Deep Dwellers, Trolloids and Catoids attack and raze Bal V, a colony of the Republic of Humanoids and Robots.
+The Republic of Humanoids and Robots build a science lab on Bal V.
+The Republic of Humanoids and Robots send a delegation to Ziggurat VI. They sign a peace accord with the Church of Deep Dwellers, Trolloids and Catoids, ending their war. 
+The Republic of Two-Headed Humanoids with Threefold Symmetry conquer Regor IV, a colony of the Church of Deep Dwellers, Trolloids and Catoids.
+140:
+The population of Telepathic Trolloids on Eukiv I has grown by a billion.
+The population of Tiny Catoids on Eukiv I has grown by a billion.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Blue Deep Dwellers on Gikav I has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+The population of Scaly Green Deep Dwellers on Hylus I has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Tiny Catoids on Regor III has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a vast underground vault on Eukiv I.
+The Church of Deep Dwellers, Trolloids and Catoids develop powerful new weapons.
+The Church of Deep Dwellers, Trolloids and Catoids attack Gelur II, a colony of the Republic of Two-Headed Humanoids with Threefold Symmetry, and subject it to orbital bombardment, killing 1 billion.
+The Republic of Two-Headed Humanoids with Threefold Symmetry conquer Taranis V, a colony of the Church of Deep Dwellers, Trolloids and Catoids, killing 2 billion in the process.
+141:
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+The population of Blue Deep Dwellers on Hylus I has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+Pollution kills a billion Amorphous Yellow Robots on Bulir II.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Telepathic Trolloids on Regor III has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Hylus I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids conquer Gelur II, a colony of the Republic of Two-Headed Humanoids with Threefold Symmetry.
+The Republic of Humanoids and Robots explore Bomev V. 
+The Republic of Humanoids and Robots build a complex of arcologies on Dumiv V.
+The Republic of Two-Headed Humanoids with Threefold Symmetry send a delegation to Metatron V. They sign a peace accord with the Church of Deep Dwellers, Trolloids and Catoids, ending their war. 
+142:
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Scaly Green Deep Dwellers on Hylus I has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+Pollution kills a billion Tiny Catoids on Bulir II.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Hylus I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+An industrial accident on Gikav I causes deadly levels of pollution.
+The Republic of Two-Headed Humanoids with Threefold Symmetry build a vast museum on Taranis V.
+
+ Science Golden Age Revival!Republic of Two-Headed Humanoids with Threefold Symmetry previous decrepitude: -3 revival amount: 33
+
+Civ Name: Republic of Two-Headed Humanoids with Threefold Symmetry 
+Civ Birth Year: 137 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | -2 | 2 | -2 | 
+Resources 6 Science 15 Military 4 WeapLevel 0 TechLevel 1 Decrepitude -3
+The Republic of Two-Headed Humanoids with Threefold Symmetry enters a golden age of science! 
+143:
+Pollution kills a billion Telepathic Trolloids on Eukiv I.
+Pollution kills a billion Tiny Catoids on Gikav I.
+Pollution kills a billion Blue Deep Dwellers on Gikav I.
+Pollution kills a billion Telepathic Trolloids on Gikav I.
+Pollution kills a billion Blue Deep Dwellers on Bulir II.
+The population of Amorphous Yellow Robots on Bulir II has grown by a billion.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Telepathic Trolloids on Regor III has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Hylus I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Republic of Humanoids and Robots accidentally create the rogue AI Experiment 304 on Dumiv V.
+The Republic of Two-Headed Humanoids with Threefold Symmetry create Tiny Grey Robots with Giant Eyes as servants on Taranis V.
+144:
+The population of Tiny Catoids on Eukiv I has grown by a billion.
+Pollution kills a billion Tiny Catoids on Gikav I.
+Pollution kills a billion Blue Deep Dwellers on Gikav I.
+The population of Scaly Green Deep Dwellers on Hylus I has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+Pollution kills a billion Tiny Catoids on Bulir II.
+Pollution kills a billion Amorphous Yellow Robots on Bulir II.
+Pollution kills a billion Tiny Catoids on Taranis V.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Hylus I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a grand palace on Gelur II.
+An industrial accident on Dumiv V causes deadly levels of pollution.
+Overcrowding on Taranis V leads to increased pollution.
+145:
+Pollution kills a billion Tiny Catoids on Dumiv V.
+Pollution kills a billion Telepathic Trolloids on Dumiv V.
+Telepathic Trolloids have died out on Dumiv V!
+The population of Telepathic Trolloids on Eukiv I has grown by a billion.
+The population of Tiny Catoids on Eukiv I has grown by a billion.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+Pollution kills a billion Telepathic Trolloids on Gikav I.
+The population of Two-Headed Humanoids with Threefold Symmetry on Gelur II has grown by a billion.
+The population of Telepathic Trolloids on Gelur II has grown by a billion.
+The population of Scaly Green Deep Dwellers on Hylus I has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Hylus I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids explore Ziggurat VI. 
+Overcrowding on Taranis V leads to increased pollution.
+The rogue AI Experiment 304 presents the inhabitants of Krantor I with a gift: a Killer Meme.
+146:
+Pollution kills a billion Tiny Catoids on Dumiv V.
+The population of Scaly Green Deep Dwellers on Gelur II has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+Pollution kills a billion Tiny Catoids on Taranis V.
+The population of Tiny Catoids on Gikav I has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gelur II leads to increased pollution.
+Overcrowding on Hylus I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+147:
+Pollution kills a billion Tiny Catoids on Dumiv V.
+Tiny Catoids have died out on Dumiv V!
+The population of Tiny Catoids on Gikav I has grown by a billion.
+The population of Telepathic Trolloids on Gelur II has grown by a billion.
+The population of Scaly Green Deep Dwellers on Hylus I has grown by a billion.
+The population of Blue Deep Dwellers on Hylus I has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+The population of Amorphous Yellow Robots on Bulir II has grown by a billion.
+Pollution kills a billion Tiny Catoids on Taranis V.
+Pollution kills a billion Tiny Catoids on Gikav I.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+The population of Tiny Catoids on Regor III has grown by a billion.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Gelur II leads to increased pollution.
+Overcrowding on Hylus I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids explore Krantor I. 
+The Republic of Humanoids and Robots build a science lab on Dumiv V.
+The pirate Purplebeard establishes herself on Dumiv V.
+The Republic of Two-Headed Humanoids with Threefold Symmetry send a delegation to Gelur II. They declare war on the Church of Deep Dwellers, Trolloids and Catoids! 
+The Republic of Two-Headed Humanoids with Threefold Symmetry attack and raze Metatron V, a colony of the Church of Deep Dwellers, Trolloids and Catoids.
+The pirate Purplebeard receives tribute from Hylus I of the Church of Deep Dwellers, Trolloids and Catoids.
+148:
+The population of Blue Deep Dwellers on Gikav I has grown by a billion.
+The population of Telepathic Trolloids on Gikav I has grown by a billion.
+The population of Two-Headed Humanoids with Threefold Symmetry on Gelur II has grown by a billion.
+The population of Blue Deep Dwellers on Hylus I has grown by a billion.
+The population of Blue Deep Dwellers on Bulir II has grown by a billion.
+The population of Tiny Catoids on Bulir II has grown by a billion.
+Pollution kills a billion Tiny Catoids on Gikav I.
+Overcrowding on Eukiv I leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Gelur II leads to increased pollution.
+Overcrowding on Hylus I leads to increased pollution.
+Overcrowding on Bulir II leads to increased pollution.
+Overcrowding on Gikav I leads to increased pollution.
+Overcrowding on Regor III leads to increased pollution.
+The Church of Deep Dwellers, Trolloids and Catoids build a deep dome on Gikav I.

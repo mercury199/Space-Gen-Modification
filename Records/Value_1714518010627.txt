@@ -1,0 +1,776 @@
+SENTIENT SPECIES:
+Six-Legged Robots with Giant Eyes: Purely mechanical lifeforms, artificially created. They have six legs. They have bilateral symmetry. Their giant eyes take up most of their head. They are thrill-seeking and have a complex system of social castes. They were created by the Church of Green Trolloids on Mycon VI as servants in 142.
+	Their Stats are: STR: 1 DEX: 1 CON: 0 INT: 1 CHA: 0
+Giant Purple Dwarfoids with Five-fold Symmetry: Fond of drink and industry - especially building strange contraptions. They have purple skin. They have five-fold symmetry. They are cowardly and believe in the survival of the fittest. They developed from Giant Purple Dwarfoids with Giant Eyes in 82.
+	Their Stats are: STR: 1 DEX: 1 CON: -1 INT: 1 CHA: 2
+Four-Armed Antoids: Small, industrious and well-organised, these creatures' greatest weakness is their ever-ballooning population. They have four arms. They have bilateral symmetry. They are hyperactive and deeply rationalist. They first evolved on Ziggurat I in 90.
+	Their Stats are: STR: -1 DEX: 1 CON: 0 INT: 0 CHA: 1
+Grey Ursoids: Always at war with someone, or everyone, or one another. They have grey skin. They have bilateral symmetry. They are hyperactive and believe in the survival of the fittest. They were uplifted by the Republic of Koboldoids and Antoids on Urbon III in 107.
+	Their Stats are: STR: -1 DEX: -1 CON: 0 INT: 0 CHA: -1
+Amorphous Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry and are able to greatly alter their shape. They are meditative and have a complex system of social castes. They were created by the Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II as servants in 127.
+	Their Stats are: STR: 2 DEX: 0 CON: 2 INT: 2 CHA: 0
+Red Koboldoids: Eat pretty much anything, including one another. Disturbingly fond of skulls. They have red skin. They have bilateral symmetry. They are thrill-seeking and have a deep need to conform. They first evolved on Delut I in 74.
+	Their Stats are: STR: -1 DEX: 1 CON: 0 INT: 1 CHA: -1
+
+CIVILISATIONS:
+THE CHURCH OF GREEN TROLLOIDS:
+An ancient, corrupt, advanced Church of 16 planets, with 25 billion inhabitants.
+Major populations:
+4 billion enslaved Six-Legged Robots with Giant Eyes.
+12 billion enslaved Four-Armed Antoids.
+4 billion enslaved Grey Ursoids.
+5 billion enslaved Red Koboldoids.
+It is at peace with the Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry.
+
+	Their Stats are: STR: 3 DEX: 3 CON: 2 INT: 1 CHA: 1
+THE KINGDOM OF GIANT PURPLE DWARFOIDS WITH FIVE-FOLD SYMMETRY:
+An ancient, corrupt, dirt poor Kingdom of a single planet, Urbon II, with 9 billion inhabitants.
+Major populations:
+5 billion Giant Purple Dwarfoids with Five-fold Symmetry.
+4 billion enslaved Amorphous Robots.
+It controls a Mind Reader.
+It is at peace with the Church of Green Trolloids.
+
+	Their Stats are: STR: 2 DEX: 0 CON: 1 INT: 1 CHA: 1
+PLANETS:
+URBON II
+A life-bearing planet of the Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry.
+It is somewhat polluted.
+It is populated by:
+5 billion Giant Purple Dwarfoids with Five-fold Symmetry
+4 billion enslaved Amorphous Robots
+A vast underground vault, built by the Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry in 136
+A painting of the President of the Republic of Koboldoids and Antoids created by the Republic of Koboldoids and Antoids in 118
+A Mind Reader created by the Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry in 139
+Lifeforms of note:
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+
+METATRON III
+A barren planet of the Church of Green Trolloids.
+A mining base, built by the Church of Green Trolloids in 119
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+
+EOLET IV
+A life-bearing planet of the Church of Green Trolloids.
+It is somewhat polluted.
+A military base, built by the Church of Green Trolloids in 141
+Lifeforms of note:
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Strata:
+A hologram of hologram of painting of the President of the Republic of Green Trolloids created by the Republic of Green Trolloids in 94 created by the Republic of Green Trolloids in 102 created by the Church of Green Trolloids in 115, buried in 140.
+A hologram of painting of the President of the Republic of Green Trolloids created by the Republic of Green Trolloids in 94 created by the Church of Green Trolloids in 102, buried in 140.
+A painting of the President of the Republic of Green Trolloids created by the Church of Green Trolloids in 94, buried in 140.
+The ruins of a vast underground vault, built by the Church of Green Trolloids in 130, destroyed in 140 due to orbital bombardment by the pirate Whiterock.
+Remnants of a culture of Four-Armed Antoids that collapsed due to orbital bombardment by the pirate Whiterock in 140.
+Remnants of a culture of Green Trolloids that collapsed due to orbital bombardment by the pirate Whiterock in 140.
+Remnants of a culture of Feathered Robots that collapsed from mass hysteria in 133.
+
+ZIGGURAT I
+A life-bearing planet of the Church of Green Trolloids.
+In orbit: The pirate Whiterock, a Green Trolloids, commanding a fleet of 5 ships.
+A military base, built by the Church of Green Trolloids in 137
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+Lifeforms of note:
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+Strata:
+The ruins of a orbital elevator, built by the Republic of Koboldoids and Antoids in 123, destroyed in 67 by a time vortex.
+The ruins of a cluster of breeding pits, built by the Republic of Koboldoids and Antoids in 122, destroyed in 67 by a time vortex.
+The ruins of a vast underground vault, built by the Republic of Koboldoids and Antoids in 119, destroyed in 67 by a time vortex.
+The ruins of a skull pit, built by the Republic of Koboldoids and Antoids in 115, destroyed in 67 by a time vortex.
+Remnants of a culture of Giant Blue Robots that collapsed by a time vortex in 67.
+Remnants of a culture of Four-Armed Antoids that collapsed by a time vortex in 67.
+
+AYMOS II
+A barren planet of the Church of Green Trolloids.
+A military base, built by the Church of Green Trolloids in 117
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+Strata:
+The Tomb of Captain Unkut Geode, buried in 133.
+
+KALAMIS III
+A barren planet of the Church of Green Trolloids.
+A military base, built by the Church of Green Trolloids in 99
+
+LUMEN V
+A barren planet of the Church of Green Trolloids.
+A mining base, built by the Church of Green Trolloids in 119
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+
+URBON III
+A life-bearing planet of the Church of Green Trolloids.
+It is populated by:
+4 billion enslaved Grey Ursoids
+1 billion enslaved Four-Armed Antoids
+A orbital elevator, built by the Church of Green Trolloids in 139
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Ultravores: The ultimate apex predator, the Ultravore is capable of stalking and killing even the most intelligent and well-armed prey.
+Strata:
+Remnants of a culture of Green Trolloids that collapsed from mass hysteria in 133.
+
+FEMUS V
+A barren planet of the Church of Green Trolloids.
+A science lab, built by the Church of Green Trolloids in 136
+Strata:
+The ruins of a mining base, built by the Republic of Koboldoids and Antoids in 125, destroyed in 67 by a time vortex.
+The ruins of a mining base, built by the Republic of Koboldoids and Antoids in 109, destroyed in 123 during the invasion of the Republic of Green Trolloids.
+
+DYLOW IV
+A barren planet of the Church of Green Trolloids.
+A science lab, built by the Church of Green Trolloids in 120
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Strata:
+A Time Machine created by the Church of Green Trolloids in 134, lost in 33.
+
+VIM I
+A life-bearing planet of the Church of Green Trolloids.
+A military base, built by the Church of Green Trolloids in 138
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+Lifeforms of note:
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+Strata:
+The ruins of a mining base, built by the Republic of Koboldoids and Antoids in 110, destroyed in 67 by a time vortex.
+Remnants of a culture of Slim Purple Robots with Giant Eyes that collapsed by a time vortex in 67.
+Remnants of a culture of Four-Armed Antoids that collapsed by a time vortex in 67.
+
+GYNOU VI
+A barren planet of the Church of Green Trolloids.
+A military base, built by the Church of Green Trolloids in 104
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+
+DOLET I
+A barren planet of the Church of Green Trolloids.
+A science lab, built by the Church of Green Trolloids in 139
+Strata:
+A film about Giant Purple Dwarfoids with Five-fold Symmetry created by the Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry in 120, hidden in 134.
+A Virtual Reality Matrix created by the Republic of Koboldoids and Antoids in 117, buried in 67.
+The ruins of a science lab, built by the Republic of Koboldoids and Antoids in 108, destroyed in 67 by a time vortex.
+
+EIKAP IV
+A barren planet of the Church of Green Trolloids.
+A science lab, built by the Church of Green Trolloids in 111
+Strata:
+The Tomb of Captain Finkut Aa, buried in 104.
+
+DYLOR V
+A barren planet of the Church of Green Trolloids.
+A military base, built by the Church of Green Trolloids in 122
+Strata:
+The Tomb of Captain Grolin Carpwrestler, buried in 134.
+The Tomb of Captain Kakkra, buried in 134.
+
+MYCON VI
+A life-bearing planet of the Church of Green Trolloids.
+It is heavily polluted.
+It is populated by:
+11 billion enslaved Four-Armed Antoids
+5 billion enslaved Red Koboldoids
+4 billion enslaved Six-Legged Robots with Giant Eyes
+A mining base, built by the Republic of Koboldoids and Antoids in 113
+A skull pile, built by the Church of Green Trolloids in 138
+Strata:
+Remnants of a culture of Four-Armed Antoids that collapsed from the effects of pollution in 113.
+
+DELUT I
+A life-bearing planet of the Church of Green Trolloids.
+A military base, built by the Church of Green Trolloids in 141
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Strata:
+The ruins of a cluster of breeding pits, built by the Republic of Koboldoids and Antoids in 130, destroyed in 67 by a time vortex.
+The ruins of a complex of arcologies, built by the Republic of Koboldoids and Antoids in 125, destroyed in 67 by a time vortex.
+The ruins of a orbital elevator, built by the Republic of Koboldoids and Antoids in 120, destroyed in 67 by a time vortex.
+The ruins of a skull pit, built by the Republic of Koboldoids and Antoids in 118, destroyed in 67 by a time vortex.
+The ruins of a grand palace, built by the Republic of Koboldoids and Antoids in 114, destroyed in 67 by a time vortex.
+Remnants of a culture of Four-Armed Antoids that collapsed by a time vortex in 67.
+Remnants of a culture of Red Koboldoids that collapsed by a time vortex in 67.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Urbon II, Metatron III, Eolet IV, Ziggurat I, Aymos II, Kalamis III, Lumen V, Urbon III, Femus V, Dylow IV, Vim I, Gynou VI, Dolet I, Eikap IV, Dylor V, Mycon VI, Delut I
+10:
+A gigantic network of caves forms on Gynou VI.
+16:
+Life arises on Eolet IV
+17:
+Vast empty plains form on Aymos II.
+31:
+Life arises on Urbon II
+34:
+Pharmaceuticals evolve on Urbon II.
+40:
+The wind plays across rock formations on Dylow IV, producing an eerie music.
+41:
+Pharmaceuticals evolve on Eolet IV.
+Beautiful aurorae play across the skies of Ziggurat I.
+46:
+Shape-shifters evolve on Urbon II.
+Vast canyons are carved on Metatron III.
+Life arises on Urbon III
+48:
+Life arises on Delut I
+49:
+Life arises on Vim I
+52:
+Deposits of huge gems form on Lumen V.
+53:
+Life arises on Ziggurat I
+57:
+Radiovores evolve on Delut I.
+63:
+Gas bags evolve on Urbon II.
+72:
+Beautiful flying creatures evolve on Ziggurat I.
+74:
+Sentient Red Koboldoids arise on Delut I.
+75:
+Sentient Giant Purple Dwarfoids arise on Urbon II.
+76:
+The Giant Purple Dwarfoids on Urbon II mutate into Giant Purple Dwarfoids with Giant Eyes.
+Sentient Green Trolloids arise on Eolet IV.
+82:
+The Giant Purple Dwarfoids with Giant Eyes on Urbon II mutate into Giant Purple Dwarfoids with Five-fold Symmetry.
+83:
+Ocean giants evolve on Delut I.
+87:
+Living islands evolve on Urbon III.
+90:
+Sentient Four-Armed Antoids arise on Ziggurat I.
+91:
+The population of Four-Armed Antoids on Ziggurat I has grown by a billion.
+92:
+Beautiful flying creatures evolve on Vim I.
+93:
+The Green Trolloids on Eolet IV achieve spaceflight and organise as a Republic, the Republic of Green Trolloids.
+
+Civ Name: Republic of Green Trolloids 
+Civ Birth Year: 93 
+Civ Stats Str|Dex|Con|Int|Cha
+          5 | 5 | 3 | 1 | 2 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+94:
+WE ENTER THE FIRST AGE OF CIVILISATION
+
+ Art Golden Age Revival!Republic of Green Trolloids previous decrepitude: 0 revival amount: 7
+
+Civ Name: Republic of Green Trolloids 
+Civ Birth Year: 93 
+Civ Stats Str|Dex|Con|Int|Cha
+          5 | 5 | 3 | 1 | 2 | 
+Resources 1 Science 2 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Artists on Eolet IV create a painting of the President of the Republic of Green Trolloids. 
+95:
+Captain Finkut Aa, space adventurer, blasts off from Eolet IV.
+An expedition led by Captain Finkut Aa explores Kalamis III. 
+An expedition led by Captain Finkut Aa explores Urbon II. They trade with the local Giant Purple Dwarfoids with Five-fold Symmetry. 
+96:
+An expedition led by Captain Finkut Aa explores Kalamis III. 
+An expedition led by Captain Finkut Aa explores Eikap IV. 
+97:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+The population of Four-Armed Antoids on Ziggurat I has grown by a billion.
+An expedition led by Captain Finkut Aa explores Aymos II. 
+An expedition led by Captain Finkut Aa explores Dolet I. 
+98:
+The population of Four-Armed Antoids on Ziggurat I has grown by a billion.
+The Republic of Green Trolloids attempting to upgrade their stats of value :4 current score is: 0
+The difficulty is: 48 They rolled: 6on: 3d2+1
+TechLevel: 2 Science: 1
+An expedition led by Captain Finkut Aa explores Dolet I. 
+An expedition led by Captain Finkut Aa explores Femus V. 
+99:
+The Republic of Green Trolloids build a military base on Kalamis III.
+An expedition led by Captain Finkut Aa explores Femus V. 
+An expedition led by Captain Finkut Aa explores Gynou VI. 
+Shape-shifters evolve on Vim I.
+100:
+An expedition led by Captain Finkut Aa explores Vim I. 
+An expedition led by Captain Finkut Aa explores Metatron III. 
+101:
+An expedition led by Captain Finkut Aa explores Urbon III. 
+An expedition led by Captain Finkut Aa explores Metatron III. 
+102:
+The population of Four-Armed Antoids on Ziggurat I has grown by a billion.
+
+ Art Golden Age Revival!Republic of Green Trolloids previous decrepitude: -2 revival amount: 8
+
+Civ Name: Republic of Green Trolloids 
+Civ Birth Year: 93 
+Civ Stats Str|Dex|Con|Int|Cha
+          5 | 5 | 3 | 1 | 2 | 
+Resources 3 Science 5 Military 0 WeapLevel 0 TechLevel 2 Decrepitude -2
+Artists on Eolet IV create a hologram of painting of the President of the Republic of Green Trolloids created by the Republic of Green Trolloids in 94. 
+An expedition led by Captain Finkut Aa explores Metatron III. 
+An expedition led by Captain Finkut Aa explores Urbon III. 
+103:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+The Republic of Green Trolloids explore Kalamis III. 
+An expedition led by Captain Finkut Aa explores Lumen V. 
+An expedition led by Captain Finkut Aa explores Lumen V. 
+The Red Koboldoids on Delut I achieve spaceflight and organise as a Republic, the Republic of Red Koboldoids.
+
+Civ Name: Republic of Red Koboldoids 
+Civ Birth Year: 103 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | 1 | -2 | 0 | -4 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+104:
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Green Trolloids build a military base on Gynou VI.
+An expedition led by Captain Finkut Aa explores Dylow IV. 
+The space adventurer Captain Finkut Aa dies and is buried on Eikap IV.
+105:
+The population of Four-Armed Antoids on Ziggurat I has grown by a billion.
+The Republic of Red Koboldoids explore Ziggurat I. They incorporate the local Four-Armed Antoids into their civilization as equals. They now call themselves the Republic of Koboldoids and Antoids. 
+106:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+Pollution kills a billion Four-Armed Antoids on Ziggurat I.
+Pollution kills a billion Red Koboldoids on Delut I.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Ziggurat I leads to increased pollution.
+107:
+The Republic of Green Trolloids create Feathered Robots as servants on Eolet IV.
+Captain Rufkut Geode, space adventurer, blasts off from Kalamis III.
+The Republic of Koboldoids and Antoids uplift the local Grey Ursoids on Urbon III and incorporate the planet into their civilisation.
+An expedition led by Captain Rufkut Geode explores Urbon II. They encounter the local shape-shifters. In a desperate attempt to stop them, Captain Rufkut Geode has half of the exploration fleet blasted to bits.
+An expedition led by Captain Rufkut Geode explores Eikap IV. 
+108:
+Pollution kills a billion Grey Ursoids on Urbon III.
+Overcrowding on Eolet IV leads to increased pollution.
+
+ Science Golden Age Revival!Republic of Koboldoids and Antoids previous decrepitude: 0 revival amount: 13
+
+Civ Name: Republic of Koboldoids and Antoids 
+Civ Birth Year: 103 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | 1 | -2 | 0 | -2 | 
+Resources 7 Science 12 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Republic of Koboldoids and Antoids enters a golden age of science! The Republic of Koboldoids and Antoids build a science lab on Dolet I.
+An expedition led by Captain Rufkut Geode explores Dolet I. 
+109:
+Pollution kills a billion Four-Armed Antoids on Ziggurat I.
+Pollution kills a billion Grey Ursoids on Urbon III.
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Koboldoids and Antoids explore Ziggurat I. 
+The Republic of Koboldoids and Antoids build a mining base on Femus V.
+The Republic of Koboldoids and Antoids terraform and colonise Mycon VI.
+An expedition led by Captain Rufkut Geode explores Metatron III. 
+An expedition led by Captain Rufkut Geode explores Femus V. 
+110:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+The population of Feathered Robots on Eolet IV has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Koboldoids and Antoids build a mining base on Vim I.
+An expedition led by Captain Rufkut Geode explores Femus V. 
+An expedition led by Captain Rufkut Geode explores Dolet I. 
+111:
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Green Trolloids build a science lab on Eikap IV.
+The Republic of Koboldoids and Antoids colonise Vim I. 
+An expedition led by Captain Rufkut Geode explores Mycon VI. They trade with the local Four-Armed Antoids. 
+An expedition led by Captain Rufkut Geode explores Urbon III. They trade with the local Grey Ursoids. 
+112:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Koboldoids and Antoids create Slim Purple Robots with Giant Eyes as servants on Vim I.
+An expedition led by Captain Rufkut Geode explores Ziggurat I. They trade with the local Four-Armed Antoids. 
+An expedition led by Captain Rufkut Geode explores Dylow IV. 
+113:
+Pollution kills a billion Feathered Robots on Eolet IV.
+Pollution kills a billion Slim Purple Robots with Giant Eyes on Vim I.
+Pollution kills a billion Four-Armed Antoids on Mycon VI.
+Four-Armed Antoids have died out on Mycon VI!
+Overcrowding on Eolet IV leads to increased pollution.
+Captain Finkut Geode, space adventurer, blasts off from Eolet IV.
+The Republic of Koboldoids and Antoids build a mining base on Mycon VI.
+An expedition led by Captain Rufkut Geode explores Dylow IV. 
+An expedition led by Captain Rufkut Geode explores Metatron III. 
+An expedition led by Captain Finkut Geode explores Urbon III. They trade with the local Grey Ursoids. 
+114:
+Pollution kills a billion Feathered Robots on Eolet IV.
+Pollution kills a billion Slim Purple Robots with Giant Eyes on Vim I.
+Pollution kills a billion Red Koboldoids on Delut I.
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Green Trolloids explore Aymos II. 
+The Republic of Green Trolloids launch a space probe called Lun'hod to explore the galaxy.
+The Republic of Koboldoids and Antoids build a grand palace on Delut I.
+An expedition led by Captain Rufkut Geode explores Mycon VI. They discover: Remnants of a culture of Four-Armed Antoids that collapsed from the effects of pollution in 113. 
+An expedition led by Captain Finkut Geode explores Dylor V. 
+An expedition led by Captain Rufkut Geode explores Urbon II. They trade with the local Giant Purple Dwarfoids with Five-fold Symmetry. 
+An expedition led by Captain Finkut Geode explores Dylow IV. 
+115:
+Pollution kills a billion Feathered Robots on Eolet IV.
+Pollution kills a billion Four-Armed Antoids on Ziggurat I.
+Overcrowding on Eolet IV leads to increased pollution.
+
+ Art Golden Age Revival!Republic of Green Trolloids previous decrepitude: 6 revival amount: 10
+
+Civ Name: Republic of Green Trolloids 
+Civ Birth Year: 93 
+Civ Stats Str|Dex|Con|Int|Cha
+          5 | 5 | 3 | 1 | 2 | 
+Resources 3 Science 5 Military 2 WeapLevel 0 TechLevel 2 Decrepitude 6
+Artists on Eolet IV create a hologram of hologram of painting of the President of the Republic of Green Trolloids created by the Republic of Green Trolloids in 94 created by the Republic of Green Trolloids in 102. 
+The Republic of Koboldoids and Antoids build a skull pit on Ziggurat I.
+An expedition led by Captain Rufkut Geode explores Lumen V. 
+An expedition led by Captain Finkut Geode explores Mycon VI. 
+116:
+Pollution kills a billion Green Trolloids on Eolet IV.
+The population of Feathered Robots on Eolet IV has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+An expedition led by Captain Rufkut Geode explores Dylor V. 
+An expedition led by Captain Finkut Geode explores Aymos II. 
+The space adventurer Captain Rufkut Geode dies and is buried on Kalamis III.
+An expedition led by Captain Finkut Geode explores Vim I. They encounter the local shape-shifters. In a desperate attempt to stop them, Captain Finkut Geode has half of the exploration fleet blasted to bits.
+117:
+Pollution kills a billion Green Trolloids on Eolet IV.
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Green Trolloids build a military base on Aymos II.
+The Republic of Koboldoids and Antoids develop a Virtual Reality Matrix.
+The Republic of Koboldoids and Antoids experiences a population boom! 
+An expedition led by Captain Finkut Geode explores Dylor V. 
+The Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II achieve spaceflight and organise as a Feudal State, the Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry.
+
+Civ Name: Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry 
+Civ Birth Year: 117 
+Civ Stats Str|Dex|Con|Int|Cha
+          3 | 1 | 0 | 2 | 3 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+118:
+Pollution kills a billion Green Trolloids on Eolet IV.
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Koboldoids and Antoids colonise Mycon VI. 
+The Republic of Koboldoids and Antoids build a skull pit on Delut I.
+
+ Art Golden Age Revival!Republic of Koboldoids and Antoids previous decrepitude: 1 revival amount: 0
+
+Civ Name: Republic of Koboldoids and Antoids 
+Civ Birth Year: 103 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | 1 | -2 | 0 | -2 | 
+Resources 13 Science 6 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 1
+Artists on Urbon III create a painting of the President of the Republic of Koboldoids and Antoids. 
+An expedition led by Captain Finkut Geode explores Ziggurat I. They trade with the local Four-Armed Antoids. 
+119:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+Pollution kills a billion Feathered Robots on Eolet IV.
+Overcrowding on Eolet IV leads to increased pollution.
+
+ Industrial Golden Age Revival!Republic of Green Trolloids previous decrepitude: 15 revival amount: 23
+
+Civ Name: Republic of Green Trolloids 
+Civ Birth Year: 93 
+Civ Stats Str|Dex|Con|Int|Cha
+          5 | 5 | 3 | 1 | 2 | 
+Resources 1 Science 18 Military 2 WeapLevel 0 TechLevel 2 Decrepitude 15
+The Republic of Green Trolloids enters a golden age of industry! The Republic of Green Trolloids build a mining base on Lumen V. The Republic of Green Trolloids build a mining base on Metatron III.
+Overcrowding on Vim I leads to increased pollution.
+The Republic of Koboldoids and Antoids build a vast underground vault on Ziggurat I.
+An expedition led by Captain Finkut Geode explores Mycon VI. They trade with the local Red Koboldoids. 
+120:
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Green Trolloids build a science lab on Dylow IV.
+The Republic of Green Trolloids launch a space probe called Monad to explore the galaxy.
+Overcrowding on Vim I leads to increased pollution.
+The Republic of Koboldoids and Antoids build a orbital elevator on Delut I.
+The Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry explore Urbon II. The expedition encounters plants with useful pharmaceutical properties. Shape-shifters impersonate the crew of the expedition. Upon their return to Urbon II they merge into the population.
+
+ Art Golden Age Revival!Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry previous decrepitude: 0 revival amount: 15
+
+Civ Name: Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry 
+Civ Birth Year: 117 
+Civ Stats Str|Dex|Con|Int|Cha
+          3 | 1 | 0 | 2 | 3 | 
+Resources 5 Science 1 Military 0 WeapLevel 0 TechLevel 2 Decrepitude 0
+Artists on Urbon II create a film about Giant Purple Dwarfoids with Five-fold Symmetry. 
+An expedition led by Captain Finkut Geode explores Femus V. 
+121:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Delut I leads to increased pollution.
+An expedition led by Captain Finkut Geode explores Ziggurat I. They trade with the local Four-Armed Antoids. 
+122:
+Pollution kills a billion Green Trolloids on Eolet IV.
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Green Trolloids build a military base on Dylor V.
+The Republic of Green Trolloids send a delegation to Mycon VI. They declare war on the Republic of Koboldoids and Antoids! 
+The Republic of Green Trolloids conquer Urbon III, a colony of the Republic of Koboldoids and Antoids.
+The Republic of Koboldoids and Antoids build a cluster of breeding pits on Ziggurat I.
+Captain Finkut Geode raids the treasury on Femus V, a planet of the enemy Republic of Koboldoids and Antoids.
+123:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+Pollution kills a billion Feathered Robots on Eolet IV.
+The population of Grey Ursoids on Urbon III has grown by a billion.
+Pollution kills a billion Red Koboldoids on Mycon VI.
+Overcrowding on Eolet IV leads to increased pollution.
+The painting of the President of the Republic of Koboldoids and Antoids created by the Republic of Koboldoids and Antoids in 118 on Urbon III has been stolen and hidden on Mycon VI.
+The Republic of Green Trolloids conquer Femus V, a colony of the Republic of Koboldoids and Antoids.
+The Republic of Koboldoids and Antoids build a orbital elevator on Ziggurat I.
+The Republic of Koboldoids and Antoids experiences a population boom! 
+Captain Finkut Geode steals jewels from Dolet I, a planet of the enemy Republic of Koboldoids and Antoids.
+The space probe Lun'hod returns to Eolet IV.
+The Republic of Green Trolloids gains a wealth of new knowledge as a result.
+An expedition led by Captain Finkut Geode explores Urbon II. They encounter the local shape-shifters and exterminate them. They trade with the local Giant Purple Dwarfoids with Five-fold Symmetry. 
+A gigantic network of caves forms on Urbon III.
+124:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+The population of Feathered Robots on Eolet IV has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Green Trolloids send a delegation to Mycon VI. They sign a peace accord with the Republic of Koboldoids and Antoids, ending their war. 
+Captain Unkut Geode, space adventurer, blasts off from Eikap IV.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Delut I leads to increased pollution.
+The Republic of Koboldoids and Antoids explore Delut I. 
+The Republic of Koboldoids and Antoids create Giant Blue Robots as servants on Ziggurat I.
+Captain Kakkra, space adventurer, blasts off from Delut I.
+The space adventurer Captain Finkut Geode dies and is buried on Delut I.
+The inhabitants of Urbon II manage to identify the shape-shifters among them and exterminate them.
+An expedition led by Captain Unkut Geode explores Vim I. They encounter the local shape-shifters and exterminate them. They trade with the local Slim Purple Robots with Giant Eyes. 
+An expedition led by Captain Kakkra explores Kalamis III. The expedition loots the Tomb of Captain Rufkut Geode. 
+An expedition led by Captain Unkut Geode explores Delut I. They trade with the local Four-Armed Antoids. 
+125:
+The population of Green Trolloids on Eolet IV has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Ziggurat I leads to increased pollution.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Delut I leads to increased pollution.
+The Republic of Koboldoids and Antoids build a complex of arcologies on Delut I.
+The Republic of Koboldoids and Antoids build a mining base on Femus V.
+
+ Science Golden Age Revival!Republic of Koboldoids and Antoids previous decrepitude: 4 revival amount: 28
+
+Civ Name: Republic of Koboldoids and Antoids 
+Civ Birth Year: 103 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | 1 | -2 | 0 | -2 | 
+Resources 11 Science 14 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 4
+The Republic of Koboldoids and Antoids enters a golden age of science! 
+Captain Grolin Carpwrestler, space adventurer, blasts off from Urbon II.
+An expedition led by Captain Unkut Geode explores Urbon II. They trade with the local Giant Purple Dwarfoids with Five-fold Symmetry. 
+An expedition led by Captain Kakkra explores Eolet IV. They trade with the local Feathered Robots. 
+An expedition led by Captain Grolin Carpwrestler explores Aymos II. 
+An expedition led by Captain Kakkra explores Lumen V. 
+An expedition led by Captain Grolin Carpwrestler explores Dolet I. 
+126:
+The population of Feathered Robots on Eolet IV has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+The Republic of Green Trolloids launch a space probe called Soj'r to explore the galaxy.
+The pirate Orangerock establishes herself on Urbon III.
+Overcrowding on Ziggurat I leads to increased pollution.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Mycon VI leads to increased pollution.
+Overcrowding on Delut I leads to increased pollution.
+An expedition led by Captain Kakkra explores Urbon II. They trade with the local Giant Purple Dwarfoids with Five-fold Symmetry. 
+An expedition led by Captain Grolin Carpwrestler explores Urbon III. They trade with the local Grey Ursoids. 
+The pirate Orangerock receives tribute from Dylow IV of the Republic of Green Trolloids.
+An expedition led by Captain Unkut Geode explores Delut I. They trade with the local Red Koboldoids. The expedition loots the Tomb of Captain Finkut Geode. 
+An expedition led by Captain Kakkra explores Eikap IV. 
+An expedition led by Captain Grolin Carpwrestler explores Lumen V. 
+127:
+The population of Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Ziggurat I leads to increased pollution.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Mycon VI leads to increased pollution.
+Overcrowding on Delut I leads to increased pollution.
+The Republic of Koboldoids and Antoids explore Delut I. 
+The Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry create Amorphous Robots as servants on Urbon II.
+Captain Unkut Geode is sent on a mission to defeat the pirate Orangerock by the government of Aymos II.
+Captain Unkut Geode fails to find any trace of the pirate Orangerock.
+An expedition led by Captain Kakkra explores Eolet IV. They trade with the local Green Trolloids. 
+An expedition led by Captain Grolin Carpwrestler explores Eikap IV. 
+The pirate Orangerock receives tribute from Delut I of the Republic of Koboldoids and Antoids.
+An expedition led by Captain Unkut Geode explores Femus V. 
+Captain Kakkra is sent on a mission to defeat the pirate Orangerock by the government of Delut I.
+Captain Kakkra tracks down the pirate Orangerock in orbit around Delut I.
+Captain Kakkra defeats the pirate Orangerock - the skies of Delut I are safe again.
+An expedition led by Captain Grolin Carpwrestler explores Urbon III. They trade with the local Grey Ursoids. 
+128:
+The population of Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II has grown by a billion.
+The population of Green Trolloids on Eolet IV has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+Overcrowding on Ziggurat I leads to increased pollution.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Mycon VI leads to increased pollution.
+Overcrowding on Delut I leads to increased pollution.
+Overcrowding on Urbon II leads to increased pollution.
+The Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry explore Urbon II. The expedition encounters plants with useful pharmaceutical properties. 
+An expedition led by Captain Kakkra explores Gynou VI. 
+An expedition led by Captain Grolin Carpwrestler explores Dolet I. 
+An expedition led by Captain Kakkra explores Eolet IV. They trade with the local Feathered Robots. 
+An expedition led by Captain Grolin Carpwrestler explores Eikap IV. 
+129:
+The population of Four-Armed Antoids on Ziggurat I has grown by a billion.
+The population of Green Trolloids on Urbon III has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+A market crash impoverishes the Republic of Green Trolloids.
+Overcrowding on Ziggurat I leads to increased pollution.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Mycon VI leads to increased pollution.
+Overcrowding on Delut I leads to increased pollution.
+Overcrowding on Urbon II leads to increased pollution.
+The Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry explore Urbon II. The expedition encounters plants with useful pharmaceutical properties. 
+The Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry develop powerful new weapons.
+An expedition led by Captain Kakkra explores Kalamis III. 
+An expedition led by Captain Grolin Carpwrestler explores Femus V. 
+An expedition led by Captain Kakkra explores Metatron III. 
+An expedition led by Captain Grolin Carpwrestler explores Dylor V. 
+Ultravores evolve on Urbon III.
+130:
+The population of Amorphous Robots on Urbon II has grown by a billion.
+The population of Giant Blue Robots on Ziggurat I has grown by a billion.
+The population of Grey Ursoids on Urbon III has grown by a billion.
+Pollution kills a billion Red Koboldoids on Delut I.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The Republic of Green Trolloids build a vast underground vault on Eolet IV.
+Overcrowding on Ziggurat I leads to increased pollution.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Mycon VI leads to increased pollution.
+The Republic of Koboldoids and Antoids build a cluster of breeding pits on Delut I.
+Overcrowding on Urbon II leads to increased pollution.
+An expedition led by Captain Grolin Carpwrestler explores Lumen V. 
+An expedition led by Captain Grolin Carpwrestler explores Metatron III. 
+131:
+The population of Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II has grown by a billion.
+Pollution kills a billion Amorphous Robots on Urbon II.
+The population of Green Trolloids on Eolet IV has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+Overcrowding on Ziggurat I leads to increased pollution.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Mycon VI leads to increased pollution.
+Overcrowding on Urbon II leads to increased pollution.
+An expedition led by Captain Kakkra explores Eikap IV. 
+An expedition led by Captain Grolin Carpwrestler explores Metatron III. 
+An expedition led by Captain Unkut Geode explores Urbon II. They trade with the local Giant Purple Dwarfoids with Five-fold Symmetry. 
+An expedition led by Captain Kakkra explores Dylow IV. 
+An expedition led by Captain Grolin Carpwrestler explores Gynou VI. 
+132:
+Pollution kills a billion Amorphous Robots on Urbon II.
+The population of Red Koboldoids on Delut I has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+Overcrowding on Ziggurat I leads to increased pollution.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Mycon VI leads to increased pollution.
+Overcrowding on Delut I leads to increased pollution.
+Overcrowding on Urbon II leads to increased pollution.
+An expedition led by Captain Kakkra explores Urbon II. They trade with the local Amorphous Robots. 
+An expedition led by Captain Grolin Carpwrestler explores Mycon VI. They trade with the local Red Koboldoids. They recover: A painting of the President of the Republic of Koboldoids and Antoids created by the Republic of Koboldoids and Antoids in 118, hidden in 123. They discover: Remnants of a culture of Four-Armed Antoids that collapsed from the effects of pollution in 113. 
+An expedition led by Captain Kakkra explores Urbon II. They trade with the local Giant Purple Dwarfoids with Five-fold Symmetry. 
+An expedition led by Captain Grolin Carpwrestler explores Gynou VI. 
+133:
+Pollution kills a billion Amorphous Robots on Urbon II.
+The population of Grey Ursoids on Urbon III has grown by a billion.
+Overcrowding on Eolet IV leads to increased pollution.
+Overcrowding on Urbon III leads to increased pollution.
+The Republic of Green Trolloids send a delegation to Dolet I. They declare war on the Republic of Koboldoids and Antoids! 
+Mass hysteria breaks out in the Republic of Green Trolloids, killing billions.
+The Republic of Green Trolloids conquer Mycon VI, a colony of the Republic of Koboldoids and Antoids.
+Overcrowding on Ziggurat I leads to increased pollution.
+Overcrowding on Vim I leads to increased pollution.
+Overcrowding on Delut I leads to increased pollution.
+An expedition led by Captain Unkut Geode explores Urbon II. They trade with the local Giant Purple Dwarfoids with Five-fold Symmetry. 
+An expedition led by Captain Grolin Carpwrestler explores Eolet IV. They trade with the local Green Trolloids. 
+The space adventurer Captain Unkut Geode dies and is buried on Aymos II.
+Captain Kakkra intercepts a convoy near Eikap IV, a planet of the enemy Republic of Green Trolloids.
+An expedition led by Captain Grolin Carpwrestler explores Eolet IV. They trade with the local Green Trolloids. They discover: Remnants of a culture of Feathered Robots that collapsed from mass hysteria in 133. 
+134:
+The population of Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II has grown by a billion.
+The population of Four-Armed Antoids on Ziggurat I has grown by a billion.
+The population of Four-Armed Antoids on Mycon VI has grown by a billion.
+The population of Red Koboldoids on Mycon VI has grown by a billion.
+Overcrowding on Mycon VI leads to increased pollution.
+The Republic of Green Trolloids develop a Time Machine.
+The Republic of Green Trolloids use their time machine to erase their hated enemies, the Republic of Koboldoids and Antoids.
+The Republic of Koboldoids and Antoids collapses.
+Overcrowding on Urbon II leads to increased pollution.
+The film about Giant Purple Dwarfoids with Five-fold Symmetry created by the Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry in 120 on Urbon II has been stolen and hidden on Dolet I.
+The space adventurer Captain Kakkra dies and is buried on Dylor V.
+An expedition led by Captain Grolin Carpwrestler explores Ziggurat I. 
+The space adventurer Captain Grolin Carpwrestler dies and is buried on Dylor V.
+135:
+The population of Amorphous Robots on Urbon II has grown by a billion.
+The population of Four-Armed Antoids on Mycon VI has grown by a billion.
+Overcrowding on Mycon VI leads to increased pollution.
+The Republic of Green Trolloids explore Lumen V. 
+Overcrowding on Urbon II leads to increased pollution.
+
+ Industrial Golden Age Revival!Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry previous decrepitude: 13 revival amount: 47
+
+Civ Name: Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry 
+Civ Birth Year: 117 
+Civ Stats Str|Dex|Con|Int|Cha
+          3 | 1 | 0 | 2 | 3 | 
+Resources 11 Science 10 Military 11 WeapLevel 1 TechLevel 2 Decrepitude 13
+The Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry enters a golden age of industry!  
+136:
+Pollution kills a billion Amorphous Robots on Urbon II.
+The population of Four-Armed Antoids on Mycon VI has grown by a billion.
+Overcrowding on Mycon VI leads to increased pollution.
+The Republic of Green Trolloids build a science lab on Femus V.
+Overcrowding on Urbon II leads to increased pollution.
+The Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry build a vast underground vault on Urbon II.
+137:
+Pollution kills a billion Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II.
+The population of Four-Armed Antoids on Mycon VI has grown by a billion.
+Overcrowding on Mycon VI leads to increased pollution.
+The Republic of Green Trolloids build a military base on Ziggurat I.
+Religious fanatics sieze power in the Republic of Green Trolloids and declare the Church of Green Trolloids.
+138:
+The population of Four-Armed Antoids on Mycon VI has grown by a billion.
+The Red Koboldoids on Mycon VI devour one billion of their own kind in a mad frenzy of cannibalism!
+The Red Koboldoids erect a pile of skulls on Mycon VI!
+Overcrowding on Mycon VI leads to increased pollution.
+The Church of Green Trolloids build a military base on Vim I.
+The Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry explore Urbon II. The expedition encounters plants with useful pharmaceutical properties. 
+139:
+The population of Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II has grown by a billion.
+The population of Amorphous Robots on Urbon II has grown by a billion.
+The population of Grey Ursoids on Urbon III has grown by a billion.
+The population of Four-Armed Antoids on Mycon VI has grown by a billion.
+Overcrowding on Mycon VI leads to increased pollution.
+The Church of Green Trolloids build a science lab on Dolet I.
+The Church of Green Trolloids build a orbital elevator on Urbon III.
+The pirate Whiterock establishes himself on Ziggurat I.
+Overcrowding on Urbon II leads to increased pollution.
+The Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry develop a Mind Reader.
+The pirate Whiterock receives tribute from Urbon III of the Church of Green Trolloids.
+Beautiful aurorae play across the skies of Vim I.
+140:
+The population of Four-Armed Antoids on Eolet IV has grown by a billion.
+Overcrowding on Mycon VI leads to increased pollution.
+The Church of Green Trolloids explore Aymos II. 
+Overcrowding on Urbon II leads to increased pollution.
+The pirate Whiterock subjects Eolet IV to orbital bombardment.
+141:
+The population of Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II has grown by a billion.
+The population of Grey Ursoids on Urbon III has grown by a billion.
+The population of Four-Armed Antoids on Mycon VI has grown by a billion.
+The population of Red Koboldoids on Mycon VI has grown by a billion.
+Overcrowding on Mycon VI leads to increased pollution.
+The Church of Green Trolloids build a military base on Eolet IV.
+The Church of Green Trolloids build a military base on Delut I.
+Overcrowding on Urbon II leads to increased pollution.
+A market crash impoverishes the Kingdom of Giant Purple Dwarfoids with Five-fold Symmetry.
+The pirate Whiterock receives tribute from Dolet I of the Church of Green Trolloids.
+142:
+Pollution kills a billion Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II.
+The population of Grey Ursoids on Urbon III has grown by a billion.
+The population of Four-Armed Antoids on Mycon VI has grown by a billion.
+Overcrowding on Mycon VI leads to increased pollution.
+The Church of Green Trolloids create Six-Legged Robots with Giant Eyes as servants on Mycon VI.
+Overcrowding on Urbon II leads to increased pollution.
+The pirate Whiterock receives tribute from Ziggurat I of the Church of Green Trolloids.
+143:
+Pollution kills a billion Giant Purple Dwarfoids with Five-fold Symmetry on Urbon II.
+The population of Amorphous Robots on Urbon II has grown by a billion.

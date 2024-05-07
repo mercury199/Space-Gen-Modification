@@ -28,21 +28,27 @@ public enum GoodCivEvent {
 			CivAction.BUILD_SCIENCE_OUTPOST.i(actor, sg, rep);
 			actor.setScience(actor.getScience() + 10);
 			// reduce decrepitude here
-			int dice = actor.getIntelligence() + actor.getScience();
-			if (dice < 1)
-				dice = 1;
-			int revival = sg.d(dice, 4 + actor.getIntelligence());
+			int dice = 1 + actor.getIntelligence() + actor.getScience() + actor.getTechLevel();
+			if( actor.getIntelligence() < 0){
+				dice -= actor.getIntelligence();
+			}
+			if (dice < 1){
+				dice = 1;}
+			int revival = sg.d(dice, 4 + actor.getIntelligence())+dice;
+			System.out.println("Golden age of Science for: " + actor.name + " Revival score1: " + revival + " Current Decreptitude: " + actor.decrepitude);
 			sg.l("\n Science Golden Age Revival!" + actor.name + " previous decrepitude: " + actor.decrepitude
 					+ " revival amount: " + revival);
 			sg.writeCivToLog(actor);
-			if (revival > actor.decrepitude / 2) {
+			if (revival > (actor.decrepitude / 2)) {
 				if (actor.decrepitude < 10) {
-					revival = sg.d(10) + actor.getIntelligence();
+					revival = sg.d(2,5)+2 + actor.getIntelligence();
 				}
-				revival = actor.decrepitude * (1 / 2);
+				else{
+				revival = (actor.decrepitude/ 2);}
+				
 			}
 			actor.decrepitude -= revival;
-
+			System.out.println("	Final decrepitude: " + actor.decrepitude + " Final revival: " + revival );
 		}
 	},
 	GOLDEN_AGE_OF_INDUSTRY() {
@@ -53,23 +59,30 @@ public enum GoodCivEvent {
 			CivAction.BUILD_MINING_BASE.i(actor, sg, rep);
 			rep.append(" ");
 			CivAction.BUILD_MINING_BASE.i(actor, sg, rep);
-			int dice = actor.getStrength() + actor.getResources();
-			if (dice < 1)
-				dice = 1;
-			int revival = sg.d(dice, 4 + actor.getStrength());
-			if (revival > actor.decrepitude * 1.5) {
-				revival = actor.decrepitude * 3 / 2;
+			int dice = 1+ actor.getStrength() + actor.getResources() + actor.getTechLevel();
+			if( actor.getStrength() < 0){
+				dice -= actor.getStrength();
 			}
+			if (dice < 1){
+				dice = 1;}
+			int revival = sg.d(dice, 4 + actor.getStrength())+dice;
+			System.out.println("Golden age of Industry for: " + actor.name + " Revival score1: " + revival + " Current Decreptitude: " + actor.decrepitude);
+
+		//	if (revival > actor.decrepitude * 1.5) {
+		//		revival = actor.decrepitude * 4 / 3;
+		//	}
 			sg.l("\n Industrial Golden Age Revival!" + actor.name + " previous decrepitude: " + actor.decrepitude
 					+ " revival amount: " + revival);
 			sg.writeCivToLog(actor);
 			if (revival > actor.decrepitude / 2) {
 				if (actor.decrepitude < 10) {
-					revival = sg.d(10) + actor.getStrength();
+					revival = sg.d(2,5) + 2 + actor.getStrength();
 				}
-				revival = actor.decrepitude * (1 / 2);
+				else{
+				revival = (actor.decrepitude/2);}
 			}
 			actor.decrepitude -= revival;
+			System.out.println("	Final decrepitude: " + actor.decrepitude + " Final revival: " + revival );
 		}
 	},
 	GOLDEN_AGE_OF_ART() {
@@ -80,20 +93,26 @@ public enum GoodCivEvent {
 			Artefact art = artT.create(actor, sg);
 			rep.append("Artists on ").append(col.name).append(" create a ").append(art.desc).append(". ");
 			col.addArtefact(art);
-			int dice = actor.getCharisma() + actor.getTechLevel();
-			if (dice < 1)
-				dice = 1;
-			int revival = sg.d(dice, 4 + actor.getCharisma());
+			int dice = 1 + actor.getCharisma() + actor.getTechLevel() + actor.getResources();
+			if( actor.getCharisma() < 0){
+				dice -= actor.getCharisma();
+			}
+			if (dice < 1){
+				dice = 1;}
+			int revival = sg.d(dice, 4 + actor.getCharisma())+dice;
+			System.out.println("Golden age of Art for: " + actor.name + " Revival score1: " + revival + " Current Decreptitude: " + actor.decrepitude);
 			sg.l("\n Art Golden Age Revival!" + actor.name + " previous decrepitude: " + actor.decrepitude
 					+ " revival amount: " + revival);
 			sg.writeCivToLog(actor);
 			if (revival > actor.decrepitude / 2) {
 				if (actor.decrepitude < 10) {
-					revival = sg.d(10) + actor.getCharisma();
+					revival = sg.d(2,5)+ 2 + actor.getCharisma();
 				}
-				revival = actor.decrepitude * (1 / 2);
+				else{
+				revival = (actor.decrepitude / 2);}
 			}
 			actor.decrepitude -= revival;
+			System.out.println("	Final decrepitude: " + actor.decrepitude + " Final revival: " + revival );
 		}
 	},
 	POPULATION_BOOM() {
@@ -117,21 +136,24 @@ public enum GoodCivEvent {
 			if (dice < 1)
 				dice = 1;
 			int revival = sg.d(dice, 8 + actor.getCharisma() + actor.getIntelligence());
+			System.out.println("Democratization for: " + actor.name + " Revival score1: " + revival + " Current Decreptitude: " + actor.decrepitude);
 			sg.l("\n Decomocratization Revival!" + actor.name + " previous decrepitude: " + actor.decrepitude
 					+ " revival amount: " + revival);
 			if (revival > actor.decrepitude / 2) {
 				if (actor.decrepitude < 10) {
-					revival = sg.d(10) + (actor.getCharisma() + actor.getIntelligence()) / 2;
-				}
-				revival = actor.decrepitude * (1 / 2);
+					revival = sg.d(10) + 1 +((actor.getCharisma() + actor.getIntelligence()) / 2);
+				 } else {
+				revival = (actor.decrepitude / 2);}
 			}
 			actor.decrepitude -= revival;
+			System.out.println("	Final decrepitude: " + actor.decrepitude + " Final revival: " + revival );
 			sg.writeCivToLog(actor);
 			String oldName = actor.name;
 			for (Planet c : actor.getColonies()) {
 				for (Population p : c.inhabitants) {
 					if (!actor.fullMembers.contains(p.type)) {
 						actor.fullMembers.add(p.type);
+						actor.calculate_race_stats();
 					}
 				}
 			}

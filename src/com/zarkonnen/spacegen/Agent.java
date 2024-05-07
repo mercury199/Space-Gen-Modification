@@ -16,8 +16,8 @@ Copyright 2012 David Stark
 
 package com.zarkonnen.spacegen;
 
-import static com.zarkonnen.spacegen.Stage.*;
 import static com.zarkonnen.spacegen.Main.*;
+import static com.zarkonnen.spacegen.Stage.*;
 
 public class Agent {
 	private Planet location;
@@ -34,6 +34,11 @@ public class Agent {
 	Sprite sprite;
 	SpaceGen sg;
 	String mType;
+	int Strength=0;
+	int Dexterity=0;
+	int Constitution=0;
+	int Intelligence=sg.d(2,5)+2;
+	int Charisma=0;
 	
 	public Agent(AgentType type, int birth, String name, SpaceGen sg) {
 		this.type = type;

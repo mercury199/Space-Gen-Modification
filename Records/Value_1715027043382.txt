@@ -1,0 +1,2132 @@
+SENTIENT SPECIES:
+Flying Humanoids: Pretty adventurous but otherwise fairly average. They have bilateral symmetry. They can fly. They are thrill-seeking and always willing to listen. They first evolved on Metatron II in 79.
+	Their Stats are: STR: -2 DEX: 1 CON: -1 INT: 1 CHA: -1
+White Antoids: Small, industrious and well-organised, these creatures' greatest weakness is their ever-ballooning population. They have white skin. They have bilateral symmetry. They are violent and deeply religious. They first evolved on Foner VI in 81.
+	Their Stats are: STR: 2 DEX: 1 CON: 2 INT: 0 CHA: 1
+Slim Orange Robots: Purely mechanical lifeforms, artificially created. They have orange skin. They have bilateral symmetry and a slim shape. They are fond of practical jokes and unwilling to compromise. They were created by the Republic of Flying Red Antoids with Giant Eyes on Lumen IV as servants in 170.
+	Their Stats are: STR: 2 DEX: 1 CON: 1 INT: 1 CHA: 2
+Giant Blue Robots: Purely mechanical lifeforms, artificially created. They have blue skin. They have bilateral symmetry. They are violent and strive to uphold their ideals of personal honour. They were created by the Church of Immortal Dwarfoids on Fikav I as servants in 135.
+	Their Stats are: STR: 2 DEX: 0 CON: -1 INT: -1 CHA: 0
+Immortal Dwarfoids: Fond of drink and industry - especially building strange contraptions. They have bilateral symmetry. They have no fixed lifespan and only die of disease or accidents. They are humorless and unwilling to compromise. They first evolved on Fimav V in 66.
+	Their Stats are: STR: 1 DEX: 2 CON: 3 INT: 1 CHA: 0
+Giant Black Robots: Purely mechanical lifeforms, artificially created. They have black skin. They have bilateral symmetry. They are reclusive and believe in the survival of the fittest. They were created by the Church of Immortal Dwarfoids on Metatron II as servants in 122.
+	Their Stats are: STR: 0 DEX: 2 CON: 1 INT: 1 CHA: 1
+Red Deep Dwellers: They live in the deep oceans or in deep caves, hiding. Their presence can go unnoticed for a long time. They have red skin. They have bilateral symmetry. They are meditative and value personal integrity above all else. They first evolved on Ginaw III in 105.
+	Their Stats are: STR: 0 DEX: -2 CON: 0 INT: 1 CHA: 1
+Grey Trolloids with Threefold Symmetry: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have grey skin. They have trilateral symmetry. They are cautious and deeply religious. They developed from Grey Trolloids in 117.
+	Their Stats are: STR: -1 DEX: -1 CON: 0 INT: 2 CHA: 0
+
+CIVILISATIONS:
+THE CHURCH OF IMMORTAL DWARFOIDS:
+An ancient, corrupt, fantastically wealthy, advanced Church of 17 planets, with 70 billion inhabitants.
+Major populations:
+4 billion Immortal Dwarfoids.
+2 billion enslaved Flying Humanoids.
+48 billion enslaved White Antoids.
+8 billion enslaved Giant Blue Robots.
+1 billion enslaved Giant Black Robots.
+3 billion enslaved Red Deep Dwellers.
+4 billion enslaved Grey Trolloids with Threefold Symmetry.
+It is at war with the Republic of Flying Red Antoids with Giant Eyes.
+
+	Their Stats are: STR: 0 DEX: 2 CON: 2 INT: -1 CHA: -1
+THE REPUBLIC OF FLYING RED ANTOIDS WITH GIANT EYES:
+An ancient, corrupt, fantastically wealthy, advanced Republic of 7 planets, with 28 billion inhabitants.
+Major populations:
+15 billion enslaved White Antoids.
+4 billion enslaved Slim Orange Robots.
+5 billion enslaved Immortal Dwarfoids.
+1 billion enslaved Giant Black Robots.
+3 billion enslaved Red Deep Dwellers.
+It is at war with the Church of Immortal Dwarfoids.
+
+	Their Stats are: STR: 0 DEX: -1 CON: -1 INT: 1 CHA: 1
+PLANETS:
+CYKOV I
+A barren planet of the Church of Immortal Dwarfoids.
+A military base, built by the Church of Immortal Dwarfoids in 162
+Strata:
+A film about Flying Red Antoids with Giant Eyes created by the Republic of Flying Red Antoids with Giant Eyes in 143, buried in 160.
+The ruins of a mining base, built by the Church of Immortal Dwarfoids in 120, destroyed in 160 due to orbital bombardment by the Church of Immortal Dwarfoids.
+
+AELUW IV
+A barren planet of the Church of Immortal Dwarfoids.
+A mining base, built by the Church of Immortal Dwarfoids in 156
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+Strata:
+The ruins of a mining base, built by the Church of Immortal Dwarfoids in 110, destroyed in 153 due to orbital bombardment by the pirate Blackbeard.
+
+FIMAV V
+A life-bearing planet of the Republic of Flying Red Antoids with Giant Eyes.
+It is heavily polluted.
+It is populated by:
+9 billion enslaved White Antoids
+A great hall, built by the Church of Immortal Dwarfoids in 106
+A grand palace, built by the Church of Immortal Dwarfoids in 107
+A vast underground vault, built by the Church of Immortal Dwarfoids in 128
+A vast museum, built by the Church of Immortal Dwarfoids in 136
+A city of spires, built by the Church of Immortal Dwarfoids in 169
+Strata:
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 168.
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 163.
+Remnants of a culture of Flying Humanoids that collapsed from the effects of pollution in 153.
+Remnants of a culture of Grey Trolloids with Threefold Symmetry that collapsed from the effects of pollution in 144.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 137.
+
+AIKAS IV
+A barren planet of the Church of Immortal Dwarfoids.
+It is somewhat polluted.
+A mining base, built by the Church of Immortal Dwarfoids in 153
+Strata:
+The ruins of a science lab, built by the Republic of Flying Red Antoids with Giant Eyes in 147, destroyed in 149 due to orbital bombardment by the Church of Immortal Dwarfoids.
+The ruins of a military base, built by the Church of Immortal Dwarfoids in 140, destroyed in 146 due to orbital bombardment by the Church of Immortal Dwarfoids.
+Fossils of living islands that went extinct in 136 due to a massive asteroid impact.
+The ruins of a mining base, built by the Church of Immortal Dwarfoids in 111, destroyed in 136 by a massive asteroid impact.
+Remnants of a culture of Red Deep Dwellers that collapsed due to a massive asteroid impact in 136.
+Remnants of a culture of Immortal Dwarfoids that collapsed due to a massive asteroid impact in 136.
+Remnants of a culture of Orange Trolloids that collapsed due to a massive asteroid impact in 136.
+
+EUNIQ VI
+A life-bearing planet of the Church of Immortal Dwarfoids.
+It is incredibly polluted.
+It is populated by:
+12 billion enslaved White Antoids
+A mining base, built by the Church of Immortal Dwarfoids in 113
+Lifeforms of note:
+Ultravores: The ultimate apex predator, the Ultravore is capable of stalking and killing even the most intelligent and well-armed prey.
+Strata:
+Remnants of a culture of Flying Humanoids that collapsed from the effects of pollution in 172.
+Remnants of a culture of Giant Black Robots that collapsed from the effects of pollution in 170.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 165.
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 164.
+Remnants of a culture of Six-Legged Trolloids that collapsed a campaign of extermination by Republic of Immortal Orange Ursoids in 104.
+
+LUMEN IV
+A life-bearing planet of the Republic of Flying Red Antoids with Giant Eyes.
+It is populated by:
+4 billion enslaved Immortal Dwarfoids
+4 billion enslaved Slim Orange Robots
+A grand palace, built by the Church of Immortal Dwarfoids in 111
+A complex of arcologies, built by the Church of Immortal Dwarfoids in 112
+A vast museum, built by the Church of Immortal Dwarfoids in 116
+A great hall, built by the Church of Immortal Dwarfoids in 119
+A vast underground vault, built by the Church of Immortal Dwarfoids in 120
+Strata:
+Remnants of a culture of Orange Trolloids that collapsed from the effects of pollution in 141.
+
+DOMEV II
+A life-bearing planet.
+Lifeforms of note:
+Ultravores: The ultimate apex predator, the Ultravore is capable of stalking and killing even the most intelligent and well-armed prey.
+Strata:
+The ruins of a grand roost, built by the Republic of Flying Red Antoids with Giant Eyes in 172, destroyed in 173 due to orbital bombardment by the Church of Immortal Dwarfoids.
+Remnants of a culture of White Antoids that collapsed due to orbital bombardment by the Church of Immortal Dwarfoids in 173.
+The ruins of a mining base, built by the Church of Immortal Dwarfoids in 154, destroyed in 169 during the invasion of the Republic of Flying Red Antoids with Giant Eyes.
+The ruins of a grand roost, built by the Republic of Flying Red Antoids with Giant Eyes in 144, destroyed in 152 due to orbital bombardment by the Church of Immortal Dwarfoids.
+Remnants of a culture of Red Deep Dwellers that collapsed due to orbital bombardment by the Church of Immortal Dwarfoids in 152.
+Remnants of a culture of Flying Red Antoids with Giant Eyes that collapsed from the effects of pollution in 145.
+The ruins of a grand roost, built by the Republic of Flying Red Antoids with Giant Eyes in 142, destroyed in 144 through orbital bombardment by the Church of Immortal Dwarfoids.
+Remnants of a culture of Amorphous Green Robots that collapsed due to orbital bombardment by the Church of Immortal Dwarfoids in 144.
+The ruins of a complex of arcologies, built by the Republic of Flying Red Antoids with Giant Eyes in 137, destroyed in 142 through orbital bombardment by the Church of Immortal Dwarfoids.
+The ruins of a grand roost, built by the Republic of Flying Red Antoids with Giant Eyes in 133, destroyed in 142 through orbital bombardment by the Church of Immortal Dwarfoids.
+Remnants of a culture of Flying Orange Koboldoids that collapsed from the effects of pollution in 133.
+Remnants of a culture of Red Catoids that collapsed from the effects of pollution in 99.
+
+FIKAV I
+A life-bearing planet of the Church of Immortal Dwarfoids.
+It is incredibly polluted.
+It is populated by:
+1 billion enslaved Flying Humanoids
+8 billion enslaved Giant Blue Robots
+1 billion enslaved Giant Black Robots
+2 billion enslaved Red Deep Dwellers
+A mining base, built by the Church of Immortal Dwarfoids in 104
+Strata:
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 163.
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 154.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 153.
+Remnants of a culture of Orange Trolloids that collapsed from the effects of pollution in 152.
+Fossils of vast grazing herds that went extinct in 82 due to a massive asteroid impact.
+Fossils of brain parasites that went extinct in 82 due to a massive asteroid impact.
+
+ORRA IV
+A barren planet of the Church of Immortal Dwarfoids.
+A mining base, built by the Church of Immortal Dwarfoids in 123
+Strata:
+The ruins of a military base, built by the Empire of Immortal Orange Ursoids in 105, destroyed in 110 during the collapse of the Empire of Immortal Orange Ursoids.
+
+REGOR II
+A life-bearing planet of the Church of Immortal Dwarfoids.
+It is incredibly polluted.
+It is populated by:
+1 billion Immortal Dwarfoids
+4 billion enslaved Grey Trolloids with Threefold Symmetry
+6 billion enslaved White Antoids
+Plagues:
+Yellow Wasting, which affects Immortal Dwarfoids and Grey Trolloids with Threefold Symmetry
+A complex of arcologies, built by the Church of Immortal Dwarfoids in 118
+A great hall, built by the Church of Immortal Dwarfoids in 125
+A vast museum, built by the Church of Immortal Dwarfoids in 157
+Lifeforms of note:
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Strata:
+Remnants of a culture of Giant Black Robots that collapsed from the effects of pollution in 172.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 169.
+The ruins of a vast museum, built by the Church of Immortal Dwarfoids in 138, destroyed in 144 during an attack by the Republic of Flying Red Antoids with Giant Eyes.
+Remnants of a culture of Flying Humanoids that collapsed from the effects of pollution in 139.
+Remnants of a culture of Yellow Ursoids that collapsed through the actions of the Church of Immortal Dwarfoids in 109.
+
+LUMEN VI
+A barren planet of the Republic of Flying Red Antoids with Giant Eyes.
+A military base, built by the Church of Immortal Dwarfoids in 102
+
+FONER VI
+A life-bearing planet of the Church of Immortal Dwarfoids.
+It is incredibly polluted.
+It is populated by:
+1 billion enslaved Flying Humanoids
+A mining base, built by the Church of Immortal Dwarfoids in 172
+Strata:
+Remnants of a culture of White Antoids that collapsed from the effects of pollution in 171.
+The ruins of a complex of arcologies, built by the Church of Immortal Dwarfoids in 158, destroyed in 169 through orbital bombardment by the Church of Immortal Dwarfoids.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 164.
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 155.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 142.
+Remnants of a culture of Amorphous Purple Antoids that collapsed from the effects of pollution in 108.
+
+METATRON II
+A life-bearing planet of the Church of Immortal Dwarfoids.
+It is very heavily polluted.
+It is populated by:
+9 billion enslaved White Antoids
+A great hall, built by the Church of Immortal Dwarfoids in 133
+A vast museum, built by the Church of Immortal Dwarfoids in 143
+A complex of arcologies, built by the Church of Immortal Dwarfoids in 149
+A city of spires, built by the Church of Immortal Dwarfoids in 170
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Strata:
+Remnants of a culture of Giant Black Robots that collapsed from the effects of pollution in 164.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 159.
+Remnants of a culture of Flying Humanoids that collapsed from the effects of pollution in 148.
+
+AUNIW III
+A life-bearing planet of the Republic of Flying Red Antoids with Giant Eyes.
+It is populated by:
+1 billion enslaved Immortal Dwarfoids
+6 billion enslaved White Antoids
+3 billion enslaved Red Deep Dwellers
+1 billion enslaved Giant Black Robots
+A mining base, built by the Church of Immortal Dwarfoids in 152
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Strata:
+Remnants of a culture of Flying Humanoids that collapsed from the effects of pollution in 162.
+The ruins of a grand roost, built by the Republic of Flying Red Antoids with Giant Eyes in 149, destroyed in 150 .
+The ruins of a cluster of breeding pits, built by the Republic of Flying Red Antoids with Giant Eyes in 148, destroyed in 150 .
+The ruins of a orbital elevator, built by the Republic of Flying Red Antoids with Giant Eyes in 146, destroyed in 150 .
+The ruins of a great hall, built by the Church of Immortal Dwarfoids in 142, destroyed in 150 .
+The ruins of a city of spires, built by the Church of Immortal Dwarfoids in 137, destroyed in 150 .
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 150.
+Remnants of a culture of White Antoids that collapsed due to orbital bombardment by the Church of Immortal Dwarfoids in 145.
+Remnants of a culture of Immortal Humanoids that collapsed from the effects of pollution in 144.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 138.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 137.
+
+AOLET IV
+A barren planet of the Church of Immortal Dwarfoids.
+A mining base, built by the Church of Immortal Dwarfoids in 119
+
+HELMETTEPOL VI
+A barren planet of the Church of Immortal Dwarfoids.
+A mining base, built by the Church of Immortal Dwarfoids in 122
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+
+BAL VI
+A barren planet of the Republic of Flying Red Antoids with Giant Eyes.
+A mining base, built by the Republic of Flying Red Antoids with Giant Eyes in 143
+Strata:
+The ruins of a mining base, built by the Republic of Flying Red Antoids with Giant Eyes in 142, destroyed in 143 due to orbital bombardment by the Church of Immortal Dwarfoids.
+
+GINAW III
+A life-bearing planet of the Church of Immortal Dwarfoids.
+It is incredibly polluted.
+It is populated by:
+1 billion enslaved Red Deep Dwellers
+3 billion Immortal Dwarfoids
+9 billion enslaved White Antoids
+A mining base, built by the Church of Immortal Dwarfoids in 101
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+
+ORGUS II
+A barren planet of the Republic of Flying Red Antoids with Giant Eyes.
+A mining base, built by the Church of Immortal Dwarfoids in 173
+Strata:
+The ruins of a mining base, built by the Church of Immortal Dwarfoids in 103, destroyed in 171 during the invasion of the Republic of Flying Red Antoids with Giant Eyes.
+The Tomb of Captain Ormog, buried in 100.
+
+GYLOU II
+A barren planet of the Church of Immortal Dwarfoids.
+A mining base, built by the Church of Immortal Dwarfoids in 121
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+
+DOLEQ I
+A life-bearing planet of the Church of Immortal Dwarfoids.
+It is incredibly polluted.
+It is populated by:
+12 billion enslaved White Antoids
+A great hall, built by the Church of Immortal Dwarfoids in 142
+A orbital elevator, built by the Church of Immortal Dwarfoids in 151
+A complex of arcologies, built by the Church of Immortal Dwarfoids in 167
+Periodical Darkness: Every thirteen years, the orbit of this planet synchronizes with that of a planet closer to its stars, causing a night that lasts for weeks.
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Strata:
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 166.
+Remnants of a culture of Grey Trolloids with Threefold Symmetry that collapsed from the effects of pollution in 161.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 157.
+Remnants of a culture of Orange Trolloids that collapsed from the effects of pollution in 153.
+
+FENUX VI
+A barren planet of the Church of Immortal Dwarfoids.
+A mining base, built by the Church of Immortal Dwarfoids in 101
+
+CENUX VI
+A barren planet of the Church of Immortal Dwarfoids.
+A mining base, built by the Church of Immortal Dwarfoids in 164
+Strata:
+The ruins of a mining base, built by the Church of Immortal Dwarfoids in 108, destroyed in 161 due to orbital bombardment by the Church of Immortal Dwarfoids.
+
+GUKIS I
+A life-bearing planet.
+In orbit: The pirate Orangebeard, a Immortal Dwarfoids, commanding a fleet of 2 ships.
+Ice Planet: Nearly the entire planet is covered in a thick sheet of ice.
+Strata:
+The ruins of a vast underground vault, built by the Republic of Flying Red Antoids with Giant Eyes in 173, destroyed in 173 due to orbital bombardment by the pirate Orangebeard.
+Remnants of a culture of Giant Black Robots that collapsed due to orbital bombardment by the pirate Orangebeard in 173.
+The ruins of a cluster of breeding pits, built by the Republic of Flying Red Antoids with Giant Eyes in 163, destroyed in 172 through orbital bombardment by the Church of Immortal Dwarfoids.
+Remnants of a culture of Immortal Dwarfoids that collapsed due to starvation in 168.
+The ruins of a mining base, built by the Republic of Flying Red Antoids with Giant Eyes in 155, destroyed in 162 due to orbital bombardment by the Church of Immortal Dwarfoids.
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 162.
+The ruins of a mining base, built by the Republic of Flying Red Antoids with Giant Eyes in 152, destroyed in 154 due to orbital bombardment by the pirate Blackbeard.
+Remnants of a culture of Immortal Dwarfoids that collapsed due to orbital bombardment by the pirate Blackbeard in 154.
+The ruins of a mining base, built by the Republic of Flying Red Antoids with Giant Eyes in 149, destroyed in 151 during the invasion of the Church of Immortal Dwarfoids.
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 151.
+The ruins of a grand palace, built by the Church of Immortal Dwarfoids in 134, destroyed in 149 .
+The ruins of a orbital elevator, built by the Church of Immortal Dwarfoids in 130, destroyed in 149 .
+The ruins of a vast underground vault, built by the Church of Immortal Dwarfoids in 128, destroyed in 149 .
+The ruins of a complex of arcologies, built by the Church of Immortal Dwarfoids in 124, destroyed in 149 .
+The ruins of a great hall, built by the Church of Immortal Dwarfoids in 123, destroyed in 149 .
+Remnants of a culture of Immortal Dwarfoids that collapsed from the effects of pollution in 149.
+Remnants of a culture of Red Deep Dwellers that collapsed from the effects of pollution in 146.
+Remnants of a culture of Grey Trolloids with Threefold Symmetry that collapsed from the effects of pollution in 143.
+The ruins of a mining base, built by the Empire of Immortal Orange Ursoids in 93, destroyed in 110 during the collapse of the Empire of Immortal Orange Ursoids.
+
+BOMEP V
+A barren planet of the Republic of Flying Red Antoids with Giant Eyes.
+A military base, built by the Republic of Flying Red Antoids with Giant Eyes in 161
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+Strata:
+The ruins of a mining base, built by the Church of Immortal Dwarfoids in 150, destroyed in 160 due to orbital bombardment by the Republic of Flying Red Antoids with Giant Eyes.
+
+BINAT III
+A barren planet of the Church of Immortal Dwarfoids.
+A mining base, built by the Church of Immortal Dwarfoids in 114
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+Strata:
+The ruins of a mining base, built by the Empire of Immortal Orange Ursoids in 104, destroyed in 110 during the collapse of the Empire of Immortal Orange Ursoids.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Cykov I, Aeluw IV, Fimav V, Aikas IV, Euniq VI, Lumen IV, Domev II, Fikav I, Orra IV, Regor II, Lumen VI, Foner VI, Metatron II, Auniw III, Aolet IV, Helmettepol VI, Bal VI, Ginaw III, Orgus II, Gylou II, Doleq I, Fenux VI, Cenux VI, Gukis I, Bomep V, Binat III
+8:
+Bomep V becomes tidally locked to its star.
+24:
+Vast canyons are carved on Aeluw IV.
+25:
+Life arises on Domev II
+26:
+Life arises on Auniw III
+29:
+Life arises on Fimav V
+32:
+Life arises on Aikas IV
+Due to an accident of orbital mechanics, every 13 years, Doleq I is plunged into total darkness.
+34:
+Life arises on Euniq VI
+36:
+A giant spaceborne purple worm appears from the depths of space and menaces the skies of Lumen VI.
+37:
+Life arises on Metatron II
+38:
+Sentient Immortal Orange Ursoids arise on Aikas IV.
+39:
+Gukis I becomes covered with ice.
+41:
+Life arises on Fikav I
+43:
+A gigantic network of caves forms on Binat III.
+44:
+Life arises on Doleq I
+55:
+Living islands evolve on Aikas IV.
+58:
+Life arises on Foner VI
+60:
+Titanic mountains form on Gylou II.
+61:
+Life arises on Ginaw III
+63:
+Life arises on Regor II
+64:
+The giant spaceborne purple worm leaves the orbit of Lumen VI and heads back into deep space.
+Sentient Six-Legged Trolloids arise on Euniq VI.
+66:
+Sentient Immortal Dwarfoids arise on Fimav V.
+69:
+Brain parasites evolve on Fikav I.
+70:
+Radiovores evolve on Metatron II.
+75:
+The Immortal Orange Ursoids on Aikas IV achieve spaceflight and organise as a Republic, the Republic of Immortal Orange Ursoids.
+
+Civ Name: Republic of Immortal Orange Ursoids 
+Civ Birth Year: 75 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | 1 | -3 | 2 | -3 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+76:
+WE ENTER THE FIRST AGE OF CIVILISATION
+The Republic of Immortal Orange Ursoids explore Aeluw IV. 
+Vast grazing herds evolve on Doleq I.
+77:
+Pollution kills a billion Immortal Orange Ursoids on Aikas IV.
+The Republic of Immortal Orange Ursoids experiences a population boom! 
+Vast grazing herds evolve on Fikav I.
+Gas bags evolve on Ginaw III.
+78:
+Pollution kills a billion Immortal Orange Ursoids on Aikas IV.
+The Republic of Immortal Orange Ursoids explore Bal VI. 
+The Republic of Immortal Orange Ursoids explore Aeluw IV. 
+Deposits of huge gems form on Helmettepol VI.
+79:
+Sentient Flying Humanoids arise on Metatron II.
+80:
+The Republic of Immortal Orange Ursoids launch a space probe called Dyad to explore the galaxy.
+Captain Brm'orr, space adventurer, blasts off from Aikas IV.
+An expedition led by Captain Brm'orr explores Cykov I. 
+An expedition led by Captain Brm'orr explores Gylou II. 
+81:
+An expedition led by Captain Brm'orr explores Aolet IV. 
+An expedition led by Captain Brm'orr explores Lumen VI. 
+Sentient White Antoids arise on Foner VI.
+82:
+Pollution kills a billion Immortal Orange Ursoids on Aikas IV.
+The Republic of Immortal Orange Ursoids explore Bal VI. 
+An expedition led by Captain Brm'orr explores Fimav V. They trade with the local Immortal Dwarfoids. 
+An expedition led by Captain Brm'orr explores Gylou II. 
+All life on Fikav I is killed off by a massive asteroid impact!
+Pharmaceuticals evolve on Ginaw III.
+83:
+The population of White Antoids on Foner VI has grown by a billion.
+The Republic of Immortal Orange Ursoids explore Fenux VI. 
+An expedition led by Captain Brm'orr explores Auniw III. 
+84:
+The population of White Antoids on Foner VI has grown by a billion.
+The Republic of Immortal Orange Ursoids explore Bal VI. 
+An expedition led by Captain Brm'orr explores Ginaw III. 
+An expedition led by Captain Brm'orr explores Regor II. 
+85:
+The population of White Antoids on Foner VI has grown by a billion.
+An expedition led by Captain Brm'orr explores Ginaw III. 
+An expedition led by Captain Brm'orr explores Lumen IV. 
+86:
+The population of White Antoids on Foner VI has grown by a billion.
+The Republic of Immortal Orange Ursoids attempting to upgrade their stats of value :0 current score is: 2
+The difficulty is: 48 They rolled: 12on: 4d3+2
+TechLevel: 2 Science: 2
+An expedition led by Captain Brm'orr explores Euniq VI. They trade with the local Six-Legged Trolloids. 
+An expedition led by Captain Brm'orr explores Bal VI. 
+87:
+The Republic of Immortal Orange Ursoids explore Orgus II. 
+The space probe Dyad returns to Aikas IV.
+The Republic of Immortal Orange Ursoids gains a wealth of new knowledge as a result.
+An expedition led by Captain Brm'orr explores Lumen VI. 
+An expedition led by Captain Brm'orr explores Gylou II. 
+88:
+An expedition led by Captain Brm'orr explores Ginaw III. 
+An expedition led by Captain Brm'orr explores Gylou II. 
+89:
+The population of White Antoids on Foner VI has grown by a billion.
+An expedition led by Captain Brm'orr explores Auniw III. 
+90:
+The population of White Antoids on Foner VI has grown by a billion.
+The Republic of Immortal Orange Ursoids explore Lumen VI. 
+Captain Ormog, space adventurer, blasts off from Aikas IV.
+An expedition led by Captain Brm'orr explores Euniq VI. They trade with the local Six-Legged Trolloids. 
+An expedition led by Captain Ormog explores Foner VI. They trade with the local White Antoids. 
+An expedition led by Captain Brm'orr explores Lumen IV. 
+An expedition led by Captain Ormog explores Gukis I. 
+91:
+The Republic of Immortal Orange Ursoids explore Bal VI. 
+The Republic of Immortal Orange Ursoids uplift the local Red Catoids on Domev II and incorporate the planet into their civilisation.
+An expedition led by Captain Brm'orr explores Fenux VI. 
+An expedition led by Captain Ormog explores Helmettepol VI. 
+The space adventurer Captain Brm'orr dies and is buried on Fenux VI.
+An expedition led by Captain Ormog explores Helmettepol VI. 
+92:
+Pollution kills a billion Red Catoids on Domev II.
+The Republic of Immortal Orange Ursoids explore Aolet IV. 
+An expedition led by Captain Ormog explores Fenux VI. 
+An expedition led by Captain Ormog explores Fikav I. They discover: Fossils of vast grazing herds that went extinct in 82 due to a massive asteroid impact. 
+Sentient Yellow Ursoids arise on Regor II.
+93:
+The Republic of Immortal Orange Ursoids explore Lumen IV. 
+
+ Industrial Golden Age Revival!Republic of Immortal Orange Ursoids previous decrepitude: 24 revival amount: 9
+
+Civ Name: Republic of Immortal Orange Ursoids 
+Civ Birth Year: 75 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | 1 | -3 | 2 | -3 | 
+Resources 3 Science 5 Military 15 WeapLevel 0 TechLevel 5 Decrepitude 24
+The Republic of Immortal Orange Ursoids enters a golden age of industry! The Republic of Immortal Orange Ursoids build a mining base on Gylou II. The Republic of Immortal Orange Ursoids build a mining base on Gukis I.
+An expedition led by Captain Ormog explores Aolet IV. 
+An expedition led by Captain Ormog explores Cenux VI. 
+94:
+Pollution kills a billion Red Catoids on Domev II.
+An expedition led by Captain Ormog explores Binat III. 
+Vast grazing herds evolve on Auniw III.
+95:
+The Republic of Immortal Orange Ursoids explore Aolet IV. 
+The Republic of Immortal Orange Ursoids build a mining base on Bomep V.
+An expedition led by Captain Ormog explores Ginaw III. 
+96:
+Pollution kills a billion White Antoids on Foner VI.
+Mass hysteria breaks out in the Republic of Immortal Orange Ursoids, killing billions.
+An expedition led by Captain Ormog explores Euniq VI. They trade with the local Six-Legged Trolloids. 
+An expedition led by Captain Ormog explores Aeluw IV. 
+97:
+An expedition led by Captain Ormog explores Orra IV. 
+The Immortal Dwarfoids on Fimav V achieve spaceflight and organise as a Theocracy, the Church of Immortal Dwarfoids.
+
+Civ Name: Church of Immortal Dwarfoids 
+Civ Birth Year: 97 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 4 | 5 | 0 | -1 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+98:
+The population of White Antoids on Foner VI has grown by a billion.
+The Republic of Immortal Orange Ursoids explore Doleq I. 
+The Church of Immortal Dwarfoids explore Cenux VI. 
+An expedition led by Captain Ormog explores Binat III. 
+99:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+Pollution kills a billion Red Catoids on Domev II.
+Red Catoids have died out on Domev II!
+The population of White Antoids on Foner VI has grown by a billion.
+The Republic of Immortal Orange Ursoids develop powerful new weapons.
+An expedition led by Captain Ormog explores Auniw III. 
+An expedition led by Captain Ormog explores Binat III. 
+100:
+The Republic of Immortal Orange Ursoids explore Bal VI. 
+An expedition led by Captain Ormog explores Fikav I. They discover: Fossils of vast grazing herds that went extinct in 82 due to a massive asteroid impact. They discover: Fossils of brain parasites that went extinct in 82 due to a massive asteroid impact. 
+The space adventurer Captain Ormog dies and is buried on Orgus II.
+101:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+
+ Industrial Golden Age Revival!Church of Immortal Dwarfoids previous decrepitude: 0 revival amount: 21
+
+Civ Name: Church of Immortal Dwarfoids 
+Civ Birth Year: 97 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 4 | 5 | 0 | -1 | 
+Resources 3 Science 6 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Church of Immortal Dwarfoids enters a golden age of industry! The Church of Immortal Dwarfoids build a mining base on Fenux VI. The Church of Immortal Dwarfoids build a mining base on Ginaw III.
+102:
+A giant spaceborne black worm appears from the depths of space and menaces the skies of Lumen IV.
+The population of White Antoids on Foner VI has grown by a billion.
+The Republic of Immortal Orange Ursoids explore Helmettepol VI. 
+Overcrowding on Fimav V leads to increased pollution.
+The Church of Immortal Dwarfoids build a military base on Lumen VI.
+The Church of Immortal Dwarfoids terraform and colonise Lumen IV.
+103:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Orgus II.
+Sentient Grey Trolloids arise on Doleq I.
+104:
+The Republic of Immortal Orange Ursoids explore Euniq VI. They mount a campaign of extermination against the local Six-Legged Trolloids and wipe them out.  They discover: Remnants of a culture of Six-Legged Trolloids that collapsed a campaign of extermination by Republic of Immortal Orange Ursoids in 104. 
+The Republic of Immortal Orange Ursoids build a mining base on Binat III.
+The Church of Immortal Dwarfoids build a mining base on Fikav I.
+Sentient Flying Red Antoids with Giant Eyes arise on Domev II.
+105:
+The population of Flying Red Antoids with Giant Eyes on Domev II has grown by a billion.
+The Republic of Immortal Orange Ursoids explore Gylou II. 
+The Republic of Immortal Orange Ursoids build a military base on Orra IV.
+Overcrowding on Fimav V leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Bal VI.
+Sentient Red Deep Dwellers arise on Ginaw III.
+106:
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The Church of Immortal Dwarfoids build a great hall on Fimav V.
+Sentient Amorphous Purple Antoids arise on Foner VI.
+107:
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Amorphous Purple Antoids on Foner VI.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The Republic of Immortal Orange Ursoids explore Euniq VI. 
+The Republic of Immortal Orange Ursoids build a science lab on Aeluw IV.
+The Church of Immortal Dwarfoids explore Lumen VI. 
+The Church of Immortal Dwarfoids build a grand palace on Fimav V.
+Ocean giants evolve on Regor II.
+108:
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Amorphous Purple Antoids on Foner VI.
+Amorphous Purple Antoids have died out on Foner VI!
+The Republic of Immortal Orange Ursoids build a military base on Euniq VI.
+A military putsch turns the Republic of Immortal Orange Ursoids into the Empire of Immortal Orange Ursoids.
+The Church of Immortal Dwarfoids build a mining base on Cenux VI.
+109:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Flying Red Antoids with Giant Eyes on Domev II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+Overcrowding on Ginaw III leads to increased pollution.
+The Church of Immortal Dwarfoids colonise Auniw III. 
+The Church of Immortal Dwarfoids colonise Regor II. Of the natives of that planet, the 2 billion Yellow Ursoids are exterminated. 
+110:
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The Empire of Immortal Orange Ursoids explore Aikas IV. 
+A famine breaks out on Aikas IV, killing 1 billion, wiping out all sentient life.
+The Empire of Immortal Orange Ursoids collapses.
+
+Civ Name: Empire of Immortal Orange Ursoids 
+Civ Birth Year: 75 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | 1 | -3 | 2 | -3 | 
+Resources 7 Science 28 Military 59 WeapLevel 1 TechLevel 5 Decrepitude 77
+The Church of Immortal Dwarfoids build a mining base on Aeluw IV.
+Life arises on Fikav I
+111:
+The population of Flying Red Antoids with Giant Eyes on Domev II has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The Church of Immortal Dwarfoids build a mining base on Aikas IV.
+The Church of Immortal Dwarfoids build a grand palace on Lumen IV.
+The Church of Immortal Dwarfoids terraform and colonise Gukis I.
+Ultravores evolve on Euniq VI.
+Living islands evolve on Metatron II.
+112:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The Church of Immortal Dwarfoids build a complex of arcologies on Lumen IV.
+The giant spaceborne black worm devours one billion Immortal Dwarfoids on Lumen IV.
+Sentient Orange Trolloids arise on Aikas IV.
+113:
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The Church of Immortal Dwarfoids build a mining base on Euniq VI.
+The Church of Immortal Dwarfoids explore Fenux VI. They loot the Tomb of Captain Brm'orr. 
+114:
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Gukis I has grown by a billion.
+Overcrowding on Ginaw III leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Binat III.
+The Church of Immortal Dwarfoids explore Metatron II. They mount a campaign of extermination against the local Flying Humanoids, killing 1 billion. 
+The giant spaceborne black worm devours one billion Immortal Dwarfoids on Lumen IV.
+115:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+The Church of Immortal Dwarfoids colonise Euniq VI. 
+The Church of Immortal Dwarfoids colonise Metatron II. Of the natives of that planet, the 1 billion Flying Humanoids are enslaved. 
+116:
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+The Church of Immortal Dwarfoids build a vast museum on Lumen IV.
+The Church of Immortal Dwarfoids explore Regor II. 
+117:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The Grey Trolloids on Doleq I mutate into Grey Trolloids with Threefold Symmetry.
+The population of Red Deep Dwellers on Gukis I has grown by a billion.
+Overcrowding on Ginaw III leads to increased pollution.
+The Church of Immortal Dwarfoids explore Aeluw IV. 
+The giant spaceborne black worm devours one billion Immortal Dwarfoids on Lumen IV.
+118:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+The Church of Immortal Dwarfoids colonise Fikav I. 
+The Church of Immortal Dwarfoids build a complex of arcologies on Regor II.
+The giant spaceborne black worm devours one billion Immortal Dwarfoids on Lumen IV.
+119:
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Flying Humanoids on Metatron II has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of Red Deep Dwellers on Gukis I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Aolet IV.
+The Church of Immortal Dwarfoids build a great hall on Lumen IV.
+120:
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Red Deep Dwellers on Fikav I has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Flying Humanoids on Metatron II has grown by a billion.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Cykov I.
+The Church of Immortal Dwarfoids build a vast underground vault on Lumen IV.
+The giant spaceborne black worm leaves the orbit of Lumen IV and heads back into deep space.
+121:
+The population of Immortal Dwarfoids on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Flying Humanoids on Metatron II has grown by a billion.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Gukis I has grown by a billion.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Gylou II.
+The Church of Immortal Dwarfoids explore Fikav I. They discover: Fossils of vast grazing herds that went extinct in 82 due to a massive asteroid impact. 
+Sentient Immortal Humanoids arise on Auniw III.
+122:
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of Immortal Humanoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Gukis I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Helmettepol VI.
+The Church of Immortal Dwarfoids create Giant Black Robots as servants on Metatron II.
+Sentient Flying Orange Koboldoids arise on Domev II.
+123:
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Red Deep Dwellers on Fikav I has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Flying Humanoids on Metatron II has grown by a billion.
+The population of Giant Black Robots on Metatron II has grown by a billion.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Orra IV.
+The Church of Immortal Dwarfoids build a great hall on Gukis I.
+124:
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Flying Red Antoids with Giant Eyes on Domev II has grown by a billion.
+The population of Immortal Dwarfoids on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Metatron II has grown by a billion.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+The Church of Immortal Dwarfoids build a complex of arcologies on Gukis I.
+125:
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of Immortal Humanoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+The Church of Immortal Dwarfoids build a great hall on Regor II.
+126:
+The population of Flying Red Antoids with Giant Eyes on Domev II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Flying Humanoids on Metatron II has grown by a billion.
+The population of Giant Black Robots on Metatron II has grown by a billion.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of Immortal Humanoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Bomep V.
+127:
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Flying Red Antoids with Giant Eyes on Domev II has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+A giant spaceborne grey cube appears from the depths of space and menaces the skies of Auniw III.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+The Flying Red Antoids with Giant Eyes on Domev II achieve spaceflight and organise as a Republic, the Republic of Flying Red Antoids with Giant Eyes.
+
+Civ Name: Republic of Flying Red Antoids with Giant Eyes 
+Civ Birth Year: 127 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 0 | -2 | 2 | 2 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+128:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of Red Deep Dwellers on Fimav V has grown by a billion.
+The population of Flying Humanoids on Fimav V has grown by a billion.
+The population of Immortal Dwarfoids on Aikas IV has grown by a billion.
+The population of Red Deep Dwellers on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Immortal Dwarfoids on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+The population of Flying Humanoids on Metatron II has grown by a billion.
+The population of Red Deep Dwellers on Metatron II has grown by a billion.
+The population of Immortal Humanoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of Red Deep Dwellers on Gukis I has grown by a billion.
+The population of Immortal Dwarfoids on Gukis I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a vast underground vault on Fimav V.
+The Church of Immortal Dwarfoids build a vast underground vault on Gukis I.
+Overcrowding on Domev II leads to increased pollution.
+129:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of Flying Humanoids on Fimav V has grown by a billion.
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Giant Black Robots on Metatron II has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids colonise Foner VI. Of the natives of that planet, the 11 billion White Antoids are enslaved. 
+Overcrowding on Domev II leads to increased pollution.
+130:
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Foner VI has grown by a billion.
+The population of Giant Black Robots on Metatron II has grown by a billion.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of Immortal Dwarfoids on Gukis I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a orbital elevator on Gukis I.
+Captain Gnolin Longbeard, space adventurer, blasts off from Aolet IV.
+Overcrowding on Domev II leads to increased pollution.
+Captain Gnolin Longbeard is sent on a mission to defeat the giant spaceborne grey cube at Auniw III.
+Captain Gnolin Longbeard defeats the giant spaceborne grey cube in orbit around Auniw III.
+The Church of Immortal Dwarfoids rewards the adventurer handsomely.
+131:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+Pollution kills a billion Flying Orange Koboldoids on Domev II.
+The population of Immortal Dwarfoids on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Flying Humanoids on Metatron II has grown by a billion.
+The population of Immortal Humanoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of Immortal Dwarfoids on Ginaw III has grown by a billion.
+The population of Red Deep Dwellers on Gukis I has grown by a billion.
+The population of Immortal Dwarfoids on Gukis I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+Overcrowding on Domev II leads to increased pollution.
+132:
+The population of Red Deep Dwellers on Fimav V has grown by a billion.
+The population of Flying Humanoids on Fimav V has grown by a billion.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+Pollution kills a billion Flying Red Antoids with Giant Eyes on Domev II.
+The population of Immortal Dwarfoids on Fikav I has grown by a billion.
+The population of Flying Humanoids on Fikav I has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Metatron II.
+The population of Giant Black Robots on Metatron II has grown by a billion.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of Immortal Dwarfoids on Ginaw III has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids explore Binat III. 
+
+ Industrial Golden Age Revival!Church of Immortal Dwarfoids previous decrepitude: 5 revival amount: 814
+
+Civ Name: Church of Immortal Dwarfoids 
+Civ Birth Year: 97 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 4 | 5 | 0 | -1 | 
+Resources 250 Science 17 Military 13 WeapLevel 0 TechLevel 1 Decrepitude 5
+The Church of Immortal Dwarfoids enters a golden age of industry!  
+Overcrowding on Domev II leads to increased pollution.
+133:
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Aikas IV has grown by a billion.
+Pollution kills a billion Flying Orange Koboldoids on Domev II.
+Flying Orange Koboldoids have died out on Domev II!
+The population of Orange Trolloids on Fikav I has grown by a billion.
+The population of Immortal Dwarfoids on Regor II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Foner VI has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Auniw III.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a great hall on Metatron II.
+Overcrowding on Domev II leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes send a delegation to Metatron II. They declare war on the Church of Immortal Dwarfoids! 
+The Republic of Flying Red Antoids with Giant Eyes build a grand roost on Domev II.
+
+ Industrial Golden Age Revival!Republic of Flying Red Antoids with Giant Eyes previous decrepitude: -2 revival amount: 48
+
+Civ Name: Republic of Flying Red Antoids with Giant Eyes 
+Civ Birth Year: 127 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 0 | -2 | 2 | 2 | 
+Resources 10 Science 4 Military 0 WeapLevel 0 TechLevel 2 Decrepitude -2
+The Republic of Flying Red Antoids with Giant Eyes enters a golden age of industry!  
+An expedition led by Captain Gnolin Longbeard explores Doleq I. They trade with the local Grey Trolloids with Threefold Symmetry. 
+The Church of Immortal Dwarfoids send Captain Gnolin Longbeard on a mission of peace to the Republic of Flying Red Antoids with Giant Eyes.
+The expert diplomacy of Captain Gnolin Longbeard is successful: the two empires are at peace.
+134:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of Flying Humanoids on Fimav V has grown by a billion.
+The population of Red Deep Dwellers on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Immortal Dwarfoids on Fikav I has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Flying Humanoids on Metatron II.
+The population of Red Deep Dwellers on Metatron II has grown by a billion.
+Pollution kills a billion Immortal Humanoids on Auniw III.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids colonise Doleq I. Of the natives of that planet, the 2 billion Grey Trolloids with Threefold Symmetry are enslaved. 
+The Church of Immortal Dwarfoids build a grand palace on Gukis I.
+Overcrowding on Domev II leads to increased pollution.
+135:
+Pollution kills a billion Red Deep Dwellers on Fimav V.
+The population of Immortal Dwarfoids on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+The population of Orange Trolloids on Lumen IV has grown by a billion.
+Pollution kills a billion Flying Red Antoids with Giant Eyes on Domev II.
+The population of Immortal Dwarfoids on Fikav I has grown by a billion.
+The population of Flying Humanoids on Regor II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Immortal Dwarfoids on Ginaw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids create Giant Blue Robots as servants on Fikav I.
+136:
+Pollution kills a billion Red Deep Dwellers on Fimav V.
+The population of Orange Trolloids on Aikas IV has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+The population of Flying Humanoids on Fikav I has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Foner VI.
+Pollution kills a billion Flying Humanoids on Metatron II.
+Pollution kills a billion Red Deep Dwellers on Metatron II.
+Pollution kills a billion Giant Black Robots on Metatron II.
+Pollution kills a billion Immortal Humanoids on Auniw III.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of Immortal Dwarfoids on Ginaw III has grown by a billion.
+The population of Grey Trolloids with Threefold Symmetry on Doleq I has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+The population of Orange Trolloids on Doleq I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a vast museum on Fimav V.
+Overcrowding on Domev II leads to increased pollution.
+All life on Aikas IV is killed off by a massive asteroid impact!
+137:
+Pollution kills a billion Red Deep Dwellers on Fimav V.
+Red Deep Dwellers have died out on Fimav V!
+The population of Flying Humanoids on Fikav I has grown by a billion.
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Giant Black Robots on Metatron II has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Auniw III.
+Red Deep Dwellers have died out on Auniw III!
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of Grey Trolloids with Threefold Symmetry on Doleq I has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+The population of Immortal Dwarfoids on Doleq I has grown by a billion.
+The population of Red Deep Dwellers on Gukis I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a city of spires on Auniw III.
+The Republic of Flying Red Antoids with Giant Eyes build a complex of arcologies on Domev II.
+The Republic of Flying Red Antoids with Giant Eyes create Amorphous Green Robots as servants on Domev II.
+138:
+Pollution kills a billion Flying Humanoids on Fimav V.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Immortal Dwarfoids on Fikav I has grown by a billion.
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+The population of Immortal Dwarfoids on Regor II has grown by a billion.
+Pollution kills a billion Flying Humanoids on Regor II.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of White Antoids on Auniw III has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Auniw III.
+Red Deep Dwellers have died out on Auniw III!
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of Immortal Dwarfoids on Ginaw III has grown by a billion.
+The population of Grey Trolloids with Threefold Symmetry on Doleq I has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+The population of Immortal Dwarfoids on Gukis I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a vast museum on Regor II.
+Overcrowding on Domev II leads to increased pollution.
+139:
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Euniq VI.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+Pollution kills a billion Flying Humanoids on Regor II.
+Flying Humanoids have died out on Regor II!
+Pollution kills a billion White Antoids on Foner VI.
+Pollution kills a billion Red Deep Dwellers on Foner VI.
+The population of White Antoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+The population of Immortal Dwarfoids on Doleq I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+Overcrowding on Domev II leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes send a delegation to Cenux VI. They declare war on the Church of Immortal Dwarfoids! 
+The Republic of Flying Red Antoids with Giant Eyes conquer Bomep V, a colony of the Church of Immortal Dwarfoids.
+140:
+Pollution kills a billion White Antoids on Fimav V.
+Pollution kills a billion Orange Trolloids on Lumen IV.
+Pollution kills a billion Red Deep Dwellers on Fikav I.
+The population of Grey Trolloids with Threefold Symmetry on Regor II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion White Antoids on Auniw III.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of White Antoids on Doleq I has grown by a billion.
+The population of Red Deep Dwellers on Doleq I has grown by a billion.
+The population of Immortal Dwarfoids on Doleq I has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Gukis I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids explore Orgus II. 
+The Church of Immortal Dwarfoids build a military base on Aikas IV.
+The Church of Immortal Dwarfoids attack and raze Bomep V, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+Overcrowding on Domev II leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes conquer Bal VI, a colony of the Church of Immortal Dwarfoids.
+An expedition led by Captain Gnolin Longbeard explores Bomep V. 
+Pollution on Fimav V abates.
+141:
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Euniq VI.
+Pollution kills a billion Orange Trolloids on Lumen IV.
+Orange Trolloids have died out on Lumen IV!
+Pollution kills a billion Flying Red Antoids with Giant Eyes on Domev II.
+Pollution kills a billion Amorphous Green Robots on Domev II.
+Pollution kills a billion Red Deep Dwellers on Fikav I.
+Pollution kills a billion Orange Trolloids on Fikav I.
+The population of Flying Humanoids on Fikav I has grown by a billion.
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Regor II.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Foner VI.
+Pollution kills a billion Giant Black Robots on Metatron II.
+Pollution kills a billion Immortal Dwarfoids on Auniw III.
+Pollution kills a billion Immortal Humanoids on Auniw III.
+The population of White Antoids on Auniw III has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+Pollution kills a billion Immortal Dwarfoids on Ginaw III.
+The population of Grey Trolloids with Threefold Symmetry on Doleq I has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+The population of Red Deep Dwellers on Doleq I has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Gukis I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids conquer Bal VI, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+Overcrowding on Domev II leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes conquer Fenux VI, a colony of the Church of Immortal Dwarfoids.
+The space adventurer Captain Gnolin Longbeard dies and is buried on Fenux VI.
+142:
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Euniq VI.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+Pollution kills a billion Flying Red Antoids with Giant Eyes on Domev II.
+Pollution kills a billion Immortal Dwarfoids on Fikav I.
+Pollution kills a billion Red Deep Dwellers on Regor II.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Foner VI.
+Red Deep Dwellers have died out on Foner VI!
+Pollution kills a billion Flying Humanoids on Metatron II.
+Pollution kills a billion Immortal Humanoids on Auniw III.
+The population of White Antoids on Auniw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+The population of Red Deep Dwellers on Doleq I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a great hall on Auniw III.
+The Church of Immortal Dwarfoids build a great hall on Doleq I.
+The Church of Immortal Dwarfoids attack Domev II, a colony of the Republic of Flying Red Antoids with Giant Eyes, and subject it to orbital bombardment, killing 5 billion.
+The Republic of Flying Red Antoids with Giant Eyes build a mining base on Bal VI.
+The Republic of Flying Red Antoids with Giant Eyes build a grand roost on Domev II.
+The Republic of Flying Red Antoids with Giant Eyes conquer Auniw III, a colony of the Church of Immortal Dwarfoids, killing 2 billion in the process.
+143:
+Pollution kills a billion Flying Humanoids on Fimav V.
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Euniq VI.
+Pollution kills a billion Red Deep Dwellers on Euniq VI.
+Pollution kills a billion Immortal Dwarfoids on Fikav I.
+Pollution kills a billion Flying Humanoids on Fikav I.
+Pollution kills a billion Grey Trolloids with Threefold Symmetry on Regor II.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Auniw III.
+Pollution kills a billion Immortal Humanoids on Auniw III.
+Pollution kills a billion White Antoids on Auniw III.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Doleq I.
+Pollution kills a billion Grey Trolloids with Threefold Symmetry on Gukis I.
+Grey Trolloids with Threefold Symmetry have died out on Gukis I!
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Gukis I leads to increased pollution.
+The Church of Immortal Dwarfoids build a vast museum on Metatron II.
+The Church of Immortal Dwarfoids attack and raze Bal VI, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+Overcrowding on Auniw III leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes build a mining base on Bal VI.
+
+ Art Golden Age Revival!Republic of Flying Red Antoids with Giant Eyes previous decrepitude: -7 revival amount: 79
+
+Civ Name: Republic of Flying Red Antoids with Giant Eyes 
+Civ Birth Year: 127 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 0 | -2 | 2 | 2 | 
+Resources 21 Science 11 Military 4 WeapLevel 0 TechLevel 2 Decrepitude -7
+Artists on Auniw III create a film about Flying Red Antoids with Giant Eyes. 
+The Republic of Flying Red Antoids with Giant Eyes conquer Gukis I, a colony of the Church of Immortal Dwarfoids, killing 5 billion in the process.
+144:
+Pollution kills a billion Immortal Dwarfoids on Fimav V.
+Pollution kills a billion Flying Humanoids on Fimav V.
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion Grey Trolloids with Threefold Symmetry on Fimav V.
+Grey Trolloids with Threefold Symmetry have died out on Fimav V!
+Pollution kills a billion Immortal Dwarfoids on Euniq VI.
+Pollution kills a billion Red Deep Dwellers on Euniq VI.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Fikav I.
+The population of Orange Trolloids on Fikav I has grown by a billion.
+The population of Grey Trolloids with Threefold Symmetry on Regor II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Metatron II.
+Pollution kills a billion Immortal Dwarfoids on Auniw III.
+Pollution kills a billion Immortal Humanoids on Auniw III.
+Immortal Humanoids have died out on Auniw III!
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Gukis I.
+Pollution kills a billion Immortal Dwarfoids on Gukis I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids attack Domev II, a colony of the Republic of Flying Red Antoids with Giant Eyes, and subject it to orbital bombardment, killing 3 billion.
+Overcrowding on Gukis I leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes explore Bal VI. 
+The Republic of Flying Red Antoids with Giant Eyes build a grand roost on Domev II.
+The Church of Immortal Dwarfoids repel the Republic of Flying Red Antoids with Giant Eyes at Regor II.
+145:
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+Pollution kills a billion Flying Red Antoids with Giant Eyes on Domev II.
+Flying Red Antoids with Giant Eyes have died out on Domev II!
+Pollution kills a billion Orange Trolloids on Fikav I.
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Regor II.
+Pollution kills a billion White Antoids on Foner VI.
+Pollution kills a billion Immortal Dwarfoids on Auniw III.
+Pollution kills a billion White Antoids on Auniw III.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Orange Trolloids on Doleq I.
+Pollution kills a billion Red Deep Dwellers on Gukis I.
+Pollution kills a billion Immortal Dwarfoids on Gukis I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids attack Auniw III, a colony of the Republic of Flying Red Antoids with Giant Eyes, and subject it to orbital bombardment, killing 4 billion.
+The Republic of Flying Red Antoids with Giant Eyes conquer Aikas IV, a colony of the Church of Immortal Dwarfoids.
+The wind plays across rock formations on Gylou II, producing an eerie music.
+146:
+The population of White Antoids on Fimav V has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+The population of Immortal Dwarfoids on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Fikav I has grown by a billion.
+The population of Flying Humanoids on Fikav I has grown by a billion.
+Pollution kills a billion Giant Blue Robots on Fikav I.
+Pollution kills a billion Red Deep Dwellers on Regor II.
+The population of Grey Trolloids with Threefold Symmetry on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+Pollution kills a billion Immortal Dwarfoids on Ginaw III.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Doleq I.
+Pollution kills a billion Red Deep Dwellers on Gukis I.
+Red Deep Dwellers have died out on Gukis I!
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids explore Metatron II. 
+The Church of Immortal Dwarfoids attack and raze Aikas IV, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+The Republic of Flying Red Antoids with Giant Eyes build a orbital elevator on Auniw III.
+The Republic of Flying Red Antoids with Giant Eyes conquer Cykov I, a colony of the Church of Immortal Dwarfoids.
+147:
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Euniq VI.
+Pollution kills a billion Immortal Dwarfoids on Fikav I.
+The population of Flying Humanoids on Fikav I has grown by a billion.
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+Pollution kills a billion Flying Humanoids on Metatron II.
+The population of White Antoids on Metatron II has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids explore Gylou II. 
+The Church of Immortal Dwarfoids conquer Fenux VI, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+The Republic of Flying Red Antoids with Giant Eyes build a science lab on Aikas IV.
+The Republic of Flying Red Antoids with Giant Eyes attack Euniq VI, a colony of the Church of Immortal Dwarfoids, and subject it to orbital bombardment, killing 9 billion.
+148:
+Pollution kills a billion Immortal Dwarfoids on Fimav V.
+Pollution kills a billion Flying Humanoids on Fimav V.
+The population of White Antoids on Fimav V has grown by a billion.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+The population of Immortal Dwarfoids on Lumen IV has grown by a billion.
+The population of Flying Humanoids on Fikav I has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+Pollution kills a billion Flying Humanoids on Metatron II.
+Flying Humanoids have died out on Metatron II!
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of Immortal Dwarfoids on Ginaw III has grown by a billion.
+Pollution kills a billion White Antoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+A famine breaks out on Euniq VI, killing 3 billion.
+The Church of Immortal Dwarfoids conquer Domev II, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+The Republic of Flying Red Antoids with Giant Eyes build a cluster of breeding pits on Auniw III.
+The Republic of Flying Red Antoids with Giant Eyes conquer Domev II, a colony of the Church of Immortal Dwarfoids.
+149:
+Pollution kills a billion White Antoids on Fimav V.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+Pollution kills a billion Immortal Dwarfoids on Fikav I.
+Pollution kills a billion Red Deep Dwellers on Regor II.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Red Deep Dwellers on Metatron II has grown by a billion.
+The population of White Antoids on Metatron II has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of Immortal Dwarfoids on Ginaw III has grown by a billion.
+Pollution kills a billion Grey Trolloids with Threefold Symmetry on Doleq I.
+Pollution kills a billion White Antoids on Doleq I.
+The population of Immortal Dwarfoids on Doleq I has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Gukis I.
+Immortal Dwarfoids have died out on Gukis I!
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a complex of arcologies on Metatron II.
+The Church of Immortal Dwarfoids attack and raze Aikas IV, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+The Republic of Flying Red Antoids with Giant Eyes build a mining base on Gukis I.
+The Republic of Flying Red Antoids with Giant Eyes build a grand roost on Auniw III.
+Captain Tkkraa, space adventurer, blasts off from Domev II.
+The Republic of Flying Red Antoids with Giant Eyes conquer Lumen IV, a colony of the Church of Immortal Dwarfoids, killing 1 billion in the process.
+150:
+The population of White Antoids on Fimav V has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+Pollution kills a billion Red Deep Dwellers on Regor II.
+The population of Immortal Dwarfoids on Regor II has grown by a billion.
+The population of Grey Trolloids with Threefold Symmetry on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Red Deep Dwellers on Metatron II has grown by a billion.
+The population of Giant Black Robots on Metatron II has grown by a billion.
+The population of White Antoids on Metatron II has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Auniw III.
+Immortal Dwarfoids have died out on Auniw III!
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Bomep V.
+The Church of Immortal Dwarfoids conquer Bal VI, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+Overcrowding on Lumen IV leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes colonise Gukis I. 
+The Republic of Flying Red Antoids with Giant Eyes conquer Bal VI, a colony of the Church of Immortal Dwarfoids.
+The Republic of Flying Red Antoids with Giant Eyes send Captain Tkkraa on a mission of peace to the Church of Immortal Dwarfoids.
+Unfortunately, the peace mission fails. Captain Tkkraa hastily retreats to Lumen IV.
+Captain Tkkraa raids the treasury on Bomep V, a planet of the enemy Church of Immortal Dwarfoids.
+151:
+Pollution kills a billion Immortal Dwarfoids on Fimav V.
+The population of White Antoids on Fimav V has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+Pollution kills a billion Giant Blue Robots on Fikav I.
+Pollution kills a billion White Antoids on Foner VI.
+The population of Giant Black Robots on Metatron II has grown by a billion.
+The population of White Antoids on Metatron II has grown by a billion.
+A giant spaceborne orange jellyfish appears from the depths of space and menaces the skies of Doleq I.
+Pollution kills a billion White Antoids on Doleq I.
+Pollution kills a billion Immortal Dwarfoids on Gukis I.
+Immortal Dwarfoids have died out on Gukis I!
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a orbital elevator on Doleq I.
+The Church of Immortal Dwarfoids conquer Gukis I, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+Overcrowding on Lumen IV leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes explore Auniw III. They recover: A film about Flying Red Antoids with Giant Eyes created by the Republic of Flying Red Antoids with Giant Eyes in 143, buried in 150. They discover: The ruins of a cluster of breeding pits, built by the Republic of Flying Red Antoids with Giant Eyes in 148, destroyed in 150 . 
+The Republic of Flying Red Antoids with Giant Eyes conquer Helmettepol VI, a colony of the Church of Immortal Dwarfoids.
+Captain Tkkraa steals jewels from Binat III, a planet of the enemy Church of Immortal Dwarfoids.
+152:
+Pollution kills a billion Immortal Dwarfoids on Fimav V.
+Pollution kills a billion White Antoids on Fimav V.
+The population of Giant Black Robots on Euniq VI has grown by a billion.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+Pollution kills a billion Red Deep Dwellers on Fikav I.
+Pollution kills a billion Orange Trolloids on Fikav I.
+Orange Trolloids have died out on Fikav I!
+Pollution kills a billion Red Deep Dwellers on Regor II.
+The population of Grey Trolloids with Threefold Symmetry on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of White Antoids on Metatron II has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Ginaw III.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Orange Trolloids on Doleq I.
+Pollution kills a billion Red Deep Dwellers on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Auniw III.
+An industrial accident on Fikav I causes deadly levels of pollution.
+The Church of Immortal Dwarfoids attack and raze Domev II, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+The Republic of Flying Red Antoids with Giant Eyes build a mining base on Gukis I.
+The Republic of Flying Red Antoids with Giant Eyes send a delegation to Euniq VI. They sign a peace accord with the Church of Immortal Dwarfoids, ending their war. 
+An expedition led by Captain Tkkraa explores Metatron II. They trade with the local White Antoids. 
+An expedition led by Captain Tkkraa explores Gylou II. 
+153:
+Pollution kills a billion Flying Humanoids on Fimav V.
+Flying Humanoids have died out on Fimav V!
+The population of Giant Black Robots on Euniq VI has grown by a billion.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+Pollution kills a billion Immortal Dwarfoids on Fikav I.
+Pollution kills a billion Red Deep Dwellers on Fikav I.
+Red Deep Dwellers have died out on Fikav I!
+Pollution kills a billion Grey Trolloids with Threefold Symmetry on Regor II.
+Pollution kills a billion White Antoids on Foner VI.
+The population of White Antoids on Metatron II has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Ginaw III.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Orange Trolloids on Doleq I.
+Orange Trolloids have died out on Doleq I!
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Aikas IV.
+The pirate Blackbeard establishes herself on Ginaw III.
+Overcrowding on Lumen IV leads to increased pollution.
+An expedition led by Captain Tkkraa explores Euniq VI. They encounter the local ultravores. In a desperate attempt to stop them, Captain Tkkraa has half of the exploration fleet blasted to bits.
+The pirate Blackbeard subjects Aeluw IV to orbital bombardment.
+An expedition led by Captain Tkkraa explores Aeluw IV. 
+154:
+The population of White Antoids on Fimav V has grown by a billion.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+Pollution kills a billion Immortal Dwarfoids on Fikav I.
+Immortal Dwarfoids have died out on Fikav I!
+The population of Grey Trolloids with Threefold Symmetry on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+Pollution kills a billion Giant Black Robots on Metatron II.
+Pollution kills a billion White Antoids on Metatron II.
+Pollution kills a billion White Antoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Domev II.
+The Republic of Flying Red Antoids with Giant Eyes colonise Gukis I. 
+An expedition led by Captain Tkkraa explores Aikas IV. 
+The pirate Blackbeard subjects Gukis I to orbital bombardment.
+An expedition led by Captain Tkkraa explores Orra IV. 
+155:
+Pollution kills a billion Immortal Dwarfoids on Fimav V.
+Pollution kills a billion White Antoids on Fimav V.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Flying Humanoids on Fikav I.
+Pollution kills a billion Giant Blue Robots on Fikav I.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Foner VI.
+Pollution kills a billion Immortal Dwarfoids on Foner VI.
+Immortal Dwarfoids have died out on Foner VI!
+Pollution kills a billion Giant Black Robots on Metatron II.
+The population of White Antoids on Metatron II has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids explore Doleq I. 
+The Republic of Flying Red Antoids with Giant Eyes build a mining base on Gukis I.
+An expedition led by Captain Tkkraa explores Fimav V. They trade with the local White Antoids. 
+The pirate Blackbeard receives tribute from Regor II of the Church of Immortal Dwarfoids.
+An expedition led by Captain Tkkraa explores Auniw III. 
+156:
+Pollution kills a billion Immortal Dwarfoids on Fimav V.
+The population of White Antoids on Fimav V has grown by a billion.
+The population of Immortal Dwarfoids on Euniq VI has grown by a billion.
+The population of Red Deep Dwellers on Euniq VI has grown by a billion.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+Pollution kills a billion Flying Humanoids on Fikav I.
+Pollution kills a billion Giant Blue Robots on Fikav I.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Foner VI has grown by a billion.
+The population of White Antoids on Metatron II has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Ginaw III.
+Pollution kills a billion Grey Trolloids with Threefold Symmetry on Doleq I.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Aeluw IV.
+The Church of Immortal Dwarfoids colonise Auniw III. 
+The Church of Immortal Dwarfoids launch a space probe called Monad to explore the galaxy.
+An expedition led by Captain Tkkraa explores Aikas IV. 
+The pirate Blackbeard receives tribute from Fenux VI of the Church of Immortal Dwarfoids.
+An expedition led by Captain Tkkraa explores Fenux VI. The expedition loots the Tomb of Captain Gnolin Longbeard. 
+Pollution on Foner VI abates.
+157:
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Euniq VI.
+Pollution kills a billion Giant Black Robots on Euniq VI.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Fikav I.
+Red Deep Dwellers have died out on Fikav I!
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Metatron II.
+The population of White Antoids on Metatron II has grown by a billion.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Doleq I.
+Red Deep Dwellers have died out on Doleq I!
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a vast museum on Regor II.
+An expedition led by Captain Tkkraa explores Fimav V. They trade with the local Immortal Dwarfoids. 
+The pirate Blackbeard receives tribute from Aolet IV of the Church of Immortal Dwarfoids.
+An expedition led by Captain Tkkraa explores Cenux VI. 
+158:
+The population of Immortal Dwarfoids on Fimav V has grown by a billion.
+The population of White Antoids on Fimav V has grown by a billion.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Regor II.
+Pollution kills a billion White Antoids on Foner VI.
+Pollution kills a billion Giant Black Robots on Metatron II.
+The population of White Antoids on Metatron II has grown by a billion.
+The population of White Antoids on Auniw III has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of White Antoids on Doleq I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids explore Regor II. They discover: Remnants of a culture of Flying Humanoids that collapsed from the effects of pollution in 139. 
+The Church of Immortal Dwarfoids build a complex of arcologies on Foner VI.
+The Republic of Flying Red Antoids with Giant Eyes send a delegation to Foner VI. They declare war on the Church of Immortal Dwarfoids! 
+The Republic of Flying Red Antoids with Giant Eyes experiences a population boom! 
+The Republic of Flying Red Antoids with Giant Eyes conquer Cenux VI, a colony of the Church of Immortal Dwarfoids.
+The pirate Blackbeard receives tribute from Lumen VI of the Church of Immortal Dwarfoids.
+Captain Tkkraa is sent on a mission to defeat the pirate Blackbeard by the government of Lumen IV.
+Captain Tkkraa tracks down the pirate Blackbeard in orbit around Lumen VI.
+Captain Tkkraa defeats the pirate Blackbeard - the skies of Lumen VI are safe again.
+159:
+Pollution kills a billion White Antoids on Fimav V.
+Pollution kills a billion Immortal Dwarfoids on Euniq VI.
+The population of White Antoids on Euniq VI has grown by a billion.
+The population of Flying Humanoids on Fikav I has grown by a billion.
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of Red Deep Dwellers on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Metatron II.
+Red Deep Dwellers have died out on Metatron II!
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of White Antoids on Auniw III has grown by a billion.
+The population of Giant Black Robots on Auniw III has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Ginaw III.
+Pollution kills a billion White Antoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids conquer Cykov I, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+The Republic of Flying Red Antoids with Giant Eyes conquer Cykov I, a colony of the Church of Immortal Dwarfoids.
+Captain Tkkraa is sent on a mission to defeat the giant spaceborne orange jellyfish at Doleq I.
+Captain Tkkraa defeats the giant spaceborne orange jellyfish in orbit around Doleq I.
+The Church of Immortal Dwarfoids rewards the adventurer handsomely.
+160:
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Euniq VI.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Giant Blue Robots on Fikav I.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+The population of Immortal Dwarfoids on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+Pollution kills a billion Giant Black Robots on Metatron II.
+The population of White Antoids on Metatron II has grown by a billion.
+The population of White Antoids on Auniw III has grown by a billion.
+Pollution kills a billion White Antoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids explore Fimav V. 
+The Church of Immortal Dwarfoids attack and raze Cykov I, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+The Republic of Flying Red Antoids with Giant Eyes attack and raze Bomep V, a colony of the Church of Immortal Dwarfoids.
+The space adventurer Captain Tkkraa dies and is buried on Lumen IV.
+Pollution on Doleq I abates.
+161:
+The population of White Antoids on Fimav V has grown by a billion.
+Pollution kills a billion White Antoids on Euniq VI.
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Regor II has grown by a billion.
+The population of Immortal Dwarfoids on Regor II has grown by a billion.
+The population of Grey Trolloids with Threefold Symmetry on Regor II has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Giant Black Robots on Metatron II.
+Pollution kills a billion White Antoids on Metatron II.
+The population of Immortal Dwarfoids on Auniw III has grown by a billion.
+The population of White Antoids on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Auniw III has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+Pollution kills a billion Grey Trolloids with Threefold Symmetry on Doleq I.
+Grey Trolloids with Threefold Symmetry have died out on Doleq I!
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids explore Cykov I. 
+The Church of Immortal Dwarfoids attack and raze Cenux VI, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+The Republic of Flying Red Antoids with Giant Eyes colonise Gukis I. 
+The Republic of Flying Red Antoids with Giant Eyes build a military base on Bomep V.
+The Republic of Flying Red Antoids with Giant Eyes conquer Auniw III, a colony of the Church of Immortal Dwarfoids, killing 1 billion in the process.
+162:
+The population of White Antoids on Fimav V has grown by a billion.
+The population of White Antoids on Euniq VI has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Foner VI.
+The population of White Antoids on Metatron II has grown by a billion.
+Pollution kills a billion Flying Humanoids on Auniw III.
+Flying Humanoids have died out on Auniw III!
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of Immortal Dwarfoids on Ginaw III has grown by a billion.
+The population of White Antoids on Ginaw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Gukis I.
+Immortal Dwarfoids have died out on Gukis I!
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids explore Aikas IV. 
+The Church of Immortal Dwarfoids build a military base on Cykov I.
+The Church of Immortal Dwarfoids attack and raze Gukis I, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+Overcrowding on Auniw III leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes colonise Gukis I. 
+The Republic of Flying Red Antoids with Giant Eyes send a delegation to Gylou II. They sign a peace accord with the Church of Immortal Dwarfoids, ending their war. 
+Pollution on Metatron II abates.
+163:
+Pollution kills a billion Immortal Dwarfoids on Fimav V.
+Immortal Dwarfoids have died out on Fimav V!
+Pollution kills a billion Red Deep Dwellers on Euniq VI.
+Pollution kills a billion White Antoids on Euniq VI.
+Pollution kills a billion Immortal Dwarfoids on Fikav I.
+Immortal Dwarfoids have died out on Fikav I!
+Pollution kills a billion Red Deep Dwellers on Regor II.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Foner VI.
+Pollution kills a billion Giant Black Robots on Metatron II.
+The population of White Antoids on Metatron II has grown by a billion.
+The population of Red Deep Dwellers on Ginaw III has grown by a billion.
+The population of White Antoids on Ginaw III has grown by a billion.
+Pollution kills a billion White Antoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes build a cluster of breeding pits on Gukis I.
+The Republic of Flying Red Antoids with Giant Eyes experiences a population boom! 
+Ultravores evolve on Domev II.
+164:
+Pollution kills a billion White Antoids on Fimav V.
+Pollution kills a billion Immortal Dwarfoids on Euniq VI.
+Immortal Dwarfoids have died out on Euniq VI!
+Pollution kills a billion Flying Humanoids on Fikav I.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Foner VI.
+Red Deep Dwellers have died out on Foner VI!
+Pollution kills a billion Giant Black Robots on Metatron II.
+Giant Black Robots have died out on Metatron II!
+The population of White Antoids on Ginaw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Cenux VI.
+Overcrowding on Auniw III leads to increased pollution.
+165:
+Pollution kills a billion White Antoids on Fimav V.
+Pollution kills a billion Red Deep Dwellers on Euniq VI.
+Red Deep Dwellers have died out on Euniq VI!
+Pollution kills a billion Immortal Dwarfoids on Lumen IV.
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Regor II.
+Pollution kills a billion White Antoids on Foner VI.
+Pollution kills a billion White Antoids on Metatron II.
+Pollution kills a billion Immortal Dwarfoids on Auniw III.
+Pollution kills a billion Red Deep Dwellers on Auniw III.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of White Antoids on Ginaw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+166:
+The population of White Antoids on Fimav V has grown by a billion.
+The population of White Antoids on Euniq VI has grown by a billion.
+The population of Red Deep Dwellers on Fikav I has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Regor II.
+The population of White Antoids on Foner VI has grown by a billion.
+Pollution kills a billion White Antoids on Metatron II.
+Pollution kills a billion Giant Black Robots on Auniw III.
+Pollution kills a billion Immortal Dwarfoids on Ginaw III.
+The population of White Antoids on Ginaw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Doleq I.
+Immortal Dwarfoids have died out on Doleq I!
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+167:
+Pollution kills a billion White Antoids on Fimav V.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Flying Humanoids on Fikav I.
+Pollution kills a billion Giant Blue Robots on Fikav I.
+The population of Giant Black Robots on Fikav I has grown by a billion.
+The population of White Antoids on Foner VI has grown by a billion.
+The population of White Antoids on Metatron II has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+Pollution kills a billion Immortal Dwarfoids on Ginaw III.
+The population of White Antoids on Ginaw III has grown by a billion.
+Pollution kills a billion White Antoids on Doleq I.
+Pollution kills a billion Giant Black Robots on Gukis I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a complex of arcologies on Doleq I.
+Overcrowding on Auniw III leads to increased pollution.
+168:
+Pollution kills a billion White Antoids on Fimav V.
+Pollution kills a billion Red Deep Dwellers on Fimav V.
+Red Deep Dwellers have died out on Fimav V!
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of White Antoids on Metatron II has grown by a billion.
+Pollution kills a billion White Antoids on Ginaw III.
+The population of White Antoids on Doleq I has grown by a billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Foner VI leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes send a delegation to Doleq I. They declare war on the Church of Immortal Dwarfoids! 
+A famine breaks out on Gukis I, killing 1 billion.
+The Republic of Flying Red Antoids with Giant Eyes conquer Foner VI, a colony of the Church of Immortal Dwarfoids, killing 2 billion in the process.
+169:
+The population of White Antoids on Fimav V has grown by a billion.
+The population of White Antoids on Euniq VI has grown by a billion.
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+The population of Giant Black Robots on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Fikav I has grown by a billion.
+Pollution kills a billion Red Deep Dwellers on Regor II.
+Red Deep Dwellers have died out on Regor II!
+Pollution kills a billion White Antoids on Foner VI.
+The population of White Antoids on Metatron II has grown by a billion.
+Pollution kills a billion Immortal Dwarfoids on Auniw III.
+Pollution kills a billion Giant Black Robots on Auniw III.
+Pollution kills a billion Immortal Dwarfoids on Ginaw III.
+The population of White Antoids on Ginaw III has grown by a billion.
+Pollution kills a billion White Antoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a city of spires on Fimav V.
+The Church of Immortal Dwarfoids attack Foner VI, a colony of the Republic of Flying Red Antoids with Giant Eyes, and subject it to orbital bombardment, killing 8 billion.
+Overcrowding on Auniw III leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes conquer Domev II, a colony of the Church of Immortal Dwarfoids.
+170:
+Pollution kills a billion White Antoids on Fimav V.
+Pollution kills a billion Giant Black Robots on Euniq VI.
+Giant Black Robots have died out on Euniq VI!
+The population of Giant Blue Robots on Fikav I has grown by a billion.
+The population of Red Deep Dwellers on Fikav I has grown by a billion.
+The population of White Antoids on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+The population of White Antoids on Metatron II has grown by a billion.
+Pollution kills a billion White Antoids on Auniw III.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of White Antoids on Ginaw III has grown by a billion.
+Pollution kills a billion White Antoids on Doleq I.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a city of spires on Metatron II.
+The pirate Orangebeard establishes himself on Aeluw IV.
+The Church of Immortal Dwarfoids attack and raze Domev II, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+Overcrowding on Auniw III leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes colonise Domev II. 
+The Republic of Flying Red Antoids with Giant Eyes create Slim Orange Robots as servants on Lumen IV.
+The Republic of Flying Red Antoids with Giant Eyes conquer Fimav V, a colony of the Church of Immortal Dwarfoids.
+The pirate Orangebeard receives tribute from Aolet IV of the Church of Immortal Dwarfoids.
+171:
+Pollution kills a billion White Antoids on Fimav V.
+Pollution kills a billion White Antoids on Euniq VI.
+Pollution kills a billion Red Deep Dwellers on Fikav I.
+Pollution kills a billion Immortal Dwarfoids on Regor II.
+The population of White Antoids on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Foner VI.
+White Antoids have died out on Foner VI!
+Pollution kills a billion White Antoids on Metatron II.
+The population of White Antoids on Ginaw III has grown by a billion.
+The population of White Antoids on Doleq I has grown by a billion.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids conquer Helmettepol VI, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes explore Bal VI. They discover: The ruins of a mining base, built by the Republic of Flying Red Antoids with Giant Eyes in 142, destroyed in 143 due to orbital bombardment by the Church of Immortal Dwarfoids. 
+The Republic of Flying Red Antoids with Giant Eyes conquer Orgus II, a colony of the Church of Immortal Dwarfoids.
+The space probe Monad returns to Doleq I.
+The Church of Immortal Dwarfoids gains a wealth of new knowledge as a result.
+The pirate Orangebeard receives tribute from Metatron II of the Church of Immortal Dwarfoids.
+172:
+Pollution kills a billion White Antoids on Fimav V.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Flying Humanoids on Euniq VI.
+Flying Humanoids have died out on Euniq VI!
+Pollution kills a billion Giant Black Robots on Fikav I.
+Pollution kills a billion Red Deep Dwellers on Fikav I.
+Pollution kills a billion Giant Black Robots on Regor II.
+Giant Black Robots have died out on Regor II!
+Pollution kills a billion White Antoids on Metatron II.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+Pollution kills a billion White Antoids on Ginaw III.
+Pollution kills a billion White Antoids on Doleq I.
+The population of Giant Black Robots on Gukis I has grown by a billion.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Foner VI.
+The deadly Yellow Wasting, which affects Immortal Dwarfoids, arises on Regor II.
+The Church of Immortal Dwarfoids attack Gukis I, a colony of the Republic of Flying Red Antoids with Giant Eyes, and subject it to orbital bombardment, killing 1 billion.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes explore Lumen IV. They loot the Tomb of Captain Tkkraa. 
+The Republic of Flying Red Antoids with Giant Eyes build a grand roost on Domev II.
+The Republic of Flying Red Antoids with Giant Eyes conquer Lumen VI, a colony of the Church of Immortal Dwarfoids.
+The pirate Orangebeard receives tribute from Fenux VI of the Church of Immortal Dwarfoids.
+173:
+Pollution kills a billion White Antoids on Fimav V.
+The population of White Antoids on Euniq VI has grown by a billion.
+Pollution kills a billion Grey Trolloids with Threefold Symmetry on Regor II.
+The Yellow Wasting mutates to affect Grey Trolloids with Threefold Symmetry
+The population of White Antoids on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Metatron II.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.
+The population of White Antoids on Ginaw III has grown by a billion.
+Pollution kills a billion White Antoids on Doleq I.
+Overcrowding on Euniq VI leads to increased pollution.
+Overcrowding on Fikav I leads to increased pollution.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Ginaw III leads to increased pollution.
+Overcrowding on Doleq I leads to increased pollution.
+The Church of Immortal Dwarfoids build a mining base on Orgus II.
+The Church of Immortal Dwarfoids colonise Foner VI. 
+An industrial accident on Euniq VI causes deadly levels of pollution.
+The Church of Immortal Dwarfoids attack and raze Domev II, a colony of the Republic of Flying Red Antoids with Giant Eyes.
+Overcrowding on Fimav V leads to increased pollution.
+Overcrowding on Lumen IV leads to increased pollution.
+Overcrowding on Auniw III leads to increased pollution.
+The Republic of Flying Red Antoids with Giant Eyes build a vast underground vault on Gukis I.
+The Republic of Flying Red Antoids with Giant Eyes conquer Orgus II, a colony of the Church of Immortal Dwarfoids.
+The pirate Orangebeard subjects Gukis I to orbital bombardment.
+174:
+Pollution kills a billion White Antoids on Fimav V.
+Pollution kills a billion White Antoids on Euniq VI.
+Pollution kills a billion Giant Black Robots on Fikav I.
+Pollution kills a billion Immortal Dwarfoids on Regor II.
+The population of White Antoids on Regor II has grown by a billion.
+Pollution kills a billion White Antoids on Metatron II.
+Pollution kills a billion Red Deep Dwellers on Ginaw III.

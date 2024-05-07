@@ -1,0 +1,3042 @@
+SENTIENT SPECIES:
+Four-Armed Humanoids: Pretty adventurous but otherwise fairly average. They have four arms. They have bilateral symmetry. They are hyperactive and strive to uphold their ideals of personal honour. They first evolved on Wotan II in 239.
+	Their Stats are: STR: 2 DEX: -1 CON: -1 INT: 1 CHA: 2
+Amorphous Dwarfoids: Fond of drink and industry - especially building strange contraptions. They have bilateral symmetry and are able to greatly alter their shape. They are meditative and have a complex system of social castes. They first evolved on Orra V in 41.
+	Their Stats are: STR: -1 DEX: 2 CON: 1 INT: 1 CHA: 0
+
+CIVILISATIONS:
+THE EIGHTH CHURCH OF AMORPHOUS DWARFOIDS:
+An ancient, corrupt, fantastically wealthy, highly advanced Church of 16 planets, with 41 billion inhabitants.
+Major populations:
+28 billion Amorphous Dwarfoids.
+13 billion enslaved Four-Armed Humanoids.
+It controls a Virtual Reality Matrix.
+It controls a Universal Computer Virus.
+
+	Their Stats are: STR: -2 DEX: -2 CON: 0 INT: -2 CHA: -1
+PLANETS:
+BULIW I
+A life-bearing planet of the Eighth Church of Amorphous Dwarfoids.
+It is somewhat polluted.
+It is populated by:
+12 billion Amorphous Dwarfoids
+A great hall, built by the Eighth Church of Amorphous Dwarfoids in 241
+A reforming vat, built by the Eighth Church of Amorphous Dwarfoids in 250
+A city of spires, built by the Eighth Church of Amorphous Dwarfoids in 280
+A grand palace, built by the Eighth Church of Amorphous Dwarfoids in 297
+A vast underground vault, built by the Eighth Church of Amorphous Dwarfoids in 310
+A hologram of film about the President of the Second Republic of Amorphous Dwarfoids created by the Fifth Republic of Amorphous Dwarfoids in 135 created by the Eighth Church of Amorphous Dwarfoids in 234
+A Virtual Reality Matrix created by the Eighth Church of Amorphous Dwarfoids in 283
+A film about the President of the Republic of Amorphous Dwarfoids created by the Fifth Republic of Amorphous Dwarfoids in 68
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+Lifeforms of note:
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Strata:
+Remnants of a culture of Four-Armed Humanoids that collapsed from the effects of pollution in 360.
+Remnants of a culture of Flying Robots that collapsed from the effects of pollution in 348.
+Remnants of a culture of Four-Armed Humanoids that collapsed from the effects of pollution in 342.
+Remnants of a culture of Four-Armed Humanoids that collapsed from the effects of pollution in 288.
+The ruins of a city of spires, built by the Third Church of Amorphous Dwarfoids in 222, destroyed in 229 during the invasion of the Fourth Empire of Amorphous Dwarfoids.
+The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 114, destroyed in 221 through orbital bombardment by the Fourth Empire of Amorphous Dwarfoids.
+Remnants of a culture of Immortal Red Robots that collapsed from the effects of pollution in 210.
+Remnants of a culture of Telepathic Orange Robots that collapsed from mass hysteria in 107.
+Remnants of a culture of Amorphous Koboldoids that collapsed from mass hysteria in 107.
+
+DYLOX V
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Eighth Church of Amorphous Dwarfoids in 234
+A block of time ice, encasing Urist Bronzepick, Autarch of the Fourth Church of Amorphous Dwarfoids created by the rogue AI Mind 45 in 274
+A Universal Computer Virus created by the rogue AI Mind 45 in 294
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+Strata:
+The ruins of a mining base, built by the Third Church of Amorphous Dwarfoids in 222, destroyed in 231 during the collapse of the Third Church of Amorphous Dwarfoids.
+The ruins of a mining base, built by the Third Church of Amorphous Dwarfoids in 187, destroyed in 218 due to orbital bombardment by the Second Church of Amorphous Dwarfoids.
+A statue of Captain Minin Carpwrestler created by the Third Church of Amorphous Dwarfoids in 188, hidden in 204.
+The Tomb of Captain Minin Carpwrestler, buried in 193.
+The ruins of a military base, built by the Fifth Republic of Amorphous Dwarfoids in 178, destroyed in 186 due to orbital bombardment by the Fourth Republic of Amorphous Dwarfoids.
+The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 63, destroyed in 176 due to orbital bombardment by the Church of Amorphous Dwarfoids.
+
+FILAR II
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Fifth Republic of Amorphous Dwarfoids in 69
+Ice Planet: Nearly the entire planet is covered in a thick sheet of ice.
+
+CUKIV I
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Eighth Church of Amorphous Dwarfoids in 225
+Strata:
+The ruins of a military base, built by the Fifth Republic of Amorphous Dwarfoids in 169, destroyed in 172 due to orbital bombardment by the Church of Amorphous Dwarfoids.
+The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 68, destroyed in 161 due to orbital bombardment by the Church of Amorphous Dwarfoids.
+
+SATIVEX III
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Eighth Church of Amorphous Dwarfoids in 268
+Strata:
+The ruins of a mining base, built by the Eighth Church of Amorphous Dwarfoids in 220, destroyed in 222 due to orbital bombardment by the Second Church of Amorphous Dwarfoids.
+The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 166, destroyed in 220 due to orbital bombardment by the Second Church of Amorphous Dwarfoids.
+The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 71, destroyed in 164 due to orbital bombardment by the Third Empire of Amorphous Dwarfoids.
+The Tomb of Captain Urist Bronzepick, buried in 152.
+
+GYNOU III
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Eighth Church of Amorphous Dwarfoids in 226
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+
+AYKOP I
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Eighth Church of Amorphous Dwarfoids in 347
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+Strata:
+The ruins of a military base, built by the Eighth Church of Amorphous Dwarfoids in 234, destroyed in 171 by a time vortex.
+The ruins of a mining base, built by the Third Church of Amorphous Dwarfoids in 165, destroyed in 224 due to orbital bombardment by the Second Church of Amorphous Dwarfoids.
+
+ATRIA I
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+It is heavily polluted.
+A military base, built by the Eighth Church of Amorphous Dwarfoids in 348
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+Strata:
+The ruins of a mining base, built by the Eighth Church of Amorphous Dwarfoids in 281, destroyed in 171 by a time vortex.
+Remnants of a culture of Four-Armed Humanoids that collapsed due to a nanofungal bloom in 278.
+A film about the President of the Second Republic of Amorphous Dwarfoids created by the Fifth Republic of Amorphous Dwarfoids in 135, buried in 270.
+A statue of Amorphous Dwarfoids created by the Fifth Republic of Amorphous Dwarfoids in 74, buried in 270.
+The ruins of a vast underground vault, built by the Eighth Church of Amorphous Dwarfoids in 253, destroyed in 270 .
+The ruins of a grand palace, built by the Eighth Church of Amorphous Dwarfoids in 235, destroyed in 270 .
+The ruins of a vast museum, built by the Third Church of Amorphous Dwarfoids in 188, destroyed in 270 .
+The ruins of a complex of arcologies, built by the Third Church of Amorphous Dwarfoids in 187, destroyed in 270 .
+The ruins of a great hall, built by the Third Church of Amorphous Dwarfoids in 183, destroyed in 270 .
+Remnants of a culture of Amorphous Dwarfoids that collapsed from mass hysteria in 269.
+Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 245.
+The ruins of a orbital elevator, built by the Third Church of Amorphous Dwarfoids in 193, destroyed in 222 during the invasion of the Fourth Empire of Amorphous Dwarfoids.
+Remnants of a culture of Telepathic Orange Robots that collapsed from the effects of pollution in 108.
+
+KALAMIS I
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Eighth Church of Amorphous Dwarfoids in 349
+A painting of the Autarch of the Fifth Church of Amorphous Dwarfoids created by the Eighth Church of Amorphous Dwarfoids in 290
+Periodical Darkness: Every thirteen years, the orbit of this planet synchronizes with that of a planet closer to its stars, causing a night that lasts for weeks.
+Strata:
+The ruins of a mining base, built by the Eighth Church of Amorphous Dwarfoids in 233, destroyed in 171 by a time vortex.
+The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 65, destroyed in 231 during the collapse of the Third Church of Amorphous Dwarfoids.
+A Time Machine created by the rogue AI Experiment 319 in 332, lost in 115.
+
+WOTAN II
+A life-bearing planet of the Eighth Church of Amorphous Dwarfoids.
+It is slightly polluted.
+It is populated by:
+6 billion enslaved Four-Armed Humanoids
+7 billion Amorphous Dwarfoids
+A reforming vat, built by the Eighth Church of Amorphous Dwarfoids in 248
+A city of spires, built by the Eighth Church of Amorphous Dwarfoids in 275
+A great hall, built by the Eighth Church of Amorphous Dwarfoids in 300
+A complex of arcologies, built by the Eighth Church of Amorphous Dwarfoids in 318
+A orbital elevator, built by the Eighth Church of Amorphous Dwarfoids in 332
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Strata:
+The ruins of a great hall, built by the Third Church of Amorphous Dwarfoids in 175, destroyed in 230 during the invasion of the Fourth Empire of Amorphous Dwarfoids.
+The ruins of a city of spires, built by the Third Church of Amorphous Dwarfoids in 207, destroyed in 228 during the invasion of the Fifth Empire of Amorphous Dwarfoids.
+The ruins of a complex of arcologies, built by the Third Church of Amorphous Dwarfoids in 168, destroyed in 221 through orbital bombardment by the Second Church of Amorphous Dwarfoids.
+Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 119.
+A film about the President of the Republic of Amorphous Dwarfoids created by the Fifth Republic of Amorphous Dwarfoids in 86, buried in 117.
+The ruins of a vast underground vault, built by the Fifth Republic of Amorphous Dwarfoids in 66, destroyed in 117 .
+Remnants of a culture of Slim Purple Robots that collapsed from mass hysteria in 107.
+Remnants of a culture of Amorphous Koboldoids that collapsed from the effects of pollution in 94.
+Remnants of a culture of Telepathic Koboldoids that collapsed from the effects of pollution in 74.
+
+BYKOP I
+A life-bearing planet of the Eighth Church of Amorphous Dwarfoids.
+It is a little polluted.
+It is populated by:
+5 billion Amorphous Dwarfoids
+A mining base, built by the Eighth Church of Amorphous Dwarfoids in 346
+Strata:
+The ruins of a military base, built by the Eighth Church of Amorphous Dwarfoids in 252, destroyed in 171 by a time vortex.
+The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 62, destroyed in 251 by a shift in the planet's orbital axis.
+Remnants of a culture of Amorphous Dwarfoids that collapsed due to a shift in the planet's orbital axis in 251.
+Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 112.
+Remnants of a culture of Amorphous Humanoids with Long Tails that collapsed due to a nova in 46.
+
+ORRA V
+A life-bearing planet of the Eighth Church of Amorphous Dwarfoids.
+It is slightly polluted.
+It is populated by:
+4 billion Amorphous Dwarfoids
+7 billion enslaved Four-Armed Humanoids
+A grand palace, built by the Eighth Church of Amorphous Dwarfoids in 344
+A orbital elevator, built by the Eighth Church of Amorphous Dwarfoids in 348
+A reforming vat, built by the Eighth Church of Amorphous Dwarfoids in 349
+A great hall, built by the Eighth Church of Amorphous Dwarfoids in 352
+A city of spires, built by the Eighth Church of Amorphous Dwarfoids in 353
+Strata:
+The ruins of a vast museum, built by the Eighth Church of Amorphous Dwarfoids in 328, destroyed in 171 by a time vortex.
+The ruins of a city of spires, built by the Eighth Church of Amorphous Dwarfoids in 311, destroyed in 171 by a time vortex.
+The ruins of a great hall, built by the Eighth Church of Amorphous Dwarfoids in 310, destroyed in 171 by a time vortex.
+The ruins of a vast underground vault, built by the Eighth Church of Amorphous Dwarfoids in 284, destroyed in 171 by a time vortex.
+The ruins of a reforming vat, built by the Fifth Republic of Amorphous Dwarfoids in 192, destroyed in 171 by a time vortex.
+Remnants of a culture of Four-Armed Humanoids that collapsed by a time vortex in 171.
+Remnants of a culture of Amorphous Dwarfoids that collapsed by a time vortex in 171.
+The ruins of a grand palace, built by the Eighth Church of Amorphous Dwarfoids in 264, destroyed in 300 through orbital bombardment by the pirate Whitebeard.
+The ruins of a great hall, built by the Eighth Church of Amorphous Dwarfoids in 236, destroyed in 300 through orbital bombardment by the pirate Whitebeard.
+The ruins of a orbital elevator, built by the Third Church of Amorphous Dwarfoids in 203, destroyed in 300 through orbital bombardment by the pirate Whitebeard.
+Remnants of a culture of Four-Armed Humanoids that collapsed from mass hysteria in 269.
+The ruins of a vast underground vault, built by the Fifth Republic of Amorphous Dwarfoids in 199, destroyed in 262 through orbital bombardment by the pirate Redbeard.
+The ruins of a grand palace, built by the Third Church of Amorphous Dwarfoids in 182, destroyed in 226 during the invasion of the Fourth Empire of Amorphous Dwarfoids.
+The ruins of a great hall, built by the Fifth Republic of Amorphous Dwarfoids in 176, destroyed in 226 during the invasion of the Fourth Empire of Amorphous Dwarfoids.
+The ruins of a orbital elevator, built by the Fifth Republic of Amorphous Dwarfoids in 174, destroyed in 177 during the invasion of the Church of Amorphous Dwarfoids.
+The ruins of a vast museum, built by the Fifth Republic of Amorphous Dwarfoids in 166, destroyed in 167 .
+The ruins of a vast underground vault, built by the Fifth Republic of Amorphous Dwarfoids in 113, destroyed in 167 .
+The ruins of a complex of arcologies, built by the Fifth Republic of Amorphous Dwarfoids in 69, destroyed in 167 .
+Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 167.
+The ruins of a great hall, built by the Fifth Republic of Amorphous Dwarfoids in 85, destroyed in 165 during the invasion of the Third Empire of Amorphous Dwarfoids.
+The ruins of a reforming vat, built by the Fifth Republic of Amorphous Dwarfoids in 102, destroyed in 162 through orbital bombardment by the Third Empire of Amorphous Dwarfoids.
+
+CHROMA III
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+It is heavily polluted.
+A mining base, built by the Third Church of Amorphous Dwarfoids in 224
+Poison World: Mineral deposits produce a steady stream of toxins that makes survival extremely difficult.
+
+EUNIW VI
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Fifth Republic of Amorphous Dwarfoids in 63
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+
+FYMOS V
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Eighth Church of Amorphous Dwarfoids in 232
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Strata:
+The ruins of a science lab, built by the Third Church of Amorphous Dwarfoids in 227, destroyed in 231 during the collapse of the Third Church of Amorphous Dwarfoids.
+
+AUTOROG VI
+A barren planet of the Eighth Church of Amorphous Dwarfoids.
+A mining base, built by the Fifth Republic of Amorphous Dwarfoids in 179
+A block of time ice, encasing Grolin Carpwrestler, Autarch of the Seventh Church of Amorphous Dwarfoids created by the rogue AI Experiment 319 in 330
+Ice Planet: Nearly the entire planet is covered in a thick sheet of ice.
+Strata:
+The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 70, destroyed in 161 due to orbital bombardment by the Third Empire of Amorphous Dwarfoids.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Buliw I, Dylox V, Filar II, Cukiv I, Sativex III, Gynou III, Aykop I, Atria I, Kalamis I, Wotan II, Bykop I, Orra V, Chroma III, Euniw VI, Fymos V, Autorog VI
+2:
+Filar II becomes covered with ice.
+6:
+A giant spaceborne blue crystal appears from the depths of space and menaces the skies of Euniw VI.
+20:
+Beautiful aurorae play across the skies of Dylox V.
+21:
+Life arises on Wotan II
+22:
+Life arises on Bykop I
+24:
+Life arises on Orra V
+25:
+The wind plays across rock formations on Wotan II, producing an eerie music.
+29:
+Life arises on Buliw I
+35:
+Sentient Telepathic Koboldoids arise on Wotan II.
+40:
+Sentient Amorphous Humanoids arise on Bykop I.
+41:
+The giant spaceborne blue crystal leaves the orbit of Euniw VI and heads back into deep space.
+Sentient Amorphous Dwarfoids arise on Orra V.
+44:
+Vast empty plains form on Euniw VI.
+46:
+The Amorphous Humanoids on Bykop I mutate into Amorphous Humanoids with Long Tails.
+The star of Bykop I goes nova, scraping the planet clean of all life!
+47:
+A giant spaceborne white crystal appears from the depths of space and menaces the skies of Buliw I.
+The giant spaceborne white crystal leaves the orbit of Buliw I and heads back into deep space.
+49:
+Sentient Amorphous Koboldoids arise on Wotan II.
+51:
+Chroma III has become a poison world.
+53:
+Autorog VI becomes covered with ice.
+54:
+Pharmaceuticals evolve on Buliw I.
+The Amorphous Dwarfoids on Orra V achieve spaceflight and organise as a Republic, the Republic of Amorphous Dwarfoids.
+
+Civ Name: Republic of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 2 | 3 | 0 | 1 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+55:
+WE ENTER THE FIRST AGE OF CIVILISATION
+56:
+The Republic of Amorphous Dwarfoids explore Atria I. 
+57:
+The Republic of Amorphous Dwarfoids explore Orra V. 
+59:
+The Republic of Amorphous Dwarfoids terraform and colonise Atria I.
+Life arises on Bykop I
+60:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Republic of Amorphous Dwarfoids colonise Wotan II. Of the natives of that planet, the 2 billion Telepathic Koboldoids are enslaved, and the 2 billion Amorphous Koboldoids are enslaved. 
+The Republic of Amorphous Dwarfoids experiences a population boom! 
+61:
+The population of Telepathic Koboldoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+62:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Koboldoids on Wotan II has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a mining base on Bykop I.
+63:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a mining base on Euniw VI.
+The Republic of Amorphous Dwarfoids explore Bykop I. 
+
+ Industrial Golden Age Revival!Republic of Amorphous Dwarfoids previous decrepitude: 4 revival amount: 4
+
+Civ Name: Republic of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 2 | 3 | 0 | 1 | 
+Resources 0 Science 5 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 4
+The Republic of Amorphous Dwarfoids enters a golden age of industry! The Republic of Amorphous Dwarfoids build a mining base on Dylox V. The Republic of Amorphous Dwarfoids build a mining base on Buliw I.
+64:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Chroma III. 
+The Republic of Amorphous Dwarfoids build a mining base on Chroma III.
+Sentient Scaly Dwarfoids with Long Tails arise on Bykop I.
+65:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Koboldoids on Wotan II.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a mining base on Kalamis I.
+The Republic of Amorphous Dwarfoids explore Autorog VI. 
+66:
+Pollution kills a billion Telepathic Koboldoids on Wotan II.
+Pollution kills a billion Amorphous Koboldoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a vast underground vault on Wotan II.
+The Republic of Amorphous Dwarfoids build a military base on Aykop I.
+67:
+Pollution kills a billion Telepathic Koboldoids on Wotan II.
+Pollution kills a billion Amorphous Koboldoids on Wotan II.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a mining base on Fymos V.
+68:
+Pollution kills a billion Amorphous Koboldoids on Wotan II.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a mining base on Cukiv I.
+
+ Art Golden Age Revival!Republic of Amorphous Dwarfoids previous decrepitude: 0 revival amount: 15
+
+Civ Name: Republic of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 2 | 3 | 0 | 1 | 
+Resources 11 Science 1 Military 3 WeapLevel 0 TechLevel 2 Decrepitude 0
+Artists on Orra V create a film about the President of the Republic of Amorphous Dwarfoids. 
+69:
+Pollution kills a billion Telepathic Koboldoids on Wotan II.
+The population of Amorphous Koboldoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a mining base on Filar II.
+The Republic of Amorphous Dwarfoids build a complex of arcologies on Orra V.
+70:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Telepathic Koboldoids on Wotan II has grown by a billion.
+The population of Amorphous Koboldoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a mining base on Autorog VI.
+71:
+Pollution kills a billion Telepathic Koboldoids on Wotan II.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+
+ Industrial Golden Age Revival!Republic of Amorphous Dwarfoids previous decrepitude: -7 revival amount: 60
+
+Civ Name: Republic of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 2 | 3 | 0 | 1 | 
+Resources 30 Science 8 Military 6 WeapLevel 0 TechLevel 2 Decrepitude -7
+The Republic of Amorphous Dwarfoids enters a golden age of industry!  The Republic of Amorphous Dwarfoids build a mining base on Sativex III.
+72:
+Pollution kills a billion Telepathic Koboldoids on Wotan II.
+Pollution kills a billion Amorphous Koboldoids on Wotan II.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Aykop I. 
+73:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids colonise Buliw I. 
+The Republic of Amorphous Dwarfoids explore Wotan II. 
+74:
+Pollution kills a billion Telepathic Koboldoids on Wotan II.
+Telepathic Koboldoids have died out on Wotan II!
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a mining base on Gynou III.
+The Republic of Amorphous Dwarfoids build a reforming vat on Wotan II.
+
+ Art Golden Age Revival!Republic of Amorphous Dwarfoids previous decrepitude: -6 revival amount: 10
+
+Civ Name: Republic of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 2 | 3 | 0 | 1 | 
+Resources 57 Science 11 Military 6 WeapLevel 0 TechLevel 2 Decrepitude -6
+Artists on Orra V create a statue of Amorphous Dwarfoids. 
+75:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+76:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+77:
+The population of Amorphous Koboldoids on Wotan II has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Cukiv I. 
+78:
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+79:
+The population of Amorphous Koboldoids on Buliw I has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+80:
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+81:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Koboldoids on Buliw I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Euniw VI. 
+The Republic of Amorphous Dwarfoids create Telepathic Orange Robots as servants on Atria I.
+82:
+The population of Amorphous Koboldoids on Buliw I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a orbital elevator on Atria I.
+83:
+The population of Amorphous Koboldoids on Buliw I has grown by a billion.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a great hall on Atria I.
+84:
+The population of Amorphous Koboldoids on Buliw I has grown by a billion.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+The population of Amorphous Koboldoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+85:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a great hall on Orra V.
+The Republic of Amorphous Dwarfoids explore Dylox V. 
+86:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Sativex III. 
+The Republic of Amorphous Dwarfoids explore Filar II. 
+
+ Art Golden Age Revival!Republic of Amorphous Dwarfoids previous decrepitude: 7 revival amount: 16
+
+Civ Name: Republic of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 2 | 3 | 0 | 1 | 
+Resources 217 Science 11 Military 6 WeapLevel 0 TechLevel 3 Decrepitude 7
+Artists on Wotan II create a film about the President of the Republic of Amorphous Dwarfoids. 
+87:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+88:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Koboldoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+89:
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Orra V. 
+90:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+The population of Amorphous Koboldoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Dylox V. 
+91:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Koboldoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Telepathic Orange Robots on Atria I.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Buliw I. The expedition encounters plants with useful pharmaceutical properties. 
+92:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Koboldoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Koboldoids on Wotan II.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+93:
+Pollution kills a billion Amorphous Koboldoids on Buliw I.
+Pollution kills a billion Amorphous Koboldoids on Wotan II.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+94:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Koboldoids on Wotan II.
+Amorphous Koboldoids have died out on Wotan II!
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+95:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Wotan II. They discover: Remnants of a culture of Amorphous Koboldoids that collapsed from the effects of pollution in 94. 
+96:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids experiences a population boom! 
+97:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Koboldoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Bykop I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids create Slim Purple Robots as servants on Wotan II.
+98:
+Pollution kills a billion Amorphous Koboldoids on Buliw I.
+Pollution kills a billion Telepathic Orange Robots on Atria I.
+The population of Scaly Dwarfoids with Long Tails on Wotan II has grown by a billion.
+The population of Slim Purple Robots on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids explore Buliw I. The expedition encounters plants with useful pharmaceutical properties. 
+The pirate Yellowbeard establishes himself on Dylox V.
+The pirate Yellowbeard receives tribute from Chroma III of the Republic of Amorphous Dwarfoids.
+99:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Slim Purple Robots on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids defeats the pirate Yellowbeard.
+100:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Koboldoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Scaly Dwarfoids with Long Tails on Wotan II has grown by a billion.
+The population of Slim Purple Robots on Wotan II has grown by a billion.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+101:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Koboldoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Scaly Dwarfoids with Long Tails on Wotan II has grown by a billion.
+Pollution kills a billion Slim Purple Robots on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a orbital elevator on Orra V.
+Due to an accident of orbital mechanics, every 13 years, Kalamis I is plunged into total darkness.
+102:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Wotan II has grown by a billion.
+Pollution kills a billion Slim Purple Robots on Wotan II.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Republic of Amorphous Dwarfoids build a reforming vat on Orra V.
+103:
+Pollution kills a billion Amorphous Koboldoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Telepathic Orange Robots on Atria I.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Wotan II.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+104:
+Pollution kills a billion Amorphous Koboldoids on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Wotan II.
+The population of Slim Purple Robots on Wotan II has grown by a billion.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+105:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Koboldoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Telepathic Orange Robots on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+106:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Koboldoids on Buliw I.
+The population of Telepathic Orange Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Scaly Dwarfoids with Long Tails on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+107:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Telepathic Orange Robots on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Amorphous Dwarfoids have died out on Atria I!
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Mass hysteria breaks out in the Republic of Amorphous Dwarfoids, killing billions.
+108:
+Pollution kills a billion Telepathic Orange Robots on Atria I.
+Telepathic Orange Robots have died out on Atria I!
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Bykop I.
+Scaly Dwarfoids with Long Tails have died out on Bykop I!
+The Republic of Amorphous Dwarfoids build a mining base on Atria I.
+The Republic of Amorphous Dwarfoids explore Fymos V. 
+109:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Republic of Amorphous Dwarfoids colonise Bykop I. 
+110:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+111:
+The Republic of Amorphous Dwarfoids colonise Atria I. 
+The statue of Amorphous Dwarfoids created by the Republic of Amorphous Dwarfoids in 74 on Orra V has been stolen and hidden on Orra V.
+112:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Amorphous Dwarfoids have died out on Atria I!
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Amorphous Dwarfoids have died out on Bykop I!
+The Republic of Amorphous Dwarfoids colonise Bykop I. 
+113:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The Republic of Amorphous Dwarfoids build a vast underground vault on Orra V.
+The Republic of Amorphous Dwarfoids develop powerful new weapons.
+A famine breaks out on Buliw I, killing 1 billion, wiping out all sentient life.
+114:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The Republic of Amorphous Dwarfoids build a mining base on Buliw I.
+115:
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The Republic of Amorphous Dwarfoids explore Orra V. 
+The Republic of Amorphous Dwarfoids colonise Atria I. 
+A market crash impoverishes the Republic of Amorphous Dwarfoids.
+117:
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Amorphous Dwarfoids have died out on Wotan II!
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Degeneration occured in:  Republic of Amorphous Dwarfoidscausing all stats to drop by 1
+118:
+The Republic of Amorphous Dwarfoids colonise Wotan II. 
+119:
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Amorphous Dwarfoids have died out on Wotan II!
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Republic of Amorphous Dwarfoids build a mining base on Wotan II.
+The Republic of Amorphous Dwarfoids colonise Buliw I. 
+120:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+121:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Captain Balin Carpwrestler, space adventurer, blasts off from Bykop I.
+122:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+123:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+124:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The Republic of Amorphous Dwarfoids explore Orra V. They recover: A statue of Amorphous Dwarfoids created by the Republic of Amorphous Dwarfoids in 74, hidden in 111. 
+125:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Orra V leads to increased pollution.
+126:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+127:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Republic of Amorphous Dwarfoids colonise Wotan II. 
+129:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+A military putsch turns the Republic of Amorphous Dwarfoids into the Empire of Amorphous Dwarfoids.
+130:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Empire of Amorphous Dwarfoids explore Euniw VI. 
+131:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Orra V leads to increased pollution.
+132:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Orra V leads to increased pollution.
+The Empire of Amorphous Dwarfoids experiences a population boom! 
+The space adventurer Captain Balin Carpwrestler dies and is buried on Sativex III.
+133:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Empire of Amorphous Dwarfoids explore Autorog VI. 
+134:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+
+ Decomocratization Revival!Empire of Amorphous Dwarfoids previous decrepitude: 224 revival amount: 33
+
+Civ Name: Empire of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 414 Science 36 Military 33 WeapLevel 1 TechLevel 3 Decrepitude 191
+A popular movement overthrows the old guard of the Empire of Amorphous Dwarfoids and declares the Second Republic of Amorphous Dwarfoids.
+135:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Republic of Amorphous Dwarfoids explore Fymos V. 
+
+ Art Golden Age Revival!Second Republic of Amorphous Dwarfoids previous decrepitude: 196 revival amount: 13
+
+Civ Name: Second Republic of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 433 Science 37 Military 33 WeapLevel 1 TechLevel 3 Decrepitude 196
+Artists on Atria I create a film about the President of the Second Republic of Amorphous Dwarfoids. 
+136:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Republic of Amorphous Dwarfoids explore Cukiv I. 
+137:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Republic of Amorphous Dwarfoids explore Buliw I. The expedition encounters plants with useful pharmaceutical properties. 
+The Second Republic of Amorphous Dwarfoids explore Orra V. 
+138:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Pollution on Buliw I abates.
+139:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Republic of Amorphous Dwarfoids explore Sativex III. 
+Pollution on Orra V abates.
+140:
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+A military putsch turns the Second Republic of Amorphous Dwarfoids into the Second Empire of Amorphous Dwarfoids.
+141:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+142:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Captain Urist Bronzepick, space adventurer, blasts off from Atria I.
+143:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+
+ Decomocratization Revival!Second Empire of Amorphous Dwarfoids previous decrepitude: 228 revival amount: 23
+
+Civ Name: Second Empire of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 576 Science 52 Military 39 WeapLevel 1 TechLevel 3 Decrepitude 205
+A popular movement overthrows the old guard of the Second Empire of Amorphous Dwarfoids and declares the Third Republic of Amorphous Dwarfoids.
+144:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Third Republic of Amorphous Dwarfoids explore Buliw I. The expedition encounters plants with useful pharmaceutical properties. 
+145:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Third Republic of Amorphous Dwarfoids enters a dark age. Decrepitude set to 0,  was 215
+146:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+147:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Third Republic of Amorphous Dwarfoids explore Gynou III. 
+A famine breaks out on Atria I, killing 6 billion.
+148:
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Third Republic of Amorphous Dwarfoids explore Fymos V. 
+149:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Third Republic of Amorphous Dwarfoids explore Wotan II. 
+150:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+151:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+152:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+A military putsch turns the Third Republic of Amorphous Dwarfoids into the Third Empire of Amorphous Dwarfoids.
+The space adventurer Captain Urist Bronzepick dies and is buried on Sativex III.
+153:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+154:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+155:
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+156:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+157:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+158:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+159:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+160:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+
+Civ Name: Third Empire of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 877 Science 14 Military 57 WeapLevel 1 TechLevel 3 Decrepitude 301
+The Church of Amorphous Dwarfoids secedes from the Third Empire of Amorphous Dwarfoids, leading to a civil war!
+The Third Empire of Amorphous Dwarfoids attack and raze Gynou III, a colony of the Church of Amorphous Dwarfoids.
+161:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids explore Gynou III. 
+The Third Empire of Amorphous Dwarfoids attack and raze Autorog VI, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Church of Amorphous Dwarfoids build a mining base on Autorog VI.
+The Church of Amorphous Dwarfoids attack and raze Cukiv I, a colony of the Third Empire of Amorphous Dwarfoids.
+162:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+A famine breaks out on Buliw I, killing 6 billion.
+The Third Empire of Amorphous Dwarfoids attack Orra V, a colony of the Church of Amorphous Dwarfoids, and subject it to orbital bombardment, killing 13 billion.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids send a delegation to Buliw I. They sign a peace accord with the Third Empire of Amorphous Dwarfoids, ending their war. 
+163:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids build a mining base on Cukiv I.
+The Third Empire of Amorphous Dwarfoids explore Wotan II. 
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids build a city of spires on Orra V.
+164:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids send a delegation to Euniw VI. They declare war on the Church of Amorphous Dwarfoids! 
+The Third Empire of Amorphous Dwarfoids build a military base on Gynou III.
+The Third Empire of Amorphous Dwarfoids attack and raze Sativex III, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids explore Sativex III. 
+The Church of Amorphous Dwarfoids attack and raze Aykop I, a colony of the Third Empire of Amorphous Dwarfoids.
+165:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids conquer Orra V, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids build a mining base on Aykop I.
+The Church of Amorphous Dwarfoids attack Wotan II, a colony of the Third Empire of Amorphous Dwarfoids, and subject it to orbital bombardment, killing 9 billion.
+166:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids build a mining base on Sativex III.
+The Third Empire of Amorphous Dwarfoids build a vast museum on Orra V.
+The Third Empire of Amorphous Dwarfoids conquer Aykop I, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids attack and raze Wotan II, a colony of the Third Empire of Amorphous Dwarfoids.
+167:
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Amorphous Dwarfoids have died out on Orra V!
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids build a mining base on Orra V.
+An industrial accident on Bykop I causes deadly levels of pollution.
+The Third Empire of Amorphous Dwarfoids conquer Fymos V, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids colonise Wotan II. 
+The Church of Amorphous Dwarfoids launch a space probe called Soj'r to explore the galaxy.
+The Church of Amorphous Dwarfoids attack and raze Orra V, a colony of the Third Empire of Amorphous Dwarfoids.
+168:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids conquer Dylox V, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids build a complex of arcologies on Wotan II.
+The Church of Amorphous Dwarfoids attack and raze Cukiv I, a colony of the Third Empire of Amorphous Dwarfoids.
+Pollution on Orra V abates.
+169:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids colonise Orra V. 
+The Third Empire of Amorphous Dwarfoids build a military base on Cukiv I.
+The Third Empire of Amorphous Dwarfoids conquer Autorog VI, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids conquer Fymos V, a colony of the Third Empire of Amorphous Dwarfoids.
+170:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids conquer Kalamis I, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids send a delegation to Kalamis I. They sign a peace accord with the Third Empire of Amorphous Dwarfoids, ending their war. 
+171:
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+172:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids send a delegation to Chroma III. They declare war on the Third Empire of Amorphous Dwarfoids! 
+
+ Science Golden Age Revival!Church of Amorphous Dwarfoids previous decrepitude: 1 revival amount: 45
+
+Civ Name: Church of Amorphous Dwarfoids 
+Civ Birth Year: 160 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 228 Science 18 Military 28 WeapLevel 1 TechLevel 3 Decrepitude 1
+The Church of Amorphous Dwarfoids enters a golden age of science! 
+The Church of Amorphous Dwarfoids attack and raze Cukiv I, a colony of the Third Empire of Amorphous Dwarfoids.
+173:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Buliw I leads to increased pollution.
+A market crash impoverishes the Third Empire of Amorphous Dwarfoids.
+The Third Empire of Amorphous Dwarfoids conquer Filar II, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Church of Amorphous Dwarfoids attack and raze Gynou III, a colony of the Third Empire of Amorphous Dwarfoids.
+174:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids build a orbital elevator on Orra V.
+The Third Empire of Amorphous Dwarfoids conquer Fymos V, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+The Church of Amorphous Dwarfoids build a mining base on Gynou III.
+The Church of Amorphous Dwarfoids attack and raze Autorog VI, a colony of the Third Empire of Amorphous Dwarfoids.
+175:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids build a mining base on Cukiv I.
+The Third Empire of Amorphous Dwarfoids explore Kalamis I. 
+The Third Empire of Amorphous Dwarfoids conquer Euniw VI, a colony of the Church of Amorphous Dwarfoids.
+The Church of Amorphous Dwarfoids build a great hall on Wotan II.
+The Church of Amorphous Dwarfoids conquer Fymos V, a colony of the Third Empire of Amorphous Dwarfoids.
+176:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids build a great hall on Orra V.
+The Third Empire of Amorphous Dwarfoids attack Atria I, a colony of the Church of Amorphous Dwarfoids, and subject it to orbital bombardment, killing 1 billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Church of Amorphous Dwarfoids attack and raze Dylox V, a colony of the Third Empire of Amorphous Dwarfoids.
+177:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids explore Filar II. 
+The Third Empire of Amorphous Dwarfoids conquer Gynou III, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Wotan II leads to increased pollution.
+The Church of Amorphous Dwarfoids attempting to upgrade their stats of value :4 current score is: 0
+The difficulty is: 24 They rolled: 18on: 3d5+6
+TechLevel: 4 Science: 6
+The Church of Amorphous Dwarfoids conquer Orra V, a colony of the Third Empire of Amorphous Dwarfoids, killing 1 billion in the process.
+178:
+Overcrowding on Buliw I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids build a military base on Dylox V.
+The Third Empire of Amorphous Dwarfoids conquer Fymos V, a colony of the Church of Amorphous Dwarfoids.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Church of Amorphous Dwarfoids conquer Chroma III, a colony of the Third Empire of Amorphous Dwarfoids.
+179:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids build a mining base on Autorog VI.
+The Third Empire of Amorphous Dwarfoids attack Atria I, a colony of the Church of Amorphous Dwarfoids, and subject it to orbital bombardment, killing 1 billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Church of Amorphous Dwarfoids send a delegation to Fymos V. They sign a peace accord with the Third Empire of Amorphous Dwarfoids, ending their war. 
+The space probe Soj'r returns to Atria I.
+The Church of Amorphous Dwarfoids gains a wealth of new knowledge as a result.
+180:
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Church of Amorphous Dwarfoids build a reforming vat on Atria I.
+The Church of Amorphous Dwarfoids experiences a population boom! 
+181:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids explore Buliw I. The expedition encounters plants with useful pharmaceutical properties. 
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+182:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Buliw I leads to increased pollution.
+Captain Minin Carpwrestler, space adventurer, blasts off from Autorog VI.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Church of Amorphous Dwarfoids build a grand palace on Orra V.
+183:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Church of Amorphous Dwarfoids build a great hall on Atria I.
+184:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Church of Amorphous Dwarfoids explore Chroma III. 
+185:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+
+ Science Golden Age Revival!Third Empire of Amorphous Dwarfoids previous decrepitude: 448 revival amount: 183
+
+Civ Name: Third Empire of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 260 Science 81 Military 25 WeapLevel 1 TechLevel 3 Decrepitude 448
+The Third Empire of Amorphous Dwarfoids enters a golden age of science! 
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+186:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids send a delegation to Wotan II. They declare war on the Church of Amorphous Dwarfoids! 
+The Third Empire of Amorphous Dwarfoids conquer Wotan II, a colony of the Church of Amorphous Dwarfoids, killing 2 billion in the process.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+
+ Decomocratization Revival!Church of Amorphous Dwarfoids previous decrepitude: 11 revival amount: 39
+
+Civ Name: Church of Amorphous Dwarfoids 
+Civ Birth Year: 160 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 71 Science 15 Military 22 WeapLevel 1 TechLevel 7 Decrepitude 11
+A popular movement overthrows the old guard of the Church of Amorphous Dwarfoids and declares the Fourth Republic of Amorphous Dwarfoids.
+The Fourth Republic of Amorphous Dwarfoids attack and raze Dylox V, a colony of the Third Empire of Amorphous Dwarfoids.
+An expedition led by Captain Minin Carpwrestler explores Dylox V. 
+The Third Empire of Amorphous Dwarfoids send Captain Minin Carpwrestler on a mission to steal the statue on Atria I.
+The attempt to steal the statue fails, and Captain Minin Carpwrestler swiftly retreats to Buliw I to avoid capture.
+187:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Third Empire of Amorphous Dwarfoids conquer Orra V, a colony of the Fourth Republic of Amorphous Dwarfoids, killing 2 billion in the process.
+Overcrowding on Atria I leads to increased pollution.
+The Fourth Republic of Amorphous Dwarfoids build a mining base on Dylox V.
+The Fourth Republic of Amorphous Dwarfoids build a complex of arcologies on Atria I.
+The Fourth Republic of Amorphous Dwarfoids conquer Euniw VI, a colony of the Third Empire of Amorphous Dwarfoids.
+The Third Empire of Amorphous Dwarfoids send Captain Minin Carpwrestler on a mission of peace to the Fourth Republic of Amorphous Dwarfoids.
+The expert diplomacy of Captain Minin Carpwrestler is successful: the two empires are at peace.
+188:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Fourth Republic of Amorphous Dwarfoids build a vast museum on Atria I.
+
+ Art Golden Age Revival!Fourth Republic of Amorphous Dwarfoids previous decrepitude: 11 revival amount: 19
+
+Civ Name: Fourth Republic of Amorphous Dwarfoids 
+Civ Birth Year: 160 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 46 Science 17 Military 17 WeapLevel 1 TechLevel 7 Decrepitude 11
+Artists on Atria I create a statue of Captain Minin Carpwrestler. 
+189:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+
+ Decomocratization Revival!Third Empire of Amorphous Dwarfoids previous decrepitude: 289 revival amount: 33
+
+Civ Name: Third Empire of Amorphous Dwarfoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 308 Science 94 Military 23 WeapLevel 1 TechLevel 3 Decrepitude 256
+A popular movement overthrows the old guard of the Third Empire of Amorphous Dwarfoids and declares the Fifth Republic of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+The Fourth Republic of Amorphous Dwarfoids launch a space probe called Dyad to explore the galaxy.
+190:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Republic of Amorphous Dwarfoids create Immortal Red Robots as servants on Buliw I.
+Overcrowding on Atria I leads to increased pollution.
+The Fourth Republic of Amorphous Dwarfoids explore Euniw VI. 
+191:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Republic of Amorphous Dwarfoids explore Bykop I. They discover: Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 112. 
+The Fifth Republic of Amorphous Dwarfoids build a vast underground vault on Wotan II.
+Overcrowding on Atria I leads to increased pollution.
+An expedition led by Captain Minin Carpwrestler explores Dylox V. 
+192:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Republic of Amorphous Dwarfoids explore Fymos V. 
+The Fifth Republic of Amorphous Dwarfoids build a reforming vat on Orra V.
+Overcrowding on Atria I leads to increased pollution.
+193:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Fourth Republic of Amorphous Dwarfoids build a orbital elevator on Atria I.
+The space adventurer Captain Minin Carpwrestler dies and is buried on Dylox V.
+194:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Immortal Red Robots on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Degeneration occured in:  Fifth Republic of Amorphous Dwarfoidscausing all stats to drop by 1
+Overcrowding on Atria I leads to increased pollution.
+195:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Immortal Red Robots on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+196:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Immortal Red Robots on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+
+ Science Golden Age Revival!Fourth Republic of Amorphous Dwarfoids previous decrepitude: 32 revival amount: 49
+
+Civ Name: Fourth Republic of Amorphous Dwarfoids 
+Civ Birth Year: 160 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 65 Science 19 Military 24 WeapLevel 1 TechLevel 7 Decrepitude 32
+The Fourth Republic of Amorphous Dwarfoids enters a golden age of science! 
+197:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Immortal Red Robots on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Vast canyons are carved on Aykop I.
+198:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Immortal Red Robots on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+199:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Immortal Red Robots on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Republic of Amorphous Dwarfoids build a vast underground vault on Orra V.
+Overcrowding on Atria I leads to increased pollution.
+200:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Immortal Red Robots on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+A market crash impoverishes the Fourth Republic of Amorphous Dwarfoids.
+201:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Immortal Red Robots on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+202:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Immortal Red Robots on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Fourth Republic of Amorphous Dwarfoids send a delegation to Kalamis I. In a historical moment, they agree to combine their civilization with the Fifth Republic of Amorphous Dwarfoids. The two civilizations combine into the Sixth Republic of Amorphous Dwarfoids. 
+The Sixth Republic of Amorphous Dwarfoids launch a space probe called P'neer to explore the galaxy.
+The Sixth Republic of Amorphous Dwarfoids enters a dark age. Decrepitude set to 0,  was 56
+203:
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Sixth Republic of Amorphous Dwarfoids build a orbital elevator on Orra V.
+Deposits of huge gems form on Atria I.
+204:
+Pollution kills a billion Immortal Red Robots on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The statue of Captain Minin Carpwrestler created by the Sixth Republic of Amorphous Dwarfoids in 188 on Atria I has been stolen and hidden on Dylox V.
+205:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Immortal Red Robots on Buliw I.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+An industrial accident on Buliw I causes deadly levels of pollution.
+206:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Immortal Red Robots on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+An industrial accident on Buliw I causes deadly levels of pollution.
+207:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Immortal Red Robots on Buliw I.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Sixth Republic of Amorphous Dwarfoids build a city of spires on Wotan II.
+208:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Immortal Red Robots on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+A famine breaks out on Wotan II, killing 5 billion.
+209:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Immortal Red Robots on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+210:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Immortal Red Robots on Buliw I.
+Immortal Red Robots have died out on Buliw I!
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Sixth Republic of Amorphous Dwarfoids enters a dark age. Decrepitude set to 0,  was 109
+211:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Religious fanatics sieze power in the Sixth Republic of Amorphous Dwarfoids and declare the Second Church of Amorphous Dwarfoids.
+212:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids explore Filar II. 
+213:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+214:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+215:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids accidentally create the rogue AI Experiment 92 on Dylox V.
+216:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+217:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids create Six-Legged Purple Robots as servants on Atria I.
+The Second Church of Amorphous Dwarfoids enters a dark age. Decrepitude set to 0,  was 139
+218:
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+
+Civ Name: Second Church of Amorphous Dwarfoids 
+Civ Birth Year: 160 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | -1 | 0 | 
+Resources 750 Science 2 Military 36 WeapLevel 1 TechLevel 4 Decrepitude 143
+The Fourth Empire of Amorphous Dwarfoids secedes from the Second Church of Amorphous Dwarfoids, leading to a civil war!
+The Second Church of Amorphous Dwarfoids attack and raze Dylox V, a colony of the Fourth Empire of Amorphous Dwarfoids.
+219:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids attack and raze Gynou III, a colony of the Fourth Empire of Amorphous Dwarfoids.
+Overcrowding on Bykop I leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids conquer Filar II, a colony of the Second Church of Amorphous Dwarfoids.
+The space probe Dyad returns to Atria I.
+The Second Church of Amorphous Dwarfoids gains a wealth of new knowledge as a result.
+The rogue AI Experiment 92 vanishes without a trace.
+220:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids build a mining base on Gynou III.
+The Second Church of Amorphous Dwarfoids attack and raze Sativex III, a colony of the Fourth Empire of Amorphous Dwarfoids.
+Overcrowding on Bykop I leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a mining base on Sativex III.
+The Fourth Empire of Amorphous Dwarfoids explore Bykop I. 
+The Fourth Empire of Amorphous Dwarfoids conquer Fymos V, a colony of the Second Church of Amorphous Dwarfoids.
+The space probe P'neer returns to Buliw I.
+The Second Church of Amorphous Dwarfoids gains a wealth of new knowledge as a result.
+221:
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids attack Wotan II, a colony of the Fourth Empire of Amorphous Dwarfoids, and subject it to orbital bombardment, killing 3 billion.
+Overcrowding on Bykop I leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a military base on Fymos V.
+The Fourth Empire of Amorphous Dwarfoids attack Buliw I, a colony of the Second Church of Amorphous Dwarfoids, and subject it to orbital bombardment, killing 5 billion.
+222:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids build a mining base on Dylox V.
+The Second Church of Amorphous Dwarfoids build a city of spires on Buliw I.
+The Second Church of Amorphous Dwarfoids attack and raze Sativex III, a colony of the Fourth Empire of Amorphous Dwarfoids.
+Overcrowding on Bykop I leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids explore Filar II. 
+The Fourth Empire of Amorphous Dwarfoids conquer Atria I, a colony of the Second Church of Amorphous Dwarfoids, killing 3 billion in the process.
+223:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids build a mining base on Sativex III.
+The Second Church of Amorphous Dwarfoids attack and raze Fymos V, a colony of the Fourth Empire of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a military base on Fymos V.
+The Fourth Empire of Amorphous Dwarfoids develop powerful new weapons.
+The Fourth Empire of Amorphous Dwarfoids attack and raze Chroma III, a colony of the Second Church of Amorphous Dwarfoids.
+224:
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids build a mining base on Chroma III.
+Degeneration occured in:  Second Church of Amorphous Dwarfoidscausing all stats to drop by 1
+The Second Church of Amorphous Dwarfoids attack and raze Aykop I, a colony of the Fourth Empire of Amorphous Dwarfoids.
+Overcrowding on Bykop I leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids explore Autorog VI. They discover: The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 70, destroyed in 161 due to orbital bombardment by the Third Empire of Amorphous Dwarfoids. 
+The Fourth Empire of Amorphous Dwarfoids conquer Chroma III, a colony of the Second Church of Amorphous Dwarfoids.
+225:
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids build a mining base on Aykop I.
+The Second Church of Amorphous Dwarfoids attack and raze Cukiv I, a colony of the Fourth Empire of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a mining base on Cukiv I.
+The Fourth Empire of Amorphous Dwarfoids attack and raze Gynou III, a colony of the Second Church of Amorphous Dwarfoids.
+Pollution on Buliw I abates.
+226:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Orra V leads to increased pollution.
+The Second Church of Amorphous Dwarfoids explore Dylox V. They discover: The ruins of a mining base, built by the Second Church of Amorphous Dwarfoids in 187, destroyed in 218 due to orbital bombardment by the Second Church of Amorphous Dwarfoids. 
+A military putsch turns the Second Church of Amorphous Dwarfoids into the Fifth Empire of Amorphous Dwarfoids.
+The Fifth Empire of Amorphous Dwarfoids conquer Fymos V, a colony of the Fourth Empire of Amorphous Dwarfoids.
+Overcrowding on Bykop I leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a mining base on Gynou III.
+The Fourth Empire of Amorphous Dwarfoids conquer Orra V, a colony of the Fifth Empire of Amorphous Dwarfoids, killing 2 billion in the process.
+227:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The Fifth Empire of Amorphous Dwarfoids build a science lab on Fymos V.
+The Fifth Empire of Amorphous Dwarfoids conquer Chroma III, a colony of the Fourth Empire of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a complex of arcologies on Orra V.
+The Fourth Empire of Amorphous Dwarfoids conquer Chroma III, a colony of the Fifth Empire of Amorphous Dwarfoids.
+The wind plays across rock formations on Fymos V, producing an eerie music.
+228:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Fifth Empire of Amorphous Dwarfoids conquer Wotan II, a colony of the Fourth Empire of Amorphous Dwarfoids, killing 3 billion in the process.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids experiences a population boom! 
+The Fourth Empire of Amorphous Dwarfoids conquer Dylox V, a colony of the Fifth Empire of Amorphous Dwarfoids.
+Pollution on Wotan II abates.
+229:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+The Fifth Empire of Amorphous Dwarfoids conquer Dylox V, a colony of the Fourth Empire of Amorphous Dwarfoids.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids explore Atria I. 
+The Fourth Empire of Amorphous Dwarfoids attempting to upgrade their stats of value :0 current score is: -1
+The difficulty is: 15 They rolled: 17on: 4d6+3
+TechLevel: 5 Science: 3
+The Fourth Empire of Amorphous Dwarfoids conquer Buliw I, a colony of the Fifth Empire of Amorphous Dwarfoids.
+230:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+The Fifth Empire of Amorphous Dwarfoids build a grand palace on Wotan II.
+Religious fanatics sieze power in the Fifth Empire of Amorphous Dwarfoids and declare the Third Church of Amorphous Dwarfoids.
+The Third Church of Amorphous Dwarfoids attack Buliw I, a colony of the Fourth Empire of Amorphous Dwarfoids, and subject it to orbital bombardment, killing 1 billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+
+ Industrial Golden Age Revival!Fourth Empire of Amorphous Dwarfoids previous decrepitude: 4 revival amount: 627
+
+Civ Name: Fourth Empire of Amorphous Dwarfoids 
+Civ Birth Year: 218 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | 0 | 0 | 
+Resources 419 Science 4 Military 22 WeapLevel 2 TechLevel 5 Decrepitude 4
+The Fourth Empire of Amorphous Dwarfoids enters a golden age of industry!  
+The Fourth Empire of Amorphous Dwarfoids conquer Wotan II, a colony of the Third Church of Amorphous Dwarfoids, killing 1 billion in the process.
+231:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Third Church of Amorphous Dwarfoids collapses.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+232:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a mining base on Fymos V.
+The Fourth Empire of Amorphous Dwarfoids explore Aykop I. They discover: The ruins of a military base, built by the Fifth Republic of Amorphous Dwarfoids in 66, destroyed in 164 due to orbital bombardment by the Church of Amorphous Dwarfoids. 
+233:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a mining base on Kalamis I.
+The Fourth Empire of Amorphous Dwarfoids launch a space probe called Lun'hod to explore the galaxy.
+234:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a mining base on Dylox V.
+The Fourth Empire of Amorphous Dwarfoids build a military base on Aykop I.
+
+ Art Golden Age Revival!Fourth Empire of Amorphous Dwarfoids previous decrepitude: 6 revival amount: 15
+
+Civ Name: Fourth Empire of Amorphous Dwarfoids 
+Civ Birth Year: 218 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | 0 | 0 | 
+Resources 464 Science 3 Military 21 WeapLevel 2 TechLevel 5 Decrepitude 6
+Artists on Buliw I create a hologram of film about the President of the Second Republic of Amorphous Dwarfoids created by the Fifth Republic of Amorphous Dwarfoids in 135. 
+235:
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a grand palace on Atria I.
+236:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a great hall on Orra V.
+
+ Science Golden Age Revival!Fourth Empire of Amorphous Dwarfoids previous decrepitude: -3 revival amount: 49
+
+Civ Name: Fourth Empire of Amorphous Dwarfoids 
+Civ Birth Year: 218 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | 0 | 0 | 
+Resources 480 Science 15 Military 21 WeapLevel 2 TechLevel 5 Decrepitude -3
+The Fourth Empire of Amorphous Dwarfoids enters a golden age of science! The Fourth Empire of Amorphous Dwarfoids build a science lab on Sativex III.
+237:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids explore Bykop I. They discover: Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 112. 
+238:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids develop powerful new weapons.
+
+ Industrial Golden Age Revival!Fourth Empire of Amorphous Dwarfoids previous decrepitude: -4 revival amount: 786
+
+Civ Name: Fourth Empire of Amorphous Dwarfoids 
+Civ Birth Year: 218 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | 0 | 0 | 
+Resources 523 Science 3 Military 21 WeapLevel 3 TechLevel 5 Decrepitude -4
+The Fourth Empire of Amorphous Dwarfoids enters a golden age of industry!  
+239:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids explore Filar II. 
+Sentient Four-Armed Humanoids arise on Wotan II.
+240:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids explore Chroma III. 
+241:
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a great hall on Buliw I.
+The Fourth Empire of Amorphous Dwarfoids experiences a population boom! 
+Titanic mountains form on Buliw I.
+242:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+243:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Beautiful aurorae play across the skies of Gynou III.
+244:
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids launch a space probe called P'neer to explore the galaxy.
+245:
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Amorphous Dwarfoids have died out on Atria I!
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+246:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+247:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+248:
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a reforming vat on Wotan II.
+Pollution on Wotan II abates.
+249:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+250:
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Bykop I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a reforming vat on Buliw I.
+The space probe Lun'hod returns to Atria I.
+The Fourth Empire of Amorphous Dwarfoids gains a wealth of new knowledge as a result.
+251:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids explore Gynou III. 
+A shift in the orbital axis of Bykop I spells doom for all life on the planet!
+252:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a military base on Bykop I.
+253:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids build a vast underground vault on Atria I.
+254:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The space probe P'neer returns to Wotan II.
+The Fourth Empire of Amorphous Dwarfoids gains a wealth of new knowledge as a result.
+255:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Empire of Amorphous Dwarfoids explore Sativex III. They discover: The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 71, destroyed in 164 due to orbital bombardment by the Third Empire of Amorphous Dwarfoids. 
+256:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Religious fanatics sieze power in the Fourth Empire of Amorphous Dwarfoids and declare the Fourth Church of Amorphous Dwarfoids.
+257:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids experiences a population boom! 
+258:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+259:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+260:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+261:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The pirate Redbeard establishes herself on Cukiv I.
+The pirate Redbeard receives tribute from Buliw I of the Fourth Church of Amorphous Dwarfoids.
+262:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+The population of Amorphous Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids explore Aykop I. 
+An industrial accident on Wotan II causes deadly levels of pollution.
+The pirate Redbeard subjects Orra V to orbital bombardment, killing 10 billion.
+263:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The pirate Redbeard receives tribute from Buliw I of the Fourth Church of Amorphous Dwarfoids.
+264:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids build a grand palace on Orra V.
+Captain Minin Longbeard, space adventurer, blasts off from Chroma III.
+The pirate Redbeard receives tribute from Atria I of the Fourth Church of Amorphous Dwarfoids.
+Captain Minin Longbeard is sent on a mission to defeat the pirate Redbeard by the government of Kalamis I.
+Captain Minin Longbeard fails to find any trace of the pirate Redbeard.
+Captain Minin Longbeard is sent on a mission to defeat the pirate Redbeard by the government of Gynou III.
+Captain Minin Longbeard tracks down the pirate Redbeard in orbit around Atria I.
+Captain Minin Longbeard is defeated by the pirate Redbeard and flees back to Atria I.
+265:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The pirate Redbeard receives tribute from Aykop I of the Fourth Church of Amorphous Dwarfoids.
+Captain Minin Longbeard is sent on a mission to defeat the pirate Redbeard by the government of Chroma III.
+Captain Minin Longbeard fails to find any trace of the pirate Redbeard.
+Captain Minin Longbeard is sent on a mission to defeat the pirate Redbeard by the government of Gynou III.
+Captain Minin Longbeard fails to find any trace of the pirate Redbeard.
+266:
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Amorphous Dwarfoids have died out on Wotan II!
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids accidentally create the rogue AI Mind 45 on Cukiv I.
+The pirate Redbeard subjects Sativex III to orbital bombardment.
+Captain Minin Longbeard is sent on a mission to defeat the pirate Redbeard by the government of Dylox V.
+Captain Minin Longbeard tracks down the pirate Redbeard in orbit around Sativex III.
+Captain Minin Longbeard is defeated utterly by the pirate.
+267:
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The pirate Redbeard receives tribute from Filar II of the Fourth Church of Amorphous Dwarfoids.
+268:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Pollution kills a billion Amorphous Dwarfoids on Atria I.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids build a mining base on Sativex III.
+The pirate Redbeard receives tribute from Filar II of the Fourth Church of Amorphous Dwarfoids.
+269:
+The population of Six-Legged Purple Robots on Atria I has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids explore Bykop I. They discover: Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 112. 
+Mass hysteria breaks out in the Fourth Church of Amorphous Dwarfoids, killing billions.
+The pirate Redbeard receives tribute from Euniw VI of the Fourth Church of Amorphous Dwarfoids.
+270:
+Pollution kills a billion Six-Legged Purple Robots on Atria I.
+Six-Legged Purple Robots have died out on Atria I!
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Fourth Church of Amorphous Dwarfoids explore Autorog VI. 
+The pirate Redbeard receives tribute from Kalamis I of the Fourth Church of Amorphous Dwarfoids.
+271:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The Fourth Church of Amorphous Dwarfoids build a mining base on Atria I.
+The Fourth Church of Amorphous Dwarfoids explore Atria I. They discover: The ruins of a vast underground vault, built by the Fourth Church of Amorphous Dwarfoids in 253, destroyed in 270 . They discover: The ruins of a vast museum, built by the Third Church of Amorphous Dwarfoids in 188, destroyed in 270 . 
+The pirate Redbeard receives tribute from Kalamis I of the Fourth Church of Amorphous Dwarfoids.
+272:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The Fourth Church of Amorphous Dwarfoids explore Sativex III. 
+The Fourth Church of Amorphous Dwarfoids enters a dark age. Decrepitude set to 0,  was 108
+The pirate Redbeard dies and is buried on Filar II.
+273:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+274:
+A giant spaceborne red crystal appears from the depths of space and menaces the skies of Kalamis I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Fourth Church of Amorphous Dwarfoids explore Orra V. They discover: The ruins of a orbital elevator, built by the Fifth Republic of Amorphous Dwarfoids in 174, destroyed in 177 during the invasion of the Church of Amorphous Dwarfoids. They discover: The ruins of a reforming vat, built by the Fifth Republic of Amorphous Dwarfoids in 102, destroyed in 162 through orbital bombardment by the Third Empire of Amorphous Dwarfoids. 
+The Fourth Church of Amorphous Dwarfoids explore Fymos V. 
+The rogue AI Mind 45 encases Urist Bronzepick, Autarch of the Fourth Church of Amorphous Dwarfoids, in a block of time ice.
+275:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The Fourth Church of Amorphous Dwarfoids build a city of spires on Wotan II.
+276:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+277:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+278:
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The Fourth Church of Amorphous Dwarfoids colonise Atria I. 
+A nanofungal bloom consumes all other life on Atria I before itself dying from a lack of nutrients!
+279:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids explore Filar II. 
+The block of time ice, encasing Urist Bronzepick, Autarch of the Fourth Church of Amorphous Dwarfoids created by the rogue AI Mind 45 in 274 on Cukiv I has been stolen and hidden on Wotan II.
+280:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids explore Aykop I. They discover: The ruins of a mining base, built by the Third Church of Amorphous Dwarfoids in 165, destroyed in 224 due to orbital bombardment by the Second Church of Amorphous Dwarfoids. 
+The Fourth Church of Amorphous Dwarfoids build a city of spires on Buliw I.
+281:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids build a mining base on Atria I.
+282:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+283:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Orra V leads to increased pollution.
+The Fourth Church of Amorphous Dwarfoids explore Autorog VI. 
+The Fourth Church of Amorphous Dwarfoids develop a Virtual Reality Matrix.
+Religious fanatics sieze power in the Fourth Church of Amorphous Dwarfoids and declare the Fifth Church of Amorphous Dwarfoids.
+284:
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Church of Amorphous Dwarfoids build a vast underground vault on Orra V.
+The rogue AI Mind 45 crashes the Dylox V stock exchange.
+285:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Church of Amorphous Dwarfoids explore Gynou III. They discover: The ruins of a military base, built by the Fifth Republic of Amorphous Dwarfoids in 164, destroyed in 173 due to orbital bombardment by the Church of Amorphous Dwarfoids. 
+286:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+An industrial accident on Buliw I causes deadly levels of pollution.
+287:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Buliw I.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Church of Amorphous Dwarfoids explore Filar II. 
+A market crash impoverishes the Fifth Church of Amorphous Dwarfoids.
+288:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Buliw I.
+Four-Armed Humanoids have died out on Buliw I!
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The giant spaceborne red crystal leaves the orbit of Kalamis I and heads back into deep space.
+289:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Church of Amorphous Dwarfoids explore Wotan II. They discover: Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 266. 
+290:
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Church of Amorphous Dwarfoids explore Dylox V. They discover: The ruins of a mining base, built by the Third Church of Amorphous Dwarfoids in 222, destroyed in 231 during the collapse of the Third Church of Amorphous Dwarfoids. 
+The Fifth Church of Amorphous Dwarfoids explore Bykop I. 
+
+ Art Golden Age Revival!Fifth Church of Amorphous Dwarfoids previous decrepitude: 195 revival amount: 25
+
+Civ Name: Fifth Church of Amorphous Dwarfoids 
+Civ Birth Year: 218 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | 0 | 0 | 
+Resources 157 Science 15 Military 55 WeapLevel 3 TechLevel 11 Decrepitude 195
+Artists on Orra V create a painting of the Autarch of the Fifth Church of Amorphous Dwarfoids. 
+291:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+292:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+293:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+294:
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Church of Amorphous Dwarfoids explore Wotan II. They recover: A block of time ice, encasing Urist Bronzepick, Autarch of the Fourth Church of Amorphous Dwarfoids created by the rogue AI Mind 45 in 274, hidden in 279. They discover: Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 266. 
+The rogue AI Mind 45 presents the inhabitants of Dylox V with a gift: a Universal Computer Virus.
+295:
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+296:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Church of Amorphous Dwarfoids explore Cukiv I. They discover: The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 175, destroyed in 225 due to orbital bombardment by the Second Church of Amorphous Dwarfoids. 
+297:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Church of Amorphous Dwarfoids build a grand palace on Buliw I.
+298:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+299:
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The pirate Whitebeard establishes herself on Wotan II.
+The pirate Whitebeard receives tribute from Bykop I of the Fifth Church of Amorphous Dwarfoids.
+300:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Fifth Church of Amorphous Dwarfoids build a great hall on Wotan II.
+The pirate Whitebeard subjects Orra V to orbital bombardment, killing 10 billion.
+301:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+A military putsch turns the Fifth Church of Amorphous Dwarfoids into the Sixth Empire of Amorphous Dwarfoids.
+The Sixth Empire of Amorphous Dwarfoids defeats the pirate Whitebeard.
+302:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Sixth Empire of Amorphous Dwarfoids explore Dylox V. 
+Religious fanatics sieze power in the Sixth Empire of Amorphous Dwarfoids and declare the Sixth Church of Amorphous Dwarfoids.
+303:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+304:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Sixth Church of Amorphous Dwarfoids explore Gynou III. They discover: The ruins of a mining base, built by the Third Church of Amorphous Dwarfoids in 220, destroyed in 225 due to orbital bombardment by the Fourth Empire of Amorphous Dwarfoids. 
+305:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+306:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+307:
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Sixth Church of Amorphous Dwarfoids explore Gynou III. 
+308:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+309:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Sixth Church of Amorphous Dwarfoids explore Fymos V. 
+310:
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Sixth Church of Amorphous Dwarfoids build a vast underground vault on Buliw I.
+The Sixth Church of Amorphous Dwarfoids build a great hall on Orra V.
+311:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Sixth Church of Amorphous Dwarfoids build a city of spires on Orra V.
+312:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Sixth Church of Amorphous Dwarfoids explore Bykop I. They discover: The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 62, destroyed in 251 by a shift in the planet's orbital axis. They discover: Remnants of a culture of Amorphous Humanoids with Long Tails that collapsed due to a nova in 46. 
+A military putsch turns the Sixth Church of Amorphous Dwarfoids into the Seventh Empire of Amorphous Dwarfoids.
+313:
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Seventh Empire of Amorphous Dwarfoids explore Buliw I. The expedition encounters plants with useful pharmaceutical properties. They discover: The ruins of a city of spires, built by the Third Church of Amorphous Dwarfoids in 222, destroyed in 229 during the invasion of the Fourth Empire of Amorphous Dwarfoids. 
+314:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The deadly Orange Plague, which affects Four-Armed Humanoids, arises on Wotan II.
+315:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The painting of the Autarch of the Fifth Church of Amorphous Dwarfoids created by the Seventh Empire of Amorphous Dwarfoids in 290 on Orra V has been stolen and hidden on Filar II.
+316:
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+317:
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+318:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Seventh Empire of Amorphous Dwarfoids build a complex of arcologies on Wotan II.
+319:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Orange Plague has been eradicated on Wotan II.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Seventh Empire of Amorphous Dwarfoids explore Orra V. They discover: The ruins of a orbital elevator, built by the Third Church of Amorphous Dwarfoids in 203, destroyed in 300 through orbital bombardment by the pirate Whitebeard. They discover: The ruins of a vast underground vault, built by the Fifth Republic of Amorphous Dwarfoids in 199, destroyed in 262 through orbital bombardment by the pirate Redbeard. 
+The Seventh Empire of Amorphous Dwarfoids accidentally create the rogue AI Experiment 319 on Atria I.
+320:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+321:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+322:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+323:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+324:
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Seventh Empire of Amorphous Dwarfoids explore Bykop I. They discover: Remnants of a culture of Amorphous Dwarfoids that collapsed from the effects of pollution in 112. 
+The Seventh Empire of Amorphous Dwarfoids explore Sativex III. 
+325:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Four-Armed Humanoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Pollution on Wotan II abates.
+326:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Seventh Empire of Amorphous Dwarfoids accidentally create the rogue AI Simulation 82 on Aykop I.
+327:
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+328:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Seventh Empire of Amorphous Dwarfoids build a vast museum on Orra V.
+329:
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Religious fanatics sieze power in the Seventh Empire of Amorphous Dwarfoids and declare the Seventh Church of Amorphous Dwarfoids.
+330:
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Seventh Church of Amorphous Dwarfoids explore Wotan II. They discover: The ruins of a great hall, built by the Third Church of Amorphous Dwarfoids in 175, destroyed in 230 during the invasion of the Fourth Empire of Amorphous Dwarfoids. 
+The rogue AI Experiment 319 encases Grolin Carpwrestler, Autarch of the Seventh Church of Amorphous Dwarfoids, in a block of time ice.
+331:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The rogue AI Experiment 319 crashes the Buliw I stock exchange.
+332:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Seventh Church of Amorphous Dwarfoids explore Orra V. They discover: The ruins of a grand palace, built by the Seventh Church of Amorphous Dwarfoids in 264, destroyed in 300 through orbital bombardment by the pirate Whitebeard. They recover: A film about the President of the Republic of Amorphous Dwarfoids created by the Fifth Republic of Amorphous Dwarfoids in 68, buried in 167. 
+The Seventh Church of Amorphous Dwarfoids build a orbital elevator on Wotan II.
+The rogue AI Mind 45 vanishes without a trace.
+The rogue AI Experiment 319 presents the inhabitants of Buliw I with a gift: a Time Machine.
+333:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+334:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+335:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+336:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The rogue AI Simulation 82 vanishes without a trace.
+337:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The rogue AI Experiment 319 vanishes without a trace.
+338:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Pollution kills a billion Four-Armed Humanoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+339:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+An industrial accident on Buliw I causes deadly levels of pollution.
+340:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+341:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Seventh Church of Amorphous Dwarfoids create Flying Robots as servants on Buliw I.
+342:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Buliw I.
+Four-Armed Humanoids have died out on Buliw I!
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+343:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Flying Robots on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+
+Civ Name: Seventh Church of Amorphous Dwarfoids 
+Civ Birth Year: 218 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 1 | 2 | 0 | 0 | 
+Resources 508 Science 8 Military 74 WeapLevel 3 TechLevel 11 Decrepitude 466
+The Kingdom of Humanoids and Dwarfoids secedes from the Seventh Church of Amorphous Dwarfoids, leading to a civil war!
+The Seventh Church of Amorphous Dwarfoids use their time machine to erase their hated enemies, the Kingdom of Humanoids and Dwarfoids.
+344:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Flying Robots on Buliw I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Seventh Church of Amorphous Dwarfoids colonise Orra V. 
+The Seventh Church of Amorphous Dwarfoids build a grand palace on Orra V.
+345:
+Pollution kills a billion Flying Robots on Buliw I.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+346:
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Seventh Church of Amorphous Dwarfoids build a mining base on Bykop I.
+The Seventh Church of Amorphous Dwarfoids accidentally create the rogue AI System 450 on Wotan II.
+The rogue AI System 450 crashes the Wotan II stock exchange.
+347:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Seventh Church of Amorphous Dwarfoids build a mining base on Aykop I.
+348:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Flying Robots on Buliw I.
+Flying Robots have died out on Buliw I!
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Seventh Church of Amorphous Dwarfoids build a orbital elevator on Orra V.
+The Seventh Church of Amorphous Dwarfoids build a military base on Atria I.
+Pollution on Bykop I abates.
+349:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+The Seventh Church of Amorphous Dwarfoids build a mining base on Kalamis I.
+The Seventh Church of Amorphous Dwarfoids build a reforming vat on Orra V.
+Pollution on Wotan II abates.
+350:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+351:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+Religious fanatics sieze power in the Seventh Church of Amorphous Dwarfoids and declare the Eighth Church of Amorphous Dwarfoids.
+352:
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids build a great hall on Orra V.
+353:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids build a city of spires on Orra V.
+354:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The rogue AI System 450 vanishes without a trace.
+355:
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids explore Kalamis I. 
+The Eighth Church of Amorphous Dwarfoids explore Orra V. They discover: The ruins of a city of spires, built by the Eighth Church of Amorphous Dwarfoids in 311, destroyed in 171 by a time vortex. They discover: The ruins of a grand palace, built by the Third Church of Amorphous Dwarfoids in 182, destroyed in 226 during the invasion of the Fourth Empire of Amorphous Dwarfoids. 
+356:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+357:
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids explore Filar II. They recover: A painting of the Autarch of the Fifth Church of Amorphous Dwarfoids created by the Eighth Church of Amorphous Dwarfoids in 290, hidden in 315. They loot the Tomb of the Pirate Redbeard. 
+Life arises on Bykop I
+358:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids explore Euniw VI. 
+359:
+Pollution kills a billion Four-Armed Humanoids on Wotan II.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+An industrial accident on Buliw I causes deadly levels of pollution.
+360:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+Pollution kills a billion Four-Armed Humanoids on Buliw I.
+Four-Armed Humanoids have died out on Buliw I!
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids explore Cukiv I. They discover: The ruins of a military base, built by the Fifth Republic of Amorphous Dwarfoids in 169, destroyed in 172 due to orbital bombardment by the Church of Amorphous Dwarfoids. 
+361:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Orra V has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+362:
+Pollution kills a billion Four-Armed Humanoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids explore Chroma III. 
+The Eighth Church of Amorphous Dwarfoids colonise Bykop I. 
+Degeneration occured in:  Eighth Church of Amorphous Dwarfoidscausing all stats to drop by 1
+363:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Wotan II.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids explore Sativex III. They discover: The ruins of a mining base, built by the Fifth Republic of Amorphous Dwarfoids in 71, destroyed in 164 due to orbital bombardment by the Third Empire of Amorphous Dwarfoids. 
+364:
+Pollution kills a billion Amorphous Dwarfoids on Buliw I.
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+Pollution kills a billion Amorphous Dwarfoids on Orra V.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids explore Buliw I. The expedition encounters plants with useful pharmaceutical properties. They discover: Remnants of a culture of Four-Armed Humanoids that collapsed from the effects of pollution in 360. They discover: Remnants of a culture of Four-Armed Humanoids that collapsed from the effects of pollution in 288. 
+
+ Science Golden Age Revival!Eighth Church of Amorphous Dwarfoids previous decrepitude: 603 revival amount: 134
+
+Civ Name: Eighth Church of Amorphous Dwarfoids 
+Civ Birth Year: 218 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | 0 | 1 | -1 | -1 | 
+Resources 417 Science 53 Military 55 WeapLevel 3 TechLevel 11 Decrepitude 603
+The Eighth Church of Amorphous Dwarfoids enters a golden age of science! 
+365:
+The population of Amorphous Dwarfoids on Bykop I has grown by a billion.
+The population of Four-Armed Humanoids on Orra V has grown by a billion.
+Overcrowding on Buliw I leads to increased pollution.
+Overcrowding on Wotan II leads to increased pollution.
+Overcrowding on Bykop I leads to increased pollution.
+Overcrowding on Orra V leads to increased pollution.
+The Eighth Church of Amorphous Dwarfoids explore Fymos V. 
+366:
+The population of Amorphous Dwarfoids on Buliw I has grown by a billion.
+The population of Four-Armed Humanoids on Wotan II has grown by a billion.
+The population of Amorphous Dwarfoids on Wotan II has grown by a billion.

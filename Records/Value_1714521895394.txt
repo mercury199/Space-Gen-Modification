@@ -1,0 +1,313 @@
+SENTIENT SPECIES:
+Tiny Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry. They are humorless and deeply religious. They were created by the Kingdom of Trolloids and Antoids on Aikas IV as servants in 70.
+	Their Stats are: STR: 0 DEX: 1 CON: -2 INT: 1 CHA: 1
+Six-Legged Green Antoids: Small, industrious and well-organised, these creatures' greatest weakness is their ever-ballooning population. They have green skin. They have six legs. They have bilateral symmetry. They are cowardly and unwilling to compromise. They first evolved on Aikas IV in 46.
+	Their Stats are: STR: 2 DEX: 0 CON: -1 INT: 0 CHA: 1
+Four-Armed Trolloids: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have four arms. They have bilateral symmetry. They are modest and have a complex system of social castes. They first evolved on Cokes I in 38.
+	Their Stats are: STR: -1 DEX: 1 CON: 0 INT: 1 CHA: 1
+Red Ursoids: Always at war with someone, or everyone, or one another. They have red skin. They have bilateral symmetry. They are hyperactive and deeply rationalist. They first evolved on Chroma II in 71.
+	Their Stats are: STR: 2 DEX: 0 CON: 0 INT: 1 CHA: 2
+
+CIVILISATIONS:
+THE KINGDOM OF TROLLOIDS AND ANTOIDS:
+An ancient, impoverished, advanced Kingdom of 11 planets, with 24 billion inhabitants.
+Major populations:
+3 billion Six-Legged Green Antoids.
+15 billion Four-Armed Trolloids.
+6 billion enslaved Tiny Robots.
+It controls a Mind Control Device.
+
+	Their Stats are: STR: -2 DEX: 1 CON: 0 INT: 1 CHA: 1
+PLANETS:
+DOMEP V
+A barren planet.
+
+CHROMA II
+A life-bearing planet.
+It is populated by:
+2 billion Red Ursoids
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+
+BAL V
+A life-bearing planet.
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+Lifeforms of note:
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+
+MYCON IV
+A life-bearing planet.
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Lifeforms of note:
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+
+COKES I
+A life-bearing planet of the Kingdom of Trolloids and Antoids.
+It is populated by:
+8 billion Four-Armed Trolloids
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+
+ORGUS V
+A life-bearing planet.
+Lifeforms of note:
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+
+FYNOU III
+A barren planet.
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+
+GYNOW VI
+A barren planet of the Kingdom of Trolloids and Antoids.
+A military base, built by the Kingdom of Trolloids and Antoids in 71
+
+TARANIS II
+A barren planet of the Kingdom of Trolloids and Antoids.
+A science lab, built by the Kingdom of Trolloids and Antoids in 78
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+
+XARLAN I
+A life-bearing planet of the Kingdom of Trolloids and Antoids.
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+
+DYMOV V
+A barren planet of the Kingdom of Trolloids and Antoids.
+A science lab, built by the Kingdom of Trolloids and Antoids in 66
+A Mind Control Device created by the Kingdom of Trolloids and Antoids in 73
+
+WOTAN V
+A barren planet.
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+
+BYNOX III
+A barren planet of the Kingdom of Trolloids and Antoids.
+A science lab, built by the Kingdom of Trolloids and Antoids in 78
+
+MERA III
+A barren planet.
+
+AIKAS IV
+A life-bearing planet of the Kingdom of Trolloids and Antoids.
+It is populated by:
+1 billion Six-Legged Green Antoids
+6 billion enslaved Tiny Robots
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+
+ORRA VI
+A life-bearing planet of the Kingdom of Trolloids and Antoids.
+It is populated by:
+2 billion Four-Armed Trolloids
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+
+KRANTOR V
+A barren planet of the Kingdom of Trolloids and Antoids.
+A science lab, built by the Kingdom of Trolloids and Antoids in 67
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+
+AUMIP V
+A barren planet of the Kingdom of Trolloids and Antoids.
+A science lab, built by the Kingdom of Trolloids and Antoids in 77
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+
+FUNIW VI
+A life-bearing planet of the Kingdom of Trolloids and Antoids.
+It is populated by:
+5 billion Four-Armed Trolloids
+2 billion Six-Legged Green Antoids
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+
+ORRA IV
+A barren planet.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Domep V, Chroma II, Bal V, Mycon IV, Cokes I, Orgus V, Fynou III, Gynow VI, Taranis II, Xarlan I, Dymov V, Wotan V, Bynox III, Mera III, Aikas IV, Orra VI, Krantor V, Aumip V, Funiw VI, Orra IV
+1:
+Beautiful aurorae play across the skies of Bal V.
+7:
+Life arises on Cokes I
+17:
+Life arises on Orra VI
+20:
+Life arises on Aikas IV
+22:
+Life arises on Chroma II
+25:
+Vast grazing herds evolve on Cokes I.
+29:
+Life arises on Funiw VI
+30:
+Life arises on Orgus V
+31:
+The wind plays across rock formations on Mycon IV, producing an eerie music.
+Life arises on Xarlan I
+32:
+Deep impenetrable seas form on Krantor V.
+33:
+Life arises on Mycon IV
+34:
+Life arises on Bal V
+35:
+Radiovores evolve on Aikas IV.
+36:
+Brain parasites evolve on Chroma II.
+38:
+Sentient Four-Armed Trolloids arise on Cokes I.
+43:
+Vast grazing herds evolve on Xarlan I.
+44:
+Living islands evolve on Funiw VI.
+45:
+Vast empty plains form on Taranis II.
+46:
+Sentient Six-Legged Green Antoids arise on Aikas IV.
+47:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+48:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+Beautiful flying creatures evolve on Mycon IV.
+49:
+Radiovores evolve on Orra VI.
+51:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+52:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+56:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+Ocean giants evolve on Bal V.
+57:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+58:
+Radiovores evolve on Chroma II.
+60:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+61:
+The Four-Armed Trolloids on Cokes I achieve spaceflight and organise as a Feudal State, the Kingdom of Four-Armed Trolloids.
+
+Civ Name: Kingdom of Four-Armed Trolloids 
+Civ Birth Year: 61 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | 2 | 0 | 2 | 2 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Beautiful flying creatures evolve on Orgus V.
+62:
+WE ENTER THE FIRST AGE OF CIVILISATION
+The Kingdom of Four-Armed Trolloids explore Aikas IV. They ignore the local Six-Legged Green Antoids. 
+63:
+The population of Four-Armed Trolloids on Cokes I has grown by a billion.
+The Kingdom of Four-Armed Trolloids attempting to upgrade their stats of value :1 current score is: -6
+The difficulty is: 0 They rolled: 7on: 4d2+1
+TechLevel: 2 Science: 1
+64:
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+The Kingdom of Four-Armed Trolloids explore Aikas IV. They incorporate the local Six-Legged Green Antoids into their civilization as equals. They now call themselves the Kingdom of Trolloids and Antoids. 
+The Kingdom of Trolloids and Antoids explore Aikas IV. 
+65:
+Overcrowding on Aikas IV leads to increased pollution.
+Radiovores evolve on Funiw VI.
+66:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+Overcrowding on Aikas IV leads to increased pollution.
+The Kingdom of Trolloids and Antoids build a science lab on Dymov V.
+67:
+The population of Four-Armed Trolloids on Cokes I has grown by a billion.
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+Overcrowding on Cokes I leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+The Kingdom of Trolloids and Antoids build a science lab on Krantor V.
+The Kingdom of Trolloids and Antoids attempting to upgrade their stats of value :2 current score is: 0
+The difficulty is: 48 They rolled: 12on: 5d3+1
+TechLevel: 3 Science: 1
+68:
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+Overcrowding on Aikas IV leads to increased pollution.
+69:
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+Overcrowding on Aikas IV leads to increased pollution.
+70:
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+Overcrowding on Aikas IV leads to increased pollution.
+The Kingdom of Trolloids and Antoids create Tiny Robots as servants on Aikas IV.
+71:
+The population of Four-Armed Trolloids on Cokes I has grown by a billion.
+Overcrowding on Aikas IV leads to increased pollution.
+The Kingdom of Trolloids and Antoids build a military base on Gynow VI.
+The Kingdom of Trolloids and Antoids explore Cokes I. 
+Sentient Red Ursoids arise on Chroma II.
+72:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+Pollution kills a billion Tiny Robots on Aikas IV.
+Overcrowding on Cokes I leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+73:
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+Overcrowding on Aikas IV leads to increased pollution.
+The Kingdom of Trolloids and Antoids explore Domep V. 
+The Kingdom of Trolloids and Antoids develop a Mind Control Device.
+Brain parasites evolve on Xarlan I.
+74:
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+The population of Tiny Robots on Aikas IV has grown by a billion.
+Overcrowding on Aikas IV leads to increased pollution.
+The Kingdom of Trolloids and Antoids explore Domep V. 
+75:
+The population of Four-Armed Trolloids on Cokes I has grown by a billion.
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+The Kingdom of Trolloids and Antoids colonise Funiw VI. 
+The Kingdom of Trolloids and Antoids experiences a population boom! 
+76:
+Overcrowding on Cokes I leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+77:
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+Overcrowding on Cokes I leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+The Kingdom of Trolloids and Antoids build a science lab on Aumip V.
+78:
+The population of Four-Armed Trolloids on Cokes I has grown by a billion.
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+The population of Four-Armed Trolloids on Funiw VI has grown by a billion.
+Overcrowding on Cokes I leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+The Kingdom of Trolloids and Antoids build a science lab on Bynox III.
+
+ Science Golden Age Revival!Kingdom of Trolloids and Antoids previous decrepitude: 14 revival amount: 45
+
+Civ Name: Kingdom of Trolloids and Antoids 
+Civ Birth Year: 61 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 2 | 0 | 2 | 2 | 
+Resources 2 Science 14 Military 10 WeapLevel 0 TechLevel 4 Decrepitude 14
+The Kingdom of Trolloids and Antoids enters a golden age of science! The Kingdom of Trolloids and Antoids build a science lab on Taranis II.
+Vast empty plains form on Fynou III.
+79:
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+Overcrowding on Cokes I leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Overcrowding on Funiw VI leads to increased pollution.
+The Kingdom of Trolloids and Antoids colonise Orra VI. 
+Wotan V becomes tidally locked to its star.
+A gigantic network of caves forms on Aumip V.
+80:
+The population of Six-Legged Green Antoids on Aikas IV has grown by a billion.
+The population of Six-Legged Green Antoids on Funiw VI has grown by a billion.
+Overcrowding on Cokes I leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.
+Gas bags evolve on Xarlan I.
+81:
+Pollution kills a billion Six-Legged Green Antoids on Aikas IV.
+The population of Four-Armed Trolloids on Orra VI has grown by a billion.
+The population of Four-Armed Trolloids on Funiw VI has grown by a billion.
+Overcrowding on Cokes I leads to increased pollution.
+Overcrowding on Aikas IV leads to increased pollution.

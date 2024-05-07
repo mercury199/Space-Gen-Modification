@@ -370,10 +370,14 @@ public class MediaProvider {
 		final int h = src.getHeight();
 		final BufferedImage dst = createImage(w, h, src.getTransparency());
 		final WritableRaster ar = src.getAlphaRaster();
+		//System.out.println("Value of tint: " + tint);
+		if(tint==null){
+			tint = new Color(255, 0, 0, 160);
+		}
 		final int a = tint.getAlpha();
 //TODO Debugging Line
-		System.out.println(a);
-		System.out.println("Here");
+		//System.out.println(a);
+		//System.out.println("Here");
 		final int r = tint.getRed() * a;
 		final int g = tint.getGreen() * a;
 		final int b = tint.getBlue() * a;

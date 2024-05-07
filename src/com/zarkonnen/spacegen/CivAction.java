@@ -64,6 +64,7 @@ public enum CivAction {
 					for (SentientType st : other.fullMembers) {
 						if (!actor.fullMembers.contains(st)) {
 							actor.fullMembers.add(st);
+							actor.calculate_race_stats();
 						}
 					}
 					HashMap<Civ, Diplomacy.Outcome> newRels = new HashMap<Civ, Diplomacy.Outcome>();
@@ -185,6 +186,7 @@ public enum CivAction {
 							case GIVE_FULL_MEMBERSHIP:
 								if (!actor.fullMembers.contains(pop.type)) {
 									actor.fullMembers.add(pop.type);
+									actor.calculate_race_stats();
 									actor.updateName(sg.historicalCivNames);
 									rep.append(" They now call themselves the ").append(actor.name).append(".");
 								}
@@ -370,6 +372,7 @@ public enum CivAction {
 							rep.append(" are given full membership in the ").append(actor.name);
 							if (!actor.fullMembers.contains(nativeP.type)) {
 								actor.fullMembers.add(nativeP.type);
+								actor.calculate_race_stats();
 								updNeeded = true;
 							}
 							nativeP.addUpdateImgs();

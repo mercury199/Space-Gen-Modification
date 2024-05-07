@@ -1,0 +1,2334 @@
+SENTIENT SPECIES:
+Two-Headed Orange Robots: Purely mechanical lifeforms, artificially created. They have orange skin. They have two heads that tend to constantly bicker with one another. They have bilateral symmetry. They are gregarious and believe that each individual must serve the community. They were created by the Second Republic of Grey Antoids on Hylon III as servants in 441.
+	Their Stats are: STR: 1 DEX: -1 CON: 0 INT: 1 CHA: 0
+Grey Antoids: Small, industrious and well-organised, these creatures' greatest weakness is their ever-ballooning population. They have grey skin. They have bilateral symmetry. They are cowardly and unwilling to compromise. They first evolved on Hylon III in 206.
+	Their Stats are: STR: 1 DEX: 1 CON: 1 INT: 1 CHA: -1
+Scaly Black Robots: Purely mechanical lifeforms, artificially created. They have black scales. They have bilateral symmetry. They are humorless and have a deep need to conform. They were created by the Second Republic of Grey Antoids on Vim V as servants in 444.
+	Their Stats are: STR: -1 DEX: 2 CON: 2 INT: 1 CHA: 0
+
+CIVILISATIONS:
+THE THIRD CHURCH OF GREY ANTOIDS:
+An ancient, corrupt, fantastically wealthy, advanced Church of 3 planets, with 19 billion inhabitants.
+Major populations:
+16 billion Grey Antoids.
+3 billion enslaved Two-Headed Orange Robots.
+It is at war with the Second Republic of Grey Antoids.
+
+	Their Stats are: STR: -1 DEX: 1 CON: 1 INT: 0 CHA: 0
+THE SECOND REPUBLIC OF GREY ANTOIDS:
+A well-established, fantastically wealthy, advanced Republic of 10 planets, with 29 billion inhabitants.
+Major populations:
+24 billion Grey Antoids.
+5 billion enslaved Scaly Black Robots.
+It is at war with the Third Church of Grey Antoids.
+
+	Their Stats are: STR: -1 DEX: 1 CON: 1 INT: 0 CHA: 0
+PLANETS:
+VIM V
+A life-bearing planet of the Second Republic of Grey Antoids.
+It is somewhat polluted.
+It is populated by:
+6 billion Grey Antoids
+5 billion enslaved Scaly Black Robots
+A cluster of breeding pits, built by the Second Republic of Grey Antoids in 439
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+Strata:
+The ruins of a mining base, built by the Third Church of Grey Antoids in 382, destroyed in 437 through orbital bombardment by the Third Church of Grey Antoids.
+Remnants of a culture of Grey Antoids that collapsed from the effects of pollution in 381.
+Remnants of a culture of Grey Antoids that collapsed due to starvation in 373.
+A Planet Destroyer created by the Second Empire of Grey Antoids in 359, buried in 373.
+The ruins of a city of spires, built by the Third Church of Grey Antoids in 354, destroyed in 373 .
+The ruins of a orbital elevator, built by the Third Church of Grey Antoids in 329, destroyed in 373 .
+The ruins of a grand palace, built by the Third Church of Grey Antoids in 306, destroyed in 373 .
+Remnants of a culture of Grey Antoids that collapsed from the effects of pollution in 373.
+Remnants of a culture of Immortal Purple Robots that collapsed from mass hysteria in 372.
+Remnants of a culture of Immortal Grey Robots that collapsed from mass hysteria in 344.
+Remnants of a culture of Six-Legged Purple Robots that collapsed from mass hysteria in 322.
+The ruins of a science lab, built by the Fourth Empire of Amorphous Red Koboldoids in 124, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids.
+The ruins of a mining base, built by the Republic of Robots, Koboldoids and Catoids in 120, destroyed in 121 due to orbital bombardment by the Empire of Amorphous Red Koboldoids.
+
+BYKOV IV
+A life-bearing planet of the Second Republic of Grey Antoids.
+It is populated by:
+6 billion Grey Antoids
+A city of spires, built by the Third Church of Grey Antoids in 441
+A cluster of breeding pits, built by the Second Republic of Grey Antoids in 444
+Strata:
+The ruins of a mining base, built by the Third Church of Grey Antoids in 398, destroyed in 438 due to orbital bombardment by the Second Republic of Grey Antoids.
+
+KALAMIS IV
+A life-bearing planet of the Third Church of Grey Antoids.
+It is incredibly polluted.
+It is populated by:
+15 billion Grey Antoids
+A grand palace, built by the Third Church of Grey Antoids in 391
+A cluster of breeding pits, built by the Third Church of Grey Antoids in 400
+A complex of arcologies, built by the Third Church of Grey Antoids in 405
+A vast museum, built by the Third Church of Grey Antoids in 411
+A orbital elevator, built by the Third Church of Grey Antoids in 415
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+Strata:
+Remnants of a culture of Grey Antoids that collapsed from the effects of pollution in 389.
+Remnants of a culture of Grey Antoids that collapsed from the effects of pollution in 387.
+The ruins of a mining base, built by the Third Church of Grey Antoids in 378, destroyed in 385 due to orbital bombardment by the pirate Orange Antenna.
+Remnants of a culture of Grey Antoids that collapsed from the effects of pollution in 382.
+The ruins of a vast museum, built by the Third Church of Grey Antoids in 371, destroyed in 374 .
+The ruins of a orbital elevator, built by the Third Church of Grey Antoids in 349, destroyed in 374 .
+The ruins of a complex of arcologies, built by the Third Church of Grey Antoids in 331, destroyed in 374 .
+The ruins of a vast underground vault, built by the Third Church of Grey Antoids in 329, destroyed in 374 .
+The ruins of a cluster of breeding pits, built by the Third Church of Grey Antoids in 323, destroyed in 374 .
+Remnants of a culture of Six-Legged Robots with Long Tails that collapsed from mass hysteria in 344.
+The ruins of a vast museum, built by the Fourth Empire of Amorphous Red Koboldoids in 170, destroyed in 207 .
+The ruins of a vast underground vault, built by the Fourth Empire of Amorphous Red Koboldoids in 141, destroyed in 168 through orbital bombardment by the Fourth Church of Amorphous Red Koboldoids.
+Remnants of a culture of Purple Catoids that collapsed from mass hysteria in 143.
+
+CYNOR III
+A barren planet of the Second Republic of Grey Antoids.
+A military base, built by the Third Church of Grey Antoids in 312
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+
+HYLON V
+A barren planet of the Second Republic of Grey Antoids.
+A mining base, built by the Third Church of Grey Antoids in 375
+Ice Planet: Nearly the entire planet is covered in a thick sheet of ice.
+
+EEKUS IV
+A barren planet of the Second Republic of Grey Antoids.
+A mining base, built by the Second Republic of Grey Antoids in 443
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+Strata:
+The ruins of a mining base, built by the Third Church of Grey Antoids in 380, destroyed in 442 due to orbital bombardment by the Third Church of Grey Antoids.
+The ruins of a mining base, built by the Third Church of Grey Antoids in 313, destroyed in 364 during the collapse of the Second Empire of Grey Antoids.
+The ruins of a science lab, built by the Fourth Empire of Amorphous Red Koboldoids in 97, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids.
+
+AUTOROG I
+A barren planet of the Second Republic of Grey Antoids.
+A mining base, built by the Third Church of Grey Antoids in 372
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+Strata:
+The Tomb of Captain Krk'ukk, buried in 413.
+The ruins of a mining base, built by the Third Church of Grey Antoids in 310, destroyed in 364 during the collapse of the Second Empire of Grey Antoids.
+
+CUNIW VI
+A barren planet of the Second Republic of Grey Antoids.
+A military base, built by the Third Church of Grey Antoids in 372
+Periodical Darkness: Every thirteen years, the orbit of this planet synchronizes with that of a planet closer to its stars, causing a night that lasts for weeks.
+Strata:
+The ruins of a mining base, built by the Second Empire of Grey Antoids in 356, destroyed in 364 during the collapse of the Second Empire of Grey Antoids.
+The ruins of a science lab, built by the Third Church of Grey Antoids in 298, destroyed in 356 due to orbital bombardment by the Empire of Grey Antoids.
+The ruins of a science lab, built by the Fourth Empire of Amorphous Red Koboldoids in 125, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids.
+A Virtual Reality Matrix created by the rogue AI Experiment 424 in 117, buried in 124.
+
+CYLOT IV
+A barren planet of the Third Church of Grey Antoids.
+In orbit: The adventurer Captain Krk'hkt, a member of the Grey Antoids, serving the Second Republic of Grey Antoids, commanding a fleet of 39 ships.
+A science lab, built by the Third Church of Grey Antoids in 369
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Strata:
+A Universal Antidote created by the rogue AI Simulation 408 in 341, buried in 364.
+The ruins of a science lab, built by the Third Church of Grey Antoids in 314, destroyed in 364 during the collapse of the Second Empire of Grey Antoids.
+The ruins of a mining base, built by the Fourth Empire of Amorphous Red Koboldoids in 118, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids.
+
+JURVOX I
+A barren planet of the Second Republic of Grey Antoids.
+A science lab, built by the Second Republic of Grey Antoids in 440
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+Strata:
+The shattered wrecks of 2 spaceships of the fleet of Captain Krk'hkt, destroyed by a giant spaceborne black crystal.
+The ruins of a mining base, built by the Third Church of Grey Antoids in 366, destroyed in 438 due to orbital bombardment by the Third Church of Grey Antoids.
+The ruins of a mining base, built by the Third Church of Grey Antoids in 318, destroyed in 364 during the collapse of the Second Empire of Grey Antoids.
+
+HYLON III
+A life-bearing planet of the Third Church of Grey Antoids.
+It is somewhat polluted.
+It is populated by:
+1 billion Grey Antoids
+3 billion enslaved Two-Headed Orange Robots
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Strata:
+The ruins of a cluster of breeding pits, built by the Third Church of Grey Antoids in 444, destroyed in 444 through orbital bombardment by the Second Republic of Grey Antoids.
+The ruins of a cluster of breeding pits, built by the Second Republic of Grey Antoids in 440, destroyed in 443 during the invasion of the Third Church of Grey Antoids.
+The ruins of a military base, built by the Third Church of Grey Antoids in 375, destroyed in 439 through orbital bombardment by the Third Church of Grey Antoids.
+A block of time ice, encasing Krghl Walker, Autarch of the Third Church of Amorphous Red Koboldoids created by the rogue AI Mind 304 in 146, buried in 373.
+The ruins of a complex of arcologies, built by the Third Church of Grey Antoids in 367, destroyed in 373 .
+The ruins of a cluster of breeding pits, built by the Third Church of Grey Antoids in 365, destroyed in 373 .
+Remnants of a culture of Immortal Grey Robots that collapsed from the effects of pollution in 373.
+Remnants of a culture of Grey Antoids that collapsed from mass hysteria in 372.
+The ruins of a cluster of breeding pits, built by the Third Church of Grey Antoids in 309, destroyed in 354 through orbital bombardment by the Empire of Grey Antoids.
+Remnants of a culture of Grey Antoids that collapsed from mass hysteria in 344.
+Remnants of a culture of Six-Legged Purple Robots that collapsed from mass hysteria in 322.
+Remnants of a culture of Grey Antoids that collapsed from the effects of pollution in 321.
+Remnants of a culture of Grey Deep Dwellers that collapsed from the effects of pollution in 276.
+The Tomb of Captain Krull Smith, buried in 235.
+Remnants of a culture of Amorphous Red Koboldoids that collapsed from the effects of pollution in 174.
+Remnants of a culture of Amorphous Red Koboldoids that collapsed from the effects of pollution in 167.
+Remnants of a culture of Immortal Robots that collapsed from the effects of pollution in 160.
+
+JURVOX III
+A barren planet of the Second Republic of Grey Antoids.
+A military base, built by the Third Church of Grey Antoids in 392
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+Strata:
+The ruins of a mining base, built by the Third Church of Grey Antoids in 371, destroyed in 386 due to orbital bombardment by the pirate Orange Antenna.
+The ruins of a science lab, built by the Third Church of Grey Antoids in 297, destroyed in 364 during the collapse of the Second Empire of Grey Antoids.
+A Living Weapon created by the rogue AI System 11 in 103, lost in 241.
+
+CYNOX III
+A barren planet.
+Ice Planet: Nearly the entire planet is covered in a thick sheet of ice.
+Strata:
+The ruins of a mining base, built by the Third Church of Grey Antoids in 387, destroyed in 443 during the invasion of the Second Republic of Grey Antoids.
+The Tomb of Captain Tch'ukk, buried in 423.
+The ruins of a mining base, built by the Third Church of Grey Antoids in 368, destroyed in 386 due to orbital bombardment by the Second Church of Grey Antoids.
+The ruins of a science lab, built by the Third Church of Grey Antoids in 309, destroyed in 364 during the collapse of the Second Empire of Grey Antoids.
+
+XARLAN III
+A life-bearing planet of the Second Republic of Grey Antoids.
+It is heavily polluted.
+It is populated by:
+12 billion Grey Antoids
+A grand palace, built by the Second Republic of Grey Antoids in 444
+A hymn about statue of Mind Reader created by the Republic of Amorphous Red Koboldoids in 78 created by the Fourth Empire of Amorphous Red Koboldoids in 92 created by the Second Republic of Grey Antoids in 441
+A statue of Mind Reader created by the Republic of Amorphous Red Koboldoids in 78 created by the Fourth Empire of Amorphous Red Koboldoids in 92
+Periodical Darkness: Every thirteen years, the orbit of this planet synchronizes with that of a planet closer to its stars, causing a night that lasts for weeks.
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+The ruins of a military base, built by the Third Church of Grey Antoids in 384, destroyed in 440 during the invasion of the Second Republic of Grey Antoids.
+The ruins of a vast museum, built by the Third Church of Grey Antoids in 376, destroyed in 383 due to orbital bombardment by the pirate Orange Antenna.
+The ruins of a orbital elevator, built by the Third Church of Grey Antoids in 369, destroyed in 383 due to orbital bombardment by the pirate Orange Antenna.
+The ruins of a vast underground vault, built by the Third Church of Grey Antoids in 360, destroyed in 383 due to orbital bombardment by the pirate Orange Antenna.
+The ruins of a cluster of breeding pits, built by the Third Church of Grey Antoids in 350, destroyed in 383 due to orbital bombardment by the pirate Orange Antenna.
+Remnants of a culture of Grey Antoids that collapsed due to orbital bombardment by the pirate Orange Antenna in 383.
+Remnants of a culture of Feathered Robots that collapsed from mass hysteria in 372.
+Remnants of a culture of Immortal Grey Robots that collapsed from mass hysteria in 344.
+A painting of System 11 created by the Third Church of Grey Antoids in 304, buried in 323.
+The ruins of a cluster of breeding pits, built by the Third Church of Grey Antoids in 320, destroyed in 323 .
+The ruins of a grand palace, built by the Third Church of Grey Antoids in 315, destroyed in 323 .
+Remnants of a culture of Grey Antoids that collapsed from the effects of pollution in 323.
+Remnants of a culture of Four-Armed Green Robots that collapsed from mass hysteria in 322.
+A block of time ice, encasing Krghl Jones, Emperor of the Empire of Amorphous Red Koboldoids created by the rogue AI System 11 in 114, lost in 241.
+The ruins of a reforming vat, built by the Fourth Empire of Amorphous Red Koboldoids in 145, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids.
+The ruins of a vast museum, built by the Fourth Empire of Amorphous Red Koboldoids in 143, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids.
+The ruins of a orbital elevator, built by the Fourth Empire of Amorphous Red Koboldoids in 123, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids.
+The ruins of a grand palace, built by the Fourth Empire of Amorphous Red Koboldoids in 113, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids.
+Remnants of a culture of Amorphous Red Koboldoids that collapsed from the effects of pollution in 176.
+The ruins of a reforming vat, built by the Fourth Empire of Amorphous Red Koboldoids in 110, destroyed in 121 through orbital bombardment by the Republic of Robots, Koboldoids and Catoids.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Vim V, Bykov IV, Kalamis IV, Cynor III, Hylon V, Eekus IV, Autorog I, Cuniw VI, Cylot IV, Jurvox I, Hylon III, Jurvox III, Cynox III, Xarlan III
+10:
+Titanic mountains form on Eekus IV.
+19:
+Life arises on Hylon III
+27:
+Life arises on Xarlan III
+28:
+Hylon V becomes covered with ice.
+35:
+Sentient Amorphous Red Koboldoids arise on Xarlan III.
+55:
+Brain parasites evolve on Hylon III.
+61:
+Due to an accident of orbital mechanics, every 13 years, Cuniw VI is plunged into total darkness.
+63:
+Sentient Purple Catoids arise on Hylon III.
+72:
+The Amorphous Red Koboldoids on Xarlan III achieve spaceflight and organise as a Theocracy, the Church of Amorphous Red Koboldoids.
+
+Civ Name: Church of Amorphous Red Koboldoids 
+Civ Birth Year: 72 
+Civ Stats Str|Dex|Con|Int|Cha
+          3 | 1 | 0 | 3 | -3 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+73:
+WE ENTER THE FIRST AGE OF CIVILISATION
+The population of Amorphous Red Koboldoids on Xarlan III has grown by a billion.
+
+ Decomocratization Revival!Church of Amorphous Red Koboldoids previous decrepitude: 0 revival amount: 5
+
+Civ Name: Church of Amorphous Red Koboldoids 
+Civ Birth Year: 72 
+Civ Stats Str|Dex|Con|Int|Cha
+          3 | 1 | 0 | 3 | -3 | 
+Resources 0 Science 2 Military 3 WeapLevel 0 TechLevel 1 Decrepitude 0
+A popular movement overthrows the old guard of the Church of Amorphous Red Koboldoids and declares the Republic of Amorphous Red Koboldoids.
+75:
+The population of Amorphous Red Koboldoids on Xarlan III has grown by a billion.
+Overcrowding on Xarlan III leads to increased pollution.
+76:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Shape-shifters evolve on Hylon III.
+77:
+
+ Science Golden Age Revival!Republic of Amorphous Red Koboldoids previous decrepitude: 0 revival amount: 78
+
+Civ Name: Republic of Amorphous Red Koboldoids 
+Civ Birth Year: 72 
+Civ Stats Str|Dex|Con|Int|Cha
+          3 | 1 | 0 | 3 | -3 | 
+Resources 0 Science 17 Military 3 WeapLevel 0 TechLevel 2 Decrepitude 0
+The Republic of Amorphous Red Koboldoids enters a golden age of science! The Republic of Amorphous Red Koboldoids build a science lab on Jurvox III.
+78:
+The Republic of Amorphous Red Koboldoids develop a Mind Reader.
+79:
+The population of Amorphous Red Koboldoids on Xarlan III has grown by a billion.
+The Republic of Amorphous Red Koboldoids explore Hylon V. 
+The Republic of Amorphous Red Koboldoids develop powerful new weapons.
+80:
+The Republic of Amorphous Red Koboldoids explore Cynox III. 
+81:
+A giant spaceborne black crystal appears from the depths of space and menaces the skies of Hylon III.
+Overcrowding on Xarlan III leads to increased pollution.
+82:
+The Republic of Amorphous Red Koboldoids build a military base on Cynox III.
+84:
+The Republic of Amorphous Red Koboldoids create Six-Legged Purple Robots as servants on Xarlan III.
+85:
+Overcrowding on Xarlan III leads to increased pollution.
+86:
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Amorphous Red Koboldoids explore Cynox III. 
+87:
+The Amorphous Red Koboldoids on Xarlan III devour one billion of their own kind in a mad frenzy of cannibalism!
+The Amorphous Red Koboldoids erect a pile of skulls on Xarlan III!
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Amorphous Red Koboldoids build a military base on Cynor III.
+88:
+The population of Amorphous Red Koboldoids on Xarlan III has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Xarlan III leads to increased pollution.
+89:
+The population of Amorphous Red Koboldoids on Xarlan III has grown by a billion.
+Overcrowding on Xarlan III leads to increased pollution.
+
+ Science Golden Age Revival!Republic of Amorphous Red Koboldoids previous decrepitude: 14 revival amount: 103
+
+Civ Name: Republic of Amorphous Red Koboldoids 
+Civ Birth Year: 72 
+Civ Stats Str|Dex|Con|Int|Cha
+          3 | 1 | 0 | 3 | -3 | 
+Resources 2 Science 31 Military 3 WeapLevel 1 TechLevel 2 Decrepitude 14
+The Republic of Amorphous Red Koboldoids enters a golden age of science! The Republic of Amorphous Red Koboldoids build a science lab on Bykov IV.
+90:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+The population of Six-Legged Purple Robots on Xarlan III has grown by a billion.
+Overcrowding on Xarlan III leads to increased pollution.
+Jurvox III becomes tidally locked to its star.
+91:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Xarlan III leads to increased pollution.
+92:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Amorphous Red Koboldoids build a military base on Vim V.
+
+ Art Golden Age Revival!Republic of Amorphous Red Koboldoids previous decrepitude: 20 revival amount: 0
+
+Civ Name: Republic of Amorphous Red Koboldoids 
+Civ Birth Year: 72 
+Civ Stats Str|Dex|Con|Int|Cha
+          3 | 1 | 0 | 3 | -3 | 
+Resources 0 Science 19 Military 3 WeapLevel 1 TechLevel 2 Decrepitude 20
+Artists on Xarlan III create a statue of Mind Reader created by the Republic of Amorphous Red Koboldoids in 78. 
+93:
+Overcrowding on Xarlan III leads to increased pollution.
+94:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+The Amorphous Red Koboldoids on Xarlan III devour one billion of their own kind in a mad frenzy of cannibalism!
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+95:
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Xarlan III leads to increased pollution.
+96:
+Overcrowding on Xarlan III leads to increased pollution.
+97:
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Amorphous Red Koboldoids build a science lab on Eekus IV.
+The Republic of Amorphous Red Koboldoids develop powerful new weapons.
+98:
+The population of Six-Legged Purple Robots on Xarlan III has grown by a billion.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Amorphous Red Koboldoids explore Vim V. 
+99:
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Amorphous Red Koboldoids accidentally create the rogue AI System 11 on Jurvox III.
+The giant spaceborne black crystal leaves the orbit of Hylon III and heads back into deep space.
+100:
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Amorphous Red Koboldoids explore Eekus IV. 
+101:
+The population of Amorphous Red Koboldoids on Xarlan III has grown by a billion.
+The population of Six-Legged Purple Robots on Xarlan III has grown by a billion.
+Overcrowding on Xarlan III leads to increased pollution.
+Religious fanatics sieze power in the Republic of Amorphous Red Koboldoids and declare the Second Church of Amorphous Red Koboldoids.
+102:
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Amorphous Red Koboldoids explore Cynox III. 
+103:
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Amorphous Red Koboldoids explore Hylon V. 
+The rogue AI System 11 presents the inhabitants of Jurvox III with a gift: a Living Weapon.
+104:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Amorphous Red Koboldoids colonise Hylon III. Of the natives of that planet, the 2 billion Purple Catoids are enslaved. 
+105:
+The population of Amorphous Red Koboldoids on Xarlan III has grown by a billion.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Amorphous Red Koboldoids terraform and colonise Kalamis IV.
+106:
+Overcrowding on Xarlan III leads to increased pollution.
+107:
+The population of Amorphous Red Koboldoids on Hylon III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Amorphous Red Koboldoids build a mining base on Jurvox I.
+108:
+The population of Amorphous Red Koboldoids on Hylon III has grown by a billion.
+The population of Six-Legged Purple Robots on Xarlan III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Amorphous Red Koboldoids explore Eekus IV. 
+109:
+The population of Amorphous Red Koboldoids on Hylon III has grown by a billion.
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Overcrowding on Xarlan III leads to increased pollution.
+110:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Amorphous Red Koboldoids build a reforming vat on Xarlan III.
+111:
+The population of Amorphous Red Koboldoids on Hylon III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+A military putsch turns the Second Church of Amorphous Red Koboldoids into the Empire of Amorphous Red Koboldoids.
+112:
+The population of Purple Catoids on Hylon III has grown by a billion.
+The population of Amorphous Red Koboldoids on Hylon III has grown by a billion.
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+113:
+The population of Purple Catoids on Kalamis IV has grown by a billion.
+The population of Amorphous Red Koboldoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Amorphous Red Koboldoids build a grand palace on Xarlan III.
+The Empire of Amorphous Red Koboldoids build a military base on Autorog I.
+114:
+Pollution kills a billion Purple Catoids on Hylon III.
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+The population of Six-Legged Purple Robots on Xarlan III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+Degeneration occured in:  Empire of Amorphous Red Koboldoidscausing all stats to drop by 1
+The rogue AI System 11 encases Krghl Jones, Emperor of the Empire of Amorphous Red Koboldoids, in a block of time ice.
+115:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Amorphous Red Koboldoids build a military base on Hylon V.
+The rogue AI System 11 vanishes without a trace.
+116:
+Pollution kills a billion Purple Catoids on Hylon III.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Amorphous Red Koboldoids build a science lab on Cuniw VI.
+The Empire of Amorphous Red Koboldoids create Telepathic Robots as servants on Kalamis IV.
+The Empire of Amorphous Red Koboldoids accidentally create the rogue AI Experiment 424 on Cuniw VI.
+117:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Amorphous Red Koboldoids explore Cynor III. 
+
+Civ Name: Empire of Amorphous Red Koboldoids 
+Civ Birth Year: 72 
+Civ Stats Str|Dex|Con|Int|Cha
+          2 | 0 | -1 | 2 | -4 | 
+Resources 5 Science 11 Military 6 WeapLevel 2 TechLevel 2 Decrepitude 114
+The Republic of Robots, Koboldoids and Catoids secedes from the Empire of Amorphous Red Koboldoids, leading to a civil war!
+The Empire of Amorphous Red Koboldoids conquer Jurvox I, a colony of the Republic of Robots, Koboldoids and Catoids.
+The rogue AI Experiment 424 presents the inhabitants of Cuniw VI with a gift: a Virtual Reality Matrix.
+118:
+Pollution kills a billion Amorphous Red Koboldoids on Kalamis IV.
+Pollution kills a billion Purple Catoids on Kalamis IV.
+Pollution kills a billion Telepathic Robots on Kalamis IV.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Amorphous Red Koboldoids build a mining base on Cylot IV.
+The Mind Reader created by the Empire of Amorphous Red Koboldoids in 78 on Xarlan III has been stolen and hidden on Vim V.
+The Republic of Robots, Koboldoids and Catoids repel the Empire of Amorphous Red Koboldoids at Cynox III.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Empire of Amorphous Red Koboldoids repel the Republic of Robots, Koboldoids and Catoids at Autorog I.
+119:
+Pollution kills a billion Purple Catoids on Kalamis IV.
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Amorphous Red Koboldoids attack and raze Vim V, a colony of the Republic of Robots, Koboldoids and Catoids.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Republic of Robots, Koboldoids and Catoids explore Vim V. 
+Captain Meereww, space adventurer, blasts off from Kalamis IV.
+The Empire of Amorphous Red Koboldoids repel the Republic of Robots, Koboldoids and Catoids at Xarlan III.
+120:
+Pollution kills a billion Amorphous Red Koboldoids on Kalamis IV.
+Pollution kills a billion Purple Catoids on Hylon III.
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+The Amorphous Red Koboldoids on Xarlan III devour one billion of their own kind in a mad frenzy of cannibalism!
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Amorphous Red Koboldoids conquer Cynox III, a colony of the Republic of Robots, Koboldoids and Catoids.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Republic of Robots, Koboldoids and Catoids build a mining base on Vim V.
+The Republic of Robots, Koboldoids and Catoids conquer Hylon III, a colony of the Empire of Amorphous Red Koboldoids.
+Captain Meereww extorts money from Xarlan III, a planet of the enemy Empire of Amorphous Red Koboldoids.
+121:
+Pollution kills a billion Purple Catoids on Kalamis IV.
+Pollution kills a billion Telepathic Robots on Kalamis IV.
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Amorphous Red Koboldoids attack and raze Vim V, a colony of the Republic of Robots, Koboldoids and Catoids.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Robots, Koboldoids and Catoids attack Xarlan III, a colony of the Empire of Amorphous Red Koboldoids, and subject it to orbital bombardment, killing 8 billion.
+An expedition led by Captain Meereww explores Vim V. 
+Captain Meereww steals jewels from Jurvox I, a planet of the enemy Empire of Amorphous Red Koboldoids.
+122:
+Pollution kills a billion Purple Catoids on Kalamis IV.
+Pollution kills a billion Purple Catoids on Hylon III.
+Pollution kills a billion Amorphous Red Koboldoids on Hylon III.
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+The Empire of Amorphous Red Koboldoids explore Cuniw VI. 
+The Empire of Amorphous Red Koboldoids conquer Kalamis IV, a colony of the Republic of Robots, Koboldoids and Catoids.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Robots, Koboldoids and Catoids send a delegation to Jurvox III. They sign a peace accord with the Empire of Amorphous Red Koboldoids, ending their war. 
+An expedition led by Captain Meereww explores Cuniw VI. 
+Captain Meereww manages to confuse the rogue AI Experiment 424 with a clever logic puzzle, distracting it long enough to shut it down.
+123:
+Pollution kills a billion Telepathic Robots on Kalamis IV.
+Pollution kills a billion Purple Catoids on Hylon III.
+Purple Catoids have died out on Hylon III!
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Empire of Amorphous Red Koboldoids build a orbital elevator on Xarlan III.
+The Empire of Amorphous Red Koboldoids explore Jurvox III. 
+Overcrowding on Hylon III leads to increased pollution.
+An expedition led by Captain Meereww explores Cylot IV. 
+An expedition led by Captain Meereww explores Cynor III. 
+124:
+Pollution kills a billion Amorphous Red Koboldoids on Hylon III.
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+The Empire of Amorphous Red Koboldoids explore Eekus IV. 
+The Empire of Amorphous Red Koboldoids build a science lab on Vim V.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Robots, Koboldoids and Catoids send a delegation to Hylon V. They declare war on the Empire of Amorphous Red Koboldoids! 
+The Republic of Robots, Koboldoids and Catoids attack and raze Cuniw VI, a colony of the Empire of Amorphous Red Koboldoids.
+Captain Meereww extorts money from Jurvox III, a planet of the enemy Empire of Amorphous Red Koboldoids.
+125:
+Pollution kills a billion Amorphous Red Koboldoids on Kalamis IV.
+Pollution kills a billion Amorphous Red Koboldoids on Hylon III.
+The Empire of Amorphous Red Koboldoids build a science lab on Cuniw VI.
+The Empire of Amorphous Red Koboldoids attack Hylon III, a colony of the Republic of Robots, Koboldoids and Catoids, and subject it to orbital bombardment, killing 2 billion.
+The Republic of Robots, Koboldoids and Catoids conquer Jurvox I, a colony of the Empire of Amorphous Red Koboldoids.
+Captain Meereww intercepts a convoy near Eekus IV, a planet of the enemy Empire of Amorphous Red Koboldoids.
+126:
+Pollution kills a billion Amorphous Red Koboldoids on Hylon III.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Empire of Amorphous Red Koboldoids explore Jurvox III. 
+The Empire of Amorphous Red Koboldoids conquer Hylon III, a colony of the Republic of Robots, Koboldoids and Catoids, killing 1 billion in the process.
+The Republic of Robots, Koboldoids and Catoids collapses.
+The space adventurer Captain Meereww dies and is buried on Hylon III.
+127:
+Pollution kills a billion Amorphous Red Koboldoids on Hylon III.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Empire of Amorphous Red Koboldoids build a complex of arcologies on Xarlan III.
+128:
+The Empire of Amorphous Red Koboldoids build a mining base on Jurvox I.
+129:
+Pollution kills a billion Amorphous Red Koboldoids on Hylon III.
+Overcrowding on Kalamis IV leads to increased pollution.
+The statue of Mind Reader created by the Republic of Amorphous Red Koboldoids in 78 created by the Empire of Amorphous Red Koboldoids in 92 on Xarlan III has been stolen and hidden on Xarlan III.
+130:
+The Empire of Amorphous Red Koboldoids explore Cynox III. 
+The Empire of Amorphous Red Koboldoids create Slim Robots as servants on Hylon III.
+132:
+Overcrowding on Hylon III leads to increased pollution.
+The Empire of Amorphous Red Koboldoids explore Jurvox I. They discover: The ruins of a mining base, built by the Empire of Amorphous Red Koboldoids in 107, destroyed in 126 during the collapse of the Republic of Robots, Koboldoids and Catoids. 
+133:
+Overcrowding on Kalamis IV leads to increased pollution.
+The Empire of Amorphous Red Koboldoids explore Eekus IV. 
+134:
+Pollution kills a billion Amorphous Red Koboldoids on Hylon III.
+Amorphous Red Koboldoids have died out on Hylon III!
+Overcrowding on Kalamis IV leads to increased pollution.
+The Empire of Amorphous Red Koboldoids explore Jurvox III. 
+135:
+Overcrowding on Kalamis IV leads to increased pollution.
+The Empire of Amorphous Red Koboldoids explore Hylon III. Shape-shifters impersonate the crew of the expedition. Upon their return to Hylon V they merge into the population.
+141:
+The Empire of Amorphous Red Koboldoids build a vast underground vault on Kalamis IV.
+Religious fanatics sieze power in the Empire of Amorphous Red Koboldoids and declare the Third Church of Amorphous Red Koboldoids.
+142:
+The Third Church of Amorphous Red Koboldoids explore Hylon V. 
+The Third Church of Amorphous Red Koboldoids explore Bykov IV. 
+143:
+The Third Church of Amorphous Red Koboldoids build a vast museum on Xarlan III.
+Mass hysteria breaks out in the Third Church of Amorphous Red Koboldoids, killing billions.
+144:
+The Third Church of Amorphous Red Koboldoids build a vast underground vault on Hylon III.
+The Third Church of Amorphous Red Koboldoids accidentally create the rogue AI Mind 304 on Vim V.
+145:
+The Third Church of Amorphous Red Koboldoids build a reforming vat on Xarlan III.
+The block of time ice, encasing Krghl Jones, Emperor of the Empire of Amorphous Red Koboldoids created by the rogue AI System 11 in 114 on Jurvox III has been stolen and hidden on Vim V.
+146:
+The Third Church of Amorphous Red Koboldoids explore Jurvox III. 
+The rogue AI Mind 304 encases Krghl Walker, Autarch of the Third Church of Amorphous Red Koboldoids, in a block of time ice.
+148:
+
+Civ Name: Republic of Slim Robots 
+Civ Birth Year: 148 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | 3 | 4 | 4 | 1 | 
+Resources 3 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Hylon III revolt, killing their oppressors and declaring the Free Republic of Slim Robots.
+The Third Church of Amorphous Red Koboldoids attack and raze Hylon III, a colony of the Republic of Slim Robots.
+149:
+The Third Church of Amorphous Red Koboldoids build a skull pit on Kalamis IV.
+The Third Church of Amorphous Red Koboldoids create Immortal Robots as servants on Kalamis IV.
+The Republic of Slim Robots collapses.
+151:
+The Third Church of Amorphous Red Koboldoids explore Cylot IV. 
+The Third Church of Amorphous Red Koboldoids build a mining base on Hylon III.
+152:
+Overcrowding on Kalamis IV leads to increased pollution.
+The Third Church of Amorphous Red Koboldoids explore Hylon V. 
+The Third Church of Amorphous Red Koboldoids build a vast museum on Kalamis IV.
+153:
+The Third Church of Amorphous Red Koboldoids colonise Hylon III. 
+154:
+The Third Church of Amorphous Red Koboldoids build a complex of arcologies on Kalamis IV.
+156:
+The Third Church of Amorphous Red Koboldoids explore Autorog I. 
+A military putsch turns the Third Church of Amorphous Red Koboldoids into the Second Empire of Amorphous Red Koboldoids.
+158:
+The Second Empire of Amorphous Red Koboldoids explore Jurvox I. 
+Sentient Tiny Humanoids arise on Hylon III.
+159:
+The Second Empire of Amorphous Red Koboldoids build a orbital elevator on Kalamis IV.
+An industrial accident on Hylon III causes deadly levels of pollution.
+160:
+A giant spaceborne orange cube appears from the depths of space and menaces the skies of Hylon V.
+Pollution kills a billion Immortal Robots on Hylon III.
+Immortal Robots have died out on Hylon III!
+161:
+Pollution kills a billion Tiny Humanoids on Hylon III.
+Brain parasites evolve on Xarlan III.
+162:
+The rogue AI Mind 304 vanishes without a trace.
+163:
+The skull pit on Kalamis IV excites the local Amorphous Red Koboldoids into a sexual frenzy.
+164:
+Religious fanatics sieze power in the Second Empire of Amorphous Red Koboldoids and declare the Fourth Church of Amorphous Red Koboldoids.
+165:
+Pollution kills a billion Tiny Humanoids on Hylon III.
+Tiny Humanoids have died out on Hylon III!
+166:
+The Fourth Church of Amorphous Red Koboldoids colonise Hylon III. 
+The Fourth Church of Amorphous Red Koboldoids explore Bykov IV. 
+167:
+Pollution kills a billion Amorphous Red Koboldoids on Hylon III.
+Amorphous Red Koboldoids have died out on Hylon III!
+The Fourth Church of Amorphous Red Koboldoids colonise Hylon III. 
+168:
+
+Civ Name: Republic of Immortal Robots 
+Civ Birth Year: 168 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | 2 | -2 | -1 | 4 | 
+Resources 5 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Kalamis IV revolt, killing their oppressors and declaring the Free Republic of Immortal Robots.
+The Fourth Church of Amorphous Red Koboldoids attack Kalamis IV, a colony of the Republic of Immortal Robots, and subject it to orbital bombardment, killing 1 billion.
+169:
+Pollution kills a billion Immortal Robots on Kalamis IV.
+The Fourth Church of Amorphous Red Koboldoids conquer Kalamis IV, a colony of the Republic of Immortal Robots.
+The Republic of Immortal Robots collapses.
+170:
+The Fourth Church of Amorphous Red Koboldoids build a vast museum on Kalamis IV.
+172:
+The Fourth Church of Amorphous Red Koboldoids build a reforming vat on Kalamis IV.
+173:
+The Fourth Church of Amorphous Red Koboldoids enters a dark age. Decrepitude set to 0,  was 371
+174:
+Pollution kills a billion Amorphous Red Koboldoids on Hylon III.
+Amorphous Red Koboldoids have died out on Hylon III!
+A market crash impoverishes the Fourth Church of Amorphous Red Koboldoids.
+175:
+Degeneration occured in:  Fourth Church of Amorphous Red Koboldoidscausing all stats to drop by 1
+176:
+Pollution kills a billion Amorphous Red Koboldoids on Xarlan III.
+Amorphous Red Koboldoids have died out on Xarlan III!
+178:
+The Fourth Church of Amorphous Red Koboldoids explore Xarlan III. They discover: Remnants of a culture of Amorphous Red Koboldoids that collapsed from the effects of pollution in 176. 
+Vast grazing herds evolve on Xarlan III.
+179:
+The Fourth Church of Amorphous Red Koboldoids build a vast underground vault on Kalamis IV.
+180:
+The Fourth Church of Amorphous Red Koboldoids explore Kalamis IV. 
+A military putsch turns the Fourth Church of Amorphous Red Koboldoids into the Third Empire of Amorphous Red Koboldoids.
+184:
+Religious fanatics sieze power in the Third Empire of Amorphous Red Koboldoids and declare the Fifth Church of Amorphous Red Koboldoids.
+185:
+The Fifth Church of Amorphous Red Koboldoids explore Eekus IV. 
+The Fifth Church of Amorphous Red Koboldoids enters a dark age. Decrepitude set to 0,  was 464
+188:
+The Fifth Church of Amorphous Red Koboldoids explore Xarlan III. They recover: A statue of Mind Reader created by the Republic of Amorphous Red Koboldoids in 78 created by the Fifth Church of Amorphous Red Koboldoids in 92, hidden in 129. 
+193:
+A military putsch turns the Fifth Church of Amorphous Red Koboldoids into the Fourth Empire of Amorphous Red Koboldoids.
+194:
+The giant spaceborne orange cube leaves the orbit of Hylon V and heads back into deep space.
+195:
+
+ Science Golden Age Revival!Fourth Empire of Amorphous Red Koboldoids previous decrepitude: 527 revival amount: 436
+
+Civ Name: Fourth Empire of Amorphous Red Koboldoids 
+Civ Birth Year: 72 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | -1 | -2 | 1 | -5 | 
+Resources 120 Science 238 Military 66 WeapLevel 2 TechLevel 1 Decrepitude 527
+The Fourth Empire of Amorphous Red Koboldoids enters a golden age of science! 
+196:
+The Fourth Empire of Amorphous Red Koboldoids explore Vim V. They recover: A block of time ice, encasing Krghl Jones, Emperor of the Empire of Amorphous Red Koboldoids created by the rogue AI System 11 in 114, hidden in 145. 
+200:
+The Fourth Empire of Amorphous Red Koboldoids explore Hylon V. 
+204:
+The Fourth Empire of Amorphous Red Koboldoids explore Eekus IV. 
+205:
+The Fourth Empire of Amorphous Red Koboldoids explore Eekus IV. 
+206:
+The Fourth Empire of Amorphous Red Koboldoids explore Autorog I. 
+An industrial accident on Kalamis IV causes deadly levels of pollution.
+Sentient Grey Antoids arise on Hylon III.
+207:
+Pollution kills a billion Immortal Robots on Kalamis IV.
+Immortal Robots have died out on Kalamis IV!
+The Fourth Empire of Amorphous Red Koboldoids explore Hylon V. 
+209:
+The Fourth Empire of Amorphous Red Koboldoids build a mining base on Kalamis IV.
+The block of time ice, encasing Krghl Walker, Autarch of the Third Church of Amorphous Red Koboldoids created by the rogue AI Mind 304 in 146 on Vim V has been stolen and hidden on Hylon V.
+212:
+Pollution kills a billion Grey Antoids on Hylon III.
+214:
+The Fourth Empire of Amorphous Red Koboldoids explore Cynox III. 
+216:
+Cynox III becomes covered with ice.
+221:
+The Fourth Empire of Amorphous Red Koboldoids explore Jurvox I. 
+222:
+The Fourth Empire of Amorphous Red Koboldoids explore Cynox III. 
+224:
+The Fourth Empire of Amorphous Red Koboldoids explore Eekus IV. 
+225:
+Captain Krull Smith, space adventurer, blasts off from Hylon III.
+226:
+The Fourth Empire of Amorphous Red Koboldoids explore Hylon V. They recover: A block of time ice, encasing Krghl Walker, Autarch of the Third Church of Amorphous Red Koboldoids created by the rogue AI Mind 304 in 146, hidden in 209. 
+235:
+The space adventurer Captain Krull Smith dies and is buried on Hylon III.
+237:
+The Fourth Empire of Amorphous Red Koboldoids explore Hylon III. 
+241:
+The Fourth Empire of Amorphous Red Koboldoids explore Hylon V. 
+The Fourth Empire of Amorphous Red Koboldoids enters a dark age. Decrepitude set to 0,  was 817
+The Fourth Empire of Amorphous Red Koboldoids collapses.
+
+Civ Name: Fourth Empire of Amorphous Red Koboldoids 
+Civ Birth Year: 72 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | -1 | -2 | 1 | -5 | 
+Resources 339 Science 293 Military 142 WeapLevel 2 TechLevel 0 Decrepitude 0
+242:
+WE ENTER THE SECOND AGE OF DARKNESS
+Living islands evolve on Hylon III.
+244:
+The population of Grey Antoids on Hylon III has grown by a billion.
+251:
+The population of Grey Antoids on Hylon III has grown by a billion.
+254:
+The population of Grey Antoids on Hylon III has grown by a billion.
+255:
+The population of Grey Antoids on Hylon III has grown by a billion.
+256:
+The population of Grey Antoids on Hylon III has grown by a billion.
+258:
+The population of Grey Antoids on Hylon III has grown by a billion.
+259:
+The population of Grey Antoids on Hylon III has grown by a billion.
+261:
+The population of Grey Antoids on Hylon III has grown by a billion.
+265:
+The population of Grey Antoids on Hylon III has grown by a billion.
+267:
+The population of Grey Antoids on Hylon III has grown by a billion.
+268:
+The population of Grey Antoids on Hylon III has grown by a billion.
+270:
+Sentient Grey Deep Dwellers arise on Hylon III.
+273:
+The population of Grey Antoids on Hylon III has grown by a billion.
+275:
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Deep Dwellers on Hylon III.
+276:
+Pollution kills a billion Grey Deep Dwellers on Hylon III.
+Grey Deep Dwellers have died out on Hylon III!
+277:
+Pollution kills a billion Grey Antoids on Hylon III.
+278:
+The population of Grey Antoids on Hylon III has grown by a billion.
+280:
+Pollution kills a billion Grey Antoids on Hylon III.
+281:
+Pollution kills a billion Grey Antoids on Hylon III.
+283:
+The population of Grey Antoids on Hylon III has grown by a billion.
+285:
+Pollution kills a billion Grey Antoids on Hylon III.
+287:
+The population of Grey Antoids on Hylon III has grown by a billion.
+290:
+The population of Grey Antoids on Hylon III has grown by a billion.
+291:
+The population of Grey Antoids on Hylon III has grown by a billion.
+292:
+A nanofungal bloom consumes all other life on Kalamis IV before itself dying from a lack of nutrients!
+293:
+A giant spaceborne purple cube appears from the depths of space and menaces the skies of Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+The giant spaceborne purple cube leaves the orbit of Kalamis IV and heads back into deep space.
+The Grey Antoids on Hylon III achieve spaceflight and organise as a Republic, the Republic of Grey Antoids.
+
+Civ Name: Republic of Grey Antoids 
+Civ Birth Year: 293 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 3 | 3 | 2 | 0 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+294:
+WE ENTER THE SECOND AGE OF CIVILISATION
+The population of Grey Antoids on Hylon III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+295:
+The population of Grey Antoids on Hylon III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Grey Antoids explore Cynox III. 
+296:
+Pollution kills a billion Grey Antoids on Hylon III.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Grey Antoids explore Jurvox III. They recover: A block of time ice, encasing Krghl Walker, Autarch of the Third Church of Amorphous Red Koboldoids created by the rogue AI Mind 304 in 146, lost in 241. 
+297:
+The population of Grey Antoids on Hylon III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Grey Antoids explore Cuniw VI. 
+
+ Science Golden Age Revival!Republic of Grey Antoids previous decrepitude: 0 revival amount: 50
+
+Civ Name: Republic of Grey Antoids 
+Civ Birth Year: 293 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 3 | 3 | 2 | 0 | 
+Resources 4 Science 15 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Republic of Grey Antoids enters a golden age of science! The Republic of Grey Antoids build a science lab on Jurvox III.
+298:
+Pollution kills a billion Grey Antoids on Hylon III.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Grey Antoids build a science lab on Cuniw VI.
+The Republic of Grey Antoids develop powerful new weapons.
+Shape-shifters evolve on Xarlan III.
+299:
+Pollution kills a billion Grey Antoids on Hylon III.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Grey Antoids attempting to upgrade their stats of value :4 current score is: -2
+The difficulty is: 24 They rolled: 19on: 4d2+9
+TechLevel: 2 Science: 9
+300:
+Pollution kills a billion Grey Antoids on Hylon III.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Grey Antoids explore Cynor III. They discover: The ruins of a military base, built by the Fourth Empire of Amorphous Red Koboldoids in 87, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids. 
+The Republic of Grey Antoids terraform and colonise Kalamis IV.
+301:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Grey Antoids explore Autorog I. 
+302:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Grey Antoids colonise Xarlan III. Of the natives of that planet, the 1 billion Six-Legged Purple Robots are given full membership in the Republic of Grey Antoids.  They now call themselves the Republic of Antoids and Robots.
+303:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Republic of Antoids and Robots explore Jurvox III. 
+The Republic of Antoids and Robots experiences a population boom! 
+304:
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots terraform and colonise Vim V.
+
+ Art Golden Age Revival!Republic of Antoids and Robots previous decrepitude: 6 revival amount: 16
+
+Civ Name: Republic of Antoids and Robots 
+Civ Birth Year: 293 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 3 | 3 | 2 | 3 | 
+Resources 0 Science 5 Military 10 WeapLevel 1 TechLevel 2 Decrepitude 6
+Artists on Xarlan III create a painting of System 11. 
+305:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+306:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots build a grand palace on Vim V.
+307:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Six-Legged Purple Robots on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+308:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots create Immortal Grey Robots as servants on Hylon III.
+309:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots build a cluster of breeding pits on Hylon III.
+The Republic of Antoids and Robots build a science lab on Cynox III.
+310:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots build a mining base on Autorog I.
+The Republic of Antoids and Robots experiences a population boom! 
+311:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Six-Legged Purple Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+312:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+Pollution kills a billion Six-Legged Purple Robots on Hylon III.
+The population of Six-Legged Purple Robots on Xarlan III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots build a mining base on Hylon V.
+The Republic of Antoids and Robots build a military base on Cynor III.
+313:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Six-Legged Purple Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots build a mining base on Eekus IV.
+314:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Six-Legged Purple Robots on Hylon III has grown by a billion.
+The population of Six-Legged Purple Robots on Xarlan III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots build a science lab on Cylot IV.
+The Republic of Antoids and Robots attempting to upgrade their stats of value :3 current score is: 1
+The difficulty is: 63 They rolled: 11on: 5d3+1
+TechLevel: 3 Science: 1
+Deposits of huge gems form on Vim V.
+315:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Six-Legged Purple Robots on Hylon III has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots build a grand palace on Xarlan III.
+The Republic of Antoids and Robots build a cluster of breeding pits on Vim V.
+Captain Tkkra, space adventurer, blasts off from Cynor III.
+316:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Six-Legged Purple Robots on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Six-Legged Purple Robots on Hylon III has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots explore Cynox III. 
+The Republic of Antoids and Robots build a science lab on Bykov IV.
+317:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Six-Legged Purple Robots on Kalamis IV.
+Six-Legged Purple Robots have died out on Kalamis IV!
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Hylon III.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+An expedition led by Captain Tkkra explores Jurvox I. 
+318:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Six-Legged Purple Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots build a mining base on Jurvox I.
+319:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Six-Legged Purple Robots on Hylon III has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots explore Cuniw VI. They discover: The ruins of a science lab, built by the Fourth Empire of Amorphous Red Koboldoids in 125, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids. 
+Due to an accident of orbital mechanics, every 13 years, Xarlan III is plunged into total darkness.
+320:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Six-Legged Purple Robots on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Six-Legged Purple Robots on Hylon III has grown by a billion.
+Pollution kills a billion Six-Legged Purple Robots on Xarlan III.
+Six-Legged Purple Robots have died out on Xarlan III!
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Republic of Antoids and Robots build a cluster of breeding pits on Xarlan III.
+The Republic of Antoids and Robots create Four-Armed Green Robots as servants on Xarlan III.
+321:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+Grey Antoids have died out on Hylon III!
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The population of Four-Armed Green Robots on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+322:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Six-Legged Purple Robots on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Six-Legged Purple Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Pollution kills a billion Four-Armed Green Robots on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+Mass hysteria breaks out in the Republic of Antoids and Robots, killing billions.
+323:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Grey Antoids have died out on Xarlan III!
+The Republic of Antoids and Robots build a cluster of breeding pits on Kalamis IV.
+324:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The Republic of Antoids and Robots colonise Xarlan III. 
+
+Civ Name: Republic of Immortal Grey Robots 
+Civ Birth Year: 324 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 1 | 2 | 1 | 2 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Hylon III revolt, killing their oppressors and declaring the Free Republic of Immortal Grey Robots.
+The Republic of Antoids and Robots conquer Hylon III, a colony of the Republic of Immortal Grey Robots.
+The space adventurer Captain Tkkra dies and is buried on Vim V.
+325:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Republic of Immortal Grey Robots collapses.
+326:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Captain Tch'ukk, space adventurer, blasts off from Cylot IV.
+327:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+328:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The population of Immortal Grey Robots on Xarlan III has grown by a billion.
+The Republic of Antoids and Robots launch a space probe called P'neer to explore the galaxy.
+329:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+The population of Immortal Grey Robots on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Antoids and Robots build a vast underground vault on Kalamis IV.
+The Republic of Antoids and Robots build a orbital elevator on Vim V.
+330:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+331:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+The Republic of Antoids and Robots build a complex of arcologies on Kalamis IV.
+332:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+A military putsch turns the Republic of Antoids and Robots into the Empire of Grey Antoids.
+333:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The population of Immortal Grey Robots on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids build a vast underground vault on Vim V.
+334:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids explore Jurvox III. 
+335:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids explore Hylon III. 
+336:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The space adventurer Captain Tch'ukk dies and is buried on Cuniw VI.
+337:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids explore Cuniw VI. They loot the Tomb of Captain Tch'ukk. 
+The Empire of Grey Antoids accidentally create the rogue AI Simulation 408 on Hylon V.
+338:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids explore Cuniw VI. They discover: The ruins of a science lab, built by the Fourth Empire of Amorphous Red Koboldoids in 125, destroyed in 241 during the collapse of the Fourth Empire of Amorphous Red Koboldoids. 
+339:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+340:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Immortal Grey Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Pollution kills a billion Immortal Grey Robots on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids create Six-Legged Robots with Long Tails as servants on Kalamis IV.
+341:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Immortal Grey Robots on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Six-Legged Robots with Long Tails on Kalamis IV.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The rogue AI Simulation 408 presents the inhabitants of Cylot IV with a gift: a Universal Antidote.
+342:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Immortal Grey Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Six-Legged Robots with Long Tails on Kalamis IV.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+Beautiful aurorae play across the skies of Cynor III.
+343:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Immortal Grey Robots on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Six-Legged Robots with Long Tails on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+344:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Immortal Grey Robots on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Six-Legged Robots with Long Tails on Kalamis IV.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+Mass hysteria breaks out in the Empire of Grey Antoids, killing billions.
+345:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Empire of Grey Antoids explore Hylon V. 
+The space probe P'neer returns to Hylon III.
+The Empire of Grey Antoids gains a wealth of new knowledge as a result.
+346:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+347:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+A famine breaks out on Xarlan III, killing 2 billion.
+348:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+349:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+The Empire of Grey Antoids build a orbital elevator on Kalamis IV.
+350:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Empire of Grey Antoids build a cluster of breeding pits on Xarlan III.
+The Empire of Grey Antoids explore Vim V. They discover: Remnants of a culture of Immortal Grey Robots that collapsed from mass hysteria in 344. They loot the Tomb of Captain Tkkra. 
+351:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+The Empire of Grey Antoids explore Kalamis IV. 
+352:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids explore Jurvox III. 
+353:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+354:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids build a city of spires on Vim V.
+
+Civ Name: Second Republic of Immortal Grey Robots 
+Civ Birth Year: 354 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -2 | -1 | 0 | 2 | 
+Resources 17 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Hylon III revolt, killing their oppressors and declaring the Free Second Republic of Immortal Grey Robots.
+The Empire of Grey Antoids attack Hylon III, a colony of the Second Republic of Immortal Grey Robots, and subject it to orbital bombardment, killing 4 billion.
+The rogue AI Simulation 408 vanishes without a trace.
+355:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+
+Civ Name: Empire of Grey Antoids 
+Civ Birth Year: 293 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 3 | 3 | 2 | 3 | 
+Resources 237 Science 185 Military 46 WeapLevel 1 TechLevel 6 Decrepitude 134
+The Second Empire of Grey Antoids secedes from the Empire of Grey Antoids, leading to a civil war!
+The Empire of Grey Antoids conquer Hylon III, a colony of the Second Republic of Immortal Grey Robots, killing 1 billion in the process.
+The Second Republic of Immortal Grey Robots collapses.
+356:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids attack and raze Cuniw VI, a colony of the Second Empire of Grey Antoids.
+Overcrowding on Vim V leads to increased pollution.
+The Second Empire of Grey Antoids build a mining base on Cuniw VI.
+The Second Empire of Grey Antoids conquer Cynox III, a colony of the Empire of Grey Antoids.
+357:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids explore Cynor III. They recover: A statue of Mind Reader created by the Republic of Amorphous Red Koboldoids in 78 created by the Fourth Empire of Amorphous Red Koboldoids in 92, lost in 241. 
+The Empire of Grey Antoids conquer Cynox III, a colony of the Second Empire of Grey Antoids.
+Overcrowding on Vim V leads to increased pollution.
+The Second Empire of Grey Antoids create Immortal Purple Robots as servants on Vim V.
+The Second Empire of Grey Antoids conquer Cynox III, a colony of the Empire of Grey Antoids.
+358:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Immortal Purple Robots on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids send a delegation to Cuniw VI. They sign a peace accord with the Second Empire of Grey Antoids, ending their war. 
+Overcrowding on Vim V leads to increased pollution.
+359:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Immortal Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The deadly Blue Pox, which affects Grey Antoids, arises on Kalamis IV.
+Overcrowding on Vim V leads to increased pollution.
+The Second Empire of Grey Antoids develop a Planet Destroyer.
+360:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Immortal Purple Robots on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Blue Pox on Kalamis IV is cured by the universal antidote.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids build a vast underground vault on Xarlan III.
+The Empire of Grey Antoids create Feathered Robots as servants on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+361:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Immortal Purple Robots on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Pollution kills a billion Feathered Robots on Xarlan III.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+A famine breaks out on Xarlan III, killing 6 billion.
+Overcrowding on Vim V leads to increased pollution.
+The Second Empire of Grey Antoids attempting to upgrade their stats of value :1 current score is: -1
+The difficulty is: 35 They rolled: 33on: 9d7+2
+TechLevel: 7 Science: 2
+362:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Immortal Purple Robots on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The population of Feathered Robots on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+Overcrowding on Vim V leads to increased pollution.
+363:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Immortal Purple Robots on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The population of Feathered Robots on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids explore Cylot IV. 
+Overcrowding on Vim V leads to increased pollution.
+The Second Empire of Grey Antoids send a delegation to Bykov IV. They declare war on the Empire of Grey Antoids! 
+The Second Empire of Grey Antoids experiences a population boom! 
+The Second Empire of Grey Antoids conquer Cylot IV, a colony of the Empire of Grey Antoids.
+The Second Empire of Grey Antoids gain control of the Universal Antidote on Cylot IV.
+364:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Immortal Purple Robots on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The population of Feathered Robots on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids conquer Vim V, a colony of the Second Empire of Grey Antoids, killing 6 billion in the process.
+The Empire of Grey Antoids gain control of the Planet Destroyer on Vim V.
+The Second Empire of Grey Antoids collapses.
+365:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Immortal Purple Robots on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+The population of Feathered Robots on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids build a cluster of breeding pits on Hylon III.
+366:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Immortal Purple Robots on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The population of Feathered Robots on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids build a mining base on Jurvox I.
+367:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Immortal Purple Robots on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The population of Feathered Robots on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids build a complex of arcologies on Hylon III.
+368:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Immortal Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+The population of Feathered Robots on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids build a mining base on Cynox III.
+The deadly White Plague, which affects Grey Antoids, arises on Hylon III.
+369:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Immortal Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Pollution kills a billion Feathered Robots on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Empire of Grey Antoids build a orbital elevator on Xarlan III.
+The Empire of Grey Antoids build a science lab on Cylot IV.
+Religious fanatics sieze power in the Empire of Grey Antoids and declare the Church of Grey Antoids.
+370:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Immortal Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+The population of Feathered Robots on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+Degeneration occured in:  Church of Grey Antoidscausing all stats to drop by 1
+371:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Immortal Purple Robots on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Pollution kills a billion Feathered Robots on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Church of Grey Antoids build a mining base on Jurvox III.
+The Church of Grey Antoids build a vast museum on Kalamis IV.
+372:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Immortal Purple Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Immortal Grey Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+The population of Feathered Robots on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Church of Grey Antoids build a mining base on Autorog I.
+The Church of Grey Antoids build a military base on Cuniw VI.
+Mass hysteria breaks out in the Church of Grey Antoids, killing billions.
+373:
+Pollution kills a billion Grey Antoids on Vim V.
+Grey Antoids have died out on Vim V!
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Immortal Grey Robots on Hylon III.
+Immortal Grey Robots have died out on Hylon III!
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Church of Grey Antoids explore Jurvox I. They discover: The ruins of a mining base, built by the Church of Grey Antoids in 318, destroyed in 364 during the collapse of the Second Empire of Grey Antoids. 
+The Church of Grey Antoids colonise Vim V. 
+A famine breaks out on Vim V, killing 1 billion, wiping out all sentient life.
+374:
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Grey Antoids have died out on Kalamis IV!
+Pollution kills a billion Grey Antoids on Xarlan III.
+375:
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Church of Grey Antoids build a mining base on Hylon V.
+The Church of Grey Antoids build a military base on Hylon III.
+376:
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Church of Grey Antoids colonise Hylon III. 
+The Church of Grey Antoids build a vast museum on Xarlan III.
+377:
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Church of Grey Antoids explore Hylon III. Shape-shifters impersonate the crew of the expedition. Upon their return to Bykov IV they merge into the population.
+Vast canyons are carved on Autorog I.
+378:
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+The Church of Grey Antoids build a mining base on Kalamis IV.
+379:
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Church of Grey Antoids explore Hylon V. 
+The pirate Orange Antenna establishes herself on Cylot IV.
+The pirate Orange Antenna receives tribute from Xarlan III of the Church of Grey Antoids.
+380:
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Church of Grey Antoids colonise Vim V. 
+The Church of Grey Antoids build a mining base on Eekus IV.
+Religious fanatics sieze power in the Church of Grey Antoids and declare the Second Church of Grey Antoids.
+The pirate Orange Antenna receives tribute from Hylon V of the Second Church of Grey Antoids.
+381:
+Pollution kills a billion Grey Antoids on Vim V.
+Grey Antoids have died out on Vim V!
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Second Church of Grey Antoids colonise Kalamis IV. 
+The pirate Orange Antenna receives tribute from Jurvox III of the Second Church of Grey Antoids.
+Beautiful aurorae play across the skies of Kalamis IV.
+382:
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Grey Antoids have died out on Kalamis IV!
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Grey Antoids build a mining base on Vim V.
+A famine breaks out on Xarlan III, killing 3 billion.
+The pirate Orange Antenna receives tribute from Kalamis IV of the Second Church of Grey Antoids.
+383:
+Pollution kills a billion Grey Antoids on Xarlan III.
+The Second Church of Grey Antoids colonise Vim V. 
+The pirate Orange Antenna subjects Xarlan III to orbital bombardment.
+384:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The Second Church of Grey Antoids explore Jurvox III. They discover: The ruins of a science lab, built by the Second Church of Grey Antoids in 297, destroyed in 364 during the collapse of the Second Empire of Grey Antoids. 
+The Second Church of Grey Antoids build a military base on Xarlan III.
+The pirate Orange Antenna receives tribute from Hylon V of the Second Church of Grey Antoids.
+385:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The Second Church of Grey Antoids colonise Xarlan III. 
+A market crash impoverishes the Second Church of Grey Antoids.
+The pirate Orange Antenna subjects Kalamis IV to orbital bombardment.
+386:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Second Church of Grey Antoids colonise Kalamis IV. 
+The Second Church of Grey Antoids explore Xarlan III. The expedition encounters brain parasites. Upon their return to Cynox III, the parasites take over the brains of the planet's inhabitants, creating the Empire of Parasites.
+The Second Church of Grey Antoids enters a dark age. Decrepitude set to 0,  was 315
+The Second Church of Grey Antoids attack and raze Cynox III, a colony of the Empire of Parasites.
+The pirate Orange Antenna subjects Jurvox III to orbital bombardment.
+387:
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Grey Antoids have died out on Kalamis IV!
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Second Church of Grey Antoids build a mining base on Cynox III.
+The Second Church of Grey Antoids explore Hylon V. 
+The Empire of Parasites collapses.
+The pirate Orange Antenna receives tribute from Vim V of the Second Church of Grey Antoids.
+388:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The Second Church of Grey Antoids colonise Kalamis IV. 
+The pirate Orange Antenna subjects Bykov IV to orbital bombardment.
+389:
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Grey Antoids have died out on Kalamis IV!
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+The Second Church of Grey Antoids explore Jurvox III. 
+The Second Church of Grey Antoids colonise Kalamis IV. 
+The pirate Orange Antenna receives tribute from Cylot IV of the Second Church of Grey Antoids.
+390:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The pirate Orange Antenna dies and is buried on Jurvox III.
+391:
+The population of Grey Antoids on Hylon III has grown by a billion.
+The Second Church of Grey Antoids build a grand palace on Kalamis IV.
+392:
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Grey Antoids build a military base on Jurvox III.
+393:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+394:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Grey Antoids explore Cylot IV. 
+The Second Church of Grey Antoids explore Bykov IV. 
+395:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+396:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Church of Grey Antoids explore Cuniw VI. 
+Religious fanatics sieze power in the Second Church of Grey Antoids and declare the Third Church of Grey Antoids.
+397:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids explore Cuniw VI. They discover: The ruins of a mining base, built by the Second Empire of Grey Antoids in 356, destroyed in 364 during the collapse of the Second Empire of Grey Antoids. They discover: The ruins of a science lab, built by the Third Church of Grey Antoids in 298, destroyed in 356 due to orbital bombardment by the Empire of Grey Antoids. 
+398:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids build a mining base on Bykov IV.
+A famine breaks out on Kalamis IV, killing 5 billion.
+399:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids explore Cynox III. 
+400:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids build a cluster of breeding pits on Kalamis IV.
+401:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids explore Vim V. 
+The pirate Grey Antenna establishes herself on Cuniw VI.
+The Third Church of Grey Antoids defeats the pirate Grey Antenna.
+402:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids explore Jurvox III. They discover: The ruins of a mining base, built by the Third Church of Grey Antoids in 371, destroyed in 386 due to orbital bombardment by the pirate Orange Antenna. 
+403:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+Captain Krk'ukk, space adventurer, blasts off from Autorog I.
+404:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+405:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids build a complex of arcologies on Kalamis IV.
+The Third Church of Grey Antoids experiences a population boom! 
+406:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+407:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+408:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+409:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+410:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+411:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids build a vast museum on Kalamis IV.
+412:
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids explore Vim V. They discover: The ruins of a city of spires, built by the Third Church of Grey Antoids in 354, destroyed in 373 . They discover: Remnants of a culture of Six-Legged Purple Robots that collapsed from mass hysteria in 322. 
+The Third Church of Grey Antoids enters a dark age. Decrepitude set to 0,  was 452
+413:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+Captain Tch'ukk, space adventurer, blasts off from Cynor III.
+The space adventurer Captain Krk'ukk dies and is buried on Autorog I.
+414:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+415:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids build a orbital elevator on Kalamis IV.
+416:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+417:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids experiences a population boom! 
+Deep impenetrable seas form on Jurvox I.
+418:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+419:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+420:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+421:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+422:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+423:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The space adventurer Captain Tch'ukk dies and is buried on Cynox III.
+424:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+425:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+426:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+427:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+428:
+Pollution kills a billion Grey Antoids on Vim V.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+429:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+430:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+431:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+A famine breaks out on Xarlan III, killing 6 billion.
+432:
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+433:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+434:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids explore Cuniw VI. 
+435:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+436:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids explore Hylon III. Shape-shifters impersonate the crew of the expedition. Upon their return to Cynox III they merge into the population.
+
+Civ Name: Third Church of Grey Antoids 
+Civ Birth Year: 293 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 2 | 2 | 1 | 2 | 
+Resources 590 Science 315 Military 42 WeapLevel 1 TechLevel 4 Decrepitude 589
+The Second Republic of Grey Antoids secedes from the Third Church of Grey Antoids, leading to a civil war!
+The Third Church of Grey Antoids conquer Cynor III, a colony of the Second Republic of Grey Antoids.
+437:
+Pollution kills a billion Grey Antoids on Vim V.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids attempting to upgrade their stats of value :4 current score is: 0
+The difficulty is: 48 They rolled: 24on: 6d5+2
+TechLevel: 5 Science: 2
+The Third Church of Grey Antoids attack Vim V, a colony of the Second Republic of Grey Antoids, and subject it to orbital bombardment, killing 11 billion.
+Overcrowding on Hylon III leads to increased pollution.
+The Second Republic of Grey Antoids explore Jurvox III. They loot the Tomb of the Pirate Orange Antenna. 
+The Second Republic of Grey Antoids conquer Cylot IV, a colony of the Third Church of Grey Antoids.
+438:
+The population of Grey Antoids on Vim V has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids attack and raze Jurvox I, a colony of the Second Republic of Grey Antoids.
+Overcrowding on Hylon III leads to increased pollution.
+The Second Republic of Grey Antoids attack and raze Bykov IV, a colony of the Third Church of Grey Antoids.
+439:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids build a mining base on Jurvox I.
+The Third Church of Grey Antoids experiences a population boom! 
+The Third Church of Grey Antoids attack Hylon III, a colony of the Second Republic of Grey Antoids, and subject it to orbital bombardment, killing 9 billion.
+The Second Republic of Grey Antoids build a cluster of breeding pits on Vim V.
+The Second Republic of Grey Antoids terraform and colonise Bykov IV.
+Captain Krk'hkt, space adventurer, blasts off from Jurvox III.
+The Second Republic of Grey Antoids conquer Jurvox I, a colony of the Third Church of Grey Antoids.
+The Second Republic of Grey Antoids send Captain Krk'hkt on a mission of peace to the Third Church of Grey Antoids.
+Unfortunately, the peace mission fails. Captain Krk'hkt hastily retreats to Hylon III.
+The Second Republic of Grey Antoids send Captain Krk'hkt on a mission to steal the statue on Cynor III.
+Captain Krk'hkt successfully acquires the statue and delivers it to Hylon III.
+The wind plays across rock formations on Cylot IV, producing an eerie music.
+440:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Bykov IV has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Third Church of Grey Antoids conquer Bykov IV, a colony of the Second Republic of Grey Antoids.
+The Second Republic of Grey Antoids build a cluster of breeding pits on Hylon III.
+The Second Republic of Grey Antoids build a science lab on Jurvox I.
+The Second Republic of Grey Antoids conquer Xarlan III, a colony of the Third Church of Grey Antoids, killing 3 billion in the process.
+441:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+The population of Grey Antoids on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Third Church of Grey Antoids build a city of spires on Bykov IV.
+The Third Church of Grey Antoids attack Vim V, a colony of the Second Republic of Grey Antoids, and subject it to orbital bombardment, killing 2 billion.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Republic of Grey Antoids create Two-Headed Orange Robots as servants on Hylon III.
+
+ Art Golden Age Revival!Second Republic of Grey Antoids previous decrepitude: -8 revival amount: 5
+
+Civ Name: Second Republic of Grey Antoids 
+Civ Birth Year: 436 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 2 | 2 | 1 | -1 | 
+Resources 355 Science 1 Military 18 WeapLevel 1 TechLevel 4 Decrepitude -8
+Artists on Xarlan III create a hymn about statue of Mind Reader created by the Republic of Amorphous Red Koboldoids in 78 created by the Fourth Empire of Amorphous Red Koboldoids in 92. 
+The Second Republic of Grey Antoids conquer Bykov IV, a colony of the Third Church of Grey Antoids.
+442:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Kalamis IV has grown by a billion.
+A giant spaceborne black crystal appears from the depths of space and menaces the skies of Jurvox I.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Two-Headed Orange Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Third Church of Grey Antoids attack and raze Eekus IV, a colony of the Second Republic of Grey Antoids.
+Overcrowding on Hylon III leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Republic of Grey Antoids conquer Cynor III, a colony of the Third Church of Grey Antoids.
+Captain Krk'hkt is sent on a mission to defeat the giant spaceborne black crystal at Jurvox I.
+The giant spaceborne black crystal attacks the fleet of Captain Krk'hkt near Jurvox I destroying 2 ships.
+Captain Krk'hkt is sent on a mission to defeat the giant spaceborne black crystal at Jurvox I.
+Captain Krk'hkt defeats the giant spaceborne black crystal in orbit around Jurvox I.
+The Second Republic of Grey Antoids rewards the adventurer handsomely.
+443:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Bykov IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+The population of Grey Antoids on Hylon III has grown by a billion.
+The population of Two-Headed Orange Robots on Hylon III has grown by a billion.
+Pollution kills a billion Grey Antoids on Xarlan III.
+Overcrowding on Kalamis IV leads to increased pollution.
+The Third Church of Grey Antoids conquer Hylon III, a colony of the Second Republic of Grey Antoids, killing 3 billion in the process.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Republic of Grey Antoids explore Jurvox I. 
+The Second Republic of Grey Antoids build a mining base on Eekus IV.
+The Second Republic of Grey Antoids conquer Cynox III, a colony of the Third Church of Grey Antoids.
+The Second Republic of Grey Antoids send Captain Krk'hkt on a mission to steal the statue on Hylon III.
+Captain Krk'hkt successfully acquires the statue and delivers it to Xarlan III.
+444:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Grey Antoids on Bykov IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.
+Pollution kills a billion Grey Antoids on Hylon III.
+The population of Two-Headed Orange Robots on Hylon III has grown by a billion.
+The population of Grey Antoids on Xarlan III has grown by a billion.
+Overcrowding on Kalamis IV leads to increased pollution.
+Overcrowding on Hylon III leads to increased pollution.
+The Third Church of Grey Antoids build a cluster of breeding pits on Hylon III.
+The Third Church of Grey Antoids conquer Cylot IV, a colony of the Second Republic of Grey Antoids.
+Overcrowding on Vim V leads to increased pollution.
+Overcrowding on Xarlan III leads to increased pollution.
+The Second Republic of Grey Antoids build a grand palace on Xarlan III.
+The Second Republic of Grey Antoids build a cluster of breeding pits on Bykov IV.
+The Second Republic of Grey Antoids create Scaly Black Robots as servants on Vim V.
+The Second Republic of Grey Antoids attack Hylon III, a colony of the Third Church of Grey Antoids, and subject it to orbital bombardment, killing 4 billion.
+Captain Krk'hkt steals jewels from Cylot IV, a planet of the enemy Third Church of Grey Antoids.
+445:
+The population of Grey Antoids on Vim V has grown by a billion.
+The population of Scaly Black Robots on Vim V has grown by a billion.
+The population of Grey Antoids on Bykov IV has grown by a billion.
+Pollution kills a billion Grey Antoids on Kalamis IV.

@@ -1,0 +1,148 @@
+SENTIENT SPECIES:
+Six-Legged Dwarfoids: Fond of drink and industry - especially building strange contraptions. They have six legs. They have bilateral symmetry. They are cautious and deeply religious. They first evolved on Freia I in 49.
+	Their Stats are: STR: -2 DEX: 1 CON: -2 INT: 0 CHA: -1
+Scaly Trolloids: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have bilateral symmetry. They are cowardly and have a deep need to conform. They first evolved on Taranis VI in 44.
+	Their Stats are: STR: -1 DEX: -1 CON: 0 INT: -1 CHA: 2
+Red Ursoids: Always at war with someone, or everyone, or one another. They have red skin. They have bilateral symmetry. They are thrill-seeking and deeply rationalist. They first evolved on Chroma VI in 28.
+	Their Stats are: STR: -1 DEX: 1 CON: -1 INT: -1 CHA: -1
+
+CIVILISATIONS:
+THE EMPIRE OF RED URSOIDS:
+A young, impoverished, primitive Empire of 2 planets, with 2 billion inhabitants.
+Major populations:
+2 billion Red Ursoids.
+
+	Their Stats are: STR: -3 DEX: 2 CON: 0 INT: -2 CHA: -1
+PLANETS:
+WOTAN II
+A life-bearing planet.
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+
+CHROMA VI
+A barren planet.
+
+CHROMA V
+A life-bearing planet.
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+
+FOKEV I
+A barren planet.
+
+FREIA I
+A life-bearing planet.
+It is populated by:
+2 billion Six-Legged Dwarfoids
+
+EUNIW III
+A barren planet.
+
+URBON I
+A barren planet.
+
+FYNOW III
+A life-bearing planet.
+
+ORRA II
+A barren planet.
+
+MERA V
+A barren planet.
+
+KALAMIS VI
+A barren planet of the Empire of Red Ursoids.
+A military base, built by the Empire of Red Ursoids in 56
+
+CHROMA VI
+A life-bearing planet of the Empire of Red Ursoids.
+It is populated by:
+2 billion Red Ursoids
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+
+CIKAP I
+A life-bearing planet.
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+
+DENUR III
+A life-bearing planet.
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+
+TARANIS VI
+A life-bearing planet.
+It is populated by:
+2 billion Scaly Trolloids
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+
+AUMIV V
+A barren planet.
+
+AOMEP II
+A barren planet.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Wotan II, Chroma VI, Chroma V, Fokev I, Freia I, Euniw III, Urbon I, Fynow III, Orra II, Mera V, Kalamis VI, Chroma VI, Cikap I, Denur III, Taranis VI, Aumiv V, Aomep II
+13:
+Life arises on Wotan II
+17:
+Gas bags evolve on Wotan II.
+Life arises on Chroma VI
+22:
+Life arises on Freia I
+28:
+Sentient Red Ursoids arise on Chroma VI.
+34:
+Life arises on Cikap I
+Life arises on Denur III
+38:
+Life arises on Taranis VI
+41:
+Life arises on Chroma V
+43:
+Gas bags evolve on Denur III.
+44:
+Sentient Scaly Trolloids arise on Taranis VI.
+47:
+The Red Ursoids on Chroma VI achieve spaceflight and organise as a Republic, the Republic of Red Ursoids.
+
+Civ Name: Republic of Red Ursoids 
+Civ Birth Year: 47 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | -4 | -2 | -3 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+48:
+WE ENTER THE FIRST AGE OF CIVILISATION
+49:
+Pollution kills a billion Red Ursoids on Chroma VI.
+The Republic of Red Ursoids explore Kalamis VI. 
+Sentient Six-Legged Dwarfoids arise on Freia I.
+A gigantic network of caves forms on Taranis VI.
+52:
+Pollution kills a billion Red Ursoids on Chroma VI.
+The Republic of Red Ursoids collapses, leaving only a few survivors on Chroma VI.
+The Red Ursoids on Chroma VI achieve spaceflight and organise as a Military Dictatorship, the Empire of Red Ursoids.
+
+Civ Name: Empire of Red Ursoids 
+Civ Birth Year: 52 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | 3 | -1 | -3 | -2 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+54:
+The Empire of Red Ursoids explore Chroma VI. 
+The Empire of Red Ursoids explore Kalamis VI. 
+55:
+The Empire of Red Ursoids explore Chroma VI. 
+56:
+The Empire of Red Ursoids build a military base on Kalamis VI.
+Brain parasites evolve on Chroma V.
+Brain parasites evolve on Cikap I.
+57:
+The Empire of Red Ursoids explore Chroma VI. 
+Life arises on Fynow III

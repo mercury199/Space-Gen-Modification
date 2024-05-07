@@ -16,13 +16,12 @@ Copyright 2012 David Stark
 
 package com.zarkonnen.spacegen;
 
-import java.io.OutputStreamWriter;
-import java.io.FileOutputStream;
+import static java.awt.event.KeyEvent.*;
 import java.io.BufferedWriter;
-import java.io.FileWriter;
+import java.io.FileOutputStream;
+import java.io.OutputStreamWriter;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
-import static java.awt.event.KeyEvent.*;
 
 public class GameControls {
 	GameDisplay d;
@@ -61,10 +60,12 @@ public class GameControls {
 		if (input.keyDown(VK_S) && w.cooldown == 0) {
 			JFileChooser jfc = new JFileChooser();
 			input.keys[VK_S] = false;
+			System.out.println("TEST HERE SSACVE");
 			w.cooldown = 6;
 			if (jfc.showSaveDialog(Main.frame) == JFileChooser.APPROVE_OPTION) {
 				try {
 					BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(jfc.getSelectedFile()), "UTF-8"));
+					System.out.println(jfc.getSelectedFile());
 					bw.write(w.sg.describe());
 					bw.write("\nHISTORY:\n");
 					for (String s : w.sg.log) {
@@ -73,9 +74,33 @@ public class GameControls {
 					}
 					bw.close();
 				} catch (Exception e) {
-					JOptionPane.showMessageDialog(null, "Error: " + e.getMessage());
+					System.out.println("Error: " + e.getMessage());
+					JOptionPane.showMessageDialog(null, "Error: " + e.getMessage());	
 				}
 			}
+		}
+
+		if (input.keyDown(VK_V) && w.cooldown == 0) {
+			JFileChooser jfc = new JFileChooser();
+			input.keys[VK_V] = false;
+			System.out.println("TEST HERE SSACVE");
+			w.cooldown = 6;
+			try {
+					String file_n = "/Users/alexanderbisant/Documents/GitHub/Space-Gen-Modification/Records/Value_" + System.currentTimeMillis()+".txt";
+					BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file_n), "UTF-8"));
+					bw.write(w.sg.describe());
+					bw.write("\nHISTORY:\n");
+					for (String s : w.sg.log) {
+						bw.write(s);
+						bw.write("\n");
+					}
+					bw.close();
+					System.out.println("Successs! " + file_n);
+				} catch (Exception e) {
+					System.out.println("Error: " + e.getMessage());
+					JOptionPane.showMessageDialog(null, "Error: " + e.getMessage());	
+				}
+			
 		}
 	}
 }

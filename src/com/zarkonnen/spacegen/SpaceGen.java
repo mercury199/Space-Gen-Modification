@@ -99,7 +99,7 @@ public class SpaceGen {
 		animate(delay(10));
 		l("IN THE BEGINNING, ALL WAS DARK.");
 		l("THEN, PLANETS BEGAN TO FORM:");
-		int np = 6 + d(7, 4); // numbers planets here
+		int np = 11 + d(7, 4); // numbers planets here
 		StringBuilder sb = new StringBuilder();
 		for (int i = 0; i < np; i++) {
 			Planet p = new Planet(r, this);
@@ -137,11 +137,13 @@ public class SpaceGen {
 		yearAnnounced = false;
 		if (!hadCivs && !civs.isEmpty()) {
 			l("WE ENTER THE " + Names.nth(age).toUpperCase() + " AGE OF CIVILISATION");
+			System.out.println("WE ENTER THE " + Names.nth(age).toUpperCase() + " AGE OF CIVILISATION");
 			confirm();
 		}
 		if (hadCivs && civs.isEmpty()) {
 			age++;
 			l("WE ENTER THE " + Names.nth(age).toUpperCase() + " AGE OF DARKNESS");
+			System.out.println("WE ENTER THE " + Names.nth(age).toUpperCase() + " AGE OF Darkness");
 			confirm();
 		}
 		hadCivs = !civs.isEmpty();
@@ -177,6 +179,7 @@ public class SpaceGen {
 					modifier = planet.getOwner().getConstitution();
 				int roll = d(6) + modifier;
 				if (roll < planet.getPollution()) {
+					System.out.println("Pollution amount " + planet.getPollution());
 					l("Pollution kills a billion $sname on $pname.", pop.type, planet);
 					planet.setPollution(planet.getPollution() - 1);
 					if (pop.getSize() == 1) {
@@ -214,7 +217,11 @@ public class SpaceGen {
 
 				for (Plague plague : new ArrayList<Plague>(planet.plagues)) {
 					if (plague.affects.contains(pop.type)) {
-						if (d(12) + planet.getOwner().getConstitution() < plague.lethality) {
+						int con_mod=0;
+						if(planet.getOwner()!=null){
+							con_mod = planet.getOwner().getConstitution();
+						}
+						if (d(12) + con_mod < plague.lethality) {
 							if (pop.getSize() <= 1) {
 								planet.dePop(pop, year, null, "from the " + plague.name, new Plague(plague));
 								l("The $sname on $pname have been wiped out by the " + plague.name + "!", pop.type,
@@ -233,7 +240,11 @@ public class SpaceGen {
 			}
 
 			for (Plague plague : new ArrayList<Plague>(planet.plagues)) {
-				if (d(12) + planet.getOwner().getIntelligence() < plague.curability) {
+				int int_mod = 0;
+				if (planet.getOwner() != null){			
+					int_mod = planet.getOwner().getIntelligence();
+				}	
+				if (d(12) + int_mod < plague.curability) {
 					planet.removePlague(plague);
 					l(plague.name + " has been eradicated on $name.", planet);
 				} else {
@@ -264,6 +275,7 @@ public class SpaceGen {
 					}
 				}
 			}
+			
 		}
 
 		// TICK CIVS
@@ -274,6 +286,15 @@ public class SpaceGen {
 			}
 			int newRes = 0;
 			int newSci = 1;
+			if(c.getIntelligence()>0){
+				int ccval = d(6)+c.getIntelligence();
+				if(ccval>=5){
+					newSci++;
+					if(ccval>=10){
+						newSci+=2;
+					}
+				}
+			}
 			for (Planet col : new ArrayList<Planet>(c.getColonies())) {
 				if (c.has(ArtefactType.Device.UNIVERSAL_ANTIDOTE)) {
 					for (Plague p : col.plagues) {
@@ -486,7 +507,9 @@ public class SpaceGen {
 					}
 				}
 			}
-			p.evoPoints += d(6) * d(6) * d(6) * d(6) * d(6) * 3 * (6 - p.getPollution());
+			//int evo_orig = p.evoPoints;
+			p.evoPoints += (d(6)+1) * d(6) * d(6) * d(6) * d(6) * 3 * (6 - p.getPollution());
+			//System.out.println("Evo Points Gained: " + (p.evoPoints - evo_orig));
 			if (p.evoPoints > p.evoNeeded && p(12) && p.getPollution() < 2) {
 				p.evoPoints = 0;
 				if (!p.habitable) {

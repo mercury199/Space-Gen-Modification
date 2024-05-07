@@ -1,0 +1,115 @@
+SENTIENT SPECIES:
+Amorphous Dwarfoids with Threefold Symmetry: Fond of drink and industry - especially building strange contraptions. They have trilateral symmetry and are able to greatly alter their shape. They are modest and always willing to listen. They developed from Amorphous Dwarfoids in 91.
+	Their Stats are: STR: -3 DEX: -1 CON: -1 INT: 2 CHA: 0
+Two-Headed Robots: Purely mechanical lifeforms, artificially created. They have two heads that tend to constantly bicker with one another. They have bilateral symmetry. They are peaceful and always willing to listen. They were created by the Kingdom of Amorphous Dwarfoids with Threefold Symmetry on Cokev I as servants in 97.
+	Their Stats are: STR: -2 DEX: 0 CON: 1 INT: -1 CHA: -1
+
+CIVILISATIONS:
+THE KINGDOM OF AMORPHOUS DWARFOIDS WITH THREEFOLD SYMMETRY:
+A well-established, primitive Kingdom of a single planet, Cokev I, with 5 billion inhabitants.
+Major populations:
+2 billion Amorphous Dwarfoids with Threefold Symmetry.
+3 billion enslaved Two-Headed Robots.
+
+	Their Stats are: STR: 0 DEX: 0 CON: 0 INT: 0 CHA: 0
+PLANETS:
+HELMETTEPOL VI
+A barren planet.
+
+GOMES V
+A barren planet.
+
+AOMES II
+A life-bearing planet.
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+
+LUMEN III
+A barren planet.
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+
+EENUQ III
+A barren planet.
+
+EREBUS V
+A barren planet.
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+
+BINAU VI
+A barren planet.
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+
+COKEV I
+A life-bearing planet of the Kingdom of Amorphous Dwarfoids with Threefold Symmetry.
+It is populated by:
+2 billion Amorphous Dwarfoids with Threefold Symmetry
+3 billion enslaved Two-Headed Robots
+
+SATIVEX V
+A barren planet.
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+
+BOKEV IV
+A barren planet.
+
+KRANTOR I
+A barren planet.
+
+REGOR I
+A barren planet.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Helmettepol VI, Gomes V, Aomes II, Lumen III, Eenuq III, Erebus V, Binau VI, Cokev I, Sativex V, Bokev IV, Krantor I, Regor I
+17:
+Life arises on Cokev I
+A gigantic network of caves forms on Sativex V.
+28:
+Life arises on Aomes II
+33:
+Lumen III becomes tidally locked to its star.
+44:
+Gas bags evolve on Aomes II.
+57:
+Sentient Amorphous Dwarfoids arise on Cokev I.
+81:
+Vast grazing herds evolve on Aomes II.
+88:
+Binau VI becomes tidally locked to its star.
+89:
+Pharmaceuticals evolve on Aomes II.
+91:
+The Amorphous Dwarfoids on Cokev I mutate into Amorphous Dwarfoids with Threefold Symmetry.
+93:
+The Amorphous Dwarfoids with Threefold Symmetry on Cokev I achieve spaceflight and organise as a Feudal State, the Kingdom of Amorphous Dwarfoids with Threefold Symmetry.
+
+Civ Name: Kingdom of Amorphous Dwarfoids with Threefold Symmetry 
+Civ Birth Year: 93 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -1 | -1 | 2 | 0 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+94:
+WE ENTER THE FIRST AGE OF CIVILISATION
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry explore Cokev I. 
+96:
+Deposits of huge gems form on Erebus V.
+97:
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry create Two-Headed Robots as servants on Cokev I.
+98:
+Overcrowding on Cokev I leads to increased pollution.
+99:
+Pollution kills a billion Two-Headed Robots on Cokev I.
+100:
+Overcrowding on Cokev I leads to increased pollution.
+101:
+Pollution kills a billion Amorphous Dwarfoids with Threefold Symmetry on Cokev I.
+102:
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry explore Cokev I. 
+103:
+Overcrowding on Cokev I leads to increased pollution.
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry explore Cokev I. 

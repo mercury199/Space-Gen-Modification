@@ -1,0 +1,57 @@
+PLANETS:
+HYLON IV
+A barren planet.
+
+COKEP IV
+A barren planet.
+
+BULIQ IV
+A barren planet.
+
+EREBUS I
+A barren planet.
+
+MERA I
+A life-bearing planet.
+
+HELMETTEPOL I
+A life-bearing planet.
+
+LUMEN III
+A barren planet.
+
+TABERNAK I
+A barren planet.
+
+BAL VI
+A barren planet.
+
+EOKEP I
+A life-bearing planet.
+
+BULIX II
+A barren planet.
+
+MERA I
+A barren planet.
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+
+FIKAP I
+A life-bearing planet.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Hylon IV, Cokep IV, Buliq IV, Erebus I, Mera I, Helmettepol I, Lumen III, Tabernak I, Bal VI, Eokep I, Bulix II, Mera I, Fikap I
+4:
+Titanic mountains form on Mera I.
+9:
+Life arises on Eokep I
+13:
+Life arises on Fikap I
+19:
+Life arises on Mera I
+20:
+Life arises on Helmettepol I

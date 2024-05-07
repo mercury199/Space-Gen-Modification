@@ -1,0 +1,1067 @@
+SENTIENT SPECIES:
+Telepathic Dwarfoids: Fond of drink and industry - especially building strange contraptions. They have bilateral symmetry. They can read each others' minds. They are hyperactive and unwilling to compromise. They first evolved on Metatron II in 76.
+	Their Stats are: STR: -1 DEX: -1 CON: 1 INT: 1 CHA: -1
+Six-Legged Robots: Purely mechanical lifeforms, artificially created. They have six legs. They have bilateral symmetry. They are thrill-seeking and value personal integrity above all else. They were created by the Empire of Telepathic Dwarfoids on Jurvox IV as servants in 149.
+	Their Stats are: STR: 1 DEX: -2 CON: 1 INT: -1 CHA: 2
+Two-Headed Humanoids: Pretty adventurous but otherwise fairly average. They have two heads that tend to constantly bicker with one another. They have bilateral symmetry. They are modest and believe that each individual must serve the community. They first evolved on Orra IV in 136.
+	Their Stats are: STR: 0 DEX: -1 CON: -1 INT: 1 CHA: -1
+Giant Koboldoids: Eat pretty much anything, including one another. Disturbingly fond of skulls. They have bilateral symmetry. They are thrill-seeking and deeply rationalist. They were uplifted by the Empire of Telepathic Dwarfoids on Jurvox IV in 144.
+	Their Stats are: STR: 1 DEX: 0 CON: -1 INT: 0 CHA: 0
+
+CIVILISATIONS:
+THE EMPIRE OF TELEPATHIC DWARFOIDS:
+An ancient, corrupt, fantastically wealthy Empire of 13 planets, with 78 billion inhabitants.
+Major populations:
+49 billion Telepathic Dwarfoids.
+11 billion enslaved Six-Legged Robots.
+8 billion enslaved Two-Headed Humanoids.
+10 billion enslaved Giant Koboldoids.
+
+	Their Stats are: STR: -3 DEX: -1 CON: 0 INT: 1 CHA: 0
+PLANETS:
+CILAQ IV
+A life-bearing planet of the Empire of Telepathic Dwarfoids.
+It is somewhat polluted.
+It is populated by:
+7 billion Telepathic Dwarfoids
+7 billion enslaved Giant Koboldoids
+A mining base, built by the Empire of Telepathic Dwarfoids in 142
+A skull pile, built by the Empire of Telepathic Dwarfoids in 167
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+Strata:
+The ruins of a orbital elevator, built by the Republic of Four-Armed Ursoids in 132, destroyed in 67 by a time vortex.
+Remnants of a culture of Four-Armed Ursoids that collapsed by a time vortex in 67.
+Remnants of a culture of Flying Humanoids that collapsed from mass hysteria in 131.
+
+JURVOX IV
+A life-bearing planet of the Empire of Telepathic Dwarfoids.
+It is slightly polluted.
+It is populated by:
+8 billion enslaved Six-Legged Robots
+4 billion Telepathic Dwarfoids
+A city of spires, built by the Empire of Telepathic Dwarfoids in 146
+A skull pile, built by the Empire of Telepathic Dwarfoids in 154
+A grand palace, built by the Empire of Telepathic Dwarfoids in 154
+A vast underground vault, built by the Empire of Telepathic Dwarfoids in 177
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+Strata:
+Remnants of a culture of Two-Headed Humanoids that collapsed from the effects of pollution in 179.
+Remnants of a culture of Giant Koboldoids that collapsed from the effects of pollution in 164.
+A Time Machine created by the Republic of Four-Armed Ursoids in 107, buried in 67.
+A Mind Archive created by the Republic of Four-Armed Ursoids in 105, buried in 67.
+The ruins of a barracks, built by the Republic of Four-Armed Ursoids in 127, destroyed in 67 by a time vortex.
+Remnants of a culture of Four-Armed Ursoids that collapsed by a time vortex in 67.
+Remnants of a culture of Giant White Robots that collapsed from mass hysteria in 131.
+The ruins of a barracks, built by the Republic of Four-Armed Ursoids in 102, destroyed in 103 through orbital bombardment by the Church of Flying Humanoids.
+A Time Machine created by the Empire of Telepathic Dwarfoids in 125, lost in 51.
+
+CYMOV II
+A barren planet of the Empire of Telepathic Dwarfoids.
+A mining base, built by the Empire of Telepathic Dwarfoids in 140
+Strata:
+The ruins of a military base, built by the Republic of Four-Armed Ursoids in 124, destroyed in 67 by a time vortex.
+
+METATRON II
+A life-bearing planet of the Empire of Telepathic Dwarfoids.
+It is somewhat polluted.
+It is populated by:
+10 billion Telepathic Dwarfoids
+3 billion enslaved Giant Koboldoids
+A great hall, built by the Empire of Telepathic Dwarfoids in 131
+A vast museum, built by the Empire of Telepathic Dwarfoids in 135
+A complex of arcologies, built by the Empire of Telepathic Dwarfoids in 138
+A vast underground vault, built by the Empire of Telepathic Dwarfoids in 145
+A city of spires, built by the Empire of Telepathic Dwarfoids in 152
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+
+CINAR VI
+A barren planet of the Empire of Telepathic Dwarfoids.
+A mining base, built by the Empire of Telepathic Dwarfoids in 144
+Periodical Darkness: Every thirteen years, the orbit of this planet synchronizes with that of a planet closer to its stars, causing a night that lasts for weeks.
+Strata:
+The ruins of a science lab, built by the Republic of Four-Armed Ursoids in 128, destroyed in 67 by a time vortex.
+
+BIKAS IV
+A barren planet of the Empire of Telepathic Dwarfoids.
+A military base, built by the Empire of Telepathic Dwarfoids in 164
+Strata:
+The Tomb of the Pirate Blackbeard, buried in 167.
+The ruins of a mining base, built by the Empire of Telepathic Dwarfoids in 143, destroyed in 159 due to orbital bombardment by the pirate Blackbeard.
+The ruins of a mining base, built by the Republic of Four-Armed Ursoids in 103, destroyed in 67 by a time vortex.
+
+ATRIA I
+A life-bearing planet of the Empire of Telepathic Dwarfoids.
+It is slightly polluted.
+It is populated by:
+3 billion enslaved Six-Legged Robots
+12 billion Telepathic Dwarfoids
+A science lab, built by the Empire of Telepathic Dwarfoids in 143
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+Strata:
+Remnants of a culture of Two-Headed Humanoids that collapsed from the effects of pollution in 158.
+A Master Computer created by the Church of Flying Humanoids in 102, buried in 67.
+The ruins of a city of spires, built by the Republic of Four-Armed Ursoids in 123, destroyed in 67 by a time vortex.
+The ruins of a grand roost, built by the Church of Flying Humanoids in 103, destroyed in 67 by a time vortex.
+The ruins of a grand palace, built by the Church of Flying Humanoids in 102, destroyed in 67 by a time vortex.
+The ruins of a vast underground vault, built by the Church of Flying Humanoids in 95, destroyed in 67 by a time vortex.
+Remnants of a culture of Flying Humanoids that collapsed by a time vortex in 67.
+Remnants of a culture of Four-Armed Ursoids that collapsed from mass hysteria in 131.
+
+ORRA IV
+A life-bearing planet of the Empire of Telepathic Dwarfoids.
+It is incredibly polluted.
+It is populated by:
+6 billion enslaved Two-Headed Humanoids
+6 billion Telepathic Dwarfoids
+A mining base, built by the Empire of Telepathic Dwarfoids in 127
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+Lifeforms of note:
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+
+NID II
+A barren planet of the Empire of Telepathic Dwarfoids.
+A mining base, built by the Empire of Telepathic Dwarfoids in 130
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+
+FIMAV II
+A barren planet of the Empire of Telepathic Dwarfoids.
+A mining base, built by the Empire of Telepathic Dwarfoids in 161
+Strata:
+The ruins of a military base, built by the Republic of Four-Armed Ursoids in 128, destroyed in 67 by a time vortex.
+
+HYLON IV
+A life-bearing planet of the Empire of Telepathic Dwarfoids.
+It is heavily polluted.
+It is populated by:
+10 billion Telepathic Dwarfoids
+2 billion enslaved Two-Headed Humanoids
+A great hall, built by the Empire of Telepathic Dwarfoids in 170
+A vast underground vault, built by the Empire of Telepathic Dwarfoids in 172
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+Strata:
+The ruins of a mining base, built by the Empire of Telepathic Dwarfoids in 136, destroyed in 165 through orbital bombardment by the pirate Blackbeard.
+The ruins of a military base, built by the Republic of Four-Armed Ursoids in 122, destroyed in 67 by a time vortex.
+Remnants of a culture of Four-Armed Ursoids that collapsed by a time vortex in 67.
+Remnants of a culture of Flying Humanoids that collapsed from mass hysteria in 131.
+Fossils of vast grazing herds that went extinct in 94 due to a shift in the planet's orbital axis.
+Fossils of ocean giants that went extinct in 94 due to a shift in the planet's orbital axis.
+Fossils of ultravores that went extinct in 94 due to a shift in the planet's orbital axis.
+
+HYLON V
+A barren planet of the Empire of Telepathic Dwarfoids.
+A military base, built by the Empire of Telepathic Dwarfoids in 160
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+Strata:
+The ruins of a military base, built by the Empire of Telepathic Dwarfoids in 137, destroyed in 156 due to orbital bombardment by the pirate Blackbeard.
+The Tomb of Captain Annette Runge-Kutta, buried in 89.
+
+JURVOX III
+A barren planet of the Empire of Telepathic Dwarfoids.
+A mining base, built by the Empire of Telepathic Dwarfoids in 149
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+Strata:
+The ruins of a mining base, built by the Church of Flying Humanoids in 87, destroyed in 104 during the collapse of the Church of Flying Humanoids.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Cilaq IV, Jurvox IV, Cymov II, Metatron II, Cinar VI, Bikas IV, Atria I, Orra IV, Nid II, Fimav II, Hylon IV, Hylon V, Jurvox III
+8:
+Titanic mountains form on Cilaq IV.
+21:
+Life arises on Metatron II
+27:
+Life arises on Hylon IV
+30:
+Orra IV becomes tidally locked to its star.
+Life arises on Orra IV
+33:
+Life arises on Jurvox IV
+34:
+Living islands evolve on Metatron II.
+38:
+Ultravores evolve on Hylon IV.
+42:
+A giant spaceborne red jellyfish appears from the depths of space and menaces the skies of Cilaq IV.
+45:
+The giant spaceborne red jellyfish leaves the orbit of Cilaq IV and heads back into deep space.
+47:
+Vast canyons are carved on Hylon IV.
+49:
+Life arises on Atria I
+53:
+Brain parasites evolve on Metatron II.
+Due to an accident of orbital mechanics, every 13 years, Cinar VI is plunged into total darkness.
+60:
+Sentient Flying Humanoids arise on Atria I.
+63:
+Ocean giants evolve on Orra IV.
+64:
+Vast grazing herds evolve on Metatron II.
+76:
+Sentient Telepathic Dwarfoids arise on Metatron II.
+The Flying Humanoids on Atria I achieve spaceflight and organise as a Military Dictatorship, the Empire of Flying Humanoids.
+
+Civ Name: Empire of Flying Humanoids 
+Civ Birth Year: 76 
+Civ Stats Str|Dex|Con|Int|Cha
+          -6 | -2 | -2 | 0 | -5 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+77:
+WE ENTER THE FIRST AGE OF CIVILISATION
+Ocean giants evolve on Hylon IV.
+79:
+The Empire of Flying Humanoids explore Jurvox IV. 
+Captain Annette Runge-Kutta, space adventurer, blasts off from Atria I.
+An expedition led by Captain Annette Runge-Kutta explores Cinar VI. 
+An expedition led by Captain Annette Runge-Kutta explores Cilaq IV. 
+80:
+The Empire of Flying Humanoids explore Bikas IV. 
+An expedition led by Captain Annette Runge-Kutta explores Cilaq IV. 
+An expedition led by Captain Annette Runge-Kutta explores Jurvox IV. 
+81:
+The Empire of Flying Humanoids build a mining base on Bikas IV.
+An expedition led by Captain Annette Runge-Kutta explores Hylon V. 
+82:
+The Empire of Flying Humanoids explore Jurvox III. 
+The Empire of Flying Humanoids explore Bikas IV. 
+An expedition led by Captain Annette Runge-Kutta explores Cilaq IV. 
+83:
+Pollution kills a billion Flying Humanoids on Atria I.
+The Empire of Flying Humanoids uplift the local Four-Armed Ursoids on Jurvox IV and incorporate the planet into their civilisation.
+An expedition led by Captain Annette Runge-Kutta explores Cinar VI. 
+84:
+Pollution kills a billion Flying Humanoids on Atria I.
+The Empire of Flying Humanoids explore Jurvox IV. 
+An expedition led by Captain Annette Runge-Kutta explores Cymov II. 
+85:
+The Empire of Flying Humanoids explore Jurvox IV. 
+An expedition led by Captain Annette Runge-Kutta explores Metatron II. They trade with the local Telepathic Dwarfoids. 
+An expedition led by Captain Annette Runge-Kutta explores Cinar VI. 
+86:
+The Empire of Flying Humanoids explore Jurvox III. 
+87:
+The Empire of Flying Humanoids explore Jurvox IV. 
+The Empire of Flying Humanoids build a mining base on Jurvox III.
+An expedition led by Captain Annette Runge-Kutta explores Cymov II. 
+88:
+The Empire of Flying Humanoids explore Bikas IV. 
+The Empire of Flying Humanoids explore Atria I. 
+An expedition led by Captain Annette Runge-Kutta explores Hylon IV. 
+An expedition led by Captain Annette Runge-Kutta explores Cilaq IV. 
+89:
+Pollution kills a billion Four-Armed Ursoids on Jurvox IV.
+An expedition led by Captain Annette Runge-Kutta explores Fimav II. 
+The space adventurer Captain Annette Runge-Kutta dies and is buried on Hylon V.
+90:
+Pollution kills a billion Four-Armed Ursoids on Jurvox IV.
+91:
+Vast grazing herds evolve on Hylon IV.
+92:
+The Empire of Flying Humanoids explore Bikas IV. 
+The Empire of Flying Humanoids explore Jurvox IV. 
+94:
+Religious fanatics sieze power in the Empire of Flying Humanoids and declare the Church of Flying Humanoids.
+A shift in the orbital axis of Hylon IV spells doom for all life on the planet!
+95:
+The Church of Flying Humanoids build a vast underground vault on Atria I.
+96:
+The Church of Flying Humanoids explore Atria I. 
+98:
+The Church of Flying Humanoids experiences a population boom! 
+99:
+Brain parasites evolve on Jurvox IV.
+Titanic mountains form on Atria I.
+Vast grazing herds evolve on Orra IV.
+100:
+The Church of Flying Humanoids explore Bikas IV. 
+101:
+The Church of Flying Humanoids explore Bikas IV. 
+The Church of Flying Humanoids explore Jurvox III. 
+
+Civ Name: Republic of Four-Armed Ursoids 
+Civ Birth Year: 101 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | 1 | 2 | -3 | -3 | 
+Resources 8 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Jurvox IV revolt, killing their oppressors and declaring the Free Republic of Four-Armed Ursoids.
+The Church of Flying Humanoids attack Jurvox IV, a colony of the Republic of Four-Armed Ursoids, and subject it to orbital bombardment, killing 1 billion.
+102:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The Church of Flying Humanoids explore Atria I. 
+The Church of Flying Humanoids build a grand palace on Atria I.
+The Church of Flying Humanoids develop a Master Computer.
+Mass hysteria breaks out in the Church of Flying Humanoids, killing billions.
+The Church of Flying Humanoids attack Jurvox IV, a colony of the Republic of Four-Armed Ursoids, and subject it to orbital bombardment, killing 1 billion.
+The Republic of Four-Armed Ursoids build a barracks on Jurvox IV.
+The Republic of Four-Armed Ursoids conquer Bikas IV, a colony of the Church of Flying Humanoids.
+103:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The Church of Flying Humanoids build a grand roost on Atria I.
+The Church of Flying Humanoids attack Jurvox IV, a colony of the Republic of Four-Armed Ursoids, and subject it to orbital bombardment, killing 1 billion.
+The Republic of Four-Armed Ursoids explore Bikas IV. 
+The Republic of Four-Armed Ursoids build a mining base on Bikas IV.
+The Republic of Four-Armed Ursoids conquer Atria I, a colony of the Church of Flying Humanoids.
+The Republic of Four-Armed Ursoids gain control of the Master Computer on Atria I.
+104:
+The Church of Flying Humanoids collapses.
+The Republic of Four-Armed Ursoids build a military base on Jurvox III.
+105:
+The population of Flying Humanoids on Atria I has grown by a billion.
+The Republic of Four-Armed Ursoids develop a Mind Archive.
+106:
+The Republic of Four-Armed Ursoids explore Bikas IV. 
+107:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The population of Flying Humanoids on Atria I has grown by a billion.
+The Republic of Four-Armed Ursoids explore Atria I. 
+The Republic of Four-Armed Ursoids develop a Time Machine.
+108:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The Republic of Four-Armed Ursoids explore Bikas IV. They discover: The ruins of a mining base, built by the Church of Flying Humanoids in 81, destroyed in 102 during the invasion of the Republic of Four-Armed Ursoids. 
+The Republic of Four-Armed Ursoids build a city of spires on Jurvox IV.
+109:
+The population of Flying Humanoids on Atria I has grown by a billion.
+The Republic of Four-Armed Ursoids explore Bikas IV. 
+The Republic of Four-Armed Ursoids build a orbital elevator on Atria I.
+110:
+The Republic of Four-Armed Ursoids launch a space probe called Dyad to explore the galaxy.
+111:
+
+ Industrial Golden Age Revival!Republic of Four-Armed Ursoids previous decrepitude: -4 revival amount: 13
+
+Civ Name: Republic of Four-Armed Ursoids 
+Civ Birth Year: 101 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | 1 | 2 | -3 | -3 | 
+Resources 18 Science 8 Military 23 WeapLevel 0 TechLevel 1 Decrepitude -4
+The Republic of Four-Armed Ursoids enters a golden age of industry!  
+112:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The population of Flying Humanoids on Atria I has grown by a billion.
+113:
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Life arises on Hylon IV
+114:
+The population of Flying Humanoids on Atria I has grown by a billion.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids explore Bikas IV. 
+The Republic of Four-Armed Ursoids create Giant White Robots as servants on Jurvox IV.
+115:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+The Republic of Four-Armed Ursoids explore Atria I. 
+116:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids explore Atria I. 
+The Republic of Four-Armed Ursoids explore Jurvox IV. They discover: The ruins of a barracks, built by the Republic of Four-Armed Ursoids in 102, destroyed in 103 through orbital bombardment by the Church of Flying Humanoids. 
+117:
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids explore Atria I. 
+118:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The population of Giant White Robots on Jurvox IV has grown by a billion.
+The population of Four-Armed Ursoids on Atria I has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+119:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The population of Giant White Robots on Jurvox IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+120:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids explore Jurvox III. 
+
+ Science Golden Age Revival!Republic of Four-Armed Ursoids previous decrepitude: 9 revival amount: 0
+
+Civ Name: Republic of Four-Armed Ursoids 
+Civ Birth Year: 101 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | 1 | 2 | -3 | -3 | 
+Resources 59 Science 35 Military 32 WeapLevel 0 TechLevel 1 Decrepitude 9
+The Republic of Four-Armed Ursoids enters a golden age of science! 
+The space probe Dyad returns to Jurvox IV.
+The Republic of Four-Armed Ursoids gains a wealth of new knowledge as a result.
+121:
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids explore Jurvox III. They discover: The ruins of a mining base, built by the Church of Flying Humanoids in 87, destroyed in 104 during the collapse of the Church of Flying Humanoids. 
+The Republic of Four-Armed Ursoids terraform and colonise Cilaq IV.
+The Telepathic Dwarfoids on Metatron II achieve spaceflight and organise as a Republic, the Republic of Telepathic Dwarfoids.
+
+Civ Name: Republic of Telepathic Dwarfoids 
+Civ Birth Year: 121 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | -2 | 1 | 2 | -1 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+122:
+The population of Four-Armed Ursoids on Cilaq IV has grown by a billion.
+The population of Giant White Robots on Jurvox IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids build a military base on Hylon IV.
+The Republic of Telepathic Dwarfoids experiences a population boom! 
+123:
+The population of Giant White Robots on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Four-Armed Ursoids on Atria I has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids build a city of spires on Atria I.
+Shape-shifters evolve on Orra IV.
+124:
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids build a military base on Hylon V.
+The Republic of Four-Armed Ursoids build a military base on Cymov II.
+125:
+The population of Four-Armed Ursoids on Cilaq IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids colonise Hylon IV. 
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids develop a Time Machine.
+126:
+The population of Flying Humanoids on Cilaq IV has grown by a billion.
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The population of Four-Armed Ursoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The pirate Bluemuzzle establishes herself on Jurvox III.
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Four-Armed Ursoids defeats the pirate Bluemuzzle.
+Deep impenetrable seas form on Jurvox III.
+127:
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids explore Cilaq IV. 
+The Republic of Four-Armed Ursoids build a barracks on Jurvox IV.
+The Republic of Telepathic Dwarfoids build a mining base on Orra IV.
+128:
+Pollution kills a billion Four-Armed Ursoids on Jurvox IV.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Four-Armed Ursoids on Atria I has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids build a military base on Fimav II.
+The Republic of Four-Armed Ursoids build a science lab on Cinar VI.
+The Republic of Four-Armed Ursoids create Amorphous Robots with Five-fold Symmetry as servants on Atria I.
+The Republic of Telepathic Dwarfoids explore Orra IV. 
+129:
+The population of Flying Humanoids on Cilaq IV has grown by a billion.
+The population of Giant White Robots on Jurvox IV has grown by a billion.
+The population of Flying Humanoids on Atria I has grown by a billion.
+The population of Four-Armed Ursoids on Atria I has grown by a billion.
+The population of Flying Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids enters a dark age. Decrepitude set to 0,  was 26
+The Republic of Telepathic Dwarfoids explore Orra IV. Shape-shifters impersonate the crew of the expedition. Upon their return to Orra IV they merge into the population.
+130:
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The population of Giant White Robots on Jurvox IV has grown by a billion.
+The population of Four-Armed Ursoids on Atria I has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+The Republic of Four-Armed Ursoids explore Fimav II. 
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids build a mining base on Nid II.
+131:
+The population of Four-Armed Ursoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Four-Armed Ursoids on Jurvox IV.
+The population of Giant White Robots on Jurvox IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Republic of Four-Armed Ursoids explore Fimav II. 
+Mass hysteria breaks out in the Republic of Four-Armed Ursoids, killing billions.
+The Republic of Telepathic Dwarfoids build a great hall on Metatron II.
+132:
+The population of Flying Humanoids on Atria I has grown by a billion.
+The population of Four-Armed Ursoids on Hylon IV has grown by a billion.
+The Republic of Four-Armed Ursoids explore Cilaq IV. 
+The Republic of Four-Armed Ursoids build a orbital elevator on Cilaq IV.
+Overcrowding on Metatron II leads to increased pollution.
+133:
+The population of Four-Armed Ursoids on Cilaq IV has grown by a billion.
+The population of Four-Armed Ursoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Flying Humanoids on Atria I has grown by a billion.
+The population of Four-Armed Ursoids on Hylon IV has grown by a billion.
+Overcrowding on Metatron II leads to increased pollution.
+134:
+Pollution kills a billion Four-Armed Ursoids on Jurvox IV.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The Republic of Four-Armed Ursoids explore Cymov II. 
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids send a delegation to Hylon IV. They declare war on the Republic of Four-Armed Ursoids! 
+The Republic of Telepathic Dwarfoids use their time machine to erase their hated enemies, the Republic of Four-Armed Ursoids.
+135:
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids build a vast museum on Metatron II.
+136:
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids build a mining base on Hylon IV.
+The Republic of Telepathic Dwarfoids experiences a population boom! 
+Sentient Two-Headed Humanoids arise on Orra IV.
+137:
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids build a military base on Hylon V.
+138:
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids explore Cymov II. 
+The Republic of Telepathic Dwarfoids build a complex of arcologies on Metatron II.
+139:
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids colonise Hylon IV. 
+140:
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+The Republic of Telepathic Dwarfoids build a mining base on Cymov II.
+141:
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids explore Hylon V. They discover: The ruins of a military base, built by the Republic of Four-Armed Ursoids in 124, destroyed in 67 by a time vortex. 
+The Republic of Telepathic Dwarfoids explore Hylon IV. They discover: Remnants of a culture of Four-Armed Ursoids that collapsed by a time vortex in 67. 
+The Republic of Telepathic Dwarfoids attempting to upgrade their stats of value :3 current score is: -1
+The difficulty is: 35 They rolled: 16on: 5d3+3
+TechLevel: 3 Science: 3
+142:
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids explore Orra IV. 
+The Republic of Telepathic Dwarfoids build a mining base on Cilaq IV.
+
+ Science Golden Age Revival!Republic of Telepathic Dwarfoids previous decrepitude: 13 revival amount: 31
+
+Civ Name: Republic of Telepathic Dwarfoids 
+Civ Birth Year: 121 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | -2 | 1 | 2 | -1 | 
+Resources 20 Science 14 Military 7 WeapLevel 0 TechLevel 3 Decrepitude 13
+The Republic of Telepathic Dwarfoids enters a golden age of science! The Republic of Telepathic Dwarfoids build a science lab on Fimav II.
+143:
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids build a mining base on Bikas IV.
+The Republic of Telepathic Dwarfoids build a science lab on Atria I.
+144:
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+Overcrowding on Orra IV leads to increased pollution.
+The Republic of Telepathic Dwarfoids build a mining base on Cinar VI.
+The Republic of Telepathic Dwarfoids uplift the local Giant Koboldoids on Jurvox IV and incorporate the planet into their civilisation.
+145:
+Pollution kills a billion Giant Koboldoids on Jurvox IV.
+The Republic of Telepathic Dwarfoids build a vast underground vault on Metatron II.
+146:
+The population of Giant Koboldoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Overcrowding on Hylon IV leads to increased pollution.
+The Republic of Telepathic Dwarfoids build a city of spires on Jurvox IV.
+The Republic of Telepathic Dwarfoids explore Fimav II. 
+147:
+The population of Giant Koboldoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+148:
+Pollution kills a billion Giant Koboldoids on Jurvox IV.
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+Overcrowding on Metatron II leads to increased pollution.
+149:
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+Overcrowding on Metatron II leads to increased pollution.
+The Republic of Telepathic Dwarfoids build a mining base on Jurvox III.
+The Republic of Telepathic Dwarfoids create Six-Legged Robots as servants on Jurvox IV.
+150:
+The population of Giant Koboldoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+The population of Two-Headed Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+151:
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+152:
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+The Republic of Telepathic Dwarfoids explore Orra IV. Shape-shifters impersonate the crew of the expedition. Upon their return to Fimav II they merge into the population.
+The Republic of Telepathic Dwarfoids build a city of spires on Metatron II.
+153:
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+154:
+The population of Giant Koboldoids on Jurvox IV has grown by a billion.
+The Giant Koboldoids on Jurvox IV devour one billion of their own kind in a mad frenzy of cannibalism!
+The Giant Koboldoids erect a pile of skulls on Jurvox IV!
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Republic of Telepathic Dwarfoids build a grand palace on Jurvox IV.
+155:
+The population of Giant Koboldoids on Jurvox IV has grown by a billion.
+The Giant Koboldoids on Jurvox IV devour one billion of their own kind in a mad frenzy of cannibalism!
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Republic of Telepathic Dwarfoids colonise Cilaq IV. 
+156:
+The population of Giant Koboldoids on Jurvox IV has grown by a billion.
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Republic of Telepathic Dwarfoids explore Metatron II. The expedition encounters brain parasites. Upon their return to Fimav II, the parasites take over the brains of the planet's inhabitants, creating the Republic of Parasites.
+The Republic of Telepathic Dwarfoids colonise Atria I. 
+The pirate Blackbeard establishes himself on Bikas IV.
+The Republic of Telepathic Dwarfoids attack and raze Fimav II, a colony of the Republic of Parasites.
+The pirate Blackbeard subjects Hylon V to orbital bombardment.
+157:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+The population of Giant Koboldoids on Jurvox IV has grown by a billion.
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+The population of Two-Headed Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Republic of Parasites collapses.
+The pirate Blackbeard receives tribute from Bikas IV of the Republic of Telepathic Dwarfoids.
+158:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Giant Koboldoids on Jurvox IV.
+Pollution kills a billion Six-Legged Robots on Jurvox IV.
+The population of Six-Legged Robots on Atria I has grown by a billion.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Atria I.
+Two-Headed Humanoids have died out on Atria I!
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+An industrial accident on Jurvox IV causes deadly levels of pollution.
+The pirate Blackbeard receives tribute from Bikas IV of the Republic of Telepathic Dwarfoids.
+159:
+Pollution kills a billion Giant Koboldoids on Jurvox IV.
+Pollution kills a billion Six-Legged Robots on Jurvox IV.
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+The population of Two-Headed Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+Religious fanatics sieze power in the Republic of Telepathic Dwarfoids and declare the Church of Telepathic Dwarfoids.
+The pirate Blackbeard subjects Bikas IV to orbital bombardment.
+160:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Giant Koboldoids on Jurvox IV.
+Pollution kills a billion Six-Legged Robots on Jurvox IV.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids build a military base on Hylon V.
+161:
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Giant Koboldoids on Jurvox IV.
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids build a mining base on Fimav II.
+The pirate Blackbeard receives tribute from Jurvox IV of the Church of Telepathic Dwarfoids.
+Deposits of huge gems form on Hylon V.
+162:
+Pollution kills a billion Giant Koboldoids on Jurvox IV.
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The pirate Blackbeard receives tribute from Fimav II of the Church of Telepathic Dwarfoids.
+163:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Six-Legged Robots on Jurvox IV.
+The population of Six-Legged Robots on Atria I has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+The population of Two-Headed Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The pirate Blackbeard receives tribute from Hylon IV of the Church of Telepathic Dwarfoids.
+164:
+Pollution kills a billion Giant Koboldoids on Jurvox IV.
+Giant Koboldoids have died out on Jurvox IV!
+The population of Giant Koboldoids on Metatron II has grown by a billion.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+The population of Two-Headed Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids explore Orra IV. 
+The Church of Telepathic Dwarfoids build a military base on Bikas IV.
+The pirate Blackbeard receives tribute from Hylon V of the Church of Telepathic Dwarfoids.
+165:
+Pollution kills a billion Six-Legged Robots on Jurvox IV.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The pirate Blackbeard subjects Hylon IV to orbital bombardment, killing 4 billion.
+Deposits of huge gems form on Nid II.
+166:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Orra IV.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The pirate Blackbeard receives tribute from Atria I of the Church of Telepathic Dwarfoids.
+167:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+The Giant Koboldoids on Cilaq IV devour one billion of their own kind in a mad frenzy of cannibalism!
+The Giant Koboldoids erect a pile of skulls on Cilaq IV!
+The population of Two-Headed Humanoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids explore Fimav II. 
+The Church of Telepathic Dwarfoids enters a dark age. Decrepitude set to 0,  was 85
+The pirate Blackbeard dies and is buried on Bikas IV.
+168:
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+The population of Giant Koboldoids on Metatron II has grown by a billion.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+Pollution kills a billion Telepathic Dwarfoids on Orra IV.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+169:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Jurvox IV.
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+Pollution kills a billion Two-Headed Humanoids on Orra IV.
+Pollution kills a billion Telepathic Dwarfoids on Orra IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+170:
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Giant Koboldoids on Metatron II has grown by a billion.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Orra IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids build a great hall on Hylon IV.
+171:
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+The population of Two-Headed Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids explore Jurvox III. 
+A market crash impoverishes the Church of Telepathic Dwarfoids.
+172:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Giant Koboldoids on Cilaq IV.
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+Pollution kills a billion Giant Koboldoids on Metatron II.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids build a vast underground vault on Hylon IV.
+173:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+The population of Giant Koboldoids on Metatron II has grown by a billion.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+Pollution kills a billion Telepathic Dwarfoids on Orra IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+174:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+Pollution kills a billion Giant Koboldoids on Metatron II.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+Pollution kills a billion Telepathic Dwarfoids on Orra IV.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+The population of Two-Headed Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids explore Orra IV. 
+175:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Giant Koboldoids on Cilaq IV.
+The Giant Koboldoids on Cilaq IV devour one billion of their own kind in a mad frenzy of cannibalism!
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Six-Legged Robots on Atria I has grown by a billion.
+Pollution kills a billion Telepathic Dwarfoids on Atria I.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Hylon IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids launch a space probe called P'neer to explore the galaxy.
+176:
+Pollution kills a billion Telepathic Dwarfoids on Cilaq IV.
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Giant Koboldoids on Metatron II has grown by a billion.
+Pollution kills a billion Six-Legged Robots on Atria I.
+Pollution kills a billion Two-Headed Humanoids on Orra IV.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+The population of Two-Headed Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids explore Cymov II. 
+The Church of Telepathic Dwarfoids explore Hylon V. 
+177:
+Pollution kills a billion Telepathic Dwarfoids on Cilaq IV.
+Pollution kills a billion Giant Koboldoids on Cilaq IV.
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+Pollution kills a billion Two-Headed Humanoids on Orra IV.
+Pollution kills a billion Telepathic Dwarfoids on Orra IV.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+The population of Two-Headed Humanoids on Hylon IV has grown by a billion.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids explore Cilaq IV. They discover: Remnants of a culture of Flying Humanoids that collapsed from mass hysteria in 131. 
+The Church of Telepathic Dwarfoids build a vast underground vault on Jurvox IV.
+The pirate Orangebeard establishes herself on Orra IV.
+The pirate Orangebeard receives tribute from Metatron II of the Church of Telepathic Dwarfoids.
+178:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+Pollution kills a billion Six-Legged Robots on Atria I.
+Pollution kills a billion Two-Headed Humanoids on Orra IV.
+Pollution kills a billion Telepathic Dwarfoids on Orra IV.
+Pollution kills a billion Telepathic Dwarfoids on Hylon IV.
+Pollution kills a billion Two-Headed Humanoids on Hylon IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The pirate Orangebeard receives tribute from Metatron II of the Church of Telepathic Dwarfoids.
+179:
+Pollution kills a billion Telepathic Dwarfoids on Cilaq IV.
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Jurvox IV.
+Two-Headed Humanoids have died out on Jurvox IV!
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Hylon IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids explore Orra IV. 
+The pirate Orangebeard receives tribute from Metatron II of the Church of Telepathic Dwarfoids.
+180:
+Pollution kills a billion Telepathic Dwarfoids on Cilaq IV.
+Pollution kills a billion Giant Koboldoids on Cilaq IV.
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Orra IV.
+Pollution kills a billion Telepathic Dwarfoids on Hylon IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The pirate Orangebeard receives tribute from Orra IV of the Church of Telepathic Dwarfoids.
+181:
+The population of Telepathic Dwarfoids on Cilaq IV has grown by a billion.
+Pollution kills a billion Giant Koboldoids on Cilaq IV.
+The population of Six-Legged Robots on Jurvox IV has grown by a billion.
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+The population of Giant Koboldoids on Metatron II has grown by a billion.
+The population of Six-Legged Robots on Atria I has grown by a billion.
+The population of Two-Headed Humanoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Orra IV has grown by a billion.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Hylon IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+An industrial accident on Orra IV causes deadly levels of pollution.
+The pirate Orangebeard receives tribute from Jurvox III of the Church of Telepathic Dwarfoids.
+Pollution on Metatron II abates.
+182:
+Pollution kills a billion Telepathic Dwarfoids on Cilaq IV.
+Pollution kills a billion Giant Koboldoids on Cilaq IV.
+Pollution kills a billion Six-Legged Robots on Jurvox IV.
+Pollution kills a billion Telepathic Dwarfoids on Jurvox IV.
+The population of Telepathic Dwarfoids on Metatron II has grown by a billion.
+Pollution kills a billion Giant Koboldoids on Metatron II.
+The population of Six-Legged Robots on Atria I has grown by a billion.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Orra IV.
+Pollution kills a billion Telepathic Dwarfoids on Orra IV.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Hylon IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids explore Cinar VI. 
+The Church of Telepathic Dwarfoids defeats the pirate Orangebeard.
+183:
+The population of Giant Koboldoids on Cilaq IV has grown by a billion.
+The population of Telepathic Dwarfoids on Jurvox IV has grown by a billion.
+Pollution kills a billion Telepathic Dwarfoids on Metatron II.
+Pollution kills a billion Giant Koboldoids on Metatron II.
+Pollution kills a billion Six-Legged Robots on Atria I.
+The population of Telepathic Dwarfoids on Atria I has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Orra IV.
+Pollution kills a billion Telepathic Dwarfoids on Orra IV.
+The population of Telepathic Dwarfoids on Hylon IV has grown by a billion.
+Pollution kills a billion Two-Headed Humanoids on Hylon IV.
+Overcrowding on Cilaq IV leads to increased pollution.
+Overcrowding on Jurvox IV leads to increased pollution.
+Overcrowding on Metatron II leads to increased pollution.
+Overcrowding on Atria I leads to increased pollution.
+Overcrowding on Orra IV leads to increased pollution.
+Overcrowding on Hylon IV leads to increased pollution.
+The Church of Telepathic Dwarfoids explore Jurvox III. They discover: The ruins of a mining base, built by the Church of Flying Humanoids in 87, destroyed in 104 during the collapse of the Church of Flying Humanoids. 
+A military putsch turns the Church of Telepathic Dwarfoids into the Empire of Telepathic Dwarfoids.

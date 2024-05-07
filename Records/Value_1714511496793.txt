@@ -1,0 +1,367 @@
+SENTIENT SPECIES:
+Feathered Purple Robots: Purely mechanical lifeforms, artificially created. They have purple feathers. They have bilateral symmetry. They are humorless and have a deep need to conform. They were created by the Empire of Feathered Deep Dwellers on Aomes II as servants in 134.
+	Their Stats are: STR: -1 DEX: -1 CON: 1 INT: 0 CHA: 0
+Orange Koboldoids with Giant Eyes: Eat pretty much anything, including one another. Disturbingly fond of skulls. They have orange skin. They have bilateral symmetry. Their giant eyes take up most of their head. They are cautious and always willing to listen. They first evolved on Cokev I in 177.
+	Their Stats are: STR: 0 DEX: 0 CON: -2 INT: -3 CHA: -1
+Feathered Deep Dwellers: They live in the deep oceans or in deep caves, hiding. Their presence can go unnoticed for a long time. They have bilateral symmetry. They are peaceful and deeply religious. They first evolved on Aomes II in 119.
+	Their Stats are: STR: 0 DEX: -3 CON: -1 INT: -2 CHA: -3
+
+CIVILISATIONS:
+THE EMPIRE OF FEATHERED DEEP DWELLERS:
+An ancient, corrupt, fantastically wealthy Empire of 9 planets, with 7 billion inhabitants.
+Major populations:
+3 billion Feathered Deep Dwellers.
+4 billion enslaved Feathered Purple Robots.
+It controls a Living Weapon.
+It is at peace with the Republic of Orange Koboldoids with Giant Eyes.
+
+	Their Stats are: STR: 0 DEX: 0 CON: 0 INT: 0 CHA: 0
+THE REPUBLIC OF ORANGE KOBOLDOIDS WITH GIANT EYES:
+A recently emerged, impoverished, primitive Republic of a single planet, Cokev I, with 2 billion inhabitants.
+Major populations:
+2 billion Orange Koboldoids with Giant Eyes.
+It is at peace with the Empire of Feathered Deep Dwellers.
+
+	Their Stats are: STR: 0 DEX: 0 CON: 0 INT: 0 CHA: 0
+PLANETS:
+HELMETTEPOL VI
+A life-bearing planet.
+Strata:
+Remnants of a culture of Two-Headed Robots that collapsed from the effects of pollution in 128.
+
+GOMES V
+A barren planet of the Empire of Feathered Deep Dwellers.
+A mining base, built by the Empire of Feathered Deep Dwellers in 132
+
+AOMES II
+A life-bearing planet of the Empire of Feathered Deep Dwellers.
+It is populated by:
+3 billion Feathered Deep Dwellers
+4 billion enslaved Feathered Purple Robots
+A deep dome, built by the Empire of Feathered Deep Dwellers in 138
+A vast underground vault, built by the Empire of Feathered Deep Dwellers in 167
+A vast museum, built by the Empire of Feathered Deep Dwellers in 173
+A complex of arcologies, built by the Empire of Feathered Deep Dwellers in 176
+A orbital elevator, built by the Empire of Feathered Deep Dwellers in 180
+A hymn about the Emperor of the Empire of Feathered Deep Dwellers created by the Empire of Feathered Deep Dwellers in 134
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+
+LUMEN III
+A barren planet of the Empire of Feathered Deep Dwellers.
+A mining base, built by the Empire of Feathered Deep Dwellers in 129
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+Strata:
+The Tomb of Captain Wipram, buried in 146.
+
+EENUQ III
+A barren planet of the Empire of Feathered Deep Dwellers.
+A science lab, built by the Empire of Feathered Deep Dwellers in 135
+A Living Weapon created by the Republic of Dwarfoids and Robots in 104
+
+EREBUS V
+A barren planet of the Empire of Feathered Deep Dwellers.
+A military base, built by the Empire of Feathered Deep Dwellers in 130
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+
+BINAU VI
+A barren planet of the Empire of Feathered Deep Dwellers.
+A mining base, built by the Empire of Feathered Deep Dwellers in 131
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+
+COKEV I
+A life-bearing planet of the Republic of Orange Koboldoids with Giant Eyes.
+It is populated by:
+2 billion Orange Koboldoids with Giant Eyes
+Strata:
+Remnants of a culture of Amorphous Dwarfoids with Threefold Symmetry that collapsed from the effects of pollution in 127.
+
+SATIVEX V
+A barren planet of the Empire of Feathered Deep Dwellers.
+A military base, built by the Empire of Feathered Deep Dwellers in 134
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+
+BOKEV IV
+A barren planet.
+Strata:
+The ruins of a mining base, built by the Republic of Dwarfoids and Robots in 122, destroyed in 128 during the collapse of the Republic of Dwarfoids and Robots.
+
+KRANTOR I
+A barren planet of the Empire of Feathered Deep Dwellers.
+A science lab, built by the Empire of Feathered Deep Dwellers in 133
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+
+REGOR I
+A barren planet of the Empire of Feathered Deep Dwellers.
+A mining base, built by the Empire of Feathered Deep Dwellers in 129
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Helmettepol VI, Gomes V, Aomes II, Lumen III, Eenuq III, Erebus V, Binau VI, Cokev I, Sativex V, Bokev IV, Krantor I, Regor I
+17:
+Life arises on Cokev I
+A gigantic network of caves forms on Sativex V.
+28:
+Life arises on Aomes II
+33:
+Lumen III becomes tidally locked to its star.
+44:
+Gas bags evolve on Aomes II.
+57:
+Sentient Amorphous Dwarfoids arise on Cokev I.
+81:
+Vast grazing herds evolve on Aomes II.
+88:
+Binau VI becomes tidally locked to its star.
+89:
+Pharmaceuticals evolve on Aomes II.
+91:
+The Amorphous Dwarfoids on Cokev I mutate into Amorphous Dwarfoids with Threefold Symmetry.
+93:
+The Amorphous Dwarfoids with Threefold Symmetry on Cokev I achieve spaceflight and organise as a Feudal State, the Kingdom of Amorphous Dwarfoids with Threefold Symmetry.
+
+Civ Name: Kingdom of Amorphous Dwarfoids with Threefold Symmetry 
+Civ Birth Year: 93 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -1 | -1 | 2 | 0 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+94:
+WE ENTER THE FIRST AGE OF CIVILISATION
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry explore Cokev I. 
+96:
+Deposits of huge gems form on Erebus V.
+97:
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry create Two-Headed Robots as servants on Cokev I.
+98:
+Overcrowding on Cokev I leads to increased pollution.
+99:
+Pollution kills a billion Two-Headed Robots on Cokev I.
+100:
+Overcrowding on Cokev I leads to increased pollution.
+101:
+Pollution kills a billion Amorphous Dwarfoids with Threefold Symmetry on Cokev I.
+102:
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry explore Cokev I. 
+103:
+Overcrowding on Cokev I leads to increased pollution.
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry explore Cokev I. 
+104:
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry develop a Living Weapon.
+106:
+Pollution kills a billion Two-Headed Robots on Cokev I.
+114:
+The Kingdom of Amorphous Dwarfoids with Threefold Symmetry explore Cokev I. 
+115:
+The Living Weapon created by the Kingdom of Amorphous Dwarfoids with Threefold Symmetry in 104 on Cokev I has been stolen and hidden on Aomes II.
+116:
+
+ Decomocratization Revival!Kingdom of Amorphous Dwarfoids with Threefold Symmetry previous decrepitude: 28 revival amount: 20
+
+Civ Name: Kingdom of Amorphous Dwarfoids with Threefold Symmetry 
+Civ Birth Year: 93 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -1 | -1 | 2 | 0 | 
+Resources 0 Science 10 Military 10 WeapLevel 0 TechLevel 2 Decrepitude 28
+A popular movement overthrows the old guard of the Kingdom of Amorphous Dwarfoids with Threefold Symmetry and declares the Republic of Dwarfoids and Robots.
+119:
+Sentient Feathered Deep Dwellers arise on Aomes II.
+Brain parasites evolve on Cokev I.
+122:
+The Republic of Dwarfoids and Robots build a mining base on Bokev IV.
+123:
+An industrial accident on Cokev I causes deadly levels of pollution.
+124:
+Pollution kills a billion Two-Headed Robots on Cokev I.
+125:
+Pollution kills a billion Amorphous Dwarfoids with Threefold Symmetry on Cokev I.
+The Republic of Dwarfoids and Robots terraform and colonise Helmettepol VI.
+127:
+Pollution kills a billion Amorphous Dwarfoids with Threefold Symmetry on Cokev I.
+Amorphous Dwarfoids with Threefold Symmetry have died out on Cokev I!
+128:
+Pollution kills a billion Two-Headed Robots on Helmettepol VI.
+Two-Headed Robots have died out on Helmettepol VI!
+The Republic of Dwarfoids and Robots collapses.
+The Feathered Deep Dwellers on Aomes II achieve spaceflight and organise as a Military Dictatorship, the Empire of Feathered Deep Dwellers.
+
+Civ Name: Empire of Feathered Deep Dwellers 
+Civ Birth Year: 128 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -3 | -1 | -2 | -3 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+129:
+
+ Industrial Golden Age Revival!Empire of Feathered Deep Dwellers previous decrepitude: 0 revival amount: 0
+
+Civ Name: Empire of Feathered Deep Dwellers 
+Civ Birth Year: 128 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -3 | -1 | -2 | -3 | 
+Resources 1 Science 2 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Empire of Feathered Deep Dwellers enters a golden age of industry! The Empire of Feathered Deep Dwellers build a mining base on Lumen III. The Empire of Feathered Deep Dwellers build a mining base on Regor I.
+130:
+The Empire of Feathered Deep Dwellers build a military base on Erebus V.
+The Empire of Feathered Deep Dwellers explore Sativex V. 
+131:
+The Empire of Feathered Deep Dwellers build a mining base on Binau VI.
+132:
+The Empire of Feathered Deep Dwellers build a mining base on Gomes V.
+133:
+The Empire of Feathered Deep Dwellers build a science lab on Krantor I.
+134:
+The Empire of Feathered Deep Dwellers build a military base on Sativex V.
+The Empire of Feathered Deep Dwellers create Feathered Purple Robots as servants on Aomes II.
+
+ Art Golden Age Revival!Empire of Feathered Deep Dwellers previous decrepitude: 1 revival amount: 0
+
+Civ Name: Empire of Feathered Deep Dwellers 
+Civ Birth Year: 128 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -3 | -1 | -2 | -3 | 
+Resources 5 Science 3 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 1
+Artists on Aomes II create a hymn about the Emperor of the Empire of Feathered Deep Dwellers. 
+135:
+Overcrowding on Aomes II leads to increased pollution.
+The Empire of Feathered Deep Dwellers build a science lab on Eenuq III.
+136:
+Pollution kills a billion Feathered Purple Robots on Aomes II.
+Captain Wipram, space adventurer, blasts off from Lumen III.
+An expedition led by Captain Wipram explores Helmettepol VI. 
+137:
+Overcrowding on Aomes II leads to increased pollution.
+The Empire of Feathered Deep Dwellers explore Binau VI. 
+138:
+The Empire of Feathered Deep Dwellers build a deep dome on Aomes II.
+The Empire of Feathered Deep Dwellers experiences a population boom! 
+An expedition led by Captain Wipram explores Bokev IV. 
+An expedition led by Captain Wipram explores Cokev I. They encounter the local brain parasites and exterminate them. They discover: Remnants of a culture of Amorphous Dwarfoids with Threefold Symmetry that collapsed from the effects of pollution in 127. 
+139:
+Pollution kills a billion Feathered Purple Robots on Aomes II.
+Overcrowding on Aomes II leads to increased pollution.
+An expedition led by Captain Wipram explores Bokev IV. 
+140:
+Overcrowding on Aomes II leads to increased pollution.
+141:
+Overcrowding on Aomes II leads to increased pollution.
+142:
+Overcrowding on Aomes II leads to increased pollution.
+An expedition led by Captain Wipram explores Cokev I. They discover: Remnants of a culture of Amorphous Dwarfoids with Threefold Symmetry that collapsed from the effects of pollution in 127. 
+143:
+Pollution kills a billion Feathered Deep Dwellers on Aomes II.
+Overcrowding on Aomes II leads to increased pollution.
+The Empire of Feathered Deep Dwellers explore Aomes II. The expedition encounters plants with useful pharmaceutical properties. They recover: A Living Weapon created by the Republic of Dwarfoids and Robots in 104, hidden in 115. 
+
+ Science Golden Age Revival!Empire of Feathered Deep Dwellers previous decrepitude: 13 revival amount: 10
+
+Civ Name: Empire of Feathered Deep Dwellers 
+Civ Birth Year: 128 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -3 | -1 | -2 | -3 | 
+Resources 50 Science 21 Military 8 WeapLevel 0 TechLevel 2 Decrepitude 13
+The Empire of Feathered Deep Dwellers enters a golden age of science! 
+144:
+Overcrowding on Aomes II leads to increased pollution.
+
+ Science Golden Age Revival!Empire of Feathered Deep Dwellers previous decrepitude: 15 revival amount: 19
+
+Civ Name: Empire of Feathered Deep Dwellers 
+Civ Birth Year: 128 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -3 | -1 | -2 | -3 | 
+Resources 57 Science 36 Military 13 WeapLevel 0 TechLevel 2 Decrepitude 15
+The Empire of Feathered Deep Dwellers enters a golden age of science! 
+145:
+Overcrowding on Aomes II leads to increased pollution.
+146:
+Overcrowding on Aomes II leads to increased pollution.
+The space adventurer Captain Wipram dies and is buried on Lumen III.
+147:
+Overcrowding on Aomes II leads to increased pollution.
+148:
+Overcrowding on Aomes II leads to increased pollution.
+The Empire of Feathered Deep Dwellers explore Gomes V. 
+149:
+Overcrowding on Aomes II leads to increased pollution.
+150:
+Overcrowding on Aomes II leads to increased pollution.
+The deadly Purple Pox, which affects Feathered Deep Dwellers, arises on Aomes II.
+151:
+Purple Pox has been eradicated on Aomes II.
+Overcrowding on Aomes II leads to increased pollution.
+The Empire of Feathered Deep Dwellers explore Sativex V. 
+The Empire of Feathered Deep Dwellers develop powerful new weapons.
+152:
+Pollution kills a billion Feathered Deep Dwellers on Aomes II.
+Overcrowding on Aomes II leads to increased pollution.
+153:
+The Empire of Feathered Deep Dwellers explore Regor I. 
+156:
+Overcrowding on Aomes II leads to increased pollution.
+157:
+Overcrowding on Aomes II leads to increased pollution.
+161:
+The Empire of Feathered Deep Dwellers explore Binau VI. 
+162:
+Overcrowding on Aomes II leads to increased pollution.
+163:
+Overcrowding on Aomes II leads to increased pollution.
+The Empire of Feathered Deep Dwellers explore Gomes V. 
+A market crash impoverishes the Empire of Feathered Deep Dwellers.
+164:
+Overcrowding on Aomes II leads to increased pollution.
+The Empire of Feathered Deep Dwellers explore Regor I. 
+The Empire of Feathered Deep Dwellers develop powerful new weapons.
+165:
+Overcrowding on Aomes II leads to increased pollution.
+The deadly Purple Pox, which affects Feathered Deep Dwellers, arises on Aomes II.
+166:
+Purple Pox has been eradicated on Aomes II.
+Overcrowding on Aomes II leads to increased pollution.
+167:
+The Empire of Feathered Deep Dwellers build a vast underground vault on Aomes II.
+170:
+Overcrowding on Aomes II leads to increased pollution.
+171:
+The Empire of Feathered Deep Dwellers explore Eenuq III. 
+173:
+Overcrowding on Aomes II leads to increased pollution.
+The Empire of Feathered Deep Dwellers build a vast museum on Aomes II.
+A gigantic network of caves forms on Krantor I.
+174:
+Overcrowding on Aomes II leads to increased pollution.
+175:
+Overcrowding on Aomes II leads to increased pollution.
+176:
+The Empire of Feathered Deep Dwellers build a complex of arcologies on Aomes II.
+177:
+The Empire of Feathered Deep Dwellers explore Lumen III. 
+Sentient Orange Koboldoids with Giant Eyes arise on Cokev I.
+178:
+Overcrowding on Aomes II leads to increased pollution.
+179:
+Overcrowding on Aomes II leads to increased pollution.
+The Empire of Feathered Deep Dwellers explore Sativex V. 
+180:
+Pollution kills a billion Orange Koboldoids with Giant Eyes on Cokev I.
+The Empire of Feathered Deep Dwellers build a orbital elevator on Aomes II.
+181:
+Overcrowding on Aomes II leads to increased pollution.
+182:
+Overcrowding on Aomes II leads to increased pollution.
+183:
+The Empire of Feathered Deep Dwellers launch a space probe called Triad to explore the galaxy.
+184:
+The Orange Koboldoids with Giant Eyes on Cokev I achieve spaceflight and organise as a Republic, the Republic of Orange Koboldoids with Giant Eyes.
+
+Civ Name: Republic of Orange Koboldoids with Giant Eyes 
+Civ Birth Year: 184 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | -2 | -3 | -1 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+186:
+Pollution kills a billion Orange Koboldoids with Giant Eyes on Cokev I.

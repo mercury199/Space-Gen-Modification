@@ -1,0 +1,886 @@
+SENTIENT SPECIES:
+Amorphous Trolloids with Giant Eyes: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have bilateral symmetry and are able to greatly alter their shape. Their giant eyes take up most of their head. They are humorless and have a deep need to conform. They first evolved on Nid V in 24.
+	Their Stats are: STR: -1 DEX: -1 CON: 2 INT: 1 CHA: 0
+Flying Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry. They can fly. They are reclusive and always willing to listen. They were created by the Church of Telepathic Humanoids on Aimav V as servants in 101.
+	Their Stats are: STR: 1 DEX: -1 CON: -1 INT: 2 CHA: 0
+Six-Legged Catoids: Always curious and often cruel. They have six legs. They have bilateral symmetry. They are fond of practical jokes and value personal integrity above all else. They first evolved on Foner III in 93.
+	Their Stats are: STR: -1 DEX: -1 CON: -1 INT: 1 CHA: 0
+Feathered Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry. They are peaceful and have a deep need to conform. They were created by the Church of Telepathic Humanoids on Foner III as servants in 112.
+	Their Stats are: STR: -3 DEX: 0 CON: -1 INT: -1 CHA: 2
+
+CIVILISATIONS:
+THE SECOND EMPIRE OF AMORPHOUS GREEN ROBOTS:
+An ancient, corrupt, impoverished, highly advanced Empire of 5 planets, with 5 billion inhabitants.
+Major populations:
+5 billion enslaved Amorphous Trolloids with Giant Eyes.
+It is at war with the Church of Telepathic Humanoids.
+It is at war with the Second Republic of Robots and Trolloids.
+
+	Their Stats are: STR: -1 DEX: -3 CON: -1 INT: -1 CHA: -2
+THE CHURCH OF TELEPATHIC HUMANOIDS:
+A well-established, highly advanced Church of 9 planets, with 4 billion inhabitants.
+Major populations:
+1 billion enslaved Six-Legged Catoids.
+3 billion enslaved Feathered Robots.
+It is at war with the Second Empire of Amorphous Green Robots.
+It is at peace with the Second Republic of Robots and Trolloids.
+
+	Their Stats are: STR: -2 DEX: 1 CON: -1 INT: -1 CHA: -3
+THE SECOND REPUBLIC OF ROBOTS AND TROLLOIDS:
+A recently emerged, impoverished, highly advanced Republic of 4 planets, with 5 billion inhabitants.
+Major populations:
+1 billion Amorphous Trolloids with Giant Eyes.
+4 billion Flying Robots.
+It is at war with the Second Empire of Amorphous Green Robots.
+It is at peace with the Church of Telepathic Humanoids.
+
+	Their Stats are: STR: -3 DEX: -1 CON: -3 INT: -2 CHA: -3
+PLANETS:
+ATRIA II
+A barren planet of the Church of Telepathic Humanoids.
+It is a little polluted.
+A mining base, built by the Church of Telepathic Humanoids in 112
+Strata:
+The ruins of a mining base, built by the Second Empire of Amorphous Green Robots in 95, destroyed in 112 due to orbital bombardment by the Second Empire of Amorphous Green Robots.
+Remnants of a culture of Flying Orange Antoids that collapsed due to a series of volcanic eruptions in 90.
+
+BULIW I
+A life-bearing planet of the Second Republic of Robots and Trolloids.
+It is populated by:
+2 billion Flying Robots
+1 billion Amorphous Trolloids with Giant Eyes
+A city of spires, built by the Second Empire of Amorphous Green Robots in 110
+A vast underground vault, built by the Second Empire of Amorphous Green Robots in 111
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+The ruins of a military base, built by the Second Empire of Amorphous Green Robots in 103, destroyed in 109 during the invasion of the Second Empire of Amorphous Green Robots.
+Remnants of a culture of Amorphous Trolloids with Giant Eyes that collapsed from the effects of pollution in 105.
+The ruins of a military base, built by the Second Empire of Amorphous Green Robots in 57, destroyed in 102 due to orbital bombardment by the Second Empire of Amorphous Green Robots.
+
+NID V
+A life-bearing planet of the Second Empire of Amorphous Green Robots.
+It is a little polluted.
+It is populated by:
+5 billion enslaved Amorphous Trolloids with Giant Eyes
+A city of spires, built by the Second Empire of Amorphous Green Robots in 76
+A complex of arcologies, built by the Second Empire of Amorphous Green Robots in 94
+Strata:
+The ruins of a vast museum, built by the Second Empire of Amorphous Green Robots in 106, destroyed in 113 through orbital bombardment by the Church of Telepathic Humanoids.
+The ruins of a reforming vat, built by the Second Empire of Amorphous Green Robots in 93, destroyed in 113 through orbital bombardment by the Church of Telepathic Humanoids.
+The ruins of a vast underground vault, built by the Second Empire of Amorphous Green Robots in 79, destroyed in 113 through orbital bombardment by the Church of Telepathic Humanoids.
+
+EIKAV I
+A life-bearing planet of the Church of Telepathic Humanoids.
+It is populated by:
+1 billion enslaved Six-Legged Catoids
+Lifeforms of note:
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+Strata:
+The ruins of a science lab, built by the Second Empire of Amorphous Green Robots in 36, destroyed in 111 due to orbital bombardment by the Church of Telepathic Humanoids.
+
+BOMEP V
+A barren planet of the Church of Telepathic Humanoids.
+A science lab, built by the Church of Telepathic Humanoids in 109
+Strata:
+The ruins of a science lab, built by the Second Empire of Amorphous Green Robots in 49, destroyed in 105 due to orbital bombardment by the Church of Telepathic Humanoids.
+
+FONER III
+A life-bearing planet of the Church of Telepathic Humanoids.
+It is populated by:
+3 billion enslaved Feathered Robots
+A science lab, built by the Second Empire of Amorphous Green Robots in 64
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Strata:
+Remnants of a culture of Six-Legged Catoids that collapsed from the effects of pollution in 113.
+Remnants of a culture of Amorphous Trolloids with Giant Eyes that collapsed from the effects of pollution in 109.
+
+KALAMIS II
+A life-bearing planet of the Church of Telepathic Humanoids.
+A military base, built by the Second Empire of Amorphous Green Robots in 86
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+Strata:
+Remnants of a culture of Feathered Robots that collapsed from the effects of pollution in 114.
+The ruins of a city of spires, built by the Second Empire of Amorphous Green Robots in 74, destroyed in 77 .
+The ruins of a gene library, built by the Second Empire of Amorphous Green Robots in 72, destroyed in 77 .
+The ruins of a grand palace, built by the Second Empire of Amorphous Green Robots in 67, destroyed in 77 .
+Remnants of a culture of Amorphous Trolloids with Giant Eyes that collapsed from the effects of pollution in 77.
+Remnants of a culture of Amorphous Green Robots that collapsed from mass hysteria in 74.
+
+KALAMIS VI
+A barren planet of the Second Republic of Robots and Trolloids.
+It is heavily polluted.
+A mining base, built by the Second Republic of Robots and Trolloids in 114
+Strata:
+The ruins of a military base, built by the Church of Telepathic Humanoids in 102, destroyed in 112 due to orbital bombardment by the Church of Telepathic Humanoids.
+A statue of Amorphous Trolloids with Giant Eyes created by the Second Empire of Amorphous Green Robots in 38, buried in 66.
+Remnants of a culture of Amorphous Trolloids with Giant Eyes that collapsed due to a series of volcanic eruptions in 66.
+A statue of statue of Amorphous Trolloids with Giant Eyes created by the Republic of Amorphous Trolloids with Giant Eyes in 38 created by the Second Empire of Amorphous Green Robots in 40, hidden in 57.
+
+LUMEN II
+A life-bearing planet of the Second Republic of Robots and Trolloids.
+A mining base, built by the Second Empire of Amorphous Green Robots in 46
+
+AINAW VI
+A barren planet of the Church of Telepathic Humanoids.
+A mining base, built by the Second Empire of Amorphous Green Robots in 106
+Strata:
+The ruins of a science lab, built by the Second Empire of Amorphous Green Robots in 49, destroyed in 104 due to orbital bombardment by the Second Empire of Amorphous Green Robots.
+
+HELMETTEPOL VI
+A barren planet of the Second Empire of Amorphous Green Robots.
+A military base, built by the Second Empire of Amorphous Green Robots in 56
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+
+KALAMIS III
+A barren planet of the Church of Telepathic Humanoids.
+A military base, built by the Church of Telepathic Humanoids in 110
+Strata:
+The ruins of a military base, built by the Second Empire of Amorphous Green Robots in 53, destroyed in 108 during the invasion of the Second Empire of Amorphous Green Robots.
+
+ATRIA V
+A life-bearing planet of the Second Empire of Amorphous Green Robots.
+A military base, built by the Second Empire of Amorphous Green Robots in 52
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+
+CIMAV II
+A barren planet of the Second Empire of Amorphous Green Robots.
+A science lab, built by the Second Empire of Amorphous Green Robots in 63
+Ice Planet: Nearly the entire planet is covered in a thick sheet of ice.
+
+TABERNAK I
+A life-bearing planet of the Second Empire of Amorphous Green Robots.
+It is a little polluted.
+A military base, built by the Second Empire of Amorphous Green Robots in 108
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+Strata:
+The ruins of a military base, built by the Church of Telepathic Humanoids in 103, destroyed in 107 due to orbital bombardment by the Second Empire of Amorphous Green Robots.
+The ruins of a vast museum, built by the Second Empire of Amorphous Green Robots in 98, destroyed in 103 .
+The ruins of a city of spires, built by the Second Empire of Amorphous Green Robots in 91, destroyed in 103 .
+The ruins of a reforming vat, built by the Second Empire of Amorphous Green Robots in 90, destroyed in 103 .
+The ruins of a vast underground vault, built by the Second Empire of Amorphous Green Robots in 88, destroyed in 103 .
+Remnants of a culture of Amorphous Trolloids with Giant Eyes that collapsed from the effects of pollution in 103.
+The ruins of a orbital elevator, built by the Republic of Orange Koboldoids in 80, destroyed in 81 by a nova.
+The ruins of a complex of arcologies, built by the Republic of Orange Koboldoids in 79, destroyed in 81 by a nova.
+The ruins of a city of spires, built by the Republic of Orange Koboldoids in 73, destroyed in 81 by a nova.
+The ruins of a vast museum, built by the Republic of Orange Koboldoids in 72, destroyed in 81 by a nova.
+The ruins of a skull pile, built by the Republic of Orange Koboldoids in 57, destroyed in 81 by a nova.
+Remnants of a culture of Two-Headed Grey Robots with Threefold Symmetry that collapsed due to a nova in 81.
+Remnants of a culture of Orange Koboldoids that collapsed due to a nova in 81.
+
+EOLET I
+A barren planet of the Church of Telepathic Humanoids.
+A science lab, built by the Church of Telepathic Humanoids in 111
+Ice Planet: Nearly the entire planet is covered in a thick sheet of ice.
+Strata:
+The ruins of a military base, built by the Second Empire of Amorphous Green Robots in 35, destroyed in 111 due to orbital bombardment by the Second Empire of Amorphous Green Robots.
+
+ORGUS V
+A life-bearing planet of the Church of Telepathic Humanoids.
+A mining base, built by the Church of Telepathic Humanoids in 107
+Strata:
+The ruins of a military base, built by the Church of Telepathic Humanoids in 105, destroyed in 106 during the invasion of the Second Empire of Amorphous Green Robots.
+The ruins of a mining base, built by the Second Empire of Amorphous Green Robots in 100, destroyed in 103 due to orbital bombardment by the Church of Telepathic Humanoids.
+Fossils of shape-shifters that went extinct in 98 due to a nova.
+The ruins of a science lab, built by the Second Empire of Amorphous Green Robots in 55, destroyed in 98 by a nova.
+A statue of statue of Amorphous Trolloids with Giant Eyes created by the Republic of Amorphous Trolloids with Giant Eyes in 38 created by the Second Empire of Amorphous Green Robots in 50, hidden in 80.
+
+AIMAV V
+A life-bearing planet of the Second Republic of Robots and Trolloids.
+It is populated by:
+2 billion Flying Robots
+A science lab, built by the Second Empire of Amorphous Green Robots in 59
+Strata:
+Remnants of a culture of Telepathic Humanoids that collapsed from the effects of pollution in 103.
+
+JURVOX II
+A barren planet.
+Strata:
+The ruins of a science lab, built by the Second Empire of Amorphous Green Robots in 110, destroyed in 114 due to orbital bombardment by the Church of Telepathic Humanoids.
+A Youth Serum created by the Church of Telepathic Humanoids in 103, buried in 105.
+The ruins of a science lab, built by the Second Empire of Amorphous Green Robots in 48, destroyed in 105 due to orbital bombardment by the Second Empire of Amorphous Green Robots.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Atria II, Buliw I, Nid V, Eikav I, Bomep V, Foner III, Kalamis II, Kalamis VI, Lumen II, Ainaw VI, Helmettepol VI, Kalamis III, Atria V, Cimav II, Tabernak I, Eolet I, Orgus V, Aimav V, Jurvox II
+13:
+Life arises on Nid V
+15:
+Life arises on Tabernak I
+16:
+Cimav II becomes covered with ice.
+17:
+Life arises on Foner III
+19:
+Life arises on Atria II
+24:
+Sentient Amorphous Trolloids with Giant Eyes arise on Nid V.
+29:
+Life arises on Eikav I
+32:
+The Amorphous Trolloids with Giant Eyes on Nid V achieve spaceflight and organise as a Theocracy, the Church of Amorphous Trolloids with Giant Eyes.
+
+Civ Name: Church of Amorphous Trolloids with Giant Eyes 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -3 | 2 | 1 | -1 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Life arises on Aimav V
+33:
+WE ENTER THE FIRST AGE OF CIVILISATION
+35:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The Church of Amorphous Trolloids with Giant Eyes build a military base on Eolet I.
+
+ Decomocratization Revival!Church of Amorphous Trolloids with Giant Eyes previous decrepitude: 0 revival amount: 1
+
+Civ Name: Church of Amorphous Trolloids with Giant Eyes 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -3 | 2 | 1 | -1 | 
+Resources 0 Science 3 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+A popular movement overthrows the old guard of the Church of Amorphous Trolloids with Giant Eyes and declares the Republic of Amorphous Trolloids with Giant Eyes.
+36:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes explore Nid V. 
+
+ Science Golden Age Revival!Republic of Amorphous Trolloids with Giant Eyes previous decrepitude: 0 revival amount: 21
+
+Civ Name: Republic of Amorphous Trolloids with Giant Eyes 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -3 | 2 | 1 | -1 | 
+Resources 1 Science 14 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Republic of Amorphous Trolloids with Giant Eyes enters a golden age of science! The Republic of Amorphous Trolloids with Giant Eyes build a science lab on Eikav I.
+37:
+Overcrowding on Nid V leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes develop powerful new weapons.
+38:
+The Republic of Amorphous Trolloids with Giant Eyes explore Eikav I. 
+The Republic of Amorphous Trolloids with Giant Eyes terraform and colonise Kalamis VI.
+
+ Art Golden Age Revival!Republic of Amorphous Trolloids with Giant Eyes previous decrepitude: 1 revival amount: 0
+
+Civ Name: Republic of Amorphous Trolloids with Giant Eyes 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -3 | 2 | 1 | -1 | 
+Resources 1 Science 7 Military 0 WeapLevel 1 TechLevel 1 Decrepitude 1
+Artists on Kalamis VI create a statue of Amorphous Trolloids with Giant Eyes. 
+39:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The Republic of Amorphous Trolloids with Giant Eyes explore Eikav I. 
+Life arises on Lumen II
+Sentient Orange Koboldoids arise on Tabernak I.
+40:
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+The Republic of Amorphous Trolloids with Giant Eyes develop powerful new weapons.
+
+ Art Golden Age Revival!Republic of Amorphous Trolloids with Giant Eyes previous decrepitude: 3 revival amount: 0
+
+Civ Name: Republic of Amorphous Trolloids with Giant Eyes 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -3 | 2 | 1 | -1 | 
+Resources 0 Science 5 Military 0 WeapLevel 2 TechLevel 1 Decrepitude 3
+Artists on Nid V create a statue of statue of Amorphous Trolloids with Giant Eyes created by the Republic of Amorphous Trolloids with Giant Eyes in 38. 
+41:
+Overcrowding on Nid V leads to increased pollution.
+42:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+43:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Sentient Flying Blue Antoids arise on Atria II.
+44:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+45:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+46:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The Republic of Amorphous Trolloids with Giant Eyes explore Bomep V. 
+The Republic of Amorphous Trolloids with Giant Eyes build a mining base on Lumen II.
+47:
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+Life arises on Buliw I
+48:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes build a science lab on Jurvox II.
+49:
+Overcrowding on Nid V leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes build a science lab on Bomep V.
+
+ Science Golden Age Revival!Republic of Amorphous Trolloids with Giant Eyes previous decrepitude: 14 revival amount: 77
+
+Civ Name: Republic of Amorphous Trolloids with Giant Eyes 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -3 | 2 | 1 | -1 | 
+Resources 0 Science 31 Military 0 WeapLevel 2 TechLevel 2 Decrepitude 14
+The Republic of Amorphous Trolloids with Giant Eyes enters a golden age of science! The Republic of Amorphous Trolloids with Giant Eyes build a science lab on Ainaw VI.
+50:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes explore Atria V. 
+The Republic of Amorphous Trolloids with Giant Eyes launch a space probe called Triad to explore the galaxy.
+
+ Art Golden Age Revival!Republic of Amorphous Trolloids with Giant Eyes previous decrepitude: 16 revival amount: 0
+
+Civ Name: Republic of Amorphous Trolloids with Giant Eyes 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -3 | 2 | 1 | -1 | 
+Resources 3 Science 12 Military 0 WeapLevel 2 TechLevel 2 Decrepitude 16
+Artists on Nid V create a statue of statue of Amorphous Trolloids with Giant Eyes created by the Republic of Amorphous Trolloids with Giant Eyes in 38. 
+51:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Nid V.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+Overcrowding on Kalamis VI leads to increased pollution.
+52:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+The Republic of Amorphous Trolloids with Giant Eyes build a military base on Atria V.
+The Republic of Amorphous Trolloids with Giant Eyes enters a dark age. Decrepitude set to 0,  was 20
+53:
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Nid V.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+Overcrowding on Kalamis VI leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes build a military base on Kalamis III.
+54:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+Overcrowding on Kalamis VI leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes terraform and colonise Kalamis II.
+Vast grazing herds evolve on Foner III.
+The Orange Koboldoids on Tabernak I achieve spaceflight and organise as a Military Dictatorship, the Empire of Orange Koboldoids.
+
+Civ Name: Empire of Orange Koboldoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -2 | 1 | -3 | 2 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+55:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes build a science lab on Orgus V.
+56:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis II has grown by a billion.
+Overcrowding on Kalamis VI leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes build a military base on Helmettepol VI.
+The Republic of Amorphous Trolloids with Giant Eyes explore Buliw I. 
+The Empire of Orange Koboldoids experiences a population boom! 
+57:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis II has grown by a billion.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+The Orange Koboldoids on Tabernak I devour one billion of their own kind in a mad frenzy of cannibalism!
+The Orange Koboldoids erect a pile of skulls on Tabernak I!
+Overcrowding on Nid V leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes build a military base on Buliw I.
+The statue of statue of Amorphous Trolloids with Giant Eyes created by the Republic of Amorphous Trolloids with Giant Eyes in 38 created by the Republic of Amorphous Trolloids with Giant Eyes in 40 on Nid V has been stolen and hidden on Kalamis VI.
+Overcrowding on Tabernak I leads to increased pollution.
+58:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Tabernak I leads to increased pollution.
+59:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes build a science lab on Aimav V.
+The Empire of Orange Koboldoids explore Tabernak I. 
+The Empire of Orange Koboldoids experiences a population boom! 
+Life arises on Atria V
+60:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+The Republic of Amorphous Trolloids with Giant Eyes create Amorphous Green Robots as servants on Kalamis II.
+Overcrowding on Tabernak I leads to increased pollution.
+61:
+The population of Amorphous Trolloids with Giant Eyes on Kalamis II has grown by a billion.
+The population of Amorphous Green Robots on Kalamis II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+Religious fanatics sieze power in the Republic of Amorphous Trolloids with Giant Eyes and declare the Second Church of Amorphous Trolloids with Giant Eyes.
+Overcrowding on Tabernak I leads to increased pollution.
+The Empire of Orange Koboldoids explore Tabernak I. 
+The Empire of Orange Koboldoids develop powerful new weapons.
+62:
+The population of Flying Blue Antoids on Atria II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis II has grown by a billion.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+
+ Decomocratization Revival!Second Church of Amorphous Trolloids with Giant Eyes previous decrepitude: 47 revival amount: 0
+
+Civ Name: Second Church of Amorphous Trolloids with Giant Eyes 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -3 | 2 | 1 | -1 | 
+Resources 4 Science 45 Military 3 WeapLevel 2 TechLevel 1 Decrepitude 47
+A popular movement overthrows the old guard of the Second Church of Amorphous Trolloids with Giant Eyes and declares the Republic of Robots and Trolloids.
+Overcrowding on Tabernak I leads to increased pollution.
+63:
+The Flying Blue Antoids on Atria II mutate into Flying Orange Antoids.
+Pollution kills a billion Flying Orange Antoids on Atria II.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The population of Amorphous Green Robots on Kalamis II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+The Republic of Robots and Trolloids build a science lab on Cimav II.
+The Republic of Robots and Trolloids explore Jurvox II. 
+Overcrowding on Tabernak I leads to increased pollution.
+64:
+The population of Flying Orange Antoids on Atria II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+The Republic of Robots and Trolloids build a science lab on Foner III.
+Overcrowding on Tabernak I leads to increased pollution.
+65:
+The population of Flying Orange Antoids on Atria II has grown by a billion.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Nid V.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis VI has grown by a billion.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+The Orange Koboldoids on Tabernak I devour one billion of their own kind in a mad frenzy of cannibalism!
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+Overcrowding on Tabernak I leads to increased pollution.
+The Empire of Orange Koboldoids explore Tabernak I. 
+
+ Industrial Golden Age Revival!Empire of Orange Koboldoids previous decrepitude: 6 revival amount: 0
+
+Civ Name: Empire of Orange Koboldoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -2 | 1 | -3 | 2 | 
+Resources 12 Science 8 Military 6 WeapLevel 1 TechLevel 1 Decrepitude 6
+The Empire of Orange Koboldoids enters a golden age of industry!  
+66:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis II has grown by a billion.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Kalamis VI.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Kalamis VI leads to increased pollution.
+Overcrowding on Tabernak I leads to increased pollution.
+Shape-shifters evolve on Buliw I.
+Massive volcanic eruptions on Kalamis VI eradicate all life on the planet!
+67:
+The population of Flying Orange Antoids on Atria II has grown by a billion.
+The population of Amorphous Green Robots on Kalamis II has grown by a billion.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+The Republic of Robots and Trolloids build a grand palace on Kalamis II.
+The Republic of Robots and Trolloids build a mining base on Kalamis VI.
+The deadly Grey Plague, which affects Amorphous Trolloids with Giant Eyes, arises on Kalamis II.
+Overcrowding on Tabernak I leads to increased pollution.
+The Empire of Orange Koboldoids explore Tabernak I. 
+The Empire of Orange Koboldoids launch a space probe called Dyad to explore the galaxy.
+68:
+The population of Flying Orange Antoids on Atria II has grown by a billion.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Nid V.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Kalamis II.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+The Republic of Robots and Trolloids explore Eolet I. 
+Overcrowding on Tabernak I leads to increased pollution.
+The space probe Triad returns to Nid V.
+The Republic of Robots and Trolloids gains a wealth of new knowledge as a result.
+69:
+Pollution kills a billion Flying Orange Antoids on Atria II.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Tabernak I leads to increased pollution.
+Life arises on Orgus V
+70:
+Pollution kills a billion Flying Orange Antoids on Atria II.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Kalamis II.
+The population of Amorphous Green Robots on Kalamis II has grown by a billion.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Tabernak I leads to increased pollution.
+71:
+Pollution kills a billion Flying Orange Antoids on Atria II.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Nid V.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Kalamis II.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+Overcrowding on Tabernak I leads to increased pollution.
+72:
+Pollution kills a billion Flying Orange Antoids on Atria II.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Nid V.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis II has grown by a billion.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+The Republic of Robots and Trolloids build a gene library on Kalamis II.
+Overcrowding on Tabernak I leads to increased pollution.
+The Empire of Orange Koboldoids build a vast museum on Tabernak I.
+
+ Art Golden Age Revival!Empire of Orange Koboldoids previous decrepitude: 13 revival amount: 7
+
+Civ Name: Empire of Orange Koboldoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -2 | 1 | -3 | 2 | 
+Resources 9 Science 6 Military 8 WeapLevel 1 TechLevel 1 Decrepitude 13
+Artists on Tabernak I create a painting of Orange Koboldoids. 
+73:
+Pollution kills a billion Flying Orange Antoids on Atria II.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Kalamis II.
+The population of Amorphous Green Robots on Kalamis II has grown by a billion.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+The Republic of Robots and Trolloids explore Eolet I. 
+A military putsch turns the Republic of Robots and Trolloids into the Empire of Amorphous Green Robots.
+Overcrowding on Tabernak I leads to increased pollution.
+The Empire of Orange Koboldoids build a city of spires on Tabernak I.
+74:
+Pollution kills a billion Flying Orange Antoids on Atria II.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Kalamis II has grown by a billion.
+The population of Amorphous Green Robots on Kalamis II has grown by a billion.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Kalamis II leads to increased pollution.
+The Empire of Amorphous Green Robots build a city of spires on Kalamis II.
+Mass hysteria breaks out in the Empire of Amorphous Green Robots, killing billions.
+Overcrowding on Tabernak I leads to increased pollution.
+The Empire of Orange Koboldoids explore Tabernak I. 
+75:
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Overcrowding on Tabernak I leads to increased pollution.
+The Empire of Orange Koboldoids experiences a population boom! 
+76:
+Pollution kills a billion Flying Orange Antoids on Atria II.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+The Empire of Amorphous Green Robots build a city of spires on Nid V.
+The deadly Black Pox, which affects Amorphous Trolloids with Giant Eyes, arises on Kalamis II.
+Overcrowding on Tabernak I leads to increased pollution.
+The Empire of Orange Koboldoids explore Tabernak I. 
+
+ Decomocratization Revival!Empire of Orange Koboldoids previous decrepitude: 18 revival amount: 34
+
+Civ Name: Empire of Orange Koboldoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -2 | 1 | -3 | 2 | 
+Resources 5 Science 10 Military 8 WeapLevel 1 TechLevel 1 Decrepitude 18
+A popular movement overthrows the old guard of the Empire of Orange Koboldoids and declares the Republic of Orange Koboldoids.
+77:
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Kalamis II.
+Amorphous Trolloids with Giant Eyes have died out on Kalamis II!
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+The Empire of Amorphous Green Robots explore Foner III. 
+Overcrowding on Tabernak I leads to increased pollution.
+The Republic of Orange Koboldoids explore Tabernak I. 
+The Republic of Orange Koboldoids explore Tabernak I. 
+The deadly Grey Rot, which affects Orange Koboldoids, arises on Tabernak I.
+The space probe Dyad returns to Tabernak I.
+The Republic of Orange Koboldoids gains a wealth of new knowledge as a result.
+78:
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+Overcrowding on Tabernak I leads to increased pollution.
+
+ Industrial Golden Age Revival!Republic of Orange Koboldoids previous decrepitude: 28 revival amount: 0
+
+Civ Name: Republic of Orange Koboldoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -2 | 1 | -3 | 2 | 
+Resources 17 Science 12 Military 8 WeapLevel 1 TechLevel 4 Decrepitude 28
+The Republic of Orange Koboldoids enters a golden age of industry!  
+79:
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Nid V.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+Grey Rot has been eradicated on Tabernak I.
+The Empire of Amorphous Green Robots build a vast underground vault on Nid V.
+The Empire of Amorphous Green Robots accidentally create the rogue AI System 6 on Buliw I.
+Overcrowding on Tabernak I leads to increased pollution.
+The Republic of Orange Koboldoids build a complex of arcologies on Tabernak I.
+80:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Pollution kills a billion Orange Koboldoids on Tabernak I.
+The statue of statue of Amorphous Trolloids with Giant Eyes created by the Republic of Amorphous Trolloids with Giant Eyes in 38 created by the Empire of Amorphous Green Robots in 50 on Nid V has been stolen and hidden on Orgus V.
+Overcrowding on Tabernak I leads to increased pollution.
+The Republic of Orange Koboldoids build a orbital elevator on Tabernak I.
+The Republic of Orange Koboldoids create Two-Headed Grey Robots with Threefold Symmetry as servants on Tabernak I.
+
+ Science Golden Age Revival!Republic of Orange Koboldoids previous decrepitude: 27 revival amount: 0
+
+Civ Name: Republic of Orange Koboldoids 
+Civ Birth Year: 54 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -2 | 1 | -3 | 2 | 
+Resources 8 Science 11 Military 8 WeapLevel 1 TechLevel 4 Decrepitude 27
+The Republic of Orange Koboldoids enters a golden age of science! 
+The rogue AI System 6 crashes the Buliw I stock exchange.
+81:
+The population of Flying Orange Antoids on Atria II has grown by a billion.
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The population of Orange Koboldoids on Tabernak I has grown by a billion.
+Pollution kills a billion Two-Headed Grey Robots with Threefold Symmetry on Tabernak I.
+Overcrowding on Tabernak I leads to increased pollution.
+The star of Tabernak I goes nova, scraping the planet clean of all life!
+The Republic of Orange Koboldoids collapses.
+82:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Eolet I becomes covered with ice.
+83:
+The rogue AI System 6 vanishes without a trace.
+84:
+Pollution kills a billion Flying Orange Antoids on Atria II.
+The Empire of Amorphous Green Robots explore Eikav I. 
+85:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The Flying Orange Antoids on Atria II achieve spaceflight and organise as a Republic, the Republic of Flying Orange Antoids.
+
+Civ Name: Republic of Flying Orange Antoids 
+Civ Birth Year: 85 
+Civ Stats Str|Dex|Con|Int|Cha
+          2 | 1 | -2 | -1 | -4 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Beautiful flying creatures evolve on Eikav I.
+Pollution on Kalamis II abates.
+86:
+The Empire of Amorphous Green Robots build a military base on Kalamis II.
+The Empire of Amorphous Green Robots terraform and colonise Tabernak I.
+Overcrowding on Atria II leads to increased pollution.
+87:
+Pollution kills a billion Flying Orange Antoids on Atria II.
+Overcrowding on Atria II leads to increased pollution.
+The Republic of Flying Orange Antoids send a delegation to Eolet I. They declare war on the Empire of Amorphous Green Robots! 
+The wind plays across rock formations on Foner III, producing an eerie music.
+Beautiful aurorae play across the skies of Helmettepol VI.
+88:
+The population of Amorphous Trolloids with Giant Eyes on Tabernak I has grown by a billion.
+The Empire of Amorphous Green Robots build a vast underground vault on Tabernak I.
+A famine breaks out on Tabernak I, killing 1 billion.
+The Empire of Amorphous Green Robots attack Atria II, a colony of the Republic of Flying Orange Antoids, and subject it to orbital bombardment, killing 4 billion.
+89:
+Religious fanatics sieze power in the Empire of Amorphous Green Robots and declare the Church of Amorphous Green Robots.
+The Church of Amorphous Green Robots conquer Atria II, a colony of the Republic of Flying Orange Antoids, killing 2 billion in the process.
+The Republic of Flying Orange Antoids collapses.
+90:
+The population of Flying Orange Antoids on Atria II has grown by a billion.
+The Church of Amorphous Green Robots build a reforming vat on Tabernak I.
+Massive volcanic eruptions on Atria II eradicate all life on the planet!
+91:
+The population of Amorphous Trolloids with Giant Eyes on Tabernak I has grown by a billion.
+The Church of Amorphous Green Robots build a city of spires on Tabernak I.
+Shape-shifters evolve on Orgus V.
+93:
+The Church of Amorphous Green Robots build a reforming vat on Nid V.
+Sentient Six-Legged Catoids arise on Foner III.
+Deposits of huge gems form on Tabernak I.
+94:
+The Church of Amorphous Green Robots build a complex of arcologies on Nid V.
+Sentient Telepathic Humanoids arise on Aimav V.
+95:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The Church of Amorphous Green Robots build a mining base on Atria II.
+96:
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Tabernak I.
+The population of Telepathic Humanoids on Aimav V has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+Degeneration occured in:  Church of Amorphous Green Robotscausing all stats to drop by 1
+97:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+The Church of Amorphous Green Robots explore Nid V. 
+A military putsch turns the Church of Amorphous Green Robots into the Second Empire of Amorphous Green Robots.
+98:
+Overcrowding on Nid V leads to increased pollution.
+The Second Empire of Amorphous Green Robots build a vast museum on Tabernak I.
+Radiovores evolve on Atria V.
+The star of Orgus V goes nova, scraping the planet clean of all life!
+99:
+The population of Six-Legged Catoids on Foner III has grown by a billion.
+100:
+The population of Six-Legged Catoids on Foner III has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+The Second Empire of Amorphous Green Robots build a mining base on Orgus V.
+
+Civ Name: Second Empire of Amorphous Green Robots 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | -4 | 1 | 0 | -2 | 
+Resources 11 Science 250 Military 45 WeapLevel 2 TechLevel 6 Decrepitude 196
+The Church of Telepathic Humanoids secedes from the Second Empire of Amorphous Green Robots, leading to a civil war!
+The Second Empire of Amorphous Green Robots conquer Eikav I, a colony of the Church of Telepathic Humanoids.
+101:
+Pollution kills a billion Telepathic Humanoids on Aimav V.
+The Second Empire of Amorphous Green Robots explore Eolet I. 
+The Second Empire of Amorphous Green Robots conquer Lumen II, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids create Flying Robots as servants on Aimav V.
+The Church of Telepathic Humanoids attack and raze Kalamis VI, a colony of the Second Empire of Amorphous Green Robots.
+102:
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Nid V.
+Pollution kills a billion Telepathic Humanoids on Aimav V.
+Pollution kills a billion Flying Robots on Aimav V.
+The Second Empire of Amorphous Green Robots explore Lumen II. 
+The Second Empire of Amorphous Green Robots attack and raze Buliw I, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids build a military base on Kalamis VI.
+The Church of Telepathic Humanoids conquer Atria II, a colony of the Second Empire of Amorphous Green Robots.
+103:
+The population of Six-Legged Catoids on Foner III has grown by a billion.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Tabernak I.
+Amorphous Trolloids with Giant Eyes have died out on Tabernak I!
+Pollution kills a billion Telepathic Humanoids on Aimav V.
+Telepathic Humanoids have died out on Aimav V!
+Overcrowding on Nid V leads to increased pollution.
+Overcrowding on Foner III leads to increased pollution.
+The Second Empire of Amorphous Green Robots build a military base on Buliw I.
+The Second Empire of Amorphous Green Robots conquer Kalamis VI, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids build a military base on Tabernak I.
+The Church of Telepathic Humanoids develop a Youth Serum.
+The Church of Telepathic Humanoids attack and raze Orgus V, a colony of the Second Empire of Amorphous Green Robots.
+104:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Overcrowding on Foner III leads to increased pollution.
+The Second Empire of Amorphous Green Robots colonise Buliw I. 
+The Second Empire of Amorphous Green Robots attack and raze Ainaw VI, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids conquer Buliw I, a colony of the Second Empire of Amorphous Green Robots.
+105:
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Buliw I.
+Amorphous Trolloids with Giant Eyes have died out on Buliw I!
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The Second Empire of Amorphous Green Robots attack and raze Jurvox II, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids build a military base on Orgus V.
+The Church of Telepathic Humanoids attempting to upgrade their stats of value :2 current score is: -2
+The difficulty is: 40 They rolled: 5on: 3d7
+The Church of Telepathic Humanoids attack and raze Bomep V, a colony of the Second Empire of Amorphous Green Robots.
+A gigantic network of caves forms on Kalamis II.
+106:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+The Second Empire of Amorphous Green Robots build a mining base on Ainaw VI.
+The Second Empire of Amorphous Green Robots build a vast museum on Nid V.
+The Second Empire of Amorphous Green Robots conquer Orgus V, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids explore Kalamis II. 
+The Church of Telepathic Humanoids conquer Kalamis III, a colony of the Second Empire of Amorphous Green Robots.
+Life arises on Orgus V
+107:
+The Second Empire of Amorphous Green Robots attack and raze Tabernak I, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids build a mining base on Orgus V.
+The Church of Telepathic Humanoids conquer Ainaw VI, a colony of the Second Empire of Amorphous Green Robots.
+108:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Overcrowding on Foner III leads to increased pollution.
+The Second Empire of Amorphous Green Robots build a military base on Tabernak I.
+The Second Empire of Amorphous Green Robots conquer Kalamis III, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids colonise Buliw I. 
+The Church of Telepathic Humanoids conquer Foner III, a colony of the Second Empire of Amorphous Green Robots, killing 2 billion in the process.
+109:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Foner III.
+Amorphous Trolloids with Giant Eyes have died out on Foner III!
+Overcrowding on Nid V leads to increased pollution.
+The Second Empire of Amorphous Green Robots attempting to upgrade their stats of value :1 current score is: -2
+The difficulty is: 40 They rolled: 31on: 7d7
+The Second Empire of Amorphous Green Robots conquer Buliw I, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids build a science lab on Bomep V.
+The Church of Telepathic Humanoids conquer Atria V, a colony of the Second Empire of Amorphous Green Robots.
+110:
+The population of Flying Robots on Buliw I has grown by a billion.
+Overcrowding on Nid V leads to increased pollution.
+The Second Empire of Amorphous Green Robots build a city of spires on Buliw I.
+The Second Empire of Amorphous Green Robots build a science lab on Jurvox II.
+The Second Empire of Amorphous Green Robots conquer Atria V, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids build a military base on Kalamis III.
+The Church of Telepathic Humanoids attempting to upgrade their stats of value :3 current score is: -4
+The difficulty is: 20 They rolled: 12on: 4d8
+The Church of Telepathic Humanoids conquer Eolet I, a colony of the Second Empire of Amorphous Green Robots.
+111:
+Pollution kills a billion Amorphous Trolloids with Giant Eyes on Nid V.
+Pollution kills a billion Six-Legged Catoids on Foner III.
+The Second Empire of Amorphous Green Robots build a vast underground vault on Buliw I.
+The Second Empire of Amorphous Green Robots attack and raze Eolet I, a colony of the Church of Telepathic Humanoids.
+
+ Science Golden Age Revival!Church of Telepathic Humanoids previous decrepitude: 6 revival amount: 16
+
+Civ Name: Church of Telepathic Humanoids 
+Civ Birth Year: 100 
+Civ Stats Str|Dex|Con|Int|Cha
+          -5 | -2 | -4 | -4 | -6 | 
+Resources 9 Science 20 Military 16 WeapLevel 2 TechLevel 8 Decrepitude 6
+The Church of Telepathic Humanoids enters a golden age of science! The Church of Telepathic Humanoids build a science lab on Eolet I.
+The Church of Telepathic Humanoids attack and raze Eikav I, a colony of the Second Empire of Amorphous Green Robots.
+112:
+The population of Flying Robots on Buliw I has grown by a billion.
+
+Civ Name: Second Empire of Amorphous Green Robots 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | -4 | 1 | 0 | -2 | 
+Resources 4 Science 22 Military 29 WeapLevel 2 TechLevel 7 Decrepitude 247
+The Second Republic of Robots and Trolloids secedes from the Second Empire of Amorphous Green Robots, leading to a civil war!
+The Second Empire of Amorphous Green Robots attack and raze Atria II, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids colonise Eikav I. 
+The Church of Telepathic Humanoids build a mining base on Atria II.
+The Church of Telepathic Humanoids create Feathered Robots as servants on Foner III.
+The Church of Telepathic Humanoids attack and raze Kalamis VI, a colony of the Second Empire of Amorphous Green Robots.
+113:
+Pollution kills a billion Flying Robots on Buliw I.
+Pollution kills a billion Six-Legged Catoids on Foner III.
+Six-Legged Catoids have died out on Foner III!
+Overcrowding on Nid V leads to increased pollution.
+The Second Empire of Amorphous Green Robots conquer Aimav V, a colony of the Church of Telepathic Humanoids.
+The Church of Telepathic Humanoids colonise Kalamis II. 
+The Church of Telepathic Humanoids attack Nid V, a colony of the Second Empire of Amorphous Green Robots, and subject it to orbital bombardment, killing 2 billion.
+The Second Republic of Robots and Trolloids conquer Aimav V, a colony of the Second Empire of Amorphous Green Robots.
+114:
+The population of Amorphous Trolloids with Giant Eyes on Nid V has grown by a billion.
+Pollution kills a billion Feathered Robots on Kalamis II.
+Feathered Robots have died out on Kalamis II!
+The Second Empire of Amorphous Green Robots conquer Cimav II, a colony of the Second Republic of Robots and Trolloids.
+The Church of Telepathic Humanoids explore Kalamis III. 
+The Church of Telepathic Humanoids attack and raze Jurvox II, a colony of the Second Empire of Amorphous Green Robots.
+The Second Republic of Robots and Trolloids build a mining base on Kalamis VI.

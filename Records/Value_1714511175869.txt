@@ -1,0 +1,150 @@
+SENTIENT SPECIES:
+Four-Armed Humanoids: Pretty adventurous but otherwise fairly average. They have four arms. They have bilateral symmetry. They are fond of practical jokes and believe in the survival of the fittest. They first evolved on Cokes IV in 87.
+	Their Stats are: STR: -1 DEX: 1 CON: -1 INT: -1 CHA: 1
+
+CIVILISATIONS:
+THE KINGDOM OF FOUR-ARMED HUMANOIDS:
+A recently emerged, impoverished, primitive Kingdom of a single planet, Cokes IV, with 3 billion inhabitants.
+Major populations:
+3 billion Four-Armed Humanoids.
+
+PLANETS:
+TARANIS II
+A barren planet.
+
+COKES IV
+A life-bearing planet of the Kingdom of Four-Armed Humanoids.
+It is populated by:
+3 billion Four-Armed Humanoids
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Ultravores: The ultimate apex predator, the Ultravore is capable of stalking and killing even the most intelligent and well-armed prey.
+
+MERA IV
+A life-bearing planet.
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+Strata:
+Remnants of a culture of Green Trolloids that collapsed due to a psionic shockwave in 92.
+
+CIMAS V
+A barren planet.
+
+EULIW IV
+A barren planet.
+
+AONET III
+A barren planet.
+
+LUMEN III
+A barren planet.
+
+CINAW III
+A barren planet.
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+
+VIM I
+A barren planet.
+
+TABERNAK III
+A life-bearing planet.
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+
+BILAW I
+A barren planet.
+
+DUKIS I
+A life-bearing planet.
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+
+TARANIS V
+A barren planet.
+
+HYLON II
+A barren planet.
+Periodical Darkness: Every thirteen years, the orbit of this planet synchronizes with that of a planet closer to its stars, causing a night that lasts for weeks.
+
+FONER VI
+A barren planet.
+
+WOTAN VI
+A barren planet.
+
+AYLOX V
+A barren planet.
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+
+URBON VI
+A barren planet.
+
+PASTINAKOS II
+A barren planet.
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Taranis II, Cokes IV, Mera IV, Cimas V, Euliw IV, Aonet III, Lumen III, Cinaw III, Vim I, Tabernak III, Bilaw I, Dukis I, Taranis V, Hylon II, Foner VI, Wotan VI, Aylox V, Urbon VI, Pastinakos II
+11:
+Due to an accident of orbital mechanics, every 13 years, Hylon II is plunged into total darkness.
+19:
+Beautiful aurorae play across the skies of Cinaw III.
+22:
+Life arises on Mera IV
+25:
+Life arises on Tabernak III
+36:
+Life arises on Cokes IV
+40:
+Titanic mountains form on Mera IV.
+41:
+Life arises on Dukis I
+45:
+Titanic mountains form on Aylox V.
+48:
+Gas bags evolve on Tabernak III.
+54:
+Shape-shifters evolve on Cokes IV.
+55:
+Living islands evolve on Dukis I.
+63:
+Sentient Green Trolloids arise on Mera IV.
+72:
+Vast grazing herds evolve on Cokes IV.
+73:
+Pharmaceuticals evolve on Dukis I.
+80:
+Ultravores evolve on Cokes IV.
+82:
+Titanic mountains form on Dukis I.
+87:
+Sentient Four-Armed Humanoids arise on Cokes IV.
+88:
+A giant spaceborne red crystal appears from the depths of space and menaces the skies of Foner VI.
+90:
+Pastinakos II becomes tidally locked to its star.
+92:
+A psionic shockwave of unknown origin passes through Mera IV, instantly stopping all life!
+104:
+The giant spaceborne red crystal leaves the orbit of Foner VI and heads back into deep space.
+Life arises on Mera IV
+108:
+Radiovores evolve on Dukis I.
+110:
+The Four-Armed Humanoids on Cokes IV achieve spaceflight and organise as a Feudal State, the Kingdom of Four-Armed Humanoids.
+
+Civ Name: Kingdom of Four-Armed Humanoids 
+Civ Birth Year: 110 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 1 | -1 | -1 | 1 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+111:
+WE ENTER THE FIRST AGE OF CIVILISATION
+The Kingdom of Four-Armed Humanoids explore Tabernak III. 

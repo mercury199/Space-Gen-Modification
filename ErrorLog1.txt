@@ -35,3 +35,11 @@
 	at java.lang.Thread.run(Unknown Source)
 
 	
+
+
+java.lang.NullPointerException: Cannot invoke "com.zarkonnen.spacegen.Planet.getOwner()" because the return value of "com.zarkonnen.spacegen.Agent.getLocation()" is null
+        at com.zarkonnen.spacegen.AgentType$7.behave(AgentType.java:802)
+        at com.zarkonnen.spacegen.SpaceGen.tick(SpaceGen.java:457)
+        at com.zarkonnen.spacegen.GameWorld.tick(GameWorld.java:39)
+        at com.zarkonnen.spacegen.GameThread.run(GameThread.java:42)
+        at java.base/java.lang.Thread.run(Thread.java:1583)

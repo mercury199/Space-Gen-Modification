@@ -1,0 +1,384 @@
+SENTIENT SPECIES:
+Green Catoids: Always curious and often cruel. They have green skin. They have bilateral symmetry. They are cautious and believe in the survival of the fittest. They first evolved on Fokev I in 69.
+	Their Stats are: STR: -3 DEX: 0 CON: 1 INT: 1 CHA: -1
+Flying Humanoids: Pretty adventurous but otherwise fairly average. They have bilateral symmetry. They can fly. They are gregarious and have a deep need to conform. They first evolved on Wotan II in 62.
+	Their Stats are: STR: -1 DEX: -1 CON: 1 INT: -3 CHA: -3
+Giant Orange Trolloids: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have orange skin. They have bilateral symmetry. They are fond of practical jokes and deeply religious. They first evolved on Denur III in 79.
+	Their Stats are: STR: -1 DEX: 1 CON: 0 INT: -3 CHA: -1
+Four-Armed Purple Robots: Purely mechanical lifeforms, artificially created. They have purple skin. They have four arms. They have bilateral symmetry. They are humorless and always willing to listen. They were created by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots on Denur III as servants in 85.
+	Their Stats are: STR: -1 DEX: 0 CON: 1 INT: -3 CHA: -2
+Red Catoids: Always curious and often cruel. They have red skin. They have bilateral symmetry. They are cautious and believe that each individual must serve the community. They first evolved on Chroma VI in 90.
+	Their Stats are: STR: -1 DEX: 1 CON: 1 INT: -2 CHA: -1
+Six-Legged Dwarfoids: Fond of drink and industry - especially building strange contraptions. They have six legs. They have bilateral symmetry. They are cautious and deeply religious. They first evolved on Freia I in 49.
+	Their Stats are: STR: -2 DEX: 1 CON: -2 INT: 0 CHA: -1
+Six-Legged Catoids: Always curious and often cruel. They have six legs. They have bilateral symmetry. They are meditative and have a complex system of social castes. They first evolved on Fynow III in 95.
+	Their Stats are: STR: -3 DEX: 1 CON: 1 INT: -2 CHA: 2
+Scaly Trolloids: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have bilateral symmetry. They are cowardly and have a deep need to conform. They first evolved on Taranis VI in 44.
+	Their Stats are: STR: -1 DEX: -1 CON: 0 INT: -1 CHA: 2
+Slim Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry and a slim shape. They are hyperactive and deeply rationalist. They were created by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots on Fokev I as servants in 73.
+	Their Stats are: STR: -2 DEX: 1 CON: 2 INT: -3 CHA: -3
+Red Ursoids: Always at war with someone, or everyone, or one another. They have red skin. They have bilateral symmetry. They are thrill-seeking and deeply rationalist. They first evolved on Chroma VI in 28.
+	Their Stats are: STR: -1 DEX: 1 CON: -1 INT: -1 CHA: -1
+Tiny Deep Dwellers: They live in the deep oceans or in deep caves, hiding. Their presence can go unnoticed for a long time. They have bilateral symmetry. They are modest and have a complex system of social castes. They first evolved on Chroma V in 96.
+	Their Stats are: STR: 1 DEX: -2 CON: 1 INT: 1 CHA: -1
+
+CIVILISATIONS:
+THE REPUBLIC OF CATOIDS, TROLLOIDS, URSOIDS, DWARFOIDS AND ROBOTS:
+An ancient, corrupt, impoverished, advanced Republic of 15 planets, with 21 billion inhabitants.
+Major populations:
+1 billion Green Catoids.
+1 billion Giant Orange Trolloids.
+4 billion Four-Armed Purple Robots.
+3 billion Red Catoids.
+2 billion Six-Legged Dwarfoids.
+1 billion Six-Legged Catoids.
+4 billion Slim Robots.
+2 billion Red Ursoids.
+3 billion enslaved Tiny Deep Dwellers.
+
+	Their Stats are: STR: -3 DEX: 2 CON: 0 INT: -1 CHA: -1
+PLANETS:
+WOTAN II
+A life-bearing planet.
+It is populated by:
+1 billion Flying Humanoids
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+Strata:
+A Killer Meme created by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 68, forgotten in 82.
+Remnants of a culture of Amorphous Humanoids with Five-fold Symmetry that collapsed from mass hysteria in 82.
+
+CHROMA VI
+A barren planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 73
+
+CHROMA V
+A life-bearing planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+It is populated by:
+3 billion enslaved Tiny Deep Dwellers
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 70
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+
+FOKEV I
+A life-bearing planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+It is populated by:
+1 billion Green Catoids
+4 billion Slim Robots
+A science lab, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 68
+
+FREIA I
+A life-bearing planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+It is populated by:
+2 billion Six-Legged Dwarfoids
+1 billion Four-Armed Purple Robots
+
+EUNIW III
+A barren planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 82
+
+URBON I
+A barren planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 74
+Strata:
+The Tomb of Captain Brm'orr, buried in 87.
+
+FYNOW III
+A life-bearing planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+It is populated by:
+1 billion Six-Legged Catoids
+A mining base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 66
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+
+ORRA II
+A barren planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 97
+Ice Planet: Nearly the entire planet is covered in a thick sheet of ice.
+
+MERA V
+A barren planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 93
+
+KALAMIS VI
+A barren planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 56
+
+CHROMA VI
+A life-bearing planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+It is populated by:
+2 billion Red Ursoids
+3 billion Red Catoids
+A barracks, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 90
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+The Tomb of Captain Orsus, buried in 72.
+
+CIKAP I
+A barren planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+A science lab, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 87
+Strata:
+Fossils of brain parasites that went extinct in 84 due to a nanofungal bloom.
+The ruins of a military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 75, destroyed in 84 by a nanofungal bloom.
+Remnants of a culture of Green Catoids that collapsed from the effects of pollution in 74.
+
+DENUR III
+A life-bearing planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+It is populated by:
+1 billion Giant Orange Trolloids
+3 billion Four-Armed Purple Robots
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 64
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+
+TARANIS VI
+A life-bearing planet.
+It is populated by:
+2 billion Scaly Trolloids
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+
+AUMIV V
+A barren planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 84
+
+AOMEP II
+A barren planet of the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+A military base, built by the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots in 86
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Wotan II, Chroma VI, Chroma V, Fokev I, Freia I, Euniw III, Urbon I, Fynow III, Orra II, Mera V, Kalamis VI, Chroma VI, Cikap I, Denur III, Taranis VI, Aumiv V, Aomep II
+13:
+Life arises on Wotan II
+17:
+Gas bags evolve on Wotan II.
+Life arises on Chroma VI
+22:
+Life arises on Freia I
+28:
+Sentient Red Ursoids arise on Chroma VI.
+34:
+Life arises on Cikap I
+Life arises on Denur III
+38:
+Life arises on Taranis VI
+41:
+Life arises on Chroma V
+43:
+Gas bags evolve on Denur III.
+44:
+Sentient Scaly Trolloids arise on Taranis VI.
+47:
+The Red Ursoids on Chroma VI achieve spaceflight and organise as a Republic, the Republic of Red Ursoids.
+
+Civ Name: Republic of Red Ursoids 
+Civ Birth Year: 47 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | -4 | -2 | -3 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+48:
+WE ENTER THE FIRST AGE OF CIVILISATION
+49:
+Pollution kills a billion Red Ursoids on Chroma VI.
+The Republic of Red Ursoids explore Kalamis VI. 
+Sentient Six-Legged Dwarfoids arise on Freia I.
+A gigantic network of caves forms on Taranis VI.
+52:
+Pollution kills a billion Red Ursoids on Chroma VI.
+The Republic of Red Ursoids collapses, leaving only a few survivors on Chroma VI.
+The Red Ursoids on Chroma VI achieve spaceflight and organise as a Military Dictatorship, the Empire of Red Ursoids.
+
+Civ Name: Empire of Red Ursoids 
+Civ Birth Year: 52 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | 3 | -1 | -3 | -2 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+54:
+The Empire of Red Ursoids explore Chroma VI. 
+The Empire of Red Ursoids explore Kalamis VI. 
+55:
+The Empire of Red Ursoids explore Chroma VI. 
+56:
+The Empire of Red Ursoids build a military base on Kalamis VI.
+Brain parasites evolve on Chroma V.
+Brain parasites evolve on Cikap I.
+57:
+The Empire of Red Ursoids explore Chroma VI. 
+Life arises on Fynow III
+58:
+Shape-shifters evolve on Chroma VI.
+59:
+The Empire of Red Ursoids launch a space probe called Lun'hod to explore the galaxy.
+Life arises on Fokev I
+60:
+The Empire of Red Ursoids explore Fynow III. 
+62:
+The Empire of Red Ursoids explore Kalamis VI. 
+Captain Orsus, space adventurer, blasts off from Kalamis VI.
+An expedition led by Captain Orsus explores Freia I. They trade with the local Six-Legged Dwarfoids. 
+An expedition led by Captain Orsus explores Aumiv V. 
+Sentient Flying Humanoids arise on Wotan II.
+63:
+The Empire of Red Ursoids explore Freia I. They subjugate the local Six-Legged Dwarfoids. 
+An expedition led by Captain Orsus explores Denur III. 
+An expedition led by Captain Orsus explores Wotan II. They trade with the local Flying Humanoids. 
+64:
+The Empire of Red Ursoids build a military base on Denur III.
+An expedition led by Captain Orsus explores Euniw III. 
+An expedition led by Captain Orsus explores Aomep II. 
+65:
+The Empire of Red Ursoids explore Fokev I. 
+An expedition led by Captain Orsus explores Orra II. 
+66:
+The Empire of Red Ursoids explore Denur III. 
+The Empire of Red Ursoids build a mining base on Fynow III.
+67:
+The Empire of Red Ursoids explore Fynow III. 
+An expedition led by Captain Orsus explores Wotan II. They trade with the local Flying Humanoids. 
+68:
+The Empire of Red Ursoids explore Denur III. 
+The Empire of Red Ursoids build a science lab on Fokev I.
+The Empire of Red Ursoids develop a Killer Meme.
+69:
+An expedition led by Captain Orsus explores Chroma VI. 
+An expedition led by Captain Orsus explores Orra II. 
+Sentient Green Catoids arise on Fokev I.
+70:
+The Empire of Red Ursoids build a military base on Chroma V.
+71:
+Pollution kills a billion Six-Legged Dwarfoids on Freia I.
+The Empire of Red Ursoids explore Denur III. 
+The Empire of Red Ursoids explore Kalamis VI. 
+An expedition led by Captain Orsus explores Aomep II. 
+An expedition led by Captain Orsus explores Mera V. 
+Sentient Amorphous Humanoids with Five-fold Symmetry arise on Wotan II.
+72:
+The Empire of Red Ursoids explore Kalamis VI. 
+The Empire of Red Ursoids colonise Cikap I. 
+An expedition led by Captain Orsus explores Aomep II. 
+The space adventurer Captain Orsus dies and is buried on Chroma VI.
+73:
+The Empire of Red Ursoids build a military base on Chroma VI.
+The Empire of Red Ursoids create Slim Robots as servants on Fokev I.
+Radiovores evolve on Chroma V.
+74:
+Pollution kills a billion Slim Robots on Fokev I.
+Pollution kills a billion Green Catoids on Cikap I.
+Green Catoids have died out on Cikap I!
+The Empire of Red Ursoids build a military base on Urbon I.
+75:
+The Empire of Red Ursoids build a military base on Cikap I.
+The space probe Lun'hod returns to Chroma VI.
+The Empire of Red Ursoids gains a wealth of new knowledge as a result.
+77:
+The Empire of Red Ursoids explore Fokev I. 
+Captain Brm'orr, space adventurer, blasts off from Kalamis VI.
+An expedition led by Captain Brm'orr explores Mera V. 
+An expedition led by Captain Brm'orr explores Aomep II. 
+Vast grazing herds evolve on Taranis VI.
+78:
+The Empire of Red Ursoids attempting to upgrade their stats of value :0 current score is: -5
+The difficulty is: 3 They rolled: 11on: 2d5+3
+TechLevel: 5 Science: 3
+An expedition led by Captain Brm'orr explores Aomep II. 
+Living islands evolve on Fynow III.
+79:
+The Empire of Red Ursoids explore Aomep II. 
+The Empire of Red Ursoids explore Aumiv V. 
+An expedition led by Captain Brm'orr explores Aumiv V. 
+An expedition led by Captain Brm'orr explores Euniw III. 
+The Flying Humanoids on Wotan II achieve spaceflight and organise as a Republic, the Republic of Flying Humanoids.
+
+Civ Name: Republic of Flying Humanoids 
+Civ Birth Year: 79 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -1 | 2 | -4 | -4 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Sentient Giant Orange Trolloids arise on Denur III.
+80:
+The Republic of Flying Humanoids send a delegation to Freia I. They declare war on the Empire of Red Ursoids! 
+The Empire of Red Ursoids send Captain Brm'orr on a mission of peace to the Republic of Flying Humanoids.
+The expert diplomacy of Captain Brm'orr is successful: the two empires are at peace.
+81:
+The population of Flying Humanoids on Wotan II has grown by a billion.
+The Empire of Red Ursoids explore Chroma VI. 
+The Empire of Red Ursoids enters a dark age. Decrepitude set to 0,  was 54
+The Republic of Flying Humanoids send a delegation to Freia I. They declare war on the Empire of Red Ursoids! 
+82:
+The population of Flying Humanoids on Wotan II has grown by a billion.
+The Empire of Red Ursoids build a military base on Euniw III.
+The Empire of Red Ursoids use their memetic weapon against the Republic of Flying Humanoids.
+Mass hysteria breaks out in the Republic of Flying Humanoids, killing billions.
+The Republic of Flying Humanoids collapses, leaving only a few survivors on Wotan II.
+An expedition led by Captain Brm'orr explores Aomep II. 
+The Flying Humanoids on Wotan II achieve spaceflight and organise as a Theocracy, the Church of Flying Humanoids.
+
+Civ Name: Church of Flying Humanoids 
+Civ Birth Year: 82 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | -5 | -4 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+83:
+The Empire of Red Ursoids explore Chroma VI. 
+An expedition led by Captain Brm'orr explores Orra II. 
+An expedition led by Captain Brm'orr explores Aomep II. 
+84:
+The Empire of Red Ursoids explore Fokev I. 
+The Empire of Red Ursoids build a military base on Aumiv V.
+A famine breaks out on Chroma VI, killing 1 billion.
+A nanofungal bloom consumes all other life on Cikap I before itself dying from a lack of nutrients!
+85:
+The Empire of Red Ursoids create Four-Armed Purple Robots as servants on Denur III.
+An expedition led by Captain Brm'orr explores Wotan II. They trade with the local Flying Humanoids. 
+86:
+The Empire of Red Ursoids build a military base on Aomep II.
+87:
+Pollution kills a billion Giant Orange Trolloids on Denur III.
+Overcrowding on Denur III leads to increased pollution.
+The Empire of Red Ursoids explore Freia I. 
+The Empire of Red Ursoids build a science lab on Cikap I.
+The space adventurer Captain Brm'orr dies and is buried on Urbon I.
+88:
+The Empire of Red Ursoids explore Fynow III. 
+The Empire of Red Ursoids explore Denur III. 
+89:
+The population of Flying Humanoids on Wotan II has grown by a billion.
+The Empire of Red Ursoids send a delegation to Wotan II. They declare war on the Church of Flying Humanoids! 
+The Empire of Red Ursoids attack Wotan II, a colony of the Church of Flying Humanoids, and subject it to orbital bombardment, killing 2 billion.
+The Church of Flying Humanoids collapses, leaving only a few survivors on Wotan II.
+90:
+The Empire of Red Ursoids build a barracks on Chroma VI.
+Sentient Red Catoids arise on Chroma VI.
+93:
+The Empire of Red Ursoids build a military base on Mera V.
+Orra II becomes covered with ice.
+95:
+The Empire of Red Ursoids explore Fynow III. 
+Sentient Six-Legged Catoids arise on Fynow III.
+96:
+Pollution kills a billion Six-Legged Catoids on Fynow III.
+
+ Decomocratization Revival!Empire of Red Ursoids previous decrepitude: 101 revival amount: 11
+
+Civ Name: Empire of Red Ursoids 
+Civ Birth Year: 52 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | 3 | -1 | -2 | -2 | 
+Resources 0 Science 11 Military 62 WeapLevel 0 TechLevel 4 Decrepitude 90
+A popular movement overthrows the old guard of the Empire of Red Ursoids and declares the Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots.
+Sentient Tiny Deep Dwellers arise on Chroma V.
+97:
+The population of Tiny Deep Dwellers on Chroma V has grown by a billion.
+The population of Slim Robots on Fokev I has grown by a billion.
+The population of Six-Legged Dwarfoids on Freia I has grown by a billion.
+The population of Red Ursoids on Chroma VI has grown by a billion.
+The population of Red Catoids on Chroma VI has grown by a billion.
+Overcrowding on Chroma VI leads to increased pollution.
+The Republic of Catoids, Trolloids, Ursoids, Dwarfoids and Robots build a military base on Orra II.

@@ -1,0 +1,613 @@
+SENTIENT SPECIES:
+Flying Antoids: Small, industrious and well-organised, these creatures' greatest weakness is their ever-ballooning population. They have bilateral symmetry. They can fly. They are thrill-seeking and have a complex system of social castes. They first evolved on Aolet I in 61.
+	Their Stats are: STR: -2 DEX: 1 CON: -2 INT: 0 CHA: -1
+Feathered Koboldoids: Eat pretty much anything, including one another. Disturbingly fond of skulls. They have bilateral symmetry. They are cowardly and deeply rationalist. They first evolved on Bal VI in 15.
+	Their Stats are: STR: 0 DEX: -1 CON: -1 INT: -2 CHA: -1
+Scaly Dwarfoids with Long Tails: Fond of drink and industry - especially building strange contraptions. They have bilateral symmetry. They use their long tails for balance. They are violent and strive to uphold their ideals of personal honour. They were uplifted by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids on Celuw IV in 62.
+	Their Stats are: STR: 1 DEX: -1 CON: -1 INT: 1 CHA: -1
+Slim Deep Dwellers: They live in the deep oceans or in deep caves, hiding. Their presence can go unnoticed for a long time. They have bilateral symmetry and a slim shape. They are hyperactive and have a complex system of social castes. They developed from Feathered Deep Dwellers in 51.
+	Their Stats are: STR: -1 DEX: -1 CON: -2 INT: -1 CHA: 2
+Scaly Humanoids with Threefold Symmetry: Pretty adventurous but otherwise fairly average. They have trilateral symmetry. They are fond of practical jokes and unwilling to compromise. They first evolved on Aolet I in 77.
+	Their Stats are: STR: -1 DEX: 0 CON: -1 INT: 1 CHA: 1
+
+CIVILISATIONS:
+THE REPUBLIC OF ANTOIDS, DWARFOIDS, DEEP DWELLERS, KOBOLDOIDS AND HUMANOIDS:
+An ancient, corrupt, fantastically wealthy, advanced Republic of 17 planets, with 87 billion inhabitants.
+Major populations:
+40 billion Flying Antoids.
+19 billion Feathered Koboldoids.
+12 billion Scaly Dwarfoids with Long Tails.
+10 billion Slim Deep Dwellers.
+6 billion Scaly Humanoids with Threefold Symmetry.
+It controls a Killer Meme.
+
+	Their Stats are: STR: -1 DEX: -1 CON: 1 INT: -1 CHA: 0
+PLANETS:
+FULIX II
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A military base, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 86
+Ice Planet: Nearly the entire planet is covered in a thick sheet of ice.
+Strata:
+Fossils of vast grazing herds that went extinct in 85 due to a series of volcanic eruptions.
+Fossils of ultravores that went extinct in 85 due to a series of volcanic eruptions.
+Remnants of a culture of Feathered Koboldoids that collapsed due to a series of volcanic eruptions in 85.
+Remnants of a culture of Flying Antoids that collapsed due to a series of volcanic eruptions in 85.
+
+DYMOP V
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A mining base, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 50
+
+GELUT I
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A science lab, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 74
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+
+VIM II
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A military base, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 70
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+
+DULIQ IV
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A science lab, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 92
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+Strata:
+The ruins of a science lab, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 68, destroyed in 90 due to orbital bombardment by the pirate Red Antenna.
+
+BULIX V
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A mining base, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 81
+
+TABERNAK VI
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A mining base, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 85
+
+ORGUS IV
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A science lab, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 73
+
+CELUW IV
+A life-bearing planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+It is slightly polluted.
+It is populated by:
+3 billion Scaly Dwarfoids with Long Tails
+13 billion Flying Antoids
+A skull pit, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 94
+A complex of arcologies, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 108
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+
+LUMEN V
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A mining base, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 64
+
+AOLET I
+A life-bearing planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+It is slightly polluted.
+It is populated by:
+8 billion Flying Antoids
+6 billion Scaly Humanoids with Threefold Symmetry
+5 billion Feathered Koboldoids
+A complex of arcologies, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 78
+A cluster of breeding pits, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 106
+A Killer Meme created by the rogue AI Simulation 135 in 97
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Strata:
+Remnants of a culture of Feathered Koboldoids that collapsed from the effects of pollution in 103.
+Remnants of a culture of Scaly Dwarfoids with Long Tails that collapsed from mass hysteria in 67.
+
+ORGUS V
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A mining base, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 63
+
+AILAU II
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A military base, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 75
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+
+SATIVEX VI
+A barren planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+A mining base, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 80
+
+TABERNAK VI
+A life-bearing planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+It is a little polluted.
+It is populated by:
+10 billion Feathered Koboldoids
+5 billion Scaly Dwarfoids with Long Tails
+3 billion Flying Antoids
+A skull pile, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 82
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+Remnants of a culture of Feathered Ursoids that collapsed from mass hysteria in 73.
+
+MERA VI
+A life-bearing planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+It is a little polluted.
+It is populated by:
+10 billion Slim Deep Dwellers
+4 billion Scaly Dwarfoids with Long Tails
+4 billion Flying Antoids
+A grand palace, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 76
+A complex of arcologies, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 93
+A vast museum, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 101
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+Strata:
+Remnants of a culture of Feathered Koboldoids that collapsed from mass hysteria in 73.
+
+BAL VI
+A life-bearing planet of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+It is slightly polluted.
+It is populated by:
+4 billion Feathered Koboldoids
+12 billion Flying Antoids
+A skull pile, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 37
+A city of spires, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 57
+A vast underground vault, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 72
+A complex of arcologies, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 90
+A vast museum, built by the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids in 91
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Fulix II, Dymop V, Gelut I, Vim II, Duliq IV, Bulix V, Tabernak VI, Orgus IV, Celuw IV, Lumen V, Aolet I, Orgus V, Ailau II, Sativex VI, Tabernak VI, Mera VI, Bal VI
+3:
+Fulix II becomes covered with ice.
+11:
+Life arises on Bal VI
+15:
+Life arises on Celuw IV
+Sentient Feathered Koboldoids arise on Bal VI.
+16:
+Vim II becomes tidally locked to its star.
+18:
+Life arises on Fulix II
+22:
+Life arises on Mera VI
+23:
+Ultravores evolve on Fulix II.
+29:
+Life arises on Aolet I
+32:
+Life arises on Tabernak VI
+33:
+Brain parasites evolve on Celuw IV.
+35:
+The Feathered Koboldoids on Bal VI achieve spaceflight and organise as a Military Dictatorship, the Empire of Feathered Koboldoids.
+
+Civ Name: Empire of Feathered Koboldoids 
+Civ Birth Year: 35 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -2 | 0 | -3 | -1 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+36:
+WE ENTER THE FIRST AGE OF CIVILISATION
+37:
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+The Feathered Koboldoids on Bal VI devour one billion of their own kind in a mad frenzy of cannibalism!
+The Feathered Koboldoids erect a pile of skulls on Bal VI!
+Living islands evolve on Aolet I.
+38:
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+Overcrowding on Bal VI leads to increased pollution.
+The Empire of Feathered Koboldoids explore Orgus V. 
+39:
+The Empire of Feathered Koboldoids explore Bal VI. 
+The Empire of Feathered Koboldoids experiences a population boom! 
+40:
+The Feathered Koboldoids on Bal VI devour one billion of their own kind in a mad frenzy of cannibalism!
+Overcrowding on Bal VI leads to increased pollution.
+41:
+
+ Decomocratization Revival!Empire of Feathered Koboldoids previous decrepitude: 1 revival amount: 2
+
+Civ Name: Empire of Feathered Koboldoids 
+Civ Birth Year: 35 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -2 | 0 | -3 | -1 | 
+Resources 3 Science 6 Military 3 WeapLevel 0 TechLevel 1 Decrepitude 1
+A popular movement overthrows the old guard of the Empire of Feathered Koboldoids and declares the Republic of Feathered Koboldoids.
+42:
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+Overcrowding on Bal VI leads to increased pollution.
+Vast empty plains form on Gelut I.
+A gigantic network of caves forms on Celuw IV.
+Gas bags evolve on Mera VI.
+43:
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Feathered Koboldoids explore Dymop V. 
+44:
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+46:
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+47:
+The Republic of Feathered Koboldoids explore Bal VI. 
+48:
+The Republic of Feathered Koboldoids explore Bal VI. 
+49:
+Shape-shifters evolve on Tabernak VI.
+50:
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Feathered Koboldoids build a mining base on Dymop V.
+Sentient Feathered Deep Dwellers arise on Mera VI.
+51:
+The Feathered Deep Dwellers on Mera VI mutate into Slim Deep Dwellers.
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+The Republic of Feathered Koboldoids develop powerful new weapons.
+52:
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Feathered Koboldoids explore Bal VI. 
+53:
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+54:
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+The Feathered Koboldoids on Bal VI devour one billion of their own kind in a mad frenzy of cannibalism!
+Overcrowding on Bal VI leads to increased pollution.
+55:
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+56:
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+The Feathered Koboldoids on Bal VI devour one billion of their own kind in a mad frenzy of cannibalism!
+The Republic of Feathered Koboldoids explore Dymop V. 
+57:
+The Republic of Feathered Koboldoids build a city of spires on Bal VI.
+60:
+The Republic of Feathered Koboldoids colonise Tabernak VI. 
+61:
+Sentient Flying Antoids arise on Aolet I.
+62:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The Republic of Feathered Koboldoids explore Celuw IV. 
+The Republic of Feathered Koboldoids uplift the local Scaly Dwarfoids with Long Tails on Celuw IV and incorporate the planet into their civilisation.
+Beautiful aurorae play across the skies of Duliq IV.
+63:
+The Republic of Feathered Koboldoids build a mining base on Orgus V.
+64:
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+The Republic of Feathered Koboldoids build a mining base on Lumen V.
+65:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+The Republic of Feathered Koboldoids colonise Aolet I. Of the natives of that planet, the 4 billion Flying Antoids are given full membership in the Republic of Feathered Koboldoids.  They now call themselves the Republic of Antoids and Koboldoids.
+A market crash impoverishes the Republic of Antoids and Koboldoids.
+66:
+The Republic of Antoids and Koboldoids explore Aolet I. 
+The Republic of Antoids and Koboldoids explore Orgus V. 
+67:
+The Republic of Antoids and Koboldoids colonise Fulix II. 
+Mass hysteria breaks out in the Republic of Antoids and Koboldoids, killing billions.
+A gigantic network of caves forms on Ailau II.
+68:
+The Republic of Antoids and Koboldoids build a science lab on Duliq IV.
+69:
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+The Republic of Antoids and Koboldoids colonise Mera VI. Of the natives of that planet, the 2 billion Slim Deep Dwellers are enslaved. 
+A military putsch turns the Republic of Antoids and Koboldoids into the Empire of Flying Antoids.
+70:
+The Empire of Flying Antoids explore Gelut I. 
+The Empire of Flying Antoids build a military base on Vim II.
+71:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+72:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The Empire of Flying Antoids build a vast underground vault on Bal VI.
+Sentient Feathered Ursoids arise on Tabernak VI.
+73:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Mera VI has grown by a billion.
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+The Empire of Flying Antoids build a science lab on Orgus IV.
+Mass hysteria breaks out in the Empire of Flying Antoids, killing billions.
+Vast grazing herds evolve on Fulix II.
+74:
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+The Empire of Flying Antoids build a science lab on Gelut I.
+75:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Slim Deep Dwellers on Mera VI has grown by a billion.
+The Empire of Flying Antoids explore Duliq IV. 
+The Empire of Flying Antoids build a military base on Ailau II.
+Religious fanatics sieze power in the Empire of Flying Antoids and declare the Church of Flying Antoids.
+76:
+The population of Flying Antoids on Fulix II has grown by a billion.
+The population of Slim Deep Dwellers on Mera VI has grown by a billion.
+The Church of Flying Antoids build a grand palace on Mera VI.
+77:
+The Church of Flying Antoids explore Bulix V. 
+The Church of Flying Antoids accidentally create the rogue AI Simulation 135 on Lumen V.
+Sentient Scaly Humanoids with Threefold Symmetry arise on Aolet I.
+78:
+The population of Flying Antoids on Fulix II has grown by a billion.
+The population of Flying Antoids on Aolet I has grown by a billion.
+The Church of Flying Antoids explore Orgus V. 
+The Church of Flying Antoids build a complex of arcologies on Aolet I.
+79:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Scaly Humanoids with Threefold Symmetry on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+Overcrowding on Aolet I leads to increased pollution.
+80:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+Overcrowding on Aolet I leads to increased pollution.
+The Church of Flying Antoids build a mining base on Sativex VI.
+The Church of Flying Antoids explore Bal VI. 
+81:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+Overcrowding on Aolet I leads to increased pollution.
+The Church of Flying Antoids build a mining base on Bulix V.
+82:
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+The Feathered Koboldoids on Tabernak VI devour one billion of their own kind in a mad frenzy of cannibalism!
+The Feathered Koboldoids erect a pile of skulls on Tabernak VI!
+The population of Slim Deep Dwellers on Mera VI has grown by a billion.
+83:
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Scaly Humanoids with Threefold Symmetry on Aolet I has grown by a billion.
+Overcrowding on Aolet I leads to increased pollution.
+84:
+The population of Flying Antoids on Aolet I has grown by a billion.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+The pirate Red Antenna establishes herself on Orgus V.
+The pirate Red Antenna receives tribute from Bulix V of the Church of Flying Antoids.
+85:
+The population of Flying Antoids on Celuw IV has grown by a billion.
+The Feathered Koboldoids on Tabernak VI devour one billion of their own kind in a mad frenzy of cannibalism!
+Overcrowding on Aolet I leads to increased pollution.
+The Church of Flying Antoids build a mining base on Tabernak VI.
+The pirate Red Antenna receives tribute from Lumen V of the Church of Flying Antoids.
+Massive volcanic eruptions on Fulix II eradicate all life on the planet!
+86:
+The population of Flying Antoids on Celuw IV has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+The Church of Flying Antoids build a military base on Fulix II.
+The pirate Red Antenna receives tribute from Dymop V of the Church of Flying Antoids.
+Brain parasites evolve on Bal VI.
+87:
+The population of Flying Antoids on Celuw IV has grown by a billion.
+The population of Flying Antoids on Bal VI has grown by a billion.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+
+ Decomocratization Revival!Church of Flying Antoids previous decrepitude: 128 revival amount: 13
+
+Civ Name: Church of Flying Antoids 
+Civ Birth Year: 35 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 0 | 0 | -1 | -1 | 
+Resources 87 Science 32 Military 44 WeapLevel 1 TechLevel 3 Decrepitude 115
+A popular movement overthrows the old guard of the Church of Flying Antoids and declares the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+The pirate Red Antenna receives tribute from Tabernak VI of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+88:
+The population of Scaly Dwarfoids with Long Tails on Celuw IV has grown by a billion.
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+The population of Flying Antoids on Bal VI has grown by a billion.
+Overcrowding on Aolet I leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids explore Mera VI. 
+The pirate Red Antenna receives tribute from Dymop V of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+89:
+The population of Scaly Dwarfoids with Long Tails on Celuw IV has grown by a billion.
+The population of Flying Antoids on Aolet I has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The pirate Red Antenna receives tribute from Sativex VI of the Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids.
+90:
+The population of Scaly Humanoids with Threefold Symmetry on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids build a complex of arcologies on Bal VI.
+The pirate Red Antenna subjects Duliq IV to orbital bombardment.
+91:
+The population of Scaly Dwarfoids with Long Tails on Celuw IV has grown by a billion.
+The population of Slim Deep Dwellers on Mera VI has grown by a billion.
+The population of Flying Antoids on Bal VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids explore Sativex VI. 
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids build a vast museum on Bal VI.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids defeats the pirate Red Antenna.
+92:
+The population of Scaly Dwarfoids with Long Tails on Celuw IV has grown by a billion.
+Pollution kills a billion Scaly Humanoids with Threefold Symmetry on Aolet I.
+The population of Flying Antoids on Bal VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids build a science lab on Duliq IV.
+93:
+The population of Flying Antoids on Celuw IV has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids build a complex of arcologies on Mera VI.
+94:
+The population of Scaly Dwarfoids with Long Tails on Celuw IV has grown by a billion.
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Mera VI has grown by a billion.
+The population of Flying Antoids on Bal VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids build a skull pit on Celuw IV.
+95:
+The population of Flying Antoids on Celuw IV has grown by a billion.
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Slim Deep Dwellers on Mera VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+96:
+The population of Scaly Dwarfoids with Long Tails on Celuw IV has grown by a billion.
+The population of Slim Deep Dwellers on Mera VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+97:
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Celuw IV.
+The population of Flying Antoids on Celuw IV has grown by a billion.
+Pollution kills a billion Feathered Koboldoids on Tabernak VI.
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids explore Mera VI. They discover: Remnants of a culture of Feathered Koboldoids that collapsed from mass hysteria in 73. 
+The rogue AI Simulation 135 presents the inhabitants of Aolet I with a gift: a Killer Meme.
+98:
+Pollution kills a billion Flying Antoids on Aolet I.
+The population of Slim Deep Dwellers on Mera VI has grown by a billion.
+The population of Flying Antoids on Bal VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids explore Ailau II. 
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids explore Gelut I. 
+The rogue AI Simulation 135 vanishes without a trace.
+99:
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Celuw IV.
+The population of Flying Antoids on Celuw IV has grown by a billion.
+The population of Scaly Humanoids with Threefold Symmetry on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Mera VI.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+100:
+Pollution kills a billion Scaly Humanoids with Threefold Symmetry on Aolet I.
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+The population of Flying Antoids on Bal VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+101:
+The population of Scaly Dwarfoids with Long Tails on Celuw IV has grown by a billion.
+The population of Flying Antoids on Celuw IV has grown by a billion.
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Tabernak VI has grown by a billion.
+The population of Feathered Koboldoids on Bal VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids build a vast museum on Mera VI.
+102:
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Celuw IV.
+The population of Flying Antoids on Celuw IV has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+The population of Flying Antoids on Tabernak VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids explore Orgus V. 
+103:
+Pollution kills a billion Flying Antoids on Celuw IV.
+Pollution kills a billion Flying Antoids on Aolet I.
+Pollution kills a billion Feathered Koboldoids on Aolet I.
+Feathered Koboldoids have died out on Aolet I!
+Pollution kills a billion Flying Antoids on Tabernak VI.
+The population of Flying Antoids on Bal VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+104:
+The population of Flying Antoids on Celuw IV has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+105:
+Pollution kills a billion Flying Antoids on Celuw IV.
+The population of Flying Antoids on Tabernak VI has grown by a billion.
+The population of Slim Deep Dwellers on Mera VI has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Mera VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids explore Mera VI. They discover: Remnants of a culture of Feathered Koboldoids that collapsed from mass hysteria in 73. 
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids attempting to upgrade their stats of value :2 current score is: 0
+The difficulty is: 60 They rolled: 9on: 4d4
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids experiences a population boom! 
+106:
+Pollution kills a billion Flying Antoids on Celuw IV.
+The population of Feathered Koboldoids on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+Pollution kills a billion Slim Deep Dwellers on Mera VI.
+The population of Flying Antoids on Bal VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+The Republic of Antoids, Dwarfoids, Deep Dwellers, Koboldoids and Humanoids build a cluster of breeding pits on Aolet I.
+107:
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Celuw IV.
+The population of Flying Antoids on Celuw IV has grown by a billion.
+Pollution kills a billion Flying Antoids on Aolet I.
+Pollution kills a billion Scaly Humanoids with Threefold Symmetry on Aolet I.
+Pollution kills a billion Feathered Koboldoids on Tabernak VI.
+Pollution kills a billion Scaly Dwarfoids with Long Tails on Mera VI.
+Pollution kills a billion Feathered Koboldoids on Bal VI.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.
+108:
+The population of Flying Antoids on Celuw IV has grown by a billion.
+The population of Flying Antoids on Aolet I has grown by a billion.
+The population of Scaly Humanoids with Threefold Symmetry on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Aolet I has grown by a billion.
+The population of Feathered Koboldoids on Tabernak VI has grown by a billion.
+The population of Scaly Dwarfoids with Long Tails on Tabernak VI has grown by a billion.
+Pollution kills a billion Flying Antoids on Tabernak VI.
+The population of Flying Antoids on Mera VI has grown by a billion.
+Overcrowding on Celuw IV leads to increased pollution.
+Overcrowding on Aolet I leads to increased pollution.
+Overcrowding on Tabernak VI leads to increased pollution.
+Overcrowding on Mera VI leads to increased pollution.
+Overcrowding on Bal VI leads to increased pollution.

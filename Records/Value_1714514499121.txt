@@ -1,0 +1,474 @@
+SENTIENT SPECIES:
+Tiny Orange Antoids with Long Tails: Small, industrious and well-organised, these creatures' greatest weakness is their ever-ballooning population. They have orange skin. They have bilateral symmetry. They use their long tails for balance. They are cowardly and unwilling to compromise. They developed from Tiny Orange Antoids in 57.
+	Their Stats are: STR: -1 DEX: 0 CON: -1 INT: -1 CHA: 1
+Tiny Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry. They are fond of practical jokes and deeply rationalist. They were created by the Republic of Grey Catoids on Foneq VI as servants in 97.
+	Their Stats are: STR: -3 DEX: -1 CON: -1 INT: -1 CHA: -3
+Feathered Ursoids: Always at war with someone, or everyone, or one another. They have bilateral symmetry. They are modest and deeply religious. They first evolved on Foneq VI in 115.
+	Their Stats are: STR: -3 DEX: -3 CON: 0 INT: 0 CHA: 0
+Scaly Robots with Giant Eyes: Purely mechanical lifeforms, artificially created. They have bilateral symmetry. Their giant eyes take up most of their head. They are violent and have a complex system of social castes. They were created by the Republic of Grey Catoids on Orgus VI as servants in 92.
+	Their Stats are: STR: 1 DEX: 1 CON: 1 INT: 1 CHA: -2
+Grey Catoids: Always curious and often cruel. They have grey skin. They have bilateral symmetry. They are violent and always willing to listen. They developed from White Catoids in 67.
+	Their Stats are: STR: -1 DEX: 0 CON: -2 INT: 0 CHA: -1
+Six-Legged Antoids: Small, industrious and well-organised, these creatures' greatest weakness is their ever-ballooning population. They have six legs. They have bilateral symmetry. They are humorless and believe that each individual must serve the community. They first evolved on Bumis V in 108.
+	Their Stats are: STR: 0 DEX: -3 CON: -1 INT: -3 CHA: -1
+
+CIVILISATIONS:
+THE KINGDOM OF GREY CATOIDS:
+A well-established, primitive Kingdom of 6 planets, with 27 billion inhabitants.
+Major populations:
+4 billion Grey Catoids.
+13 billion enslaved Tiny Orange Antoids with Long Tails.
+4 billion enslaved Tiny Robots.
+2 billion enslaved Feathered Ursoids.
+4 billion enslaved Scaly Robots with Giant Eyes.
+It controls a Mind Control Device.
+
+	Their Stats are: STR: -2 DEX: 1 CON: -1 INT: -1 CHA: 1
+PLANETS:
+DEMUV V
+A barren planet of the Kingdom of Grey Catoids.
+It is heavily polluted.
+A mining base, built by the Kingdom of Grey Catoids in 119
+Poison World: Mineral deposits produce a steady stream of toxins that makes survival extremely difficult.
+Strata:
+The ruins of a mining base, built by the Republic of Grey Catoids in 93, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+
+BUMIS V
+A life-bearing planet.
+It is populated by:
+7 billion Tiny Orange Antoids with Long Tails
+5 billion Six-Legged Antoids
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Strata:
+The ruins of a mining base, built by the Republic of Grey Catoids in 83, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+Remnants of a culture of Grey Catoids that collapsed from the effects of pollution in 92.
+
+GONEW VI
+A barren planet.
+Strata:
+The ruins of a science lab, built by the Republic of Grey Catoids in 102, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+
+KRANTOR III
+A barren planet.
+Strata:
+The ruins of a military base, built by the Republic of Grey Catoids in 101, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+
+FOLEW I
+A barren planet of the Kingdom of Grey Catoids.
+A mining base, built by the Kingdom of Grey Catoids in 114
+Strata:
+The ruins of a mining base, built by the Republic of Grey Catoids in 94, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+
+ORGUS VI
+A life-bearing planet of the Kingdom of Grey Catoids.
+It is populated by:
+5 billion enslaved Tiny Orange Antoids with Long Tails
+4 billion enslaved Scaly Robots with Giant Eyes
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+
+AUTOROG IV
+A life-bearing planet of the Kingdom of Grey Catoids.
+It is populated by:
+4 billion Grey Catoids
+A Mind Control Device created by the Kingdom of Grey Catoids in 115
+Lifeforms of note:
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+Remnants of a culture of Scaly Ursoids that collapsed from the effects of pollution in 97.
+
+GELUR V
+A barren planet.
+
+BUMIP II
+A barren planet.
+It is somewhat polluted.
+Strata:
+Fossils of radiovores that went extinct in 94.
+A hymn about the King of the Kingdom of Six-Legged White Antoids created by the Church of Six-Legged White Antoids in 86, buried in 94.
+A Planet Destroyer created by the Church of Six-Legged White Antoids in 81, buried in 94.
+The ruins of a grand palace, built by the Church of Six-Legged White Antoids in 94, destroyed in 94 due to nanospores relased by Experiment 118.
+
+PASTINAKOS V
+A barren planet.
+Strata:
+The ruins of a science lab, built by the Republic of Grey Catoids in 95, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+
+FUMIS II
+A barren planet.
+
+FONEQ VI
+A life-bearing planet of the Kingdom of Grey Catoids.
+It is a little polluted.
+It is populated by:
+8 billion enslaved Tiny Orange Antoids with Long Tails
+4 billion enslaved Tiny Robots
+2 billion enslaved Feathered Ursoids
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+Strata:
+The ruins of a torture chamber, built by the Republic of Grey Catoids in 103, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+The ruins of a grand palace, built by the Republic of Grey Catoids in 90, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+
+AUMIS V
+A barren planet of the Kingdom of Grey Catoids.
+A mining base, built by the Kingdom of Grey Catoids in 114
+Strata:
+The ruins of a mining base, built by the Republic of Grey Catoids in 83, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+
+BINAX III
+A barren planet.
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+Strata:
+The ruins of a mining base, built by the Republic of Grey Catoids in 97, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+
+JURVOX V
+A barren planet.
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+Strata:
+The ruins of a mining base, built by the Republic of Grey Catoids in 91, destroyed in 105 during the collapse of the Republic of Grey Catoids.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Demuv V, Bumis V, Gonew VI, Krantor III, Folew I, Orgus VI, Autorog IV, Gelur V, Bumip II, Pastinakos V, Fumis II, Foneq VI, Aumis V, Binax III, Jurvox V
+6:
+Life arises on Autorog IV
+18:
+Life arises on Orgus VI
+20:
+Life arises on Bumis V
+Life arises on Foneq VI
+27:
+Living islands evolve on Autorog IV.
+28:
+Demuv V has become a poison world.
+29:
+Life arises on Bumip II
+33:
+Radiovores evolve on Foneq VI.
+35:
+Beautiful aurorae play across the skies of Binax III.
+37:
+Sentient Tiny Orange Antoids arise on Orgus VI.
+Radiovores evolve on Bumip II.
+38:
+The population of Tiny Orange Antoids on Orgus VI has grown by a billion.
+41:
+The population of Tiny Orange Antoids on Orgus VI has grown by a billion.
+44:
+Beautiful flying creatures evolve on Foneq VI.
+45:
+The population of Tiny Orange Antoids on Orgus VI has grown by a billion.
+Shape-shifters evolve on Bumis V.
+47:
+Shape-shifters evolve on Autorog IV.
+49:
+Sentient White Catoids arise on Foneq VI.
+50:
+The population of Tiny Orange Antoids on Orgus VI has grown by a billion.
+51:
+The population of Tiny Orange Antoids on Orgus VI has grown by a billion.
+55:
+The population of Tiny Orange Antoids on Orgus VI has grown by a billion.
+57:
+The Tiny Orange Antoids on Orgus VI mutate into Tiny Orange Antoids with Long Tails.
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+58:
+Vast grazing herds evolve on Orgus VI.
+62:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+63:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+64:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+66:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+67:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+The White Catoids on Foneq VI mutate into Grey Catoids.
+68:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+69:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+Sentient Six-Legged White Antoids arise on Bumip II.
+70:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+The population of Six-Legged White Antoids on Bumip II has grown by a billion.
+Ocean giants evolve on Bumis V.
+71:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+72:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+The population of Six-Legged White Antoids on Bumip II has grown by a billion.
+73:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+74:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+The Six-Legged White Antoids on Bumip II achieve spaceflight and organise as a Feudal State, the Kingdom of Six-Legged White Antoids.
+
+Civ Name: Kingdom of Six-Legged White Antoids 
+Civ Birth Year: 74 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | -2 | 0 | -5 | -3 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+75:
+WE ENTER THE FIRST AGE OF CIVILISATION
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+The population of Six-Legged White Antoids on Bumip II has grown by a billion.
+The Kingdom of Six-Legged White Antoids explore Bumip II. 
+76:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+The Kingdom of Six-Legged White Antoids explore Bumip II. 
+The Kingdom of Six-Legged White Antoids explore Bumip II. 
+77:
+The Kingdom of Six-Legged White Antoids explore Bumip II. 
+78:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+79:
+Overcrowding on Bumip II leads to increased pollution.
+The Kingdom of Six-Legged White Antoids explore Bumip II. 
+80:
+The Kingdom of Six-Legged White Antoids experiences a population boom! 
+Radiovores evolve on Bumis V.
+The Grey Catoids on Foneq VI achieve spaceflight and organise as a Republic, the Republic of Grey Catoids.
+
+Civ Name: Republic of Grey Catoids 
+Civ Birth Year: 80 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -3 | -3 | 0 | -2 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+81:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+Pollution kills a billion Grey Catoids on Foneq VI.
+Overcrowding on Bumip II leads to increased pollution.
+The Kingdom of Six-Legged White Antoids develop a Planet Destroyer.
+82:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+The population of Six-Legged White Antoids on Bumip II has grown by a billion.
+Overcrowding on Bumip II leads to increased pollution.
+The Republic of Grey Catoids experiences a population boom! 
+83:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+Pollution kills a billion Six-Legged White Antoids on Bumip II.
+Overcrowding on Bumip II leads to increased pollution.
+The Kingdom of Six-Legged White Antoids explore Bumip II. 
+The Republic of Grey Catoids explore Aumis V. 
+
+ Industrial Golden Age Revival!Republic of Grey Catoids previous decrepitude: 0 revival amount: 0
+
+Civ Name: Republic of Grey Catoids 
+Civ Birth Year: 80 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -3 | -3 | 0 | -2 | 
+Resources 2 Science 3 Military 2 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Republic of Grey Catoids enters a golden age of industry! The Republic of Grey Catoids build a mining base on Bumis V. The Republic of Grey Catoids build a mining base on Aumis V.
+84:
+Pollution kills a billion Six-Legged White Antoids on Bumip II.
+Overcrowding on Bumip II leads to increased pollution.
+The Kingdom of Six-Legged White Antoids explore Bumip II. 
+The Kingdom of Six-Legged White Antoids explore Bumip II. 
+85:
+Pollution kills a billion Six-Legged White Antoids on Bumip II.
+Pollution kills a billion Grey Catoids on Foneq VI.
+The Kingdom of Six-Legged White Antoids experiences a population boom! 
+The Republic of Grey Catoids explore Aumis V. 
+86:
+Overcrowding on Bumip II leads to increased pollution.
+
+ Art Golden Age Revival!Kingdom of Six-Legged White Antoids previous decrepitude: 7 revival amount: 0
+
+Civ Name: Kingdom of Six-Legged White Antoids 
+Civ Birth Year: 74 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | -2 | 0 | -5 | -3 | 
+Resources 0 Science 1 Military 10 WeapLevel 0 TechLevel 2 Decrepitude 7
+Artists on Bumip II create a hymn about the King of the Kingdom of Six-Legged White Antoids. 
+The Republic of Grey Catoids explore Bumis V. 
+The Republic of Grey Catoids explore Bumis V. Shape-shifters impersonate the crew of the expedition. Upon their return to Bumis V they merge into the population.
+87:
+The population of Six-Legged White Antoids on Bumip II has grown by a billion.
+Overcrowding on Bumip II leads to increased pollution.
+Religious fanatics sieze power in the Kingdom of Six-Legged White Antoids and declare the Church of Six-Legged White Antoids.
+The Republic of Grey Catoids explore Foneq VI. 
+The Republic of Grey Catoids colonise Orgus VI. Of the natives of that planet, the 11 billion Tiny Orange Antoids with Long Tails are enslaved. 
+The Republic of Grey Catoids uplift the local Scaly Ursoids on Autorog IV and incorporate the planet into their civilisation.
+88:
+The population of Six-Legged White Antoids on Bumip II has grown by a billion.
+Pollution kills a billion Grey Catoids on Foneq VI.
+Overcrowding on Bumip II leads to increased pollution.
+Overcrowding on Orgus VI leads to increased pollution.
+The Republic of Grey Catoids colonise Bumis V. 
+89:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+Pollution kills a billion Scaly Ursoids on Autorog IV.
+Pollution kills a billion Six-Legged White Antoids on Bumip II.
+Overcrowding on Bumip II leads to increased pollution.
+Overcrowding on Orgus VI leads to increased pollution.
+The Republic of Grey Catoids explore Demuv V. 
+90:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+Pollution kills a billion Six-Legged White Antoids on Bumip II.
+Overcrowding on Bumip II leads to increased pollution.
+The Church of Six-Legged White Antoids explore Bumip II. 
+Overcrowding on Orgus VI leads to increased pollution.
+The Republic of Grey Catoids build a grand palace on Foneq VI.
+91:
+Pollution kills a billion Six-Legged White Antoids on Bumip II.
+The Republic of Grey Catoids explore Autorog IV. 
+The Republic of Grey Catoids build a mining base on Jurvox V.
+92:
+Pollution kills a billion Grey Catoids on Bumis V.
+Grey Catoids have died out on Bumis V!
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+The population of Six-Legged White Antoids on Bumip II has grown by a billion.
+Overcrowding on Bumip II leads to increased pollution.
+
+ Industrial Golden Age Revival!Church of Six-Legged White Antoids previous decrepitude: 16 revival amount: 12
+
+Civ Name: Church of Six-Legged White Antoids 
+Civ Birth Year: 74 
+Civ Stats Str|Dex|Con|Int|Cha
+          -4 | -2 | 0 | -5 | -3 | 
+Resources 16 Science 7 Military 10 WeapLevel 0 TechLevel 2 Decrepitude 16
+The Church of Six-Legged White Antoids enters a golden age of industry!  
+The Republic of Grey Catoids explore Aumis V. 
+The Republic of Grey Catoids create Scaly Robots with Giant Eyes as servants on Orgus VI.
+93:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+Pollution kills a billion Scaly Robots with Giant Eyes on Orgus VI.
+Overcrowding on Bumip II leads to increased pollution.
+The Republic of Grey Catoids build a mining base on Demuv V.
+94:
+Overcrowding on Bumip II leads to increased pollution.
+The Church of Six-Legged White Antoids build a grand palace on Bumip II.
+The Church of Six-Legged White Antoids accidentally create the rogue AI Experiment 118 on Bumip II.
+The Republic of Grey Catoids build a mining base on Folew I.
+The rogue AI Experiment 118 releases nanospores on Bumip II, destroying all life on the planet.
+95:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Bumis V.
+Pollution kills a billion Scaly Ursoids on Autorog IV.
+The Church of Six-Legged White Antoids collapses.
+The Republic of Grey Catoids build a science lab on Pastinakos V.
+Vast canyons are carved on Jurvox V.
+97:
+Pollution kills a billion Scaly Ursoids on Autorog IV.
+Scaly Ursoids have died out on Autorog IV!
+Overcrowding on Orgus VI leads to increased pollution.
+The Republic of Grey Catoids explore Bumis V. 
+The Republic of Grey Catoids build a mining base on Binax III.
+The Republic of Grey Catoids create Tiny Robots as servants on Foneq VI.
+98:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Orgus VI.
+Overcrowding on Orgus VI leads to increased pollution.
+The Republic of Grey Catoids colonise Autorog IV. 
+100:
+Overcrowding on Orgus VI leads to increased pollution.
+The Republic of Grey Catoids explore Gonew VI. 
+101:
+Overcrowding on Foneq VI leads to increased pollution.
+The Republic of Grey Catoids build a military base on Krantor III.
+102:
+The Republic of Grey Catoids explore Jurvox V. 
+The Republic of Grey Catoids build a science lab on Gonew VI.
+The rogue AI Experiment 118 vanishes without a trace.
+103:
+Overcrowding on Orgus VI leads to increased pollution.
+Overcrowding on Foneq VI leads to increased pollution.
+The Republic of Grey Catoids explore Foneq VI. 
+The Republic of Grey Catoids build a torture chamber on Foneq VI.
+104:
+The Republic of Grey Catoids explore Bumis V. Shape-shifters impersonate the crew of the expedition. Upon their return to Gonew VI they merge into the population.
+The Republic of Grey Catoids build a military base on Bumip II.
+The Republic of Grey Catoids enters a dark age. Decrepitude set to 0,  was 22
+105:
+Overcrowding on Foneq VI leads to increased pollution.
+The Republic of Grey Catoids explore Folew I. 
+The Republic of Grey Catoids enters a dark age. Decrepitude set to 0,  was 24
+The Republic of Grey Catoids collapses.
+
+Civ Name: Republic of Grey Catoids 
+Civ Birth Year: 80 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -3 | -3 | 0 | -2 | 
+Resources 64 Science 16 Military 34 WeapLevel 0 TechLevel 0 Decrepitude 0
+106:
+WE ENTER THE SECOND AGE OF DARKNESS
+The population of Tiny Orange Antoids with Long Tails on Bumis V has grown by a billion.
+The population of Tiny Orange Antoids with Long Tails on Foneq VI has grown by a billion.
+108:
+The population of Tiny Orange Antoids with Long Tails on Bumis V has grown by a billion.
+The population of Tiny Orange Antoids with Long Tails on Foneq VI has grown by a billion.
+Sentient Six-Legged Antoids arise on Bumis V.
+The Grey Catoids on Autorog IV achieve spaceflight and organise as a Feudal State, the Kingdom of Grey Catoids.
+
+Civ Name: Kingdom of Grey Catoids 
+Civ Birth Year: 108 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | 1 | -3 | -1 | 0 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+109:
+WE ENTER THE SECOND AGE OF CIVILISATION
+The population of Six-Legged Antoids on Bumis V has grown by a billion.
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+The Kingdom of Grey Catoids explore Aumis V. 
+110:
+The population of Tiny Orange Antoids with Long Tails on Bumis V has grown by a billion.
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+The population of Tiny Orange Antoids with Long Tails on Foneq VI has grown by a billion.
+111:
+The population of Six-Legged Antoids on Bumis V has grown by a billion.
+The Kingdom of Grey Catoids explore Folew I. They discover: The ruins of a mining base, built by the Republic of Grey Catoids in 94, destroyed in 105 during the collapse of the Republic of Grey Catoids. 
+The Kingdom of Grey Catoids experiences a population boom! 
+112:
+The population of Tiny Orange Antoids with Long Tails on Bumis V has grown by a billion.
+113:
+The population of Tiny Orange Antoids with Long Tails on Orgus VI has grown by a billion.
+The population of Tiny Orange Antoids with Long Tails on Foneq VI has grown by a billion.
+114:
+The population of Six-Legged Antoids on Bumis V has grown by a billion.
+
+ Industrial Golden Age Revival!Kingdom of Grey Catoids previous decrepitude: 1 revival amount: 0
+
+Civ Name: Kingdom of Grey Catoids 
+Civ Birth Year: 108 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | 1 | -3 | -1 | 0 | 
+Resources 2 Science 6 Military 11 WeapLevel 0 TechLevel 1 Decrepitude 1
+The Kingdom of Grey Catoids enters a golden age of industry! The Kingdom of Grey Catoids build a mining base on Aumis V. The Kingdom of Grey Catoids build a mining base on Folew I.
+115:
+The population of Tiny Orange Antoids with Long Tails on Foneq VI has grown by a billion.
+The Kingdom of Grey Catoids develop a Mind Control Device.
+Sentient Feathered Ursoids arise on Foneq VI.
+116:
+The population of Tiny Orange Antoids with Long Tails on Foneq VI has grown by a billion.
+The Kingdom of Grey Catoids explore Folew I. 
+The Scaly Robots with Giant Eyes on Orgus VI achieve spaceflight and organise as a Feudal State, the Kingdom of Scaly Robots with Giant Eyes.
+
+Civ Name: Kingdom of Scaly Robots with Giant Eyes 
+Civ Birth Year: 116 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | -2 | 2 | 2 | -4 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+117:
+The population of Tiny Orange Antoids with Long Tails on Foneq VI has grown by a billion.
+Overcrowding on Orgus VI leads to increased pollution.
+118:
+The population of Tiny Orange Antoids with Long Tails on Bumis V has grown by a billion.
+The population of Tiny Orange Antoids with Long Tails on Foneq VI has grown by a billion.
+The Kingdom of Grey Catoids send a delegation to Orgus VI. They declare war on the Kingdom of Scaly Robots with Giant Eyes! 
+The Kingdom of Grey Catoids explore Foneq VI. They ignore the local Tiny Orange Antoids with Long Tails. They ignore the local Tiny Robots. They subjugate the local Feathered Ursoids. 
+The Kingdom of Grey Catoids conquer Orgus VI, a colony of the Kingdom of Scaly Robots with Giant Eyes, using their mind control device to gain control of the planet from orbit.
+The Kingdom of Scaly Robots with Giant Eyes collapses.
+119:
+Pollution kills a billion Tiny Orange Antoids with Long Tails on Foneq VI.
+Overcrowding on Orgus VI leads to increased pollution.
+Overcrowding on Foneq VI leads to increased pollution.
+The Kingdom of Grey Catoids explore Orgus VI. 

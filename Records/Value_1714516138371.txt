@@ -1,0 +1,1115 @@
+SENTIENT SPECIES:
+Four-Armed Robots: Purely mechanical lifeforms, artificially created. They have four arms. They have bilateral symmetry. They are peaceful and always willing to listen. They were created by the Republic of Six-Legged Antoids on Gylor V as servants in 162.
+	Their Stats are: STR: -2 DEX: -1 CON: -3 INT: -1 CHA: -3
+Four-Armed White Koboldoids: Eat pretty much anything, including one another. Disturbingly fond of skulls. They have white skin. They have four arms. They have bilateral symmetry. They are cautious and have a complex system of social rules. They first evolved on Jurvox II in 16.
+	Their Stats are: STR: 1 DEX: 0 CON: -1 INT: 2 CHA: 0
+Six-Legged Antoids: Small, industrious and well-organised, these creatures' greatest weakness is their ever-ballooning population. They have six legs. They have bilateral symmetry. They are violent and deeply religious. They first evolved on Aomep V in 122.
+	Their Stats are: STR: 1 DEX: -1 CON: -3 INT: -2 CHA: 2
+Giant Humanoids: Pretty adventurous but otherwise fairly average. They have bilateral symmetry. They are cautious and believe in the survival of the fittest. They first evolved on Chroma III in 100.
+	Their Stats are: STR: 1 DEX: -1 CON: -1 INT: -1 CHA: 1
+
+CIVILISATIONS:
+THE REPUBLIC OF ANTOIDS AND KOBOLDOIDS:
+An ancient, fantastically wealthy, primitive Republic of 3 planets, with 13 billion inhabitants.
+Major populations:
+5 billion Four-Armed White Koboldoids.
+4 billion Six-Legged Antoids.
+4 billion enslaved Giant Humanoids.
+It is at peace with the Republic of Six-Legged Antoids.
+
+	Their Stats are: STR: -1 DEX: -1 CON: 1 INT: -1 CHA: -1
+THE REPUBLIC OF SIX-LEGGED ANTOIDS:
+A well-established, fantastically wealthy Republic of 10 planets, with 18 billion inhabitants.
+Major populations:
+10 billion Six-Legged Antoids.
+4 billion enslaved Four-Armed Robots.
+4 billion enslaved Four-Armed White Koboldoids.
+It is at peace with the Republic of Antoids and Koboldoids.
+
+	Their Stats are: STR: 0 DEX: 1 CON: 0 INT: -1 CHA: -1
+PLANETS:
+EUMIV V
+A barren planet of the Republic of Antoids and Koboldoids.
+A science lab, built by the Second Church of Four-Armed White Koboldoids in 52
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+
+CUKIS IV
+A barren planet of the Republic of Six-Legged Antoids.
+A mining base, built by the Second Church of Four-Armed White Koboldoids in 51
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+
+LUMEN III
+A barren planet of the Republic of Six-Legged Antoids.
+A mining base, built by the Republic of Six-Legged Antoids in 164
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Strata:
+The ruins of a military base, built by the Second Church of Four-Armed White Koboldoids in 150, destroyed in 162 during the invasion of the Republic of Antoids and Koboldoids.
+The ruins of a mining base, built by the Second Church of Four-Armed White Koboldoids in 54, destroyed in 149 due to orbital bombardment by the Church of Four-Armed White Koboldoids.
+
+JURVOX II
+A life-bearing planet of the Republic of Antoids and Koboldoids.
+It is populated by:
+1 billion Four-Armed White Koboldoids
+Lifeforms of note:
+Ocean giants: Huge sea creatures growing to more than a kilometre of length.
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+A Youth Serum created by the Second Church of Four-Armed White Koboldoids in 95, buried in 162.
+A Stasis Capsule created by the Republic of Antoids and Koboldoids in 150, buried in 162.
+The ruins of a grand palace, built by the Republic of Antoids and Koboldoids in 162, destroyed in 162 when the entire population of the planet turned out to be shape-shifters.
+Remnants of a culture of Six-Legged Grey Robots that collapsed when the entire population of the planet turned out to be shape-shifters in 162.
+Remnants of a culture of Feathered Koboldoids that collapsed due to orbital bombardment by the Church of Four-Armed White Koboldoids in 162.
+Remnants of a culture of Six-Legged Antoids that collapsed through predation by shape-shifters in 161.
+The ruins of a science lab, built by the Second Church of Four-Armed White Koboldoids in 85, destroyed in 161 through orbital bombardment by the Church of Four-Armed White Koboldoids.
+Remnants of a culture of Four-Armed White Koboldoids that collapsed from the effects of pollution in 156.
+Remnants of a culture of Giant Humanoids that collapsed through predation by shape-shifters in 134.
+A Master Computer created by the rogue AI Simulation 309 in 70, hidden in 91.
+A film about Four-Armed White Koboldoids created by the Second Church of Four-Armed White Koboldoids in 57, buried in 84.
+A Teleport Gate created by the Second Church of Four-Armed White Koboldoids in 38, buried in 84.
+The ruins of a complex of arcologies, built by the Second Church of Four-Armed White Koboldoids in 70, destroyed in 84 due to the self-destruction of the insane space probe Monad.
+The ruins of a city of spires, built by the Second Church of Four-Armed White Koboldoids in 57, destroyed in 84 due to the self-destruction of the insane space probe Monad.
+The ruins of a skull pit, built by the Second Church of Four-Armed White Koboldoids in 55, destroyed in 84 due to the self-destruction of the insane space probe Monad.
+The ruins of a skull pile, built by the Second Church of Four-Armed White Koboldoids in 39, destroyed in 84 due to the self-destruction of the insane space probe Monad.
+Remnants of a culture of Scaly Blue Robots that collapsed due to the self-destruction of the insane space probe Monad in 84.
+Remnants of a culture of Four-Armed White Koboldoids that collapsed due to the self-destruction of the insane space probe Monad in 84.
+
+EYKOP IV
+A life-bearing planet of the Republic of Six-Legged Antoids.
+It is populated by:
+5 billion Six-Legged Antoids
+A military base, built by the Second Church of Four-Armed White Koboldoids in 120
+Lifeforms of note:
+Beautiful flying creatures: Fluttering fliers that display a dazzling array of colours.
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Strata:
+Remnants of a culture of Tiny Robots that collapsed due to orbital bombardment by the Church of Four-Armed White Koboldoids in 158.
+Remnants of a culture of Four-Armed White Koboldoids that collapsed during a slave revolt in 156.
+Remnants of a culture of Feathered Koboldoids that collapsed due to starvation in 119.
+Remnants of a culture of Feathered Koboldoids that collapsed from the White Fever in 115. The White Fever, which affects Feathered Koboldoids, slumbers in their corpses.
+The ruins of a grand palace, built by the Second Church of Four-Armed White Koboldoids in 86, destroyed in 97 due to starvation.
+The ruins of a complex of arcologies, built by the Second Church of Four-Armed White Koboldoids in 80, destroyed in 97 due to starvation.
+The ruins of a vast museum, built by the Second Church of Four-Armed White Koboldoids in 69, destroyed in 97 due to starvation.
+The ruins of a skull pit, built by the Second Church of Four-Armed White Koboldoids in 68, destroyed in 97 due to starvation.
+Remnants of a culture of Feathered Purple Ursoids that collapsed due to starvation in 97.
+Remnants of a culture of Feathered Koboldoids that collapsed from mass hysteria in 94.
+Remnants of a culture of Four-Armed White Koboldoids that collapsed from the effects of pollution in 92.
+
+CHROMA V
+A life-bearing planet of the Republic of Six-Legged Antoids.
+It is populated by:
+2 billion enslaved Four-Armed White Koboldoids
+5 billion Six-Legged Antoids
+A mining base, built by the Second Church of Four-Armed White Koboldoids in 63
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Strata:
+The ruins of a skull pile, built by the Second Church of Four-Armed White Koboldoids in 130, destroyed in 163 during the invasion of the Republic of Six-Legged Antoids.
+Remnants of a culture of Feathered Koboldoids that collapsed from the effects of pollution in 163.
+Remnants of a culture of Purple Catoids that collapsed from mass hysteria in 94.
+Fossils of ultravores that went extinct in 59 due to a massive asteroid impact.
+The ruins of a science lab, built by the Second Church of Four-Armed White Koboldoids in 33, destroyed in 59 by a massive asteroid impact.
+
+XARLAN IV
+A barren planet of the Republic of Six-Legged Antoids.
+A military base, built by the Republic of Six-Legged Antoids in 159
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+Strata:
+The ruins of a mining base, built by the Second Church of Four-Armed White Koboldoids in 153, destroyed in 159 due to orbital bombardment by the Church of Four-Armed White Koboldoids.
+The ruins of a mining base, built by the Second Church of Four-Armed White Koboldoids in 53, destroyed in 150 due to orbital bombardment by the Church of Four-Armed White Koboldoids.
+
+DOKEP IV
+A barren planet.
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+Strata:
+The ruins of a science lab, built by the Second Church of Four-Armed White Koboldoids in 49, destroyed in 164 during the invasion of the Second Church of Four-Armed White Koboldoids.
+
+CILAQ I
+A barren planet of the Republic of Six-Legged Antoids.
+A military base, built by the Republic of Six-Legged Antoids in 164
+Strata:
+The ruins of a military base, built by the Second Church of Four-Armed White Koboldoids in 157, destroyed in 159 due to orbital bombardment by the Republic of Antoids and Koboldoids.
+The ruins of a mining base, built by the Second Church of Four-Armed White Koboldoids in 56, destroyed in 155 due to orbital bombardment by the Republic of Antoids and Koboldoids.
+
+AOMEP V
+A barren planet of the Republic of Six-Legged Antoids.
+A mining base, built by the Republic of Six-Legged Antoids in 160
+Strata:
+The ruins of a complex of arcologies, built by the Republic of Antoids and Koboldoids in 158, destroyed in 158 by a nanofungal bloom.
+The ruins of a orbital elevator, built by the Second Church of Four-Armed White Koboldoids in 95, destroyed in 158 by a nanofungal bloom.
+The ruins of a skull pile, built by the Second Church of Four-Armed White Koboldoids in 89, destroyed in 158 by a nanofungal bloom.
+Remnants of a culture of Feathered Robots that collapsed due to a nanofungal bloom in 158.
+Remnants of a culture of Six-Legged Antoids that collapsed due to a nanofungal bloom in 158.
+Remnants of a culture of Feathered Koboldoids that collapsed due to a nanofungal bloom in 158.
+Remnants of a culture of Four-Armed White Koboldoids that collapsed from the effects of pollution in 158.
+The ruins of a complex of arcologies, built by the Second Church of Four-Armed White Koboldoids in 90, destroyed in 156 through orbital bombardment by the Church of Four-Armed White Koboldoids.
+The ruins of a skull pit, built by the Second Church of Four-Armed White Koboldoids in 89, destroyed in 156 through orbital bombardment by the Church of Four-Armed White Koboldoids.
+The ruins of a city of spires, built by the Empire of Koboldoids in 80, destroyed in 156 through orbital bombardment by the Church of Four-Armed White Koboldoids.
+Remnants of a culture of Four-Armed White Koboldoids that collapsed from mass hysteria in 94.
+The ruins of a skull pit, built by the Empire of Koboldoids in 83, destroyed in 86 during the invasion of the Empire of Four-Armed White Koboldoids.
+The ruins of a vast underground vault, built by the Empire of Koboldoids in 74, destroyed in 75 during the invasion of the Republic of Koboldoids.
+The ruins of a grand palace, built by the Second Church of Four-Armed White Koboldoids in 72, destroyed in 73 through orbital bombardment by the Republic of Koboldoids.
+
+GYLOR V
+A life-bearing planet of the Republic of Six-Legged Antoids.
+It is populated by:
+2 billion enslaved Four-Armed White Koboldoids
+4 billion enslaved Four-Armed Robots
+A skull pit, built by the Republic of Antoids and Koboldoids in 156
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+Remnants of a culture of Scaly Ursoids that collapsed from the effects of pollution in 163.
+Remnants of a culture of Feathered Koboldoids that collapsed from the effects of pollution in 161.
+The ruins of a grand palace, built by the Second Church of Four-Armed White Koboldoids in 159, destroyed in 160 during the invasion of the Republic of Six-Legged Antoids.
+The ruins of a orbital elevator, built by the Republic of Antoids and Koboldoids in 156, destroyed in 160 during the invasion of the Republic of Six-Legged Antoids.
+The ruins of a skull pile, built by the Second Church of Four-Armed White Koboldoids in 143, destroyed in 151 through orbital bombardment by the Church of Four-Armed White Koboldoids.
+Remnants of a culture of Four-Armed White Koboldoids that collapsed due to orbital bombardment by the Church of Four-Armed White Koboldoids in 151.
+The ruins of a science lab, built by the Second Church of Four-Armed White Koboldoids in 77, destroyed in 150 during the invasion of the Republic of Antoids and Koboldoids.
+Fossils of ocean giants that went extinct in 70 due to a massive asteroid impact.
+Remnants of a culture of Four-Armed White Koboldoids that collapsed due to a massive asteroid impact in 70.
+Remnants of a culture of Immortal Trolloids that collapsed due to a massive asteroid impact in 70.
+
+CHROMA III
+A life-bearing planet of the Republic of Antoids and Koboldoids.
+It is populated by:
+4 billion Six-Legged Antoids
+4 billion Four-Armed White Koboldoids
+4 billion enslaved Giant Humanoids
+A science lab, built by the Second Church of Four-Armed White Koboldoids in 47
+A skull pile, built by the Second Church of Four-Armed White Koboldoids in 144
+Lifeforms of note:
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+Remnants of a culture of Purple Catoids that collapsed from the effects of pollution in 143.
+Remnants of a culture of Giant Humanoids that collapsed from mass hysteria in 116.
+Remnants of a culture of Feathered Purple Ursoids that collapsed from mass hysteria in 94.
+Remnants of a culture of Four-Armed White Koboldoids that collapsed from the Grey Rot in 76. The Grey Rot, which affects Four-Armed White Koboldoids, slumbers in their corpses.
+
+CINAU III
+A barren planet of the Republic of Six-Legged Antoids.
+A science lab, built by the Republic of Six-Legged Antoids in 160
+Strata:
+The ruins of a mining base, built by the Republic of Six-Legged Antoids in 157, destroyed in 160 due to orbital bombardment by the Church of Four-Armed White Koboldoids.
+The ruins of a mining base, built by the Second Church of Four-Armed White Koboldoids in 51, destroyed in 157 due to orbital bombardment by the Republic of Antoids and Koboldoids.
+
+ATRIA I
+A barren planet of the Republic of Six-Legged Antoids.
+A science lab, built by the Second Church of Four-Armed White Koboldoids in 62
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Eumiv V, Cukis IV, Lumen III, Jurvox II, Eykop IV, Chroma V, Xarlan IV, Dokep IV, Cilaq I, Aomep V, Gylor V, Chroma III, Cinau III, Atria I
+8:
+Life arises on Jurvox II
+16:
+Sentient Four-Armed White Koboldoids arise on Jurvox II.
+19:
+Life arises on Chroma III
+21:
+Gylor V becomes tidally locked to its star.
+Life arises on Gylor V
+25:
+Life arises on Chroma V
+28:
+Life arises on Eykop IV
+29:
+Deposits of huge gems form on Xarlan IV.
+30:
+Vast empty plains form on Eumiv V.
+32:
+The Four-Armed White Koboldoids on Jurvox II achieve spaceflight and organise as a Republic, the Republic of Four-Armed White Koboldoids.
+
+Civ Name: Republic of Four-Armed White Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | -1 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+33:
+WE ENTER THE FIRST AGE OF CIVILISATION
+
+ Science Golden Age Revival!Republic of Four-Armed White Koboldoids previous decrepitude: 0 revival amount: 25
+
+Civ Name: Republic of Four-Armed White Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | -1 | 
+Resources 2 Science 11 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Republic of Four-Armed White Koboldoids enters a golden age of science! The Republic of Four-Armed White Koboldoids build a science lab on Chroma V.
+Life arises on Aomep V
+35:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+36:
+Shape-shifters evolve on Chroma III.
+38:
+The Republic of Four-Armed White Koboldoids develop a Teleport Gate.
+Ultravores evolve on Chroma V.
+39:
+The Four-Armed White Koboldoids on Jurvox II devour one billion of their own kind in a mad frenzy of cannibalism!
+The Four-Armed White Koboldoids erect a pile of skulls on Jurvox II!
+42:
+The Republic of Four-Armed White Koboldoids explore Eumiv V. 
+Beautiful flying creatures evolve on Eykop IV.
+44:
+The Republic of Four-Armed White Koboldoids explore Cinau III. 
+Deposits of huge gems form on Dokep IV.
+46:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+47:
+Overcrowding on Jurvox II leads to increased pollution.
+
+ Science Golden Age Revival!Republic of Four-Armed White Koboldoids previous decrepitude: 10 revival amount: 53
+
+Civ Name: Republic of Four-Armed White Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | -1 | 
+Resources 3 Science 29 Military 0 WeapLevel 0 TechLevel 2 Decrepitude 10
+The Republic of Four-Armed White Koboldoids enters a golden age of science! The Republic of Four-Armed White Koboldoids build a science lab on Chroma III.
+Sentient Feathered Koboldoids arise on Aomep V.
+48:
+The Republic of Four-Armed White Koboldoids attempting to upgrade their stats of value :4 current score is: -3
+The difficulty is: 15 They rolled: 14on: 4d3+6
+TechLevel: 3 Science: 6
+49:
+
+ Science Golden Age Revival!Republic of Four-Armed White Koboldoids previous decrepitude: 14 revival amount: 48
+
+Civ Name: Republic of Four-Armed White Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | -1 | 
+Resources 1 Science 21 Military 4 WeapLevel 0 TechLevel 3 Decrepitude 14
+The Republic of Four-Armed White Koboldoids enters a golden age of science! The Republic of Four-Armed White Koboldoids build a science lab on Dokep IV.
+50:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+51:
+The Republic of Four-Armed White Koboldoids build a mining base on Cukis IV.
+
+ Industrial Golden Age Revival!Republic of Four-Armed White Koboldoids previous decrepitude: 18 revival amount: 0
+
+Civ Name: Republic of Four-Armed White Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | -1 | 
+Resources 0 Science 35 Military 4 WeapLevel 0 TechLevel 3 Decrepitude 18
+The Republic of Four-Armed White Koboldoids enters a golden age of industry! The Republic of Four-Armed White Koboldoids build a mining base on Gylor V. The Republic of Four-Armed White Koboldoids build a mining base on Cinau III.
+Ocean giants evolve on Gylor V.
+52:
+The Republic of Four-Armed White Koboldoids build a science lab on Eumiv V.
+53:
+The Republic of Four-Armed White Koboldoids build a mining base on Xarlan IV.
+The Republic of Four-Armed White Koboldoids launch a space probe called Monad to explore the galaxy.
+54:
+Overcrowding on Jurvox II leads to increased pollution.
+The Republic of Four-Armed White Koboldoids build a mining base on Lumen III.
+55:
+Overcrowding on Jurvox II leads to increased pollution.
+The Republic of Four-Armed White Koboldoids build a skull pit on Jurvox II.
+56:
+The Republic of Four-Armed White Koboldoids build a mining base on Cilaq I.
+57:
+The Republic of Four-Armed White Koboldoids build a city of spires on Jurvox II.
+
+ Art Golden Age Revival!Republic of Four-Armed White Koboldoids previous decrepitude: 24 revival amount: 2
+
+Civ Name: Republic of Four-Armed White Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | -1 | 
+Resources 6 Science 45 Military 4 WeapLevel 0 TechLevel 3 Decrepitude 24
+Artists on Jurvox II create a film about Four-Armed White Koboldoids. 
+58:
+The Republic of Four-Armed White Koboldoids explore Xarlan IV. 
+The Feathered Koboldoids on Aomep V achieve spaceflight and organise as a Military Dictatorship, the Empire of Feathered Koboldoids.
+
+Civ Name: Empire of Feathered Koboldoids 
+Civ Birth Year: 58 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | -1 | -4 | -2 | 1 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Sentient Immortal Trolloids arise on Gylor V.
+59:
+Pollution kills a billion Feathered Koboldoids on Aomep V.
+The Republic of Four-Armed White Koboldoids explore Chroma III. 
+All life on Chroma V is killed off by a massive asteroid impact!
+60:
+Pollution kills a billion Feathered Koboldoids on Aomep V.
+The Republic of Four-Armed White Koboldoids explore Eumiv V. 
+The Republic of Four-Armed White Koboldoids uplift the local Feathered Purple Ursoids on Eykop IV and incorporate the planet into their civilisation.
+The Empire of Feathered Koboldoids collapses, leaving only a few survivors on Aomep V.
+61:
+Overcrowding on Jurvox II leads to increased pollution.
+The Republic of Four-Armed White Koboldoids explore Jurvox II. 
+The Republic of Four-Armed White Koboldoids explore Gylor V. 
+The deadly Black Wasting, which affects Four-Armed White Koboldoids, arises on Jurvox II.
+Deposits of huge gems form on Chroma V.
+62:
+Overcrowding on Jurvox II leads to increased pollution.
+The Republic of Four-Armed White Koboldoids colonise Chroma III. 
+The Republic of Four-Armed White Koboldoids build a science lab on Atria I.
+The Republic of Four-Armed White Koboldoids accidentally create the rogue AI Simulation 309 on Xarlan IV.
+Sentient Purple Catoids arise on Chroma III.
+63:
+The Republic of Four-Armed White Koboldoids build a mining base on Chroma V.
+The Republic of Four-Armed White Koboldoids explore Chroma V. 
+64:
+The Republic of Four-Armed White Koboldoids build a vast underground vault on Eykop IV.
+The Republic of Four-Armed White Koboldoids colonise Aomep V. Of the natives of that planet, the 1 billion Feathered Koboldoids are given full membership in the Republic of Four-Armed White Koboldoids.  They now call themselves the Republic of Koboldoids.
+65:
+The population of Feathered Purple Ursoids on Eykop IV has grown by a billion.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+The population of Four-Armed White Koboldoids on Gylor V has grown by a billion.
+66:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+Black Wasting has been eradicated on Jurvox II.
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma III has grown by a billion.
+Life arises on Chroma V
+67:
+The Republic of Koboldoids colonise Chroma V. 
+68:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The skull pit on Jurvox II excites the local Four-Armed White Koboldoids into a sexual frenzy.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+The Republic of Koboldoids build a skull pit on Eykop IV.
+69:
+Overcrowding on Aomep V leads to increased pollution.
+The Republic of Koboldoids build a vast museum on Eykop IV.
+A famine breaks out on Jurvox II, killing 2 billion.
+70:
+The skull pit on Jurvox II excites the local Four-Armed White Koboldoids into a sexual frenzy.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+The Republic of Koboldoids build a complex of arcologies on Jurvox II.
+A market crash impoverishes the Republic of Koboldoids.
+The rogue AI Simulation 309 presents the inhabitants of Xarlan IV with a gift: a Master Computer.
+All life on Gylor V is killed off by a massive asteroid impact!
+71:
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+The population of Purple Catoids on Chroma III has grown by a billion.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The wind plays across rock formations on Lumen III, producing an eerie music.
+72:
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Republic of Koboldoids explore Dokep IV. 
+The Republic of Koboldoids build a grand palace on Aomep V.
+73:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+
+Civ Name: Republic of Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | 0 | 
+Resources 54 Science 44 Military 13 WeapLevel 0 TechLevel 3 Decrepitude 70
+The Empire of Koboldoids secedes from the Republic of Koboldoids, leading to a civil war!
+The Republic of Koboldoids attack Aomep V, a colony of the Empire of Koboldoids, and subject it to orbital bombardment, killing 4 billion.
+The rogue AI Simulation 309 vanishes without a trace.
+74:
+The deadly Grey Rot, which affects Four-Armed White Koboldoids, arises on Chroma III.
+The Republic of Koboldoids conquer Chroma V, a colony of the Empire of Koboldoids.
+The Empire of Koboldoids build a vast underground vault on Aomep V.
+The Empire of Koboldoids explore Aomep V. 
+The Empire of Koboldoids conquer Jurvox II, a colony of the Republic of Koboldoids.
+The Empire of Koboldoids gain control of the Teleport Gate on Jurvox II.
+75:
+The population of Feathered Purple Ursoids on Eykop IV has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Captain Uzzakk Jameson, space adventurer, blasts off from Cilaq I.
+The Republic of Koboldoids conquer Aomep V, a colony of the Empire of Koboldoids.
+The Empire of Koboldoids send a delegation to Chroma V. They sign a peace accord with the Republic of Koboldoids, ending their war. 
+An expedition led by Captain Uzzakk Jameson explores Cinau III. 
+76:
+The population of Feathered Purple Ursoids on Eykop IV has grown by a billion.
+The Four-Armed White Koboldoids on Chroma III have been wiped out by the Grey Rot!
+The Republic of Koboldoids explore Eumiv V. 
+An expedition led by Captain Uzzakk Jameson explores Cinau III. 
+77:
+The Republic of Koboldoids build a science lab on Gylor V.
+A military putsch turns the Republic of Koboldoids into the Empire of Four-Armed White Koboldoids.
+78:
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+The Empire of Four-Armed White Koboldoids send a delegation to Jurvox II. They declare war on the Empire of Koboldoids! 
+The Empire of Four-Armed White Koboldoids conquer Cinau III, a colony of the Empire of Koboldoids.
+The Empire of Koboldoids conquer Aomep V, a colony of the Empire of Four-Armed White Koboldoids, killing 1 billion in the process.
+The Empire of Four-Armed White Koboldoids send Captain Uzzakk Jameson on a mission of peace to the Empire of Koboldoids.
+The expert diplomacy of Captain Uzzakk Jameson is successful: the two empires are at peace.
+An expedition led by Captain Uzzakk Jameson explores Aomep V. They trade with the local Feathered Koboldoids. 
+79:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The skull pit on Jurvox II excites the local Four-Armed White Koboldoids into a sexual frenzy.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The population of Feathered Purple Ursoids on Chroma III has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+The Empire of Four-Armed White Koboldoids explore Gylor V. They discover: Fossils of ocean giants that went extinct in 70 due to a massive asteroid impact. 
+Overcrowding on Jurvox II leads to increased pollution.
+An expedition led by Captain Uzzakk Jameson explores Aomep V. They trade with the local Feathered Koboldoids. 
+80:
+The population of Feathered Purple Ursoids on Eykop IV has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+The Empire of Four-Armed White Koboldoids build a complex of arcologies on Eykop IV.
+The Empire of Koboldoids build a city of spires on Aomep V.
+81:
+The Empire of Four-Armed White Koboldoids develop powerful new weapons.
+Vast canyons are carved on Cukis IV.
+82:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+An industrial accident on Eykop IV causes deadly levels of pollution.
+
+ Science Golden Age Revival!Empire of Koboldoids previous decrepitude: -2 revival amount: 25
+
+Civ Name: Empire of Koboldoids 
+Civ Birth Year: 73 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | 0 | 
+Resources 17 Science 13 Military 8 WeapLevel 0 TechLevel 4 Decrepitude -2
+The Empire of Koboldoids enters a golden age of science! 
+An expedition led by Captain Uzzakk Jameson explores Aomep V. They trade with the local Four-Armed White Koboldoids. 
+83:
+Pollution kills a billion Feathered Purple Ursoids on Eykop IV.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Jurvox II leads to increased pollution.
+The Empire of Koboldoids build a skull pit on Aomep V.
+The Empire of Koboldoids create Scaly Blue Robots as servants on Jurvox II.
+An expedition led by Captain Uzzakk Jameson explores Jurvox II. They trade with the local Four-Armed White Koboldoids. 
+Pollution on Eykop IV abates.
+84:
+Pollution kills a billion Feathered Purple Ursoids on Eykop IV.
+The population of Purple Catoids on Chroma III has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+The Empire of Four-Armed White Koboldoids explore Xarlan IV. 
+The Empire of Four-Armed White Koboldoids explore Cukis IV. 
+Overcrowding on Jurvox II leads to increased pollution.
+The space probe Monad returns to Jurvox II.
+Unable to contact the Empire of Four-Armed White Koboldoids that launched it, the probe goes insane.
+Captain Uzzakk Jameson attempts to reason with the space probe Monad but triggers its self-destruct mechanism.
+The resulting shockwave exterminates all life on Jurvox II.
+85:
+The population of Feathered Purple Ursoids on Eykop IV has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+Overcrowding on Chroma III leads to increased pollution.
+The Empire of Four-Armed White Koboldoids build a science lab on Jurvox II.
+The Empire of Four-Armed White Koboldoids enters a dark age. Decrepitude set to 0,  was 125
+The Empire of Koboldoids send a delegation to Cukis IV. They declare war on the Empire of Four-Armed White Koboldoids! 
+The Empire of Koboldoids attack Chroma V, a colony of the Empire of Four-Armed White Koboldoids, and subject it to orbital bombardment, killing 1 billion.
+86:
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+The Empire of Four-Armed White Koboldoids build a grand palace on Eykop IV.
+The Empire of Four-Armed White Koboldoids conquer Aomep V, a colony of the Empire of Koboldoids.
+The Empire of Koboldoids collapses.
+87:
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+Overcrowding on Chroma III leads to increased pollution.
+88:
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+Overcrowding on Aomep V leads to increased pollution.
+89:
+Pollution kills a billion Feathered Purple Ursoids on Eykop IV.
+The Four-Armed White Koboldoids on Aomep V devour one billion of their own kind in a mad frenzy of cannibalism!
+The Four-Armed White Koboldoids erect a pile of skulls on Aomep V!
+The population of Purple Catoids on Chroma III has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Empire of Four-Armed White Koboldoids build a skull pit on Aomep V.
+90:
+The skull pit on Eykop IV excites the local Feathered Koboldoids into a sexual frenzy.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+The Empire of Four-Armed White Koboldoids build a complex of arcologies on Aomep V.
+91:
+The population of Feathered Koboldoids on Eykop IV has grown by a billion.
+The population of Feathered Purple Ursoids on Chroma III has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Master Computer created by the rogue AI Simulation 309 in 70 on Xarlan IV has been stolen and hidden on Jurvox II.
+92:
+Pollution kills a billion Four-Armed White Koboldoids on Eykop IV.
+Four-Armed White Koboldoids have died out on Eykop IV!
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The population of Purple Catoids on Chroma V has grown by a billion.
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Life arises on Gylor V
+93:
+The population of Purple Catoids on Chroma V has grown by a billion.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+The skull pit on Aomep V excites the local Four-Armed White Koboldoids into a sexual frenzy.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+A market crash impoverishes the Empire of Four-Armed White Koboldoids.
+94:
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+The Empire of Four-Armed White Koboldoids colonise Gylor V. 
+Mass hysteria breaks out in the Empire of Four-Armed White Koboldoids, killing billions.
+95:
+The Empire of Four-Armed White Koboldoids build a orbital elevator on Aomep V.
+The Empire of Four-Armed White Koboldoids develop a Youth Serum.
+97:
+The skull pit on Aomep V excites the local Feathered Koboldoids into a sexual frenzy.
+The Empire of Four-Armed White Koboldoids explore Eumiv V. 
+A famine breaks out on Eykop IV, killing 1 billion, wiping out all sentient life.
+98:
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The Empire of Four-Armed White Koboldoids build a mining base on Eykop IV.
+Life arises on Jurvox II
+99:
+The population of Four-Armed White Koboldoids on Gylor V has grown by a billion.
+Vast grazing herds evolve on Chroma V.
+100:
+The Empire of Four-Armed White Koboldoids colonise Eykop IV. 
+Sentient Giant Humanoids arise on Chroma III.
+101:
+A giant spaceborne blue worm appears from the depths of space and menaces the skies of Xarlan IV.
+The population of Purple Catoids on Chroma III has grown by a billion.
+The Empire of Four-Armed White Koboldoids colonise Jurvox II. 
+103:
+The population of Giant Humanoids on Jurvox II has grown by a billion.
+104:
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+105:
+The Empire of Four-Armed White Koboldoids explore Aomep V. They discover: The ruins of a skull pit, built by the Empire of Koboldoids in 83, destroyed in 86 during the invasion of the Empire of Four-Armed White Koboldoids. 
+
+ Science Golden Age Revival!Empire of Four-Armed White Koboldoids previous decrepitude: 218 revival amount: 258
+
+Civ Name: Empire of Four-Armed White Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | 0 | 
+Resources 195 Science 141 Military 39 WeapLevel 1 TechLevel 2 Decrepitude 218
+The Empire of Four-Armed White Koboldoids enters a golden age of science! 
+106:
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+108:
+The Empire of Four-Armed White Koboldoids explore Atria I. 
+109:
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The Feathered Koboldoids on Aomep V devour one billion of their own kind in a mad frenzy of cannibalism!
+The population of Giant Humanoids on Chroma III has grown by a billion.
+The Empire of Four-Armed White Koboldoids explore Xarlan IV. 
+110:
+The population of Giant Humanoids on Jurvox II has grown by a billion.
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The giant spaceborne blue worm leaves the orbit of Xarlan IV and heads back into deep space.
+111:
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The Feathered Koboldoids on Aomep V devour one billion of their own kind in a mad frenzy of cannibalism!
+The Empire of Four-Armed White Koboldoids explore Jurvox II. They discover: Remnants of a culture of Scaly Blue Robots that collapsed due to the self-destruction of the insane space probe Monad in 84. 
+112:
+Overcrowding on Aomep V leads to increased pollution.
+The Empire of Four-Armed White Koboldoids explore Aomep V. 
+The deadly White Fever, which affects Feathered Koboldoids, arises on Eykop IV.
+Living islands evolve on Chroma V.
+113:
+The population of Feathered Koboldoids on Eykop IV has grown by a billion.
+114:
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+115:
+The Feathered Koboldoids on Eykop IV have been wiped out by the White Fever!
+Overcrowding on Aomep V leads to increased pollution.
+The Empire of Four-Armed White Koboldoids colonise Eykop IV. 
+116:
+The population of Giant Humanoids on Jurvox II has grown by a billion.
+Mass hysteria breaks out in the Empire of Four-Armed White Koboldoids, killing billions.
+117:
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+118:
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The Empire of Four-Armed White Koboldoids explore Cilaq I. 
+119:
+A famine breaks out on Eykop IV, killing 1 billion, wiping out all sentient life.
+120:
+The skull pit on Aomep V excites the local Feathered Koboldoids into a sexual frenzy.
+The Empire of Four-Armed White Koboldoids explore Eykop IV. They discover: The ruins of a vast museum, built by the Empire of Four-Armed White Koboldoids in 69, destroyed in 97 due to starvation. 
+The Empire of Four-Armed White Koboldoids build a military base on Eykop IV.
+122:
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The Empire of Four-Armed White Koboldoids explore Aomep V. 
+Sentient Six-Legged Antoids arise on Aomep V.
+123:
+The Empire of Four-Armed White Koboldoids colonise Eykop IV. 
+
+ Science Golden Age Revival!Empire of Four-Armed White Koboldoids previous decrepitude: 321 revival amount: 134
+
+Civ Name: Empire of Four-Armed White Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | 0 | 
+Resources 467 Science 71 Military 54 WeapLevel 1 TechLevel 3 Decrepitude 321
+The Empire of Four-Armed White Koboldoids enters a golden age of science! 
+124:
+Brain parasites evolve on Eykop IV.
+125:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+Ocean giants evolve on Jurvox II.
+126:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+127:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The Empire of Four-Armed White Koboldoids explore Cukis IV. 
+128:
+Overcrowding on Aomep V leads to increased pollution.
+The Empire of Four-Armed White Koboldoids enters a dark age. Decrepitude set to 0,  was 212
+129:
+Overcrowding on Chroma V leads to increased pollution.
+The Empire of Four-Armed White Koboldoids explore Gylor V. They discover: Remnants of a culture of Immortal Trolloids that collapsed due to a massive asteroid impact in 70. 
+130:
+The Four-Armed White Koboldoids on Chroma V devour one billion of their own kind in a mad frenzy of cannibalism!
+The Four-Armed White Koboldoids erect a pile of skulls on Chroma V!
+The population of Feathered Koboldoids on Gylor V has grown by a billion.
+Overcrowding on Aomep V leads to increased pollution.
+The Empire of Four-Armed White Koboldoids explore Eumiv V. 
+Radiovores evolve on Eykop IV.
+131:
+The population of Giant Humanoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The population of Four-Armed White Koboldoids on Gylor V has grown by a billion.
+The Empire of Four-Armed White Koboldoids explore Chroma III. Shape-shifters impersonate the crew of the expedition. Upon their return to Jurvox II they merge into the population.
+132:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+133:
+The population of Feathered Koboldoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+134:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The skull pit on Aomep V excites the local Feathered Koboldoids into a sexual frenzy.
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+The population of Purple Catoids on Chroma III has grown by a billion.
+Overcrowding on Aomep V leads to increased pollution.
+Shape-shifters devour the last remaining Giant Humanoids on Jurvox II.
+135:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The skull pit on Aomep V excites the local Feathered Koboldoids into a sexual frenzy.
+The population of Feathered Koboldoids on Gylor V has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Sentient Scaly Ursoids arise on Gylor V.
+136:
+The population of Feathered Koboldoids on Gylor V has grown by a billion.
+The population of Six-Legged Antoids on Chroma III has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma III has grown by a billion.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+137:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Six-Legged Antoids on Chroma III has grown by a billion.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Empire of Four-Armed White Koboldoids explore Chroma III. 
+The Empire of Four-Armed White Koboldoids explore Cinau III. 
+138:
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+139:
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The skull pit on Aomep V excites the local Feathered Koboldoids into a sexual frenzy.
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+The population of Four-Armed White Koboldoids on Gylor V has grown by a billion.
+The population of Six-Legged Antoids on Chroma III has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Empire of Four-Armed White Koboldoids enters a dark age. Decrepitude set to 0,  was 274
+140:
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+The population of Scaly Ursoids on Gylor V has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma III has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Empire of Four-Armed White Koboldoids explore Eykop IV. They discover: Remnants of a culture of Feathered Koboldoids that collapsed due to starvation in 119. 
+141:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Giant Humanoids on Chroma III has grown by a billion.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+A famine breaks out on Jurvox II, killing 6 billion.
+142:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+The population of Feathered Koboldoids on Gylor V has grown by a billion.
+The population of Four-Armed White Koboldoids on Chroma III has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+143:
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+The population of Four-Armed White Koboldoids on Gylor V has grown by a billion.
+The population of Feathered Koboldoids on Gylor V has grown by a billion.
+The Feathered Koboldoids on Gylor V devour one billion of their own kind in a mad frenzy of cannibalism!
+The Feathered Koboldoids erect a pile of skulls on Gylor V!
+Pollution kills a billion Purple Catoids on Chroma III.
+Purple Catoids have died out on Chroma III!
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+144:
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+The population of Feathered Koboldoids on Chroma V has grown by a billion.
+The Four-Armed White Koboldoids on Chroma III devour one billion of their own kind in a mad frenzy of cannibalism!
+The Four-Armed White Koboldoids erect a pile of skulls on Chroma III!
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+145:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+The population of Scaly Ursoids on Gylor V has grown by a billion.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Youth Serum created by the Empire of Four-Armed White Koboldoids in 95 on Chroma III has been stolen and hidden on Jurvox II.
+146:
+Pollution kills a billion Six-Legged Antoids on Eykop IV.
+The population of Four-Armed White Koboldoids on Gylor V has grown by a billion.
+Pollution kills a billion Feathered Koboldoids on Gylor V.
+The population of Giant Humanoids on Chroma III has grown by a billion.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+147:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+Pollution kills a billion Four-Armed White Koboldoids on Gylor V.
+The population of Six-Legged Antoids on Chroma III has grown by a billion.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+148:
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+Pollution kills a billion Six-Legged Antoids on Aomep V.
+The population of Scaly Ursoids on Gylor V has grown by a billion.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+
+Civ Name: Empire of Four-Armed White Koboldoids 
+Civ Birth Year: 32 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | 0 | 
+Resources 837 Science 410 Military 74 WeapLevel 1 TechLevel 1 Decrepitude 333
+The Kingdom of Antoids and Koboldoids secedes from the Empire of Four-Armed White Koboldoids, leading to a civil war!
+The Empire of Four-Armed White Koboldoids conquer Eykop IV, a colony of the Kingdom of Antoids and Koboldoids, killing 2 billion in the process.
+149:
+The population of Feathered Koboldoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+Religious fanatics sieze power in the Empire of Four-Armed White Koboldoids and declare the Church of Four-Armed White Koboldoids.
+The Church of Four-Armed White Koboldoids attack and raze Lumen III, a colony of the Kingdom of Antoids and Koboldoids.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+
+ Decomocratization Revival!Kingdom of Antoids and Koboldoids previous decrepitude: 0 revival amount: 34
+
+Civ Name: Kingdom of Antoids and Koboldoids 
+Civ Birth Year: 148 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | -1 | 0 | 1 | 1 | 
+Resources 316 Science 4 Military 37 WeapLevel 1 TechLevel 1 Decrepitude 0
+A popular movement overthrows the old guard of the Kingdom of Antoids and Koboldoids and declares the Republic of Antoids and Koboldoids.
+The Republic of Antoids and Koboldoids conquer Xarlan IV, a colony of the Church of Four-Armed White Koboldoids.
+150:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Four-Armed White Koboldoids on Eykop IV has grown by a billion.
+Pollution kills a billion Six-Legged Antoids on Chroma V.
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The Feathered Koboldoids on Gylor V devour one billion of their own kind in a mad frenzy of cannibalism!
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Church of Four-Armed White Koboldoids build a military base on Lumen III.
+The Church of Four-Armed White Koboldoids attack and raze Xarlan IV, a colony of the Republic of Antoids and Koboldoids.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+The Republic of Antoids and Koboldoids develop a Stasis Capsule.
+The Republic of Antoids and Koboldoids conquer Gylor V, a colony of the Church of Four-Armed White Koboldoids, killing 3 billion in the process.
+151:
+The population of Feathered Koboldoids on Jurvox II has grown by a billion.
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+Pollution kills a billion Four-Armed White Koboldoids on Gylor V.
+Pollution kills a billion Six-Legged Antoids on Chroma III.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Church of Four-Armed White Koboldoids attack Gylor V, a colony of the Republic of Antoids and Koboldoids, and subject it to orbital bombardment, killing 6 billion.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+The Republic of Antoids and Koboldoids send a delegation to Cukis IV. They sign a peace accord with the Church of Four-Armed White Koboldoids, ending their war. 
+The Republic of Antoids and Koboldoids explore Jurvox II. They recover: A Youth Serum created by the Church of Four-Armed White Koboldoids in 95, hidden in 145. They discover: Remnants of a culture of Feathered Koboldoids that collapsed due to starvation in 141. 
+152:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+Pollution kills a billion Six-Legged Antoids on Aomep V.
+The population of Feathered Koboldoids on Gylor V has grown by a billion.
+Pollution kills a billion Scaly Ursoids on Gylor V.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+153:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The population of Four-Armed White Koboldoids on Eykop IV has grown by a billion.
+Pollution kills a billion Six-Legged Antoids on Chroma V.
+The population of Feathered Koboldoids on Gylor V has grown by a billion.
+Pollution kills a billion Four-Armed White Koboldoids on Chroma III.
+The population of Giant Humanoids on Chroma III has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Church of Four-Armed White Koboldoids build a mining base on Xarlan IV.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+The Republic of Antoids and Koboldoids create Feathered Robots as servants on Aomep V.
+154:
+The population of Six-Legged Antoids on Eykop IV has grown by a billion.
+Pollution kills a billion Six-Legged Antoids on Chroma V.
+The Feathered Koboldoids on Aomep V devour one billion of their own kind in a mad frenzy of cannibalism!
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+The population of Feathered Robots on Aomep V has grown by a billion.
+The population of Giant Humanoids on Chroma III has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Church of Four-Armed White Koboldoids send a delegation to Gylor V. They declare war on the Republic of Antoids and Koboldoids! 
+The Church of Four-Armed White Koboldoids conquer Gylor V, a colony of the Republic of Antoids and Koboldoids, killing 1 billion in the process.
+Overcrowding on Jurvox II leads to increased pollution.
+Overcrowding on Aomep V leads to increased pollution.
+The Republic of Antoids and Koboldoids conquer Gylor V, a colony of the Church of Four-Armed White Koboldoids.
+155:
+The population of Four-Armed White Koboldoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+The population of Feathered Koboldoids on Chroma V has grown by a billion.
+The population of Feathered Koboldoids on Aomep V has grown by a billion.
+The population of Four-Armed White Koboldoids on Aomep V has grown by a billion.
+The population of Giant Humanoids on Chroma III has grown by a billion.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Church of Four-Armed White Koboldoids create Tiny Robots as servants on Eykop IV.
+The Church of Four-Armed White Koboldoids attack Jurvox II, a colony of the Republic of Antoids and Koboldoids, and subject it to orbital bombardment, killing 9 billion.
+Overcrowding on Aomep V leads to increased pollution.
+The Republic of Antoids and Koboldoids attack and raze Cilaq I, a colony of the Church of Four-Armed White Koboldoids.
+156:
+Pollution kills a billion Four-Armed White Koboldoids on Jurvox II.
+Four-Armed White Koboldoids have died out on Jurvox II!
+Pollution kills a billion Tiny Robots on Eykop IV.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+Pollution kills a billion Four-Armed White Koboldoids on Aomep V.
+The skull pit on Aomep V excites the local Four-Armed White Koboldoids into a sexual frenzy.
+Overcrowding on Eykop IV leads to increased pollution.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+
+Civ Name: Republic of Six-Legged Antoids 
+Civ Birth Year: 156 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 0 | -3 | -3 | 1 | 
+Resources 49 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Eykop IV revolt, killing their oppressors and declaring the Free Republic of Six-Legged Antoids.
+The Church of Four-Armed White Koboldoids attack Aomep V, a colony of the Republic of Antoids and Koboldoids, and subject it to orbital bombardment, killing 11 billion.
+Overcrowding on Aomep V leads to increased pollution.
+The Republic of Antoids and Koboldoids build a orbital elevator on Gylor V.
+The Republic of Antoids and Koboldoids build a skull pit on Gylor V.
+The Republic of Antoids and Koboldoids conquer Dokep IV, a colony of the Church of Four-Armed White Koboldoids.
+Pollution on Chroma III abates.
+157:
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+Pollution kills a billion Tiny Robots on Eykop IV.
+Pollution kills a billion Four-Armed White Koboldoids on Chroma V.
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+Pollution kills a billion Feathered Robots on Aomep V.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Church of Four-Armed White Koboldoids build a military base on Cilaq I.
+The Church of Four-Armed White Koboldoids conquer Gylor V, a colony of the Republic of Antoids and Koboldoids.
+Overcrowding on Aomep V leads to increased pollution.
+The Republic of Antoids and Koboldoids attack and raze Cinau III, a colony of the Church of Four-Armed White Koboldoids.
+Overcrowding on Eykop IV leads to increased pollution.
+The Republic of Six-Legged Antoids build a mining base on Cinau III.
+The Church of Four-Armed White Koboldoids repel the Republic of Six-Legged Antoids at Cilaq I.
+158:
+Pollution kills a billion Tiny Robots on Eykop IV.
+The population of Four-Armed White Koboldoids on Chroma V has grown by a billion.
+Pollution kills a billion Six-Legged Antoids on Chroma V.
+Pollution kills a billion Feathered Koboldoids on Chroma V.
+The population of Six-Legged Antoids on Aomep V has grown by a billion.
+Pollution kills a billion Four-Armed White Koboldoids on Aomep V.
+Four-Armed White Koboldoids have died out on Aomep V!
+The population of Four-Armed White Koboldoids on Gylor V has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Gylor V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Church of Four-Armed White Koboldoids attack Eykop IV, a colony of the Republic of Six-Legged Antoids, and subject it to orbital bombardment, killing 4 billion.
+Overcrowding on Aomep V leads to increased pollution.
+The Republic of Antoids and Koboldoids build a complex of arcologies on Aomep V.
+The Republic of Antoids and Koboldoids conquer Xarlan IV, a colony of the Church of Four-Armed White Koboldoids.
+Overcrowding on Eykop IV leads to increased pollution.
+The Church of Four-Armed White Koboldoids repel the Republic of Six-Legged Antoids at Cilaq I.
+Pharmaceuticals evolve on Jurvox II.
+A nanofungal bloom consumes all other life on Aomep V before itself dying from a lack of nutrients!
+159:
+Pollution kills a billion Six-Legged Antoids on Chroma V.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Church of Four-Armed White Koboldoids build a grand palace on Gylor V.
+The Church of Four-Armed White Koboldoids attack and raze Xarlan IV, a colony of the Republic of Antoids and Koboldoids.
+The Republic of Antoids and Koboldoids attack and raze Cilaq I, a colony of the Church of Four-Armed White Koboldoids.
+The Republic of Six-Legged Antoids build a military base on Xarlan IV.
+The Republic of Six-Legged Antoids conquer Cukis IV, a colony of the Church of Four-Armed White Koboldoids.
+160:
+The population of Six-Legged Antoids on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+Pollution kills a billion Feathered Koboldoids on Chroma V.
+The population of Giant Humanoids on Chroma III has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+Overcrowding on Chroma III leads to increased pollution.
+The Church of Four-Armed White Koboldoids attack and raze Cinau III, a colony of the Republic of Six-Legged Antoids.
+The Republic of Antoids and Koboldoids create Six-Legged Grey Robots as servants on Jurvox II.
+The Republic of Antoids and Koboldoids conquer Chroma III, a colony of the Church of Four-Armed White Koboldoids, killing 3 billion in the process.
+The Republic of Six-Legged Antoids explore Cinau III. They discover: The ruins of a mining base, built by the Republic of Six-Legged Antoids in 157, destroyed in 160 due to orbital bombardment by the Church of Four-Armed White Koboldoids. They discover: The ruins of a mining base, built by the Church of Four-Armed White Koboldoids in 51, destroyed in 157 due to orbital bombardment by the Republic of Antoids and Koboldoids. 
+The Republic of Six-Legged Antoids build a mining base on Aomep V.
+
+ Science Golden Age Revival!Republic of Six-Legged Antoids previous decrepitude: 0 revival amount: 0
+
+Civ Name: Republic of Six-Legged Antoids 
+Civ Birth Year: 156 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | 0 | -3 | -3 | 1 | 
+Resources 81 Science 14 Military 2 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Republic of Six-Legged Antoids enters a golden age of science! The Republic of Six-Legged Antoids build a science lab on Cinau III.
+The Republic of Six-Legged Antoids conquer Gylor V, a colony of the Church of Four-Armed White Koboldoids.
+161:
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+Pollution kills a billion Feathered Koboldoids on Gylor V.
+Feathered Koboldoids have died out on Gylor V!
+Overcrowding on Chroma V leads to increased pollution.
+The Church of Four-Armed White Koboldoids attack Jurvox II, a colony of the Republic of Antoids and Koboldoids, and subject it to orbital bombardment, killing 4 billion.
+Overcrowding on Chroma III leads to increased pollution.
+The Republic of Antoids and Koboldoids conquer Atria I, a colony of the Church of Four-Armed White Koboldoids.
+Overcrowding on Eykop IV leads to increased pollution.
+The Church of Four-Armed White Koboldoids repel the Republic of Six-Legged Antoids at Chroma V.
+Shape-shifters devour the last remaining Six-Legged Antoids on Jurvox II.
+162:
+The population of Six-Legged Grey Robots on Jurvox II has grown by a billion.
+The population of Six-Legged Antoids on Chroma V has grown by a billion.
+Pollution kills a billion Four-Armed White Koboldoids on Gylor V.
+The population of Four-Armed White Koboldoids on Chroma III has grown by a billion.
+Overcrowding on Chroma V leads to increased pollution.
+The Church of Four-Armed White Koboldoids attack Jurvox II, a colony of the Republic of Antoids and Koboldoids, and subject it to orbital bombardment, killing 4 billion.
+Overcrowding on Chroma III leads to increased pollution.
+The Republic of Antoids and Koboldoids build a grand palace on Jurvox II.
+The Republic of Antoids and Koboldoids conquer Lumen III, a colony of the Church of Four-Armed White Koboldoids.
+The Republic of Six-Legged Antoids explore Xarlan IV. 
+The Republic of Six-Legged Antoids create Four-Armed Robots as servants on Gylor V.
+The Church of Four-Armed White Koboldoids repel the Republic of Six-Legged Antoids at Chroma V.
+The population of Jurvox II turn out to be all shape-shifters. The colony collapses as the shape-shifters need real sentients to keep up their mimicry.
+Shape-shifters evolve on Gylor V.
+163:
+Pollution kills a billion Six-Legged Antoids on Chroma V.
+Pollution kills a billion Feathered Koboldoids on Chroma V.
+Feathered Koboldoids have died out on Chroma V!
+Pollution kills a billion Scaly Ursoids on Gylor V.
+Scaly Ursoids have died out on Gylor V!
+The population of Six-Legged Antoids on Chroma III has grown by a billion.
+Pollution kills a billion Four-Armed White Koboldoids on Chroma III.
+Overcrowding on Chroma V leads to increased pollution.
+The Church of Four-Armed White Koboldoids colonise Jurvox II. 
+Religious fanatics sieze power in the Church of Four-Armed White Koboldoids and declare the Second Church of Four-Armed White Koboldoids.
+The Second Church of Four-Armed White Koboldoids conquer Atria I, a colony of the Republic of Antoids and Koboldoids.
+Overcrowding on Chroma III leads to increased pollution.
+The Republic of Antoids and Koboldoids conquer Eumiv V, a colony of the Second Church of Four-Armed White Koboldoids.
+Overcrowding on Eykop IV leads to increased pollution.
+The Republic of Six-Legged Antoids conquer Chroma V, a colony of the Second Church of Four-Armed White Koboldoids, killing 2 billion in the process.
+164:
+Pollution kills a billion Four-Armed White Koboldoids on Chroma V.
+Pollution kills a billion Six-Legged Antoids on Chroma V.
+The population of Four-Armed White Koboldoids on Chroma III has grown by a billion.
+The Second Church of Four-Armed White Koboldoids conquer Dokep IV, a colony of the Republic of Antoids and Koboldoids.
+Overcrowding on Chroma III leads to increased pollution.
+The Republic of Antoids and Koboldoids conquer Dokep IV, a colony of the Second Church of Four-Armed White Koboldoids.
+Overcrowding on Chroma V leads to increased pollution.
+The Republic of Six-Legged Antoids build a mining base on Lumen III.
+The Republic of Six-Legged Antoids build a military base on Cilaq I.
+The Republic of Six-Legged Antoids conquer Atria I, a colony of the Second Church of Four-Armed White Koboldoids.
+165:
+Pollution kills a billion Six-Legged Antoids on Eykop IV.
+Pollution kills a billion Four-Armed White Koboldoids on Chroma V.
+The Second Church of Four-Armed White Koboldoids collapses, leaving only a few survivors on Jurvox II.
+Overcrowding on Chroma III leads to increased pollution.

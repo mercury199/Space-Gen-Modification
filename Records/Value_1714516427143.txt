@@ -1,0 +1,508 @@
+SENTIENT SPECIES:
+Slim Ursoids: Always at war with someone, or everyone, or one another. They have bilateral symmetry and a slim shape. They are hyperactive and believe that each individual must serve the community. They first evolved on Regor II in 134.
+	Their Stats are: STR: -1 DEX: 0 CON: -1 INT: 1 CHA: -2
+Six-Legged Koboldoids with Long Tails: Eat pretty much anything, including one another. Disturbingly fond of skulls. They have six legs. They have bilateral symmetry. They use their long tails for balance. They are meditative and deeply religious. They first evolved on Gikap IV in 150.
+	Their Stats are: STR: -1 DEX: 1 CON: -1 INT: -1 CHA: -1
+Tiny Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry. They are cowardly and strive to uphold their ideals of personal honour. They were created by the Republic of Antoids and Ursoids on Hylus VI as servants in 166.
+	Their Stats are: STR: 2 DEX: 0 CON: 2 INT: 1 CHA: 2
+Red Trolloids with Long Tails: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have red skin. They have bilateral symmetry. They use their long tails for balance. They are thrill-seeking and deeply rationalist. They developed from Red Trolloids with Giant Eyes in 170.
+	Their Stats are: STR: -1 DEX: 2 CON: 1 INT: 0 CHA: 1
+Flying Blue Antoids: Small, industrious and well-organised, these creatures' greatest weakness is their ever-ballooning population. They have blue skin. They have bilateral symmetry. They can fly. They are meditative and strive to uphold their ideals of personal honour. They developed from Flying Antoids in 77.
+	Their Stats are: STR: 0 DEX: 1 CON: 1 INT: 1 CHA: -3
+Six-Legged Blue Dwarfoids: Fond of drink and industry - especially building strange contraptions. They have blue skin. They have six legs. They have bilateral symmetry. They are modest and believe that each individual must serve the community. They first evolved on Duliq I in 175.
+	Their Stats are: STR: 0 DEX: -1 CON: 0 INT: 0 CHA: 0
+Black Deep Dwellers: They live in the deep oceans or in deep caves, hiding. Their presence can go unnoticed for a long time. They have black skin. They have bilateral symmetry. They are reclusive and value personal integrity above all else. They first evolved on Regor II in 155.
+	Their Stats are: STR: 1 DEX: -1 CON: 1 INT: 1 CHA: -1
+Giant Purple Catoids: Always curious and often cruel. They have purple skin. They have bilateral symmetry. They are reclusive and believe in the inherent superiority of their species. They developed from Giant Catoids in 154.
+	Their Stats are: STR: 1 DEX: -2 CON: 0 INT: 0 CHA: -2
+Slim Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry and a slim shape. They are humorless and always willing to listen. They were created by the Republic of Koboldoids, Dwarfoids and Robots on Duliq I as servants in 170.
+	Their Stats are: STR: 0 DEX: -3 CON: -2 INT: 1 CHA: -2
+Telepathic Trolloids: They have lost the ability to reproduce naturally, and compensate for this with a focus on science and paranoia. They have bilateral symmetry. They can read each others' minds. They are hyperactive and unwilling to compromise. They first evolved on Regor II in 165.
+	Their Stats are: STR: 1 DEX: -1 CON: -1 INT: 0 CHA: -1
+
+CIVILISATIONS:
+THE REPUBLIC OF ANTOIDS AND URSOIDS:
+An ancient, corrupt, dirt poor, advanced Republic of 7 planets, with 24 billion inhabitants.
+Major populations:
+2 billion Slim Ursoids.
+9 billion Flying Blue Antoids.
+6 billion enslaved Tiny Robots.
+2 billion enslaved Red Trolloids with Long Tails.
+2 billion enslaved Black Deep Dwellers.
+2 billion enslaved Giant Purple Catoids.
+1 billion enslaved Telepathic Trolloids.
+It is at peace with the Republic of Koboldoids, Dwarfoids and Robots.
+
+	Their Stats are: STR: -1 DEX: -1 CON: -1 INT: 2 CHA: 0
+THE REPUBLIC OF KOBOLDOIDS, DWARFOIDS AND ROBOTS:
+An ancient, dirt poor, primitive Republic of 7 planets, with 8 billion inhabitants.
+Major populations:
+1 billion Six-Legged Koboldoids with Long Tails.
+2 billion Six-Legged Blue Dwarfoids.
+5 billion Slim Robots.
+It is at peace with the Republic of Antoids and Ursoids.
+
+	Their Stats are: STR: -1 DEX: 1 CON: 0 INT: -1 CHA: 1
+PLANETS:
+MYCON VI
+A barren planet.
+It is heavily polluted.
+Poison World: Mineral deposits produce a steady stream of toxins that makes survival extremely difficult.
+
+FUMIP V
+A barren planet of the Republic of Antoids and Ursoids.
+A science lab, built by the Republic of Antoids and Ursoids in 166
+
+EYLOT IV
+A barren planet.
+
+ORRA I
+A barren planet of the Republic of Antoids and Ursoids.
+A mining base, built by the Republic of Antoids and Ursoids in 182
+Periodical Darkness: Every thirteen years, the orbit of this planet synchronizes with that of a planet closer to its stars, causing a night that lasts for weeks.
+
+GULIT I
+A barren planet of the Republic of Koboldoids, Dwarfoids and Robots.
+A military base, built by the Republic of Koboldoids, Dwarfoids and Robots in 174
+
+REGOR II
+A life-bearing planet of the Republic of Antoids and Ursoids.
+In orbit: The adventurer Captain Blorgorz Jones, a member of the Six-Legged Koboldoids with Long Tails, serving the Republic of Koboldoids, Dwarfoids and Robots, commanding a fleet of 3 ships.
+It is populated by:
+2 billion enslaved Red Trolloids with Long Tails
+2 billion enslaved Giant Purple Catoids
+2 billion Slim Ursoids
+2 billion enslaved Black Deep Dwellers
+1 billion enslaved Telepathic Trolloids
+4 billion Flying Blue Antoids
+A barracks, built by the Republic of Antoids and Ursoids in 182
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Living islands: Composed of the shells of millions of small crustaceans, each of these floating islands hosts its own unique ecosystem.
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+
+HELMETTEPOL V
+A barren planet of the Republic of Koboldoids, Dwarfoids and Robots.
+A science lab, built by the Republic of Koboldoids, Dwarfoids and Robots in 180
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+Strata:
+The ruins of a mining base, built by the Republic of Koboldoids, Dwarfoids and Robots in 166, destroyed in 172 due to orbital bombardment by the Empire of Six-Legged Koboldoids with Long Tails.
+
+AULIU V
+A barren planet.
+
+GIKAP IV
+A life-bearing planet of the Republic of Koboldoids, Dwarfoids and Robots.
+It is populated by:
+1 billion Six-Legged Koboldoids with Long Tails
+3 billion Slim Robots
+A vast museum, built by the Republic of Koboldoids, Dwarfoids and Robots in 177
+A skull pit, built by the Republic of Koboldoids, Dwarfoids and Robots in 181
+Lifeforms of note:
+Vast grazing herds: Untold millions of large grazing animals that provide an abundant source of food and other resources.
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+
+AOMEV II
+A barren planet of the Republic of Antoids and Ursoids.
+A mining base, built by the Republic of Antoids and Ursoids in 172
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+
+ORGUS III
+A barren planet of the Republic of Antoids and Ursoids.
+A mining base, built by the Republic of Antoids and Ursoids in 177
+
+ATRIA II
+A barren planet of the Republic of Koboldoids, Dwarfoids and Robots.
+A mining base, built by the Republic of Koboldoids, Dwarfoids and Robots in 182
+
+BAL II
+A barren planet of the Republic of Koboldoids, Dwarfoids and Robots.
+A mining base, built by the Republic of Koboldoids, Dwarfoids and Robots in 170
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+
+GENUX III
+A barren planet of the Republic of Antoids and Ursoids.
+A science lab, built by the Republic of Antoids and Ursoids in 160
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+
+HYLUS VI
+A life-bearing planet of the Republic of Antoids and Ursoids.
+It is populated by:
+5 billion Flying Blue Antoids
+6 billion enslaved Tiny Robots
+A painting of the President of the Republic of Flying Blue Antoids created by the Republic of Antoids and Ursoids in 159
+Lifeforms of note:
+Pharmaceuticals: Plants that contain interesting chemical compounds with medical applications.
+Strata:
+Remnants of a culture of Immortal Koboldoids that collapsed from the effects of pollution in 141.
+Remnants of a culture of Slim Orange Trolloids that collapsed from the effects of pollution in 134.
+Remnants of a culture of Flying Trolloids that collapsed from the effects of pollution in 110.
+
+DULIQ I
+A life-bearing planet of the Republic of Koboldoids, Dwarfoids and Robots.
+It is populated by:
+2 billion Slim Robots
+2 billion Six-Legged Blue Dwarfoids
+A vast museum, built by the Republic of Koboldoids, Dwarfoids and Robots in 171
+A orbital elevator, built by the Republic of Koboldoids, Dwarfoids and Robots in 175
+A skull pit, built by the Republic of Koboldoids, Dwarfoids and Robots in 179
+Strata:
+Remnants of a culture of Six-Legged Koboldoids with Long Tails that collapsed from the effects of pollution in 171.
+Fossils of shape-shifters that went extinct in 116 due to a psionic shockwave.
+Fossils of brain parasites that went extinct in 116 due to a psionic shockwave.
+Fossils of gas bags that went extinct in 116 due to a psionic shockwave.
+Remnants of a culture of Orange Ursoids with Giant Eyes that collapsed due to a psionic shockwave in 116.
+
+URBON IV
+A barren planet of the Republic of Koboldoids, Dwarfoids and Robots.
+A military base, built by the Republic of Koboldoids, Dwarfoids and Robots in 167
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Mycon VI, Fumip V, Eylot IV, Orra I, Gulit I, Regor II, Helmettepol V, Auliu V, Gikap IV, Aomev II, Orgus III, Atria II, Bal II, Genux III, Hylus VI, Duliq I, Urbon IV
+26:
+Life arises on Hylus VI
+27:
+Life arises on Duliq I
+30:
+Deposits of huge gems form on Regor II.
+42:
+Pharmaceuticals evolve on Hylus VI.
+43:
+Life arises on Regor II
+46:
+Life arises on Gikap IV
+57:
+Gas bags evolve on Duliq I.
+61:
+Vast grazing herds evolve on Regor II.
+63:
+Helmettepol V becomes tidally locked to its star.
+67:
+Deposits of huge gems form on Urbon IV.
+69:
+Sentient Flying Antoids arise on Hylus VI.
+74:
+The population of Flying Antoids on Hylus VI has grown by a billion.
+75:
+The population of Flying Antoids on Hylus VI has grown by a billion.
+Sentient White Trolloids with Giant Eyes arise on Regor II.
+77:
+The Flying Antoids on Hylus VI mutate into Flying Blue Antoids.
+80:
+Sentient Orange Ursoids arise on Duliq I.
+83:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+85:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+86:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+88:
+Vast grazing herds evolve on Gikap IV.
+89:
+Living islands evolve on Regor II.
+91:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+93:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+95:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+96:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+97:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+Beautiful aurorae play across the skies of Genux III.
+98:
+Gas bags evolve on Gikap IV.
+99:
+Due to an accident of orbital mechanics, every 13 years, Orra I is plunged into total darkness.
+100:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+101:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+Brain parasites evolve on Duliq I.
+102:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+103:
+Sentient Giant Catoids arise on Regor II.
+Sentient Flying Trolloids arise on Hylus VI.
+104:
+Pollution kills a billion Flying Trolloids on Hylus VI.
+105:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+106:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+108:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+110:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Pollution kills a billion Flying Trolloids on Hylus VI.
+Flying Trolloids have died out on Hylus VI!
+111:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+Mycon VI has become a poison world.
+112:
+Shape-shifters evolve on Duliq I.
+113:
+Shape-shifters evolve on Regor II.
+Brain parasites evolve on Gikap IV.
+116:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+The Orange Ursoids on Duliq I mutate into Orange Ursoids with Giant Eyes.
+A psionic shockwave of unknown origin passes through Duliq I, instantly stopping all life!
+118:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+122:
+Sentient Slim Trolloids arise on Hylus VI.
+123:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+124:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+125:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+Pollution kills a billion Slim Trolloids on Hylus VI.
+126:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+The Slim Trolloids on Hylus VI mutate into Slim Orange Trolloids.
+127:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+130:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+131:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Deep impenetrable seas form on Bal II.
+132:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+133:
+A giant spaceborne orange cube appears from the depths of space and menaces the skies of Genux III.
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+134:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Pollution kills a billion Slim Orange Trolloids on Hylus VI.
+Slim Orange Trolloids have died out on Hylus VI!
+Sentient Slim Ursoids arise on Regor II.
+136:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+The giant spaceborne orange cube leaves the orbit of Genux III and heads back into deep space.
+Sentient Immortal Koboldoids arise on Hylus VI.
+139:
+Pollution kills a billion Immortal Koboldoids on Hylus VI.
+140:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+141:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Pollution kills a billion Immortal Koboldoids on Hylus VI.
+Immortal Koboldoids have died out on Hylus VI!
+146:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+148:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+150:
+Sentient Six-Legged Koboldoids with Long Tails arise on Gikap IV.
+151:
+The Flying Blue Antoids on Hylus VI achieve spaceflight and organise as a Republic, the Republic of Flying Blue Antoids.
+
+Civ Name: Republic of Flying Blue Antoids 
+Civ Birth Year: 151 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 0 | 0 | 3 | -4 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+152:
+WE ENTER THE FIRST AGE OF CIVILISATION
+Overcrowding on Hylus VI leads to increased pollution.
+153:
+Overcrowding on Hylus VI leads to increased pollution.
+The Republic of Flying Blue Antoids explore Orgus III. 
+154:
+The Giant Catoids on Regor II mutate into Giant Purple Catoids.
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+Overcrowding on Hylus VI leads to increased pollution.
+The Republic of Flying Blue Antoids explore Bal II. 
+155:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+Overcrowding on Hylus VI leads to increased pollution.
+The Republic of Flying Blue Antoids explore Bal II. 
+The Republic of Flying Blue Antoids develop powerful new weapons.
+Sentient Black Deep Dwellers arise on Regor II.
+156:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Overcrowding on Hylus VI leads to increased pollution.
+157:
+The White Trolloids with Giant Eyes on Regor II mutate into Red Trolloids with Giant Eyes.
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Overcrowding on Hylus VI leads to increased pollution.
+158:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Overcrowding on Hylus VI leads to increased pollution.
+159:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Overcrowding on Hylus VI leads to increased pollution.
+
+ Art Golden Age Revival!Republic of Flying Blue Antoids previous decrepitude: 3 revival amount: 1
+
+Civ Name: Republic of Flying Blue Antoids 
+Civ Birth Year: 151 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | 0 | 0 | 3 | -4 | 
+Resources 4 Science 6 Military 0 WeapLevel 1 TechLevel 1 Decrepitude 3
+Artists on Hylus VI create a painting of the President of the Republic of Flying Blue Antoids. 
+Life arises on Duliq I
+160:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Overcrowding on Hylus VI leads to increased pollution.
+The Republic of Flying Blue Antoids build a science lab on Genux III.
+161:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Overcrowding on Hylus VI leads to increased pollution.
+162:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+163:
+A giant spaceborne grey cube appears from the depths of space and menaces the skies of Bal II.
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+The Six-Legged Koboldoids with Long Tails on Gikap IV achieve spaceflight and organise as a Military Dictatorship, the Empire of Six-Legged Koboldoids with Long Tails.
+
+Civ Name: Empire of Six-Legged Koboldoids with Long Tails 
+Civ Birth Year: 163 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 2 | -1 | -2 | 0 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+164:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Overcrowding on Hylus VI leads to increased pollution.
+165:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+The Republic of Flying Blue Antoids explore Bal II. 
+The Empire of Six-Legged Koboldoids with Long Tails explore Helmettepol V. 
+Sentient Telepathic Trolloids arise on Regor II.
+166:
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+The Republic of Flying Blue Antoids build a science lab on Fumip V.
+The Republic of Flying Blue Antoids create Tiny Robots as servants on Hylus VI.
+The Empire of Six-Legged Koboldoids with Long Tails build a mining base on Helmettepol V.
+167:
+The Empire of Six-Legged Koboldoids with Long Tails explore Helmettepol V. 
+The Empire of Six-Legged Koboldoids with Long Tails build a military base on Urbon IV.
+169:
+Pollution kills a billion Tiny Robots on Hylus VI.
+The Empire of Six-Legged Koboldoids with Long Tails colonise Duliq I. 
+170:
+The Red Trolloids with Giant Eyes on Regor II mutate into Red Trolloids with Long Tails.
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+The Republic of Flying Blue Antoids attempting to upgrade their stats of value :4 current score is: -6
+The difficulty is: 0 They rolled: 17on: 6d3+4
+TechLevel: 3 Science: 4
+The Empire of Six-Legged Koboldoids with Long Tails build a mining base on Bal II.
+The Empire of Six-Legged Koboldoids with Long Tails create Slim Robots as servants on Duliq I.
+171:
+Pollution kills a billion Six-Legged Koboldoids with Long Tails on Duliq I.
+Six-Legged Koboldoids with Long Tails have died out on Duliq I!
+The Empire of Six-Legged Koboldoids with Long Tails build a vast museum on Duliq I.
+The Empire of Six-Legged Koboldoids with Long Tails explore Gikap IV. The expedition encounters brain parasites. Upon their return to Helmettepol V, the parasites take over the brains of the planet's inhabitants, creating the Empire of Parasites.
+Aomev II becomes tidally locked to its star.
+172:
+Pollution kills a billion Six-Legged Koboldoids with Long Tails on Gikap IV.
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Overcrowding on Hylus VI leads to increased pollution.
+The Republic of Flying Blue Antoids build a mining base on Aomev II.
+The Empire of Six-Legged Koboldoids with Long Tails attack and raze Helmettepol V, a colony of the Empire of Parasites.
+The Empire of Parasites collapses.
+The giant spaceborne grey cube leaves the orbit of Bal II and heads back into deep space.
+173:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+The population of Tiny Robots on Hylus VI has grown by a billion.
+Overcrowding on Hylus VI leads to increased pollution.
+The Empire of Six-Legged Koboldoids with Long Tails explore Duliq I. They discover: Remnants of a culture of Six-Legged Koboldoids with Long Tails that collapsed from the effects of pollution in 171. 
+174:
+Overcrowding on Hylus VI leads to increased pollution.
+The Empire of Six-Legged Koboldoids with Long Tails build a military base on Gulit I.
+Captain Blorgorz Jones, space adventurer, blasts off from Urbon IV.
+175:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+The population of Tiny Robots on Hylus VI has grown by a billion.
+Overcrowding on Hylus VI leads to increased pollution.
+The Empire of Six-Legged Koboldoids with Long Tails build a orbital elevator on Duliq I.
+An expedition led by Captain Blorgorz Jones explores Regor II. They encounter the local shape-shifters. In a desperate attempt to stop them, Captain Blorgorz Jones has half of the exploration fleet blasted to bits.
+Sentient Six-Legged Blue Dwarfoids arise on Duliq I.
+176:
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+Overcrowding on Hylus VI leads to increased pollution.
+The Republic of Flying Blue Antoids colonise Regor II. Of the natives of that planet, the 2 billion Red Trolloids with Long Tails are enslaved, the 2 billion Giant Purple Catoids are enslaved, the 2 billion Slim Ursoids are given full membership in the Republic of Flying Blue Antoids, the 2 billion Black Deep Dwellers are enslaved, and the 2 billion Telepathic Trolloids are enslaved.  They now call themselves the Republic of Antoids and Ursoids.
+The Empire of Six-Legged Koboldoids with Long Tails explore Mycon VI. 
+An expedition led by Captain Blorgorz Jones explores Genux III. 
+An expedition led by Captain Blorgorz Jones explores Orgus III. 
+177:
+The population of Red Trolloids with Long Tails on Regor II has grown by a billion.
+The population of Flying Blue Antoids on Regor II has grown by a billion.
+The population of Tiny Robots on Hylus VI has grown by a billion.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Hylus VI leads to increased pollution.
+The Republic of Antoids and Ursoids build a mining base on Orgus III.
+Overcrowding on Duliq I leads to increased pollution.
+The Empire of Six-Legged Koboldoids with Long Tails build a vast museum on Gikap IV.
+An expedition led by Captain Blorgorz Jones explores Orgus III. 
+178:
+Pollution kills a billion Red Trolloids with Long Tails on Regor II.
+The population of Telepathic Trolloids on Regor II has grown by a billion.
+The population of Flying Blue Antoids on Regor II has grown by a billion.
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Hylus VI leads to increased pollution.
+The Empire of Six-Legged Koboldoids with Long Tails develop powerful new weapons.
+An expedition led by Captain Blorgorz Jones explores Fumip V. 
+179:
+Pollution kills a billion Slim Ursoids on Regor II.
+Pollution kills a billion Telepathic Trolloids on Regor II.
+Pollution kills a billion Flying Blue Antoids on Hylus VI.
+The population of Tiny Robots on Hylus VI has grown by a billion.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Hylus VI leads to increased pollution.
+The Empire of Six-Legged Koboldoids with Long Tails build a skull pit on Duliq I.
+180:
+Pollution kills a billion Telepathic Trolloids on Regor II.
+Pollution kills a billion Tiny Robots on Hylus VI.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Hylus VI leads to increased pollution.
+Overcrowding on Duliq I leads to increased pollution.
+The Empire of Six-Legged Koboldoids with Long Tails build a science lab on Helmettepol V.
+An expedition led by Captain Blorgorz Jones explores Orra I. 
+An expedition led by Captain Blorgorz Jones explores Auliu V. 
+181:
+The population of Slim Ursoids on Regor II has grown by a billion.
+The population of Telepathic Trolloids on Regor II has grown by a billion.
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+The population of Tiny Robots on Hylus VI has grown by a billion.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Hylus VI leads to increased pollution.
+The Republic of Antoids and Ursoids explore Hylus VI. The expedition encounters plants with useful pharmaceutical properties. They discover: Remnants of a culture of Slim Orange Trolloids that collapsed from the effects of pollution in 134. 
+The Empire of Six-Legged Koboldoids with Long Tails build a skull pit on Gikap IV.
+
+ Decomocratization Revival!Empire of Six-Legged Koboldoids with Long Tails previous decrepitude: 4 revival amount: 5
+
+Civ Name: Empire of Six-Legged Koboldoids with Long Tails 
+Civ Birth Year: 163 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | 2 | -1 | -2 | 0 | 
+Resources 0 Science 7 Military 8 WeapLevel 1 TechLevel 1 Decrepitude 4
+A popular movement overthrows the old guard of the Empire of Six-Legged Koboldoids with Long Tails and declares the Republic of Koboldoids, Dwarfoids and Robots.
+An expedition led by Captain Blorgorz Jones explores Atria II. 
+182:
+Pollution kills a billion Telepathic Trolloids on Regor II.
+The population of Flying Blue Antoids on Regor II has grown by a billion.
+The population of Slim Robots on Gikap IV has grown by a billion.
+The population of Flying Blue Antoids on Hylus VI has grown by a billion.
+Pollution kills a billion Tiny Robots on Hylus VI.
+Overcrowding on Regor II leads to increased pollution.
+Overcrowding on Hylus VI leads to increased pollution.
+The Republic of Antoids and Ursoids build a mining base on Orra I.
+The Republic of Antoids and Ursoids build a barracks on Regor II.
+The Republic of Koboldoids, Dwarfoids and Robots explore Bal II. 
+The Republic of Koboldoids, Dwarfoids and Robots build a mining base on Atria II.
+An expedition led by Captain Blorgorz Jones explores Regor II. They trade with the local Giant Purple Catoids. 
+183:
+Pollution kills a billion Red Trolloids with Long Tails on Regor II.

@@ -1,0 +1,101 @@
+PLANETS:
+MERA II
+A life-bearing planet.
+
+EUNIR VI
+A barren planet.
+
+KRANTOR VI
+A barren planet.
+
+DOLEQ IV
+A barren planet.
+
+AUTOROG II
+A barren planet.
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+
+MERA I
+A barren planet.
+
+AUTOROG I
+A life-bearing planet.
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+
+BAL II
+A life-bearing planet.
+
+BUMIV II
+A barren planet.
+
+WOTAN II
+A barren planet.
+
+SATIVEX II
+A life-bearing planet.
+Lifeforms of note:
+Brain parasites: A parasitical creature able to interface with the brain of its host, enslaving it.
+
+MYCON V
+A barren planet.
+
+TARANIS IV
+A barren planet.
+
+COLEW I
+A barren planet.
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+
+FILAT IV
+A barren planet.
+
+FUMIP V
+A barren planet.
+
+ATRIA III
+A barren planet.
+
+SATIVEX V
+A barren planet.
+
+CEMUP II
+A barren planet.
+
+HYLUS V
+A life-bearing planet.
+
+CENUT III
+A barren planet.
+
+DELUT IV
+A life-bearing planet.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Mera II, Eunir VI, Krantor VI, Doleq IV, Autorog II, Mera I, Autorog I, Bal II, Bumiv II, Wotan II, Sativex II, Mycon V, Taranis IV, Colew I, Filat IV, Fumip V, Atria III, Sativex V, Cemup II, Hylus V, Cenut III, Delut IV
+12:
+Life arises on Delut IV
+19:
+Titanic mountains form on Colew I.
+25:
+Life arises on Bal II
+26:
+Life arises on Mera II
+30:
+Life arises on Hylus V
+32:
+The wind plays across rock formations on Autorog II, producing an eerie music.
+33:
+Life arises on Autorog I
+Life arises on Sativex II
+42:
+Brain parasites evolve on Sativex II.
+45:
+Life arises on Wotan II
+47:
+Radiovores evolve on Autorog I.
+A nanofungal bloom consumes all other life on Wotan II before itself dying from a lack of nutrients!
