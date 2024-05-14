@@ -757,6 +757,7 @@ public enum AgentType {
 					if (ag == a) { continue; }
 					if (ag.getLocation() != a.getLocation()) { continue; }
 					Artefact art = null;
+					if(a.getLocation() != null){
 					switch (ag.type) {
 						case ADVENTURER:
 							sg.l("The rogue AI " + a.name + " encases the adventurer " + ag.name + " in a block of time ice.");
@@ -787,6 +788,7 @@ public enum AgentType {
 							confirm();
 							return;
 					}
+				}
 					if (art != null) {
 						art.containedAgent = ag;
 						a.getLocation().addArtefact(art);

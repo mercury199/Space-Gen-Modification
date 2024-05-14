@@ -1,0 +1,1955 @@
+SENTIENT SPECIES:
+Four-Armed Black Robots: Purely mechanical lifeforms, artificially created. They have black skin. They have four arms. They have bilateral symmetry. They are modest and strive to uphold their ideals of personal honour. They were created by the Church of Orange Dwarfoids with Long Tails on Hylus II as servants in 78.
+	Their Stats are: STR: 0 DEX: -1 CON: 0 INT: 1 CHA: -1
+Flying Dwarfoids: Fond of drink and industry - especially building strange contraptions. They have bilateral symmetry. They can fly. They are thrill-seeking and have a deep need to conform. They first evolved on Eukip I in 162.
+	Their Stats are: STR: -1 DEX: -3 CON: 1 INT: 1 CHA: -1
+Feathered Robots: Purely mechanical lifeforms, artificially created. They have bilateral symmetry. They are gregarious and strive to uphold their ideals of personal honour. They were created by the rogue AI System 424 in 99.
+	Their Stats are: STR: 0 DEX: -1 CON: 1 INT: 1 CHA: 0
+
+CIVILISATIONS:
+THE CHURCH OF FEATHERED ROBOTS:
+An ancient, corrupt, fantastically wealthy, advanced Church of 24 planets, with 58 billion inhabitants.
+Major populations:
+39 billion Feathered Robots.
+10 billion enslaved Four-Armed Black Robots.
+9 billion enslaved Flying Dwarfoids.
+
+	Their Stats are: STR: 0 DEX: 1 CON: 0 INT: 1 CHA: -1
+PLANETS:
+GYKOP I
+A life-bearing planet of the Church of Feathered Robots.
+It is a little polluted.
+It is populated by:
+8 billion Feathered Robots
+4 billion enslaved Flying Dwarfoids
+A vast underground vault, built by the Church of Orange Dwarfoids with Long Tails in 123
+A great hall, built by the Church of Orange Dwarfoids with Long Tails in 130
+A complex of arcologies, built by the Church of Orange Dwarfoids with Long Tails in 132
+A vast museum, built by the Church of Orange Dwarfoids with Long Tails in 135
+A grand palace, built by the Church of Feathered Robots in 137
+Strata:
+Remnants of a culture of Four-Armed Black Robots that collapsed from the effects of pollution in 190.
+Remnants of a culture of Flying Dwarfoids that collapsed from the effects of pollution in 183.
+The ruins of a vast underground vault, built by the Church of Orange Dwarfoids with Long Tails in 105, destroyed in 111 through orbital bombardment by the Church of Orange Dwarfoids with Long Tails.
+
+XARLAN III
+A barren planet of the Church of Feathered Robots.
+A military base, built by the Church of Feathered Robots in 146
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+
+HYLUS II
+A life-bearing planet of the Church of Feathered Robots.
+It is a little polluted.
+It is populated by:
+10 billion Feathered Robots
+A military base, built by the Church of Feathered Robots in 215
+Musical Caves: The wind whistles through massive caves and across rocks, producing an eerie music.
+Lifeforms of note:
+Gas bags: Held aloft by sacs of hydrogen, these delicate creatures float about everywhere.
+Shape-shifters: A predatory creature able to mimic any other, even a sentient one.
+Strata:
+The ruins of a orbital elevator, built by the Church of Feathered Robots in 151, destroyed in 214 due to orbital bombardment by the Empire of Feathered Robots.
+The ruins of a vast underground vault, built by the Church of Feathered Robots in 148, destroyed in 214 due to orbital bombardment by the Empire of Feathered Robots.
+Remnants of a culture of Four-Armed Black Robots that collapsed from the effects of pollution in 214.
+The ruins of a city of spires, built by the Church of Feathered Robots in 169, destroyed in 213 through orbital bombardment by the Empire of Feathered Robots.
+The ruins of a grand palace, built by the Church of Feathered Robots in 150, destroyed in 213 through orbital bombardment by the Empire of Feathered Robots.
+The ruins of a repair bay, built by the Church of Feathered Robots in 149, destroyed in 213 through orbital bombardment by the Empire of Feathered Robots.
+Remnants of a culture of Feathered Robots that collapsed during a slave revolt in 213.
+Remnants of a culture of Four-Armed Black Robots that collapsed from the effects of pollution in 131.
+The ruins of a great hall, built by the Church of Orange Dwarfoids with Long Tails in 109, destroyed in 126 .
+Remnants of a culture of Four-Armed Black Robots that collapsed from the effects of pollution in 126.
+
+MYCON III
+A barren planet of the Church of Feathered Robots.
+A military base, built by the Church of Feathered Robots in 162
+
+GYLOW IV
+A barren planet of the Church of Feathered Robots.
+A military base, built by the Church of Feathered Robots in 141
+Vast Empty Plains: Brown, dusty and featureless, their monotony is broken only by the occasional rivulet around which cluster many flying animals.
+Strata:
+The ruins of a mining base, built by the Church of Orange Dwarfoids with Long Tails in 121, destroyed in 137 during the collapse of the Church of Orange Dwarfoids with Long Tails.
+
+LUMEN I
+A barren planet of the Church of Feathered Robots.
+A military base, built by the Church of Orange Dwarfoids with Long Tails in 97
+
+AYLOQ I
+A barren planet of the Church of Feathered Robots.
+A mining base, built by the Church of Feathered Robots in 140
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+Strata:
+The ruins of a military base, built by the Church of Orange Dwarfoids with Long Tails in 133, destroyed in 137 during the collapse of the Church of Orange Dwarfoids with Long Tails.
+The ruins of a mining base, built by the Church of Orange Dwarfoids with Long Tails in 84, destroyed in 128 due to orbital bombardment by the Empire of Feathered Robots.
+The Tomb of Captain Gnolin McUrist, buried in 96.
+
+EREBUS I
+A barren planet of the Church of Feathered Robots.
+A mining base, built by the Church of Feathered Robots in 171
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+Strata:
+The ruins of a military base, built by the Church of Orange Dwarfoids with Long Tails in 132, destroyed in 137 during the collapse of the Church of Orange Dwarfoids with Long Tails.
+The ruins of a mining base, built by the Church of Feathered Robots in 119, destroyed in 120 during the invasion of the Church of Orange Dwarfoids with Long Tails.
+
+FREIA V
+A barren planet of the Church of Feathered Robots.
+It is a little polluted.
+A military base, built by the Church of Feathered Robots in 210
+Gem World: Huge, beautiful gems many metres across can be found in caves and in veins.
+Strata:
+The ruins of a orbital elevator, built by the Church of Feathered Robots in 166, destroyed in 206 by a shift in the planet's orbital axis.
+The ruins of a vast museum, built by the Church of Feathered Robots in 143, destroyed in 206 by a shift in the planet's orbital axis.
+The ruins of a repair bay, built by the Church of Feathered Robots in 138, destroyed in 206 by a shift in the planet's orbital axis.
+The ruins of a city of spires, built by the Church of Feathered Robots in 125, destroyed in 206 by a shift in the planet's orbital axis.
+The ruins of a complex of arcologies, built by the Church of Feathered Robots in 123, destroyed in 206 by a shift in the planet's orbital axis.
+Remnants of a culture of Four-Armed Black Robots that collapsed due to a shift in the planet's orbital axis in 206.
+Remnants of a culture of Feathered Robots that collapsed due to a shift in the planet's orbital axis in 206.
+The ruins of a repair bay, built by the Church of Feathered Robots in 130, destroyed in 135 during an attack by the Church of Orange Dwarfoids with Long Tails.
+A Living Weapon created by the Church of Orange Dwarfoids with Long Tails in 92, buried in 115.
+
+EELUT I
+A barren planet of the Church of Feathered Robots.
+A mining base, built by the Church of Orange Dwarfoids with Long Tails in 106
+
+CYKOV IV
+A barren planet of the Church of Feathered Robots.
+A military base, built by the Church of Feathered Robots in 153
+Strata:
+The ruins of a military base, built by the Church of Orange Dwarfoids with Long Tails in 121, destroyed in 137 during the collapse of the Church of Orange Dwarfoids with Long Tails.
+
+SATIVEX VI
+A barren planet of the Church of Feathered Robots.
+A mining base, built by the Church of Feathered Robots in 147
+Tidally Locked: This planet always presents the same side to its sun. There is perpetual day on one side, perpetual night on the other, and a ring of eternal twilight in between.
+Strata:
+The ruins of a mining base, built by the Church of Orange Dwarfoids with Long Tails in 121, destroyed in 137 during the collapse of the Church of Orange Dwarfoids with Long Tails.
+The ruins of a mining base, built by the Church of Feathered Robots in 104, destroyed in 116 due to orbital bombardment by the Church of Orange Dwarfoids with Long Tails.
+
+TABERNAK V
+A barren planet of the Church of Feathered Robots.
+It is heavily polluted.
+A mining base, built by the Church of Orange Dwarfoids with Long Tails in 117
+Poison World: Mineral deposits produce a steady stream of toxins that makes survival extremely difficult.
+
+MYCON III
+A barren planet of the Church of Feathered Robots.
+A mining base, built by the Church of Feathered Robots in 168
+Deep Impenetrable Seas: Hundreds of kilometres down, water turns into ice from pressure.
+Strata:
+The ruins of a mining base, built by the Church of Orange Dwarfoids with Long Tails in 120, destroyed in 137 during the collapse of the Church of Orange Dwarfoids with Long Tails.
+The ruins of a mining base, built by the Church of Orange Dwarfoids with Long Tails in 96, destroyed in 106 during the collapse of the Republic of Four-Armed Black Robots.
+
+CYMOS V
+A barren planet of the Church of Feathered Robots.
+A mining base, built by the Church of Feathered Robots in 164
+Titanic Mountains: Mountain ranges so vast they poke out of the atmosphere into space.
+
+BEMUP II
+A life-bearing planet of the Church of Feathered Robots.
+It is slightly polluted.
+It is populated by:
+1 billion Feathered Robots
+10 billion enslaved Four-Armed Black Robots
+5 billion enslaved Flying Dwarfoids
+A military base, built by the Church of Feathered Robots in 136
+Vast Canyons: Gashes in the planet's crust so deep they reach the hot mantle, emitting gases noxious to much life but highly nutritious to some.
+Strata:
+The ruins of a great hall, built by the Church of Orange Dwarfoids with Long Tails in 119, destroyed in 133 due to orbital bombardment by the Church of Orange Dwarfoids with Long Tails.
+Remnants of a culture of Slim Humanoids that collapsed due to orbital bombardment by the Church of Orange Dwarfoids with Long Tails in 133.
+Remnants of a culture of Orange Dwarfoids with Long Tails that collapsed from the effects of pollution in 115.
+Remnants of a culture of Two-Headed Antoids that collapsed through the actions of the Church of Orange Dwarfoids with Long Tails in 114.
+
+EUKIP I
+A life-bearing planet of the Church of Feathered Robots.
+It is very heavily polluted.
+It is populated by:
+9 billion Feathered Robots
+A mining base, built by the Church of Feathered Robots in 148
+Strata:
+Remnants of a culture of Flying Dwarfoids that collapsed from the effects of pollution in 205.
+The ruins of a military base, built by the Church of Orange Dwarfoids with Long Tails in 136, destroyed in 137 during the collapse of the Church of Orange Dwarfoids with Long Tails.
+The ruins of a mining base, built by the Church of Orange Dwarfoids with Long Tails in 131, destroyed in 134 due to orbital bombardment by the Empire of Feathered Robots.
+The ruins of a military base, built by the Church of Orange Dwarfoids with Long Tails in 115, destroyed in 116 during the invasion of the Empire of Feathered Robots.
+Fossils of beautiful flying creatures that went extinct in 84 due to a massive asteroid impact.
+Remnants of a culture of White Ursoids that collapsed due to a massive asteroid impact in 84.
+
+TARANIS I
+A barren planet of the Church of Feathered Robots.
+A mining base, built by the Church of Feathered Robots in 145
+Gigantic Cave Network: Thousands of kilometres of partially submerged caves riddle the crust of this planet. Very easy to get lost or hide in.
+
+CHROMA I
+A barren planet of the Church of Feathered Robots.
+A military base, built by the Church of Feathered Robots in 161
+Strata:
+The Tomb of Captain Subcomponent 550-b, buried in 115.
+
+KRANTOR II
+A life-bearing planet of the Church of Feathered Robots.
+It is somewhat polluted.
+It is populated by:
+11 billion Feathered Robots
+A orbital elevator, built by the Church of Feathered Robots in 106
+A city of spires, built by the Church of Feathered Robots in 108
+A repair bay, built by the Church of Feathered Robots in 111
+A vast museum, built by the Church of Feathered Robots in 133
+A complex of arcologies, built by the Church of Feathered Robots in 135
+Lifeforms of note:
+Radiovores: These small worm-like creatures derive their energy directly from exposed deposits of radioactive materials.
+Strata:
+A statue of Feathered Robots created by the Church of Feathered Robots in 136, hidden in 165.
+Remnants of a culture of Flying Orange Ursoids with Long Tails that collapsed from the effects of pollution in 116.
+
+GOLER II
+A barren planet of the Church of Feathered Robots.
+A military base, built by the Church of Feathered Robots in 134
+
+GENUR III
+A barren planet of the Church of Feathered Robots.
+A military base, built by the Church of Feathered Robots in 163
+Strata:
+The Tomb of Captain Node 12-Theta-23, buried in 106.
+The ruins of a mining base, built by the Church of Orange Dwarfoids with Long Tails in 103, destroyed in 106 during the collapse of the Republic of Four-Armed Black Robots.
+
+SATIVEX VI
+A barren planet of the Church of Feathered Robots.
+A military base, built by the Church of Feathered Robots in 171
+Strata:
+A hymn about the Empress of the Empire of Feathered Robots created by the Church of Feathered Robots in 192, hidden in 207.
+The ruins of a mining base, built by the Church of Orange Dwarfoids with Long Tails in 101, destroyed in 106 during the collapse of the Republic of Four-Armed Black Robots.
+
+CENUT VI
+A barren planet of the Church of Feathered Robots.
+A mining base, built by the Church of Feathered Robots in 139
+Beaufiful Aurorae: The solar wind makes bright displays of flickering green at the planet's poles.
+
+
+HISTORY:
+0:
+IN THE BEGINNING, ALL WAS DARK.
+THEN, PLANETS BEGAN TO FORM:
+Gykop I, Xarlan III, Hylus II, Mycon III, Gylow IV, Lumen I, Ayloq I, Erebus I, Freia V, Eelut I, Cykov IV, Sativex VI, Tabernak V, Mycon III, Cymos V, Bemup II, Eukip I, Taranis I, Chroma I, Krantor II, Goler II, Genur III, Sativex VI, Cenut VI
+3:
+A gigantic network of caves forms on Taranis I.
+8:
+Life arises on Hylus II
+11:
+Life arises on Eukip I
+14:
+Deep impenetrable seas form on Ayloq I.
+19:
+Life arises on Krantor II
+27:
+Gas bags evolve on Hylus II.
+34:
+Brain parasites evolve on Krantor II.
+37:
+Titanic mountains form on Cymos V.
+41:
+Ultravores evolve on Krantor II.
+44:
+Life arises on Bemup II
+46:
+Beautiful aurorae play across the skies of Cenut VI.
+49:
+Deposits of huge gems form on Freia V.
+50:
+Sentient Orange Dwarfoids with Long Tails arise on Hylus II.
+57:
+Tabernak V has become a poison world.
+59:
+Sentient Flying Orange Ursoids with Long Tails arise on Krantor II.
+61:
+Beautiful flying creatures evolve on Eukip I.
+64:
+Sentient Two-Headed Humanoids arise on Bemup II.
+68:
+Sentient Four-Armed Humanoids with Giant Eyes arise on Krantor II.
+74:
+The Orange Dwarfoids with Long Tails on Hylus II achieve spaceflight and organise as a Military Dictatorship, the Empire of Orange Dwarfoids with Long Tails.
+
+Civ Name: Empire of Orange Dwarfoids with Long Tails 
+Civ Birth Year: 74 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | -1 | 0 | -2 | -2 | 
+Resources 2 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Sentient White Ursoids arise on Eukip I.
+75:
+WE ENTER THE FIRST AGE OF CIVILISATION
+The Empire of Orange Dwarfoids with Long Tails explore Freia V. 
+76:
+The Two-Headed Humanoids on Bemup II mutate into Slim Humanoids.
+77:
+Radiovores evolve on Krantor II.
+78:
+The Empire of Orange Dwarfoids with Long Tails create Four-Armed Black Robots as servants on Hylus II.
+80:
+The Empire of Orange Dwarfoids with Long Tails explore Erebus I. 
+Deep impenetrable seas form on Erebus I.
+82:
+The population of Orange Dwarfoids with Long Tails on Hylus II has grown by a billion.
+Overcrowding on Hylus II leads to increased pollution.
+The Empire of Orange Dwarfoids with Long Tails explore Sativex VI. 
+83:
+Overcrowding on Hylus II leads to increased pollution.
+84:
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+Overcrowding on Hylus II leads to increased pollution.
+The Empire of Orange Dwarfoids with Long Tails build a mining base on Ayloq I.
+All life on Eukip I is killed off by a massive asteroid impact!
+85:
+Pollution kills a billion Orange Dwarfoids with Long Tails on Hylus II.
+86:
+Overcrowding on Hylus II leads to increased pollution.
+87:
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+The Empire of Orange Dwarfoids with Long Tails explore Sativex VI. 
+Captain Gnolin McUrist, space adventurer, blasts off from Hylus II.
+An expedition led by Captain Gnolin McUrist explores Bemup II. They trade with the local Slim Humanoids. 
+An expedition led by Captain Gnolin McUrist explores Bemup II. They trade with the local Slim Humanoids. 
+88:
+An expedition led by Captain Gnolin McUrist explores Taranis I. 
+An expedition led by Captain Gnolin McUrist explores Taranis I. 
+89:
+Overcrowding on Hylus II leads to increased pollution.
+Captain Grolin Thundersson, space adventurer, blasts off from Ayloq I.
+An expedition led by Captain Gnolin McUrist explores Cymos V. 
+An expedition led by Captain Grolin Thundersson explores Cenut VI. 
+An expedition led by Captain Gnolin McUrist explores Eelut I. 
+An expedition led by Captain Grolin Thundersson explores Genur III. 
+90:
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+Overcrowding on Hylus II leads to increased pollution.
+An expedition led by Captain Gnolin McUrist explores Bemup II. They trade with the local Slim Humanoids. 
+An expedition led by Captain Gnolin McUrist explores Goler II. 
+An expedition led by Captain Grolin Thundersson explores Genur III. 
+91:
+Pollution kills a billion Orange Dwarfoids with Long Tails on Hylus II.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+An expedition led by Captain Gnolin McUrist explores Cykov IV. 
+An expedition led by Captain Grolin Thundersson explores Krantor II. They encounter the local brain parasites and exterminate them. They encounter the local ultravores and exterminate them. They trade with the local Four-Armed Humanoids with Giant Eyes. 
+An expedition led by Captain Gnolin McUrist explores Krantor II. They trade with the local Four-Armed Humanoids with Giant Eyes. 
+An expedition led by Captain Grolin Thundersson explores Eukip I. 
+Sentient Two-Headed Antoids arise on Bemup II.
+92:
+The population of Two-Headed Antoids on Bemup II has grown by a billion.
+The Empire of Orange Dwarfoids with Long Tails build a mining base on Xarlan III.
+The Empire of Orange Dwarfoids with Long Tails develop a Living Weapon.
+
+ Science Golden Age Revival!Empire of Orange Dwarfoids with Long Tails previous decrepitude: 24 revival amount: 19
+
+Civ Name: Empire of Orange Dwarfoids with Long Tails 
+Civ Birth Year: 74 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | -1 | 0 | -2 | -2 | 
+Resources 1 Science 11 Military 6 WeapLevel 0 TechLevel 1 Decrepitude 24
+The Empire of Orange Dwarfoids with Long Tails enters a golden age of science! The Empire of Orange Dwarfoids with Long Tails build a science lab on Cykov IV.
+An expedition led by Captain Gnolin McUrist explores Mycon III. 
+An expedition led by Captain Grolin Thundersson explores Mycon III. 
+An expedition led by Captain Gnolin McUrist explores Cenut VI. 
+An expedition led by Captain Grolin Thundersson explores Sativex VI. 
+93:
+The Empire of Orange Dwarfoids with Long Tails explore Ayloq I. 
+An expedition led by Captain Gnolin McUrist explores Erebus I. 
+An expedition led by Captain Gnolin McUrist explores Lumen I. 
+An expedition led by Captain Grolin Thundersson explores Goler II. 
+94:
+Overcrowding on Hylus II leads to increased pollution.
+The Empire of Orange Dwarfoids with Long Tails explore Taranis I. 
+An expedition led by Captain Gnolin McUrist explores Chroma I. 
+An expedition led by Captain Grolin Thundersson explores Gylow IV. 
+An expedition led by Captain Grolin Thundersson explores Goler II. 
+95:
+The Empire of Orange Dwarfoids with Long Tails explore Taranis I. 
+The Empire of Orange Dwarfoids with Long Tails build a military base on Erebus I.
+The Empire of Orange Dwarfoids with Long Tails terraform and colonise Gykop I.
+An expedition led by Captain Gnolin McUrist explores Chroma I. 
+An expedition led by Captain Gnolin McUrist explores Eukip I. 
+An expedition led by Captain Grolin Thundersson explores Chroma I. 
+96:
+The Empire of Orange Dwarfoids with Long Tails build a mining base on Mycon III.
+The Empire of Orange Dwarfoids with Long Tails explore Cykov IV. 
+The space adventurer Captain Gnolin McUrist dies and is buried on Ayloq I.
+An expedition led by Captain Grolin Thundersson explores Lumen I. 
+An expedition led by Captain Grolin Thundersson explores Eukip I. 
+97:
+The population of Orange Dwarfoids with Long Tails on Gykop I has grown by a billion.
+The Empire of Orange Dwarfoids with Long Tails build a military base on Lumen I.
+Religious fanatics sieze power in the Empire of Orange Dwarfoids with Long Tails and declare the Church of Orange Dwarfoids with Long Tails.
+An expedition led by Captain Grolin Thundersson explores Eelut I. 
+An expedition led by Captain Grolin Thundersson explores Goler II. 
+Life arises on Eukip I
+98:
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Two-Headed Antoids on Bemup II has grown by a billion.
+Overcrowding on Hylus II leads to increased pollution.
+An expedition led by Captain Grolin Thundersson explores Mycon III. 
+The space adventurer Captain Grolin Thundersson dies and is buried on Cenut VI.
+99:
+Overcrowding on Hylus II leads to increased pollution.
+The Church of Orange Dwarfoids with Long Tails accidentally create the rogue AI System 424 on Cykov IV.
+The rogue AI System 424 creates Feathered Robots on Krantor II.
+All life on Eukip I is killed off by a massive asteroid impact!
+100:
+The population of Orange Dwarfoids with Long Tails on Gykop I has grown by a billion.
+Pollution kills a billion Orange Dwarfoids with Long Tails on Hylus II.
+Orange Dwarfoids with Long Tails have died out on Hylus II!
+The population of Two-Headed Antoids on Bemup II has grown by a billion.
+Overcrowding on Hylus II leads to increased pollution.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Cenut VI.
+The Feathered Robots on Krantor II achieve spaceflight and organise as a Military Dictatorship, the Empire of Feathered Robots.
+
+Civ Name: Empire of Feathered Robots 
+Civ Birth Year: 100 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 1 | 2 | -1 | 
+Resources 1 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+101:
+The population of Two-Headed Antoids on Bemup II has grown by a billion.
+Overcrowding on Hylus II leads to increased pollution.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Sativex VI.
+Overcrowding on Krantor II leads to increased pollution.
+102:
+The population of Orange Dwarfoids with Long Tails on Gykop I has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Eukip I.
+
+Civ Name: Church of Orange Dwarfoids with Long Tails 
+Civ Birth Year: 74 
+Civ Stats Str|Dex|Con|Int|Cha
+          -2 | -1 | 0 | -2 | -2 | 
+Resources 3 Science 26 Military 16 WeapLevel 0 TechLevel 1 Decrepitude 37
+The Republic of Four-Armed Black Robots secedes from the Church of Orange Dwarfoids with Long Tails, leading to a civil war!
+The Church of Orange Dwarfoids with Long Tails conquer Xarlan III, a colony of the Republic of Four-Armed Black Robots.
+Overcrowding on Krantor II leads to increased pollution.
+103:
+The population of Two-Headed Antoids on Bemup II has grown by a billion.
+The population of Flying Orange Ursoids with Long Tails on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Genur III.
+The Church of Orange Dwarfoids with Long Tails create Six-Legged Robots as servants on Gykop I.
+A famine breaks out on Gykop I, killing 2 billion.
+The Church of Orange Dwarfoids with Long Tails conquer Ayloq I, a colony of the Republic of Four-Armed Black Robots.
+Overcrowding on Krantor II leads to increased pollution.
+The Republic of Four-Armed Black Robots conquer Cykov IV, a colony of the Church of Orange Dwarfoids with Long Tails.
+104:
+The population of Flying Orange Ursoids with Long Tails on Krantor II has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids with Giant Eyes on Krantor II.
+Pollution kills a billion Feathered Robots on Krantor II.
+The Church of Orange Dwarfoids with Long Tails explore Cenut VI. 
+The Church of Orange Dwarfoids with Long Tails explore Ayloq I. 
+Degeneration occured in:  Church of Orange Dwarfoids with Long Tailscausing all stats to drop by 1
+The Church of Orange Dwarfoids with Long Tails conquer Cykov IV, a colony of the Republic of Four-Armed Black Robots.
+Overcrowding on Krantor II leads to increased pollution.
+
+ Industrial Golden Age Revival!Empire of Feathered Robots previous decrepitude: 0 revival amount: 7
+
+Civ Name: Empire of Feathered Robots 
+Civ Birth Year: 100 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 1 | 2 | -1 | 
+Resources 0 Science 4 Military 5 WeapLevel 0 TechLevel 1 Decrepitude 0
+The Empire of Feathered Robots enters a golden age of industry! The Empire of Feathered Robots build a mining base on Sativex VI. The Empire of Feathered Robots build a mining base on Freia V.
+The Republic of Four-Armed Black Robots build a mining base on Goler II.
+Captain Node 12-Theta-23, space adventurer, blasts off from Eukip I.
+The Republic of Four-Armed Black Robots conquer Xarlan III, a colony of the Church of Orange Dwarfoids with Long Tails.
+An expedition led by Captain Node 12-Theta-23 explores Chroma I. 
+Captain Node 12-Theta-23 is sent on a mission to stop the rogue AI System 424 at Krantor II.
+Captain Node 12-Theta-23 is attacked by the rogue AI System 424 and has to retreat, losing 1 ships.
+105:
+The population of Flying Orange Ursoids with Long Tails on Krantor II has grown by a billion.
+The population of Four-Armed Humanoids with Giant Eyes on Krantor II has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a vast underground vault on Gykop I.
+The Church of Orange Dwarfoids with Long Tails attack and raze Xarlan III, a colony of the Republic of Four-Armed Black Robots.
+Overcrowding on Krantor II leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+The Republic of Four-Armed Black Robots conquer Genur III, a colony of the Church of Orange Dwarfoids with Long Tails.
+Captain Node 12-Theta-23 is sent on a mission to stop the rogue AI System 424 at Krantor II.
+Captain Node 12-Theta-23 manages to confuse the rogue AI System 424 with a clever logic puzzle, distracting it long enough to shut it down.
+106:
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+Pollution kills a billion Flying Orange Ursoids with Long Tails on Krantor II.
+Pollution kills a billion Four-Armed Humanoids with Giant Eyes on Krantor II.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Eelut I.
+The Church of Orange Dwarfoids with Long Tails conquer Hylus II, a colony of the Republic of Four-Armed Black Robots, killing 1 billion in the process.
+The Church of Orange Dwarfoids with Long Tails gain control of the Living Weapon on Hylus II.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a orbital elevator on Krantor II.
+The Empire of Feathered Robots attempting to upgrade their stats of value :1 current score is: 0
+The difficulty is: 24 They rolled: 11on: 4d3+1
+TechLevel: 2 Science: 1
+Captain Subcomponent 550-b, space adventurer, blasts off from Krantor II.
+The Republic of Four-Armed Black Robots collapses.
+The space adventurer Captain Node 12-Theta-23 dies and is buried on Genur III.
+An expedition led by Captain Subcomponent 550-b explores Cymos V. 
+An expedition led by Captain Subcomponent 550-b explores Bemup II. They trade with the local Slim Humanoids. 
+The wind plays across rock formations on Hylus II, producing an eerie music.
+107:
+Pollution kills a billion Flying Orange Ursoids with Long Tails on Krantor II.
+Overcrowding on Krantor II leads to increased pollution.
+An expedition led by Captain Subcomponent 550-b explores Hylus II. They trade with the local Four-Armed Black Robots. They discover: Remnants of a culture of Orange Dwarfoids with Long Tails that collapsed from the effects of pollution in 100. 
+An expedition led by Captain Subcomponent 550-b explores Mycon III. 
+108:
+The population of Flying Orange Ursoids with Long Tails on Krantor II has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails explore Cymos V. 
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a city of spires on Krantor II.
+An expedition led by Captain Subcomponent 550-b explores Eukip I. 
+An expedition led by Captain Subcomponent 550-b explores Tabernak V. 
+109:
+Pollution kills a billion Six-Legged Robots on Gykop I.
+The population of Flying Orange Ursoids with Long Tails on Krantor II has grown by a billion.
+Pollution kills a billion Four-Armed Humanoids with Giant Eyes on Krantor II.
+Four-Armed Humanoids with Giant Eyes have died out on Krantor II!
+The Church of Orange Dwarfoids with Long Tails build a great hall on Hylus II.
+The Living Weapon created by the Church of Orange Dwarfoids with Long Tails in 92 on Hylus II has been stolen and hidden on Krantor II.
+Overcrowding on Krantor II leads to increased pollution.
+An expedition led by Captain Subcomponent 550-b explores Eukip I. They discover: Remnants of a culture of White Ursoids that collapsed due to a massive asteroid impact in 84. 
+An expedition led by Captain Subcomponent 550-b explores Sativex VI. 
+110:
+The population of Two-Headed Antoids on Bemup II has grown by a billion.
+Pollution kills a billion Flying Orange Ursoids with Long Tails on Krantor II.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Goler II.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Taranis I.
+Overcrowding on Krantor II leads to increased pollution.
+An expedition led by Captain Subcomponent 550-b explores Cymos V. 
+An expedition led by Captain Subcomponent 550-b explores Goler II. 
+111:
+Pollution kills a billion Flying Orange Ursoids with Long Tails on Krantor II.
+Pollution kills a billion Feathered Robots on Krantor II.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Genur III.
+The Church of Orange Dwarfoids with Long Tails build a military base on Chroma I.
+
+Civ Name: Republic of Six-Legged Robots 
+Civ Birth Year: 111 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -2 | 1 | 1 | 2 | 
+Resources 0 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Gykop I revolt, killing their oppressors and declaring the Free Republic of Six-Legged Robots.
+The Church of Orange Dwarfoids with Long Tails attack Gykop I, a colony of the Republic of Six-Legged Robots, and subject it to orbital bombardment, killing 2 billion.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a repair bay on Krantor II.
+An expedition led by Captain Subcomponent 550-b explores Chroma I. 
+112:
+Pollution kills a billion Flying Orange Ursoids with Long Tails on Krantor II.
+The Church of Orange Dwarfoids with Long Tails attack and raze Gykop I, a colony of the Republic of Six-Legged Robots.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots explore Krantor II. They recover: A Living Weapon created by the Church of Orange Dwarfoids with Long Tails in 92, hidden in 109. 
+The Republic of Six-Legged Robots collapses.
+An expedition led by Captain Subcomponent 550-b explores Taranis I. 
+An expedition led by Captain Subcomponent 550-b explores Chroma I. 
+113:
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+The population of Flying Orange Ursoids with Long Tails on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Xarlan III.
+The Church of Orange Dwarfoids with Long Tails colonise Gykop I. 
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots develop powerful new weapons.
+An expedition led by Captain Subcomponent 550-b explores Cykov IV. 
+114:
+Pollution kills a billion Flying Orange Ursoids with Long Tails on Krantor II.
+The population of Feathered Robots on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails colonise Bemup II. Of the natives of that planet, the 2 billion Slim Humanoids are enslaved, and the 8 billion Two-Headed Antoids are exterminated. 
+Overcrowding on Krantor II leads to increased pollution.
+An expedition led by Captain Subcomponent 550-b explores Mycon III. 
+An expedition led by Captain Subcomponent 550-b explores Eukip I. 
+115:
+Pollution kills a billion Orange Dwarfoids with Long Tails on Bemup II.
+Orange Dwarfoids with Long Tails have died out on Bemup II!
+Pollution kills a billion Flying Orange Ursoids with Long Tails on Krantor II.
+Pollution kills a billion Feathered Robots on Krantor II.
+The Church of Orange Dwarfoids with Long Tails send a delegation to Krantor II. They declare war on the Empire of Feathered Robots! 
+The Church of Orange Dwarfoids with Long Tails build a military base on Eukip I.
+The Church of Orange Dwarfoids with Long Tails attack and raze Freia V, a colony of the Empire of Feathered Robots.
+The Empire of Feathered Robots explore Krantor II. They discover: Remnants of a culture of Four-Armed Humanoids with Giant Eyes that collapsed from the effects of pollution in 109. 
+The Empire of Feathered Robots conquer Goler II, a colony of the Church of Orange Dwarfoids with Long Tails.
+An expedition led by Captain Subcomponent 550-b explores Cymos V. 
+The space adventurer Captain Subcomponent 550-b dies and is buried on Chroma I.
+116:
+Pollution kills a billion Flying Orange Ursoids with Long Tails on Krantor II.
+Flying Orange Ursoids with Long Tails have died out on Krantor II!
+The Church of Orange Dwarfoids with Long Tails explore Lumen I. 
+The Church of Orange Dwarfoids with Long Tails attack and raze Sativex VI, a colony of the Empire of Feathered Robots.
+The Empire of Feathered Robots explore Krantor II. 
+The Empire of Feathered Robots conquer Eukip I, a colony of the Church of Orange Dwarfoids with Long Tails.
+117:
+The Church of Orange Dwarfoids with Long Tails build a mining base on Tabernak V.
+The Church of Orange Dwarfoids with Long Tails build a military base on Sativex VI.
+The Church of Orange Dwarfoids with Long Tails conquer Eukip I, a colony of the Empire of Feathered Robots.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a mining base on Freia V.
+The Empire of Feathered Robots attack and raze Erebus I, a colony of the Church of Orange Dwarfoids with Long Tails.
+118:
+The population of Feathered Robots on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Cymos V.
+The Church of Orange Dwarfoids with Long Tails attack and raze Freia V, a colony of the Empire of Feathered Robots.
+The Empire of Feathered Robots conquer Gykop I, a colony of the Church of Orange Dwarfoids with Long Tails.
+Shape-shifters evolve on Hylus II.
+119:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a great hall on Bemup II.
+A famine breaks out on Bemup II, killing 1 billion.
+The Church of Orange Dwarfoids with Long Tails conquer Gykop I, a colony of the Empire of Feathered Robots.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a mining base on Erebus I.
+The Empire of Feathered Robots conquer Lumen I, a colony of the Church of Orange Dwarfoids with Long Tails.
+120:
+The Church of Orange Dwarfoids with Long Tails build a mining base on Mycon III.
+The Church of Orange Dwarfoids with Long Tails conquer Erebus I, a colony of the Empire of Feathered Robots.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots send a delegation to Tabernak V. They sign a peace accord with the Church of Orange Dwarfoids with Long Tails, ending their war. 
+The Empire of Feathered Robots terraform and colonise Freia V.
+
+ Science Golden Age Revival!Empire of Feathered Robots previous decrepitude: 3 revival amount: 62
+
+Civ Name: Empire of Feathered Robots 
+Civ Birth Year: 100 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 1 | 2 | -1 | 
+Resources 4 Science 12 Military 11 WeapLevel 1 TechLevel 2 Decrepitude 3
+The Empire of Feathered Robots enters a golden age of science! The Empire of Feathered Robots build a science lab on Eukip I.
+121:
+The population of Feathered Robots on Freia V has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Erebus I.
+The Church of Orange Dwarfoids with Long Tails build a military base on Cykov IV.
+
+ Industrial Golden Age Revival!Church of Orange Dwarfoids with Long Tails previous decrepitude: 108 revival amount: 41
+
+Civ Name: Church of Orange Dwarfoids with Long Tails 
+Civ Birth Year: 74 
+Civ Stats Str|Dex|Con|Int|Cha
+          -3 | -2 | -1 | -3 | -3 | 
+Resources 39 Science 22 Military 5 WeapLevel 0 TechLevel 1 Decrepitude 108
+The Church of Orange Dwarfoids with Long Tails enters a golden age of industry! The Church of Orange Dwarfoids with Long Tails build a mining base on Sativex VI. The Church of Orange Dwarfoids with Long Tails build a mining base on Gylow IV.
+The Empire of Feathered Robots build a mining base on Goler II.
+122:
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Krantor II leads to increased pollution.
+123:
+The population of Feathered Robots on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a vast underground vault on Gykop I.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a complex of arcologies on Freia V.
+124:
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Krantor II leads to increased pollution.
+125:
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+An industrial accident on Hylus II causes deadly levels of pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a city of spires on Freia V.
+The Empire of Feathered Robots experiences a population boom! 
+126:
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+Four-Armed Black Robots have died out on Hylus II!
+The population of Feathered Robots on Freia V has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a military base on Hylus II.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+
+ Industrial Golden Age Revival!Empire of Feathered Robots previous decrepitude: 3 revival amount: 52
+
+Civ Name: Empire of Feathered Robots 
+Civ Birth Year: 100 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 1 | 2 | -1 | 
+Resources 16 Science 16 Military 11 WeapLevel 1 TechLevel 2 Decrepitude 3
+The Empire of Feathered Robots enters a golden age of industry!  
+127:
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails explore Erebus I. 
+The Church of Orange Dwarfoids with Long Tails build a city of spires on Bemup II.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots explore Lumen I. 
+Pollution on Hylus II abates.
+128:
+The Church of Orange Dwarfoids with Long Tails explore Hylus II. Shape-shifters impersonate the crew of the expedition. Upon their return to Hylus II they merge into the population.
+A market crash impoverishes the Church of Orange Dwarfoids with Long Tails.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots send a delegation to Xarlan III. They declare war on the Church of Orange Dwarfoids with Long Tails! 
+The Empire of Feathered Robots attack and raze Ayloq I, a colony of the Church of Orange Dwarfoids with Long Tails.
+129:
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+The Empire of Feathered Robots repel the Church of Orange Dwarfoids with Long Tails at Lumen I.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots conquer Eelut I, a colony of the Church of Orange Dwarfoids with Long Tails.
+130:
+Pollution kills a billion Feathered Robots on Krantor II.
+The Church of Orange Dwarfoids with Long Tails build a great hall on Gykop I.
+The Church of Orange Dwarfoids with Long Tails colonise Hylus II. 
+The Church of Orange Dwarfoids with Long Tails attack and raze Eukip I, a colony of the Empire of Feathered Robots.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a repair bay on Freia V.
+The Empire of Feathered Robots conquer Erebus I, a colony of the Church of Orange Dwarfoids with Long Tails.
+Life arises on Eukip I
+131:
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+Four-Armed Black Robots have died out on Hylus II!
+Pollution kills a billion Feathered Robots on Krantor II.
+The Church of Orange Dwarfoids with Long Tails build a mining base on Eukip I.
+A market crash impoverishes the Church of Orange Dwarfoids with Long Tails.
+The Church of Orange Dwarfoids with Long Tails attack and raze Erebus I, a colony of the Empire of Feathered Robots.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots conquer Bemup II, a colony of the Church of Orange Dwarfoids with Long Tails.
+132:
+The Church of Orange Dwarfoids with Long Tails build a complex of arcologies on Gykop I.
+The Church of Orange Dwarfoids with Long Tails build a military base on Erebus I.
+The Church of Orange Dwarfoids with Long Tails conquer Goler II, a colony of the Empire of Feathered Robots.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots conquer Tabernak V, a colony of the Church of Orange Dwarfoids with Long Tails.
+133:
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a military base on Ayloq I.
+The Church of Orange Dwarfoids with Long Tails attack and raze Bemup II, a colony of the Empire of Feathered Robots.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a vast museum on Krantor II.
+The Empire of Feathered Robots attack and raze Goler II, a colony of the Church of Orange Dwarfoids with Long Tails.
+134:
+The population of Feathered Robots on Freia V has grown by a billion.
+The Empire of Feathered Robots repel the Church of Orange Dwarfoids with Long Tails at Lumen I.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Goler II.
+The Empire of Feathered Robots experiences a population boom! 
+The Empire of Feathered Robots attack and raze Eukip I, a colony of the Church of Orange Dwarfoids with Long Tails.
+135:
+The population of Feathered Robots on Freia V has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails build a vast museum on Gykop I.
+The Empire of Feathered Robots repel the Church of Orange Dwarfoids with Long Tails at Freia V.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a complex of arcologies on Krantor II.
+The Empire of Feathered Robots conquer Cenut VI, a colony of the Church of Orange Dwarfoids with Long Tails.
+136:
+Pollution kills a billion Feathered Robots on Freia V.
+The Church of Orange Dwarfoids with Long Tails build a military base on Eukip I.
+The Church of Orange Dwarfoids with Long Tails attack and raze Cenut VI, a colony of the Empire of Feathered Robots.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Bemup II.
+
+ Art Golden Age Revival!Empire of Feathered Robots previous decrepitude: 18 revival amount: 29
+
+Civ Name: Empire of Feathered Robots 
+Civ Birth Year: 100 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 1 | 2 | -1 | 
+Resources 14 Science 12 Military 21 WeapLevel 1 TechLevel 3 Decrepitude 18
+Artists on Krantor II create a statue of Feathered Robots. 
+The Empire of Feathered Robots conquer Gykop I, a colony of the Church of Orange Dwarfoids with Long Tails.
+137:
+The population of Feathered Robots on Krantor II has grown by a billion.
+The Church of Orange Dwarfoids with Long Tails collapses.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a grand palace on Gykop I.
+138:
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a repair bay on Freia V.
+139:
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a mining base on Cenut VI.
+The Empire of Feathered Robots experiences a population boom! 
+140:
+Pollution kills a billion Feathered Robots on Freia V.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a mining base on Ayloq I.
+141:
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Gylow IV.
+142:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+143:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a vast museum on Freia V.
+The Empire of Feathered Robots explore Sativex VI. They discover: The ruins of a mining base, built by the Church of Orange Dwarfoids with Long Tails in 121, destroyed in 137 during the collapse of the Church of Orange Dwarfoids with Long Tails. 
+144:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+145:
+A giant spaceborne orange cube appears from the depths of space and menaces the skies of Eelut I.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a mining base on Taranis I.
+146:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Xarlan III.
+147:
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a mining base on Sativex VI.
+The Empire of Feathered Robots colonise Hylus II. 
+148:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a vast underground vault on Hylus II.
+The Empire of Feathered Robots build a mining base on Eukip I.
+149:
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a repair bay on Hylus II.
+150:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a grand palace on Hylus II.
+151:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a orbital elevator on Hylus II.
+The Empire of Feathered Robots experiences a population boom! 
+152:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+153:
+Pollution kills a billion Feathered Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Cykov IV.
+154:
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots colonise Bemup II. 
+155:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots explore Lumen I. 
+156:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+Sativex VI becomes tidally locked to its star.
+157:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+158:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+159:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+160:
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+161:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Chroma I.
+162:
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Mycon III.
+Sentient Flying Dwarfoids arise on Eukip I.
+163:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Genur III.
+164:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a mining base on Cymos V.
+
+Civ Name: Republic of Flying Dwarfoids 
+Civ Birth Year: 164 
+Civ Stats Str|Dex|Con|Int|Cha
+          -1 | -4 | -2 | 3 | -2 | 
+Resources 5 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Eukip I revolt, killing their oppressors and declaring the Free Republic of Flying Dwarfoids.
+The Empire of Feathered Robots conquer Eukip I, a colony of the Republic of Flying Dwarfoids.
+165:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The statue of Feathered Robots created by the Empire of Feathered Robots in 136 on Krantor II has been stolen and hidden on Krantor II.
+The Republic of Flying Dwarfoids collapses.
+166:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a orbital elevator on Freia V.
+167:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+168:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a mining base on Mycon III.
+169:
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a city of spires on Hylus II.
+170:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Feathered Robots on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+171:
+Pollution kills a billion Feathered Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a mining base on Erebus I.
+The Empire of Feathered Robots build a military base on Sativex VI.
+172:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+Vast empty plains form on Gylow IV.
+173:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+174:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Hylus II.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+175:
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Hylus II.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+The population of Feathered Robots on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+176:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+177:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+178:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+Pollution on Hylus II abates.
+179:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+Pollution kills a billion Feathered Robots on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+180:
+Pollution kills a billion Feathered Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+181:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+182:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+183:
+Pollution kills a billion Flying Dwarfoids on Gykop I.
+Flying Dwarfoids have died out on Gykop I!
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+184:
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+Deep impenetrable seas form on Mycon III.
+185:
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+186:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Gykop I.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+187:
+The population of Four-Armed Black Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots launch a space probe called P'neer to explore the galaxy.
+188:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+189:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+190:
+Pollution kills a billion Four-Armed Black Robots on Gykop I.
+Four-Armed Black Robots have died out on Gykop I!
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The giant spaceborne orange cube leaves the orbit of Eelut I and heads back into deep space.
+191:
+Pollution kills a billion Flying Dwarfoids on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+A giant spaceborne white worm appears from the depths of space and menaces the skies of Sativex VI.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+192:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+Pollution kills a billion Feathered Robots on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+
+ Art Golden Age Revival!Empire of Feathered Robots previous decrepitude: 236 revival amount: 1080
+
+Civ Name: Empire of Feathered Robots 
+Civ Birth Year: 100 
+Civ Stats Str|Dex|Con|Int|Cha
+          0 | 0 | 1 | 2 | -1 | 
+Resources 527 Science 14 Military 83 WeapLevel 1 TechLevel 4 Decrepitude 236
+Artists on Gykop I create a hymn about the Empress of the Empire of Feathered Robots. 
+193:
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+194:
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+195:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Hylus II.
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+196:
+Pollution kills a billion Feathered Robots on Gykop I.
+Pollution kills a billion Flying Dwarfoids on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots enters a dark age. Decrepitude set to 0,  was 138
+197:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Feathered Robots on Freia V has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+198:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The space probe P'neer returns to Gykop I.
+The Empire of Feathered Robots gains a wealth of new knowledge as a result.
+199:
+Pollution kills a billion Feathered Robots on Hylus II.
+Pollution kills a billion Feathered Robots on Freia V.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+200:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Freia V has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+201:
+Pollution kills a billion Flying Dwarfoids on Gykop I.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+202:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots explore Taranis I. 
+203:
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The giant spaceborne white worm leaves the orbit of Sativex VI and heads back into deep space.
+Pollution on Eukip I abates.
+204:
+Pollution kills a billion Flying Dwarfoids on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Feathered Robots on Eukip I.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+Pollution on Krantor II abates.
+205:
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Freia V.
+Pollution kills a billion Four-Armed Black Robots on Freia V.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Eukip I.
+Flying Dwarfoids have died out on Eukip I!
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots enters a dark age. Decrepitude set to 0,  was 188
+206:
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Freia V has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Freia V leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+A shift in the orbital axis of Freia V spells doom for all life on the planet!
+207:
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Feathered Robots on Eukip I.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots explore Lumen I. 
+The hymn about the Empress of the Empire of Feathered Robots created by the Empire of Feathered Robots in 192 on Gykop I has been stolen and hidden on Sativex VI.
+208:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots explore Lumen I. 
+209:
+Pollution kills a billion Feathered Robots on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+210:
+Pollution kills a billion Feathered Robots on Hylus II.
+The population of Four-Armed Black Robots on Hylus II has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Freia V.
+211:
+The population of Feathered Robots on Hylus II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+212:
+Pollution kills a billion Feathered Robots on Gykop I.
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+A famine breaks out on Gykop I, killing 1 billion.
+213:
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+
+Civ Name: Second Republic of Four-Armed Black Robots 
+Civ Birth Year: 213 
+Civ Stats Str|Dex|Con|Int|Cha
+          1 | -2 | -1 | 2 | 1 | 
+Resources 34 Science 0 Military 0 WeapLevel 0 TechLevel 1 Decrepitude 0
+Slaves on Hylus II revolt, killing their oppressors and declaring the Free Second Republic of Four-Armed Black Robots.
+The Empire of Feathered Robots attack Hylus II, a colony of the Second Republic of Four-Armed Black Robots, and subject it to orbital bombardment, killing 7 billion.
+214:
+Pollution kills a billion Four-Armed Black Robots on Hylus II.
+Four-Armed Black Robots have died out on Hylus II!
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Bemup II.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots attack and raze Hylus II, a colony of the Second Republic of Four-Armed Black Robots.
+The Second Republic of Four-Armed Black Robots collapses.
+Vast empty plains form on Xarlan III.
+215:
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots build a military base on Hylus II.
+216:
+Pollution kills a billion Feathered Robots on Bemup II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+217:
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots explore Cymos V. 
+218:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+An industrial accident on Krantor II causes deadly levels of pollution.
+219:
+The population of Feathered Robots on Bemup II has grown by a billion.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Bemup II.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+220:
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+221:
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+222:
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Bemup II.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+223:
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Pollution kills a billion Feathered Robots on Krantor II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Empire of Feathered Robots colonise Hylus II. 
+224:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+225:
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+226:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Bemup II.
+The population of Feathered Robots on Eukip I has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+Religious fanatics sieze power in the Empire of Feathered Robots and declare the Church of Feathered Robots.
+227:
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Gykop I.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Bemup II.
+Pollution kills a billion Feathered Robots on Eukip I.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+Vast canyons are carved on Bemup II.
+228:
+The population of Feathered Robots on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Bemup II.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+229:
+The population of Feathered Robots on Gykop I has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Gykop I.
+Pollution kills a billion Feathered Robots on Hylus II.
+Pollution kills a billion Feathered Robots on Bemup II.
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The Church of Feathered Robots explore Chroma I. 
+230:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Feathered Robots on Eukip I has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+The pirate Green Node establishes herself on Bemup II.
+The Church of Feathered Robots defeats the pirate Green Node.
+231:
+Pollution kills a billion Feathered Robots on Gykop I.
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+The population of Feathered Robots on Hylus II has grown by a billion.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+Pollution kills a billion Flying Dwarfoids on Bemup II.
+Pollution kills a billion Feathered Robots on Eukip I.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+An industrial accident on Eukip I causes deadly levels of pollution.
+232:
+Pollution kills a billion Flying Dwarfoids on Gykop I.
+Pollution kills a billion Feathered Robots on Bemup II.
+The population of Four-Armed Black Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+233:
+The population of Flying Dwarfoids on Gykop I has grown by a billion.
+The population of Feathered Robots on Bemup II has grown by a billion.
+The population of Flying Dwarfoids on Bemup II has grown by a billion.
+Pollution kills a billion Feathered Robots on Eukip I.
+The population of Feathered Robots on Krantor II has grown by a billion.
+Overcrowding on Gykop I leads to increased pollution.
+Overcrowding on Hylus II leads to increased pollution.
+Overcrowding on Bemup II leads to increased pollution.
+Overcrowding on Eukip I leads to increased pollution.
+Overcrowding on Krantor II leads to increased pollution.
+234:
+Pollution kills a billion Four-Armed Black Robots on Bemup II.
+Pollution kills a billion Flying Dwarfoids on Bemup II.
+Pollution kills a billion Feathered Robots on Eukip I.
