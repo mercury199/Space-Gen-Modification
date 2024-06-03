@@ -132,7 +132,7 @@ public class Science {
 
 				if (actor.getTechLevel() >= 14
 						&& (32 <= SpaceGen.d(2, 10) + actor.getIntelligence() + actor.getTechLevel())) {
-					sg.l("The highly advanced technology of the $name allows them to transcend the bounds of this universe. They vanish instantly.");
+					sg.l("The highly advanced technology of the" +actor.name+" allows them to transcend the bounds of this universe. They vanish instantly.");
 					for (Planet col : new ArrayList<Planet>(actor.getColonies())) {
 						col.transcend(sg.year);
 					}
@@ -229,7 +229,7 @@ public class Science {
 					actor.setTechLevel(actor.getTechLevel() + 1);
 					if (actor.getTechLevel() >= 14
 							&& (32 <= SpaceGen.d(2, 10) + actor.getIntelligence() + actor.getTechLevel())) {
-						sg.l("The highly advanced technology of the $name allows them to transcend the bounds of this universe. They vanish instantly.");
+						sg.l("The highly advanced technology of the " + actor.name + " allows them to transcend the bounds of this universe. They vanish instantly.");
 						for (Planet col : new ArrayList<Planet>(actor.getColonies())) {
 							col.transcend(sg.year);
 						}
